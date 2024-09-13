@@ -1,2 +1,2 @@
 # Zettelkasten
-My own personal zettel, mainly about college and shit
+My own personal zettel, mainly about college(psychology) and shit
