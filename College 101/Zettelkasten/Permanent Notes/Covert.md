@@ -5,7 +5,9 @@ Tags:
 
 
 # Covert
-Sebuah konsep internal yang secara umum tidak terlihat dan tidak bisa di observasi
+Sebuah konsep yang terjadi pada dalam diri manusia(internal) yang secara umum tidak terlihat dan tidak bisa di observasi
+
+Perilaku Covert juga seringkali mendorong Perilaku Overt namun tentu saja untuk validitas dan realibilitasnya harus diukur menggunakan instrumen-instrumen
 
 Contoh:
 - Pikiran
