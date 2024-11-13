@@ -1,4 +1,4 @@
-# Tipe-tipe Kelompok Sosial
+]# Tipe-tipe Kelompok Sosial
 ## Pertemuan Ke - 
 
 ### Nama: Rafi Mahadika Sujianto
