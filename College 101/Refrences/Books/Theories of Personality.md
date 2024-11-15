@@ -135,7 +135,7 @@ Sebaliknya, self-actualizers lebih mementingkan pemenuhan potensinya dan, dengan
 
 ###### Metaneeds
 
-![[Pasted image 20240908194019.png]]
+![[Metaneeds.png]]
 
 Self-actualizers dalam arti tertentu berarti tidak termotivasi, Maslow mengusung beberapa Metaneeds ke arah mana Self-actualizers berevolusi. Gagal untuk memuaskan Metaneeds ini tadi berbahaya dan menghasilkan Metaphology, yang akan mencegah pertumbuhan personality. Methaphology mencegah self-actualizer dari berekspresi, menggunakan, dan memenuhi potensial penuh diri mereka. Mereka akan merasa tidak berguna, depressed, dan tidak menentukan asal dari rasa ini atau mengidentifikasi sebuah goal yang dapat mengurangi rasa tersebut.
 
@@ -146,7 +146,7 @@ Self-actualizers dalam arti tertentu berarti tidak termotivasi, Maslow mengusung
 
 
 ###### Characteristics of Self-Actualizers
-![[Pasted image 20240908210445.png]]
+![[Characteristics of self-actualizing people.png]]
 
 - (*An efficient perception of reality.) Persepsi yang jelas terhadap dunia
 - (*An acceptance of themselves, others, and nature*.) Self-actualizer menerima akan kelebihan dan kekurangan diri mereka masing-masing, dan tidak mencoba untuk memutarbalikan atau memalsukan image mereka
