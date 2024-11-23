@@ -25,9 +25,9 @@ Dengan nilai Mean Residual 0,0000 maka disimpulkan akan memiliki ketepatan predi
 Hasil Q-Q Plot menunjukkan pola distribusi yang relatif normal, meskipun ada sedikit deviasi pada ekor distribusi.
 
 ![[Pasted image 20241112233539.png]]
-
-## Uji Linearitas
 Sedangkan untuk hasil Shapiro-Wilk pada residual yang distandardisasi menghasilkan nilai p sebesar 0,013, menunjukkan bahwa residual tidak sepenuhnya mengikuti distribusi normal (p < 0,05).
+## Uji Linearitas
+
 
 ![[Pasted image 20241112234716.png]]
 
