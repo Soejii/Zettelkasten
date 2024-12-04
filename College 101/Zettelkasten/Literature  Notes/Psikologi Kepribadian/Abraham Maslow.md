@@ -126,4 +126,4 @@ Maslow mengembangkan teori hierarki kebutuhan, yang menjelaskan bahwa manusia me
     - Teorinya memengaruhi berbagai bidang, termasuk pendidikan, manajemen, dan psikoterapi.
 - **Inspirasi bagi Pendekatan Holistik**
     
-    - Pandangan Maslow tentang potensi manusia menginspirasi pendekatan holistik dalam berbagai bidang, dari kesehatan mental hingga pengembangan organisasi.
+    - Pandangan Maslow tentang potensi manusia menginspirasi pendekatan holistik dalam berbagai bidang, dari kesehatan mental hingga pengembangan organisasi.!

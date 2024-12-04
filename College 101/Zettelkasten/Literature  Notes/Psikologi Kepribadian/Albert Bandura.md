@@ -1,8 +1,9 @@
 
 
 # **Bandura: Social Cognitive Theory**
+![[Albert Bandura 1.png]]
 
-### 1. **Pendekatan Umum dalam Teori Kognitif Sosial**
+### 1. Pendekatan Umum dalam Teori Kognitif Sosial
 
 - **Psikologi Sosial Kognitif**
     
@@ -14,9 +15,9 @@
 
 ---
 
-### 2. **Konsep Utama dalam Social Cognitive Theory**
+### 2. Konsep Utama dalam Social Cognitive Theory
 
-#### 1. **Observational Learning (Pembelajaran Melalui Pengamatan)**
+#### 1. Observational Learning (Pembelajaran Melalui Pengamatan)
 
 - **Definisi**
     
@@ -31,7 +32,7 @@
     
     - Individu cenderung meniru orang yang mereka anggap sebagai model. Model ini bisa berupa orang tua, teman, figur otoritas, atau bahkan karakter dalam media.
 
-#### 2. **Self-Efficacy (Efikasi Diri)**
+#### 2. Self-Efficacy (Efikasi Diri)
 
 - **Definisi**
     
@@ -48,7 +49,7 @@
         3. **Verbal Persuasion:** Dorongan atau dukungan dari orang lain.
         4. **Stimulasi Fisiologis dan Emosional:** Pengalaman fisik atau emosional yang dapat meningkatkan atau menurunkan rasa percaya diri.
 
-#### 3. **Reciprocal Determinism (Determinisme Timbal Balik)**
+#### 3. Reciprocal Determinism (Determinisme Timbal Balik)
 
 - **Definisi**
     
@@ -61,7 +62,7 @@
     
     - Seorang siswa yang percaya bahwa dia dapat berhasil dalam ujian (self-efficacy tinggi) akan belajar dengan lebih keras (perilaku), menciptakan lingkungan yang lebih mendukung prestasi akademik, yang kemudian memperkuat keyakinannya tentang kemampuan diri.
 
-#### 4. **Triadic Reciprocal Causation (Kausalitas Timbal Balik Triadik)**
+#### 4. Triadic Reciprocal Causation (Kausalitas Timbal Balik Triadik)
 
 - **Definisi**
     - Teori ini memperkenalkan tiga komponen yang saling berinteraksi: **kognisi**, **perilaku**, dan **lingkungan**. Ketiganya saling mempengaruhi dan membentuk satu sama lain.
@@ -72,9 +73,9 @@
 
 ---
 
-### 3. **Aplikasi Teori Kognitif Sosial**
+### 3. Aplikasi Teori Kognitif Sosial
 
-#### 1. **Pendidikan dan Pembelajaran**
+#### 1. Pendidikan dan Pembelajaran
 
 - **Pembelajaran Berbasis Observasi**
     
@@ -84,21 +85,21 @@
     
     - Guru atau pendidik dapat membantu siswa membangun self-efficacy mereka dengan memberikan pengalaman belajar yang sukses, dukungan verbal, dan mengurangi ketakutan terhadap kegagalan.
 
-#### 2. **Psikoterapi**
+#### 2. Psikoterapi
 
 - **Menggunakan Observational Learning untuk Perubahan Perilaku**
     - Terapi sosial kognitif memanfaatkan teknik modeling untuk membantu individu mempelajari perilaku baru dengan mengamati orang lain yang berhasil mengatasi masalah serupa.
 - **Meningkatkan Self-Efficacy Klien**
     - Dalam terapi, terapis dapat meningkatkan self-efficacy klien dengan memberi dorongan positif dan membantu mereka melihat kemampuan diri mereka untuk menghadapi tantangan atau kesulitan.
 
-#### 3. **Pengaruh Media dan Iklan**
+#### 3. Pengaruh Media dan Iklan
 
 - **Media sebagai Model**
     - Media, termasuk iklan, televisi, dan film, memainkan peran besar dalam mengajarkan perilaku melalui model yang ditampilkan. Misalnya, iklan yang menunjukkan orang sukses menggunakan produk tertentu dapat mempengaruhi pemirsa untuk membeli produk tersebut.
 
 ---
 
-### 4. **Kritik terhadap Teori Sosial Kognitif Bandura**
+### 4. Kritik terhadap Teori Sosial Kognitif Bandura
 
 - **Keterbatasan dalam Memahami Faktor Biologis**
     
@@ -112,7 +113,7 @@
 
 ---
 
-### 5. **Peninggalan dan Pengaruh Bandura**
+### 5. Peninggalan dan Pengaruh Bandura
 
 - **Pengaruh dalam Psikologi Pendidikan**
     

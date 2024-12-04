@@ -1,3 +1,4 @@
+![[Karen Horney.png]]
 ### 1. **Konsep Utama dalam Teori Sosial Psikoanalitik Horney**
 
 - **Konsep Dasar**

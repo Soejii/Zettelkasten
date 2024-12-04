@@ -2,6 +2,7 @@
 
 
 # **Erich Fromm: Humanistic Psychoanalysis**
+![[Erich Fromm.png]]
 ### 1. **Konsep Utama dalam Teori Fromm**
 
 - **Humanistic Psychoanalysis**

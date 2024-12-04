@@ -1,5 +1,6 @@
-### 1. **Konsep Utama dalam Psikologi Analitik Jung**
 
+![[Pasted image 20241203232031.png]]
+### 1. **Konsep Utama dalam Psikologi Analitik Jung**
 - **The Unconscious**
     
     - **Personal Unconscious**

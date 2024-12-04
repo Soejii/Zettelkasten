@@ -1,5 +1,6 @@
 
 # Eric Erikson
+![[Eric Erikson.png]]
 ### 1. **Konsep Utama dalam Teori Erikson**
 
 - **Perkembangan Psikososial**

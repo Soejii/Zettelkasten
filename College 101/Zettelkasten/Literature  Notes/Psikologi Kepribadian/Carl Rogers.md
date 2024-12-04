@@ -2,6 +2,7 @@
 
 
 # **Carl Rogers: Person-Centered Theory**
+![[Pasted image 20241203232119.png]]
 ### 1. **Pendekatan Carl Rogers**
 
 - **Psikologi Humanistik**

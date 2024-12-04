@@ -3,6 +3,7 @@
 
 
 # **McCrae & Costa's Five-Factor Trait Theory**
+![[McCrae & Costa.png]]
 ### 1. **Konsep Utama dalam Teori Lima Faktor**
 
 - **Model Lima Faktor (Big Five)**
