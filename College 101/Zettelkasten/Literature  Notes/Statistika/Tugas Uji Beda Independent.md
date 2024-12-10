@@ -34,3 +34,4 @@ Nilai Levene Statistic berdasarkan mean, sebesar 1.851 dengan signifikansi p(0.1
 
 ![[Pasted image 20241204114954.png]]
 Pada hasil tabel terlihat bahwa Nilai-T sebesar 0.926 dengan nilai signifikansi p (0.182) > 0.05. Maka bisa disimpulkan bahwa H0 diterima (Tidak Ada Perbedaan Nilai Tingkat Resiliensi pada Perempuan dan Laki-Laki)
+
