@@ -1,0 +1,16 @@
+Perilaku Organisasi adalah bidang yang mempelajari perilaku manusia dalam lingkungan kerja, dengan fokus pada dinamika individu dan kelompok. PO mencakup berbagai topik, termasuk motivasi, kepemimpinan, komunikasi, dan budaya organisasi (Porter et al., 1986; Greenberg, 1983; Newstrom, 1993).
+
+Perilaku Organisasi dirancang untuk memberikan kita pengetahuan teoretis dan keterampilan praktis yang penting untuk memahami dan mengelola perilaku manusia dalam organisasi. Kursus ini membahas konsep dasar seperti motivasi, kepemimpinan, dinamika tim, komunikasi, pengambilan keputusan, dan budaya organisasi. Kerangka teoretis ini memberikan kita alat yang diperlukan untuk memahami bagaimana individu dan kelompok berperilaku di berbagai lingkungan organisasi serta prinsip psikologis yang mendasari perilaku tersebut.
+
+Namun, Perilaku Organisasi tidak hanya berfokus pada teori, tetapi juga memasukkan aplikasi praktis yang membantu kita untuk menerapkan konsep-konsep ini dalam tantangan manajerial dunia nyata. Melalui studi kasus, simulasi, proyek kelompok, dan kesempatan pembelajaran berbasis pengalaman, kita didorong untuk berpikir kritis dan kreatif mengenai bagaimana mengatasi masalah kompleks dalam organisasi. Aplikasi praktis ini memungkinkan mahasiswa untuk melihat bagaimana konsep akademis dapat diterapkan dalam situasi kehidupan nyata, seperti meningkatkan motivasi karyawan, membangun komunikasi yang efektif, atau menyelesaikan konflik dalam tim.
+
+Selain itu, Perilaku Organisasi sering melibatkan diskusi tentang tren dan tantangan terkini di dunia bisnis, seperti mengelola keberagaman, beradaptasi dengan perubahan organisasi, dan menghadapi dilema etika. Dengan mengintegrasikan isu-isu kontemporer ini ke dalam kurikulum, mahasiswa akan lebih siap untuk menghadapi kompleksitas tempat kerja modern.
+
+Tujuan utama dari Perilaku Organisasi adalah untuk menjembatani kesenjangan antara teori dan praktik, mempersiapkan kita menjadi manajer yang efektif yang dapat memimpin organisasi dengan pemahaman yang lebih dalam tentang perilaku manusia dan dampaknya terhadap kinerja organisasi. Kombinasi antara pengetahuan dan keterampilan praktis ini sangat berharga untuk membantu kita mengembangkan kemampuan kepemimpinan dan pemecahan masalah yang diperlukan untuk berkembang di lingkungan bisnis yang dinamis dan kompetitif.
+
+Secara keseluruhan bidang ini mengeksplorasi berbagai model perilaku organisasi, menekankan pentingnya komunikasi yang efektif dan sistem sosial (Newstrom, 1993). Perilaku Organisasi memberikan wawasan tentang bagaimana berbagai model dan teori perilaku dapat diterapkan untuk menciptakan organisasi yang lebih efisien, adaptif, dan harmonis. Fokus pada komunikasi yang efektif dan sistem sosial yang baik menjadi landasan untuk mengembangkan strategi yang dapat meningkatkan kinerja dan kesejahteraan seluruh anggota organisasi.
+
+-----
+L. Porter, E. Lawler, J. Hackman, Behavior in Organizations 1986
+Jerald Greenberg, Behavior in Organizations, 1983
+J. W. Newstrom, Organizational Behavior: Human Behavior at Work, 1993
