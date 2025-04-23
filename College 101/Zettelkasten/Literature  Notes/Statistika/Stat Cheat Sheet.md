@@ -153,3 +153,10 @@
 - Normality of Each Group
 - Homogeneity of Variance (Levene’s Test)
 - Independence of Observations
+
+
+analyze 
+reliability analysis
+correlative
+scale if item deleted
+model alpha
