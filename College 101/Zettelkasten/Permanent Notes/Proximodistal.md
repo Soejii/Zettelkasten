@@ -1,13 +1,13 @@
 Date: 2025-04-14
 Time: 10:44
-Status:
+Status: #medium 
 Tags:
 
 
 # Proximodistal
-Proximo: near
-Distal : far 
-
-in the essence, its basically the reverse development growth of [[Chepalocaudal]], instead from top to bottom, this shi start from the center outward
+Unlike [[Chepalocaudal]] yang dari atas ke bawah, Proximodistal memulai pola pertumbuhan  growth dan motor control anak dari tengah keluar
+Proxi = near
+Distal = out
 
 # References
+[[Chepalocaudal]]
