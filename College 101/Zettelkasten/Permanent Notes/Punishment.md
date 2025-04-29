@@ -1,6 +1,6 @@
 Date: 2025-04-14
 Time: 00:19
-Status:
+Status: #medium 
 Tags:
 
 
@@ -15,3 +15,4 @@ ex:
 
 
 # References
+[[Reinforcement]]
