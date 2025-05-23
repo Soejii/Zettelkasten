@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Permanent Notes/Confirmatory Factor Analysis.md",
+                "file": "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika/Draft Psdk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confirmatory Factor Analysis"
+              "title": "Draft Psdk"
             }
           }
         ]
@@ -165,17 +165,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a34e24f56905d944",
+  "active": "94d8bec8d4e3f0c7",
   "lastOpenFiles": [
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika",
+    "College 101/Zettelkasten/Permanent Notes/Confirmatory Factor Analysis.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika/Draft Psdk.md",
     "College 101/Zettelkasten/Permanent Notes/Proximodistal.md",
     "College 101/Zettelkasten/Permanent Notes/Reinforcement.md",
     "College 101/Zettelkasten/Permanent Notes/Punishment.md",
     "College 101/Zettelkasten/Permanent Notes/Overt.md",
-    "College 101/Zettelkasten/Permanent Notes/Confirmatory Factor Analysis.md",
     "College 101/Zettelkasten/Permanent Notes/Covert.md",
     "College 101/Zettelkasten/Permanent Notes/Chepalocaudal.md",
     "College 101/Zettelkasten/Permanent Notes/Indegenous Psychology.md",
@@ -201,7 +202,6 @@
     "College 101/Zettelkasten/Literature  Notes/Psikologi Industri Organisasi",
     "College 101/Zettelkasten/Literature  Notes/Psikometri",
     "test 123.md",
-    "README.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan"
   ]
 }
