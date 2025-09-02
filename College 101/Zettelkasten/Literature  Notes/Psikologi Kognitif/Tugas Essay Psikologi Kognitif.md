@@ -1,11 +1,14 @@
-# Tugas Essay Psikologi Kognitif
 ### Nama: Rafi Mahadika Sujianto
 ### NIM: 240811606606
+### Off: J
 
-Psikologi Kognitif, sebuah turunan dari Psikologi Experimental, berfokus pada proses mental tentang persepsi dan interpretasi dunia (Matlin & Farmer, 2016). Solso, Maclin, dan Maclin (2013) menyatakan bahwa psikologi kognitif mempelajari proses mental yang berkaitan dengan sensasi, persepsi, perhatian, memori, dan bahasa, serta bagaimana proses-proses tersebut berubah sepanjang hidup. Essay ini akan menjelaskan _speech perception_ melalui lensa Psikologi Kognitif, dengan fokus pada tantangan yang ditimbulkan oleh AI deepfake voices.
+Psikologi kognitif, sebagai turunan dari psikologi eksperimental, berfokus pada bagaimana otak memproses informasi sensorik melalui mekanisme seperti perhatian, memori, dan persepsi (Matlin & Farmer, 2016; Solso, Maclin, & Maclin, 2013). Salah satu kajian penting yang dibahas adalah _Speech Perception_, yaitu sebuah proses mental dimana indra pendengaran merekam getaran yang diterima lalu otak akan memproses getaran ini, merubahnya menjadi suara yang kita anggap sebagai sebuah kata (Matlin & Farmer, 2016).
 
-Secara definisi, _speech perception_ merupakan sebuah proses mental dimana indra pendengaran merekam getaran yang diterima lalu otak akan memproses getaran ini, merubahnya menjadi suara yang kita anggap sebagai sebuah kata (Matlin & Farmer, 2016). Pada proses yang kompleks ini, perhatian dan memori menjadi kunci penting bagi jalannya _speech perception_.
+Di era AI Digital, muncul tantangan baru yaitu AI Deepfakes, sebuah bentuk AI (Artificial Intelligence) yang dapat membuat gambar, suara, dan video pada tahap yang menyakinkan. Tantangan ini tidak hanya terletak pada kemiripan suara, tetapi pada bagaimana cara otak menafsirkan suara berdasarkan konteks dan ekspetasi.
 
+Secara kognitif, _speech perception_ merupakan sebuah aksi yang _aktif_ dimana terdapat interaksi antara informasi sensorik (bottom-up) dan ekspetasi atau pengetahuan yang didapat sebelumnya. Ketika mendengar suara yang familiar terutama didalam kondisi yang mendukung (misalnya pesan atasan yang terdengar mendesak), otak kita cenderung langsung mempercayainya tanpa mengecek ulang suara tersebut. Kita sering kali mengisi _kekurangan_ tersebut dengan memori atau kebiasaan sebelumnya. Hal inilah yang membuat AI Deepfakes menjadi berbahaya, walaupun bentuknya tidak sempurna tetapi dalam situasi yang tepat dapat meyakinkan kita bahwa suara tersebut asli.
+
+Pada akhirnya _Speech Perception_ tidak hanya dipengaruhi oleh apa yang kita dengar, tetapi juga oleh konteks, ekspetasi, dan tekanan situasi yang ada. Hal ini menunjukkan pentingnya kesadaran kita akan keterbatasan kemampuan persepsi kita, terutama dalam tantangan yang ada pada era digital dan AI.
 
 
 
