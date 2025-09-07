@@ -10,10 +10,6 @@ Secara kognitif, _speech perception_ merupakan sebuah aksi yang _aktif_ dimana t
 
 Pada akhirnya _Speech Perception_ tidak hanya dipengaruhi oleh apa yang kita dengar, tetapi juga oleh konteks, ekspetasi, dan tekanan situasi yang ada. Hal ini menunjukkan pentingnya kesadaran kita akan keterbatasan kemampuan persepsi kita, terutama dalam tantangan yang ada pada era digital dan AI.
 
-
-
-
-
 ------
 1. Matlin, M. W., & Farmer, T. A. (2016). _Cognition_ (9th ed., Binder Ready Version). Wiley.
 2. Solso, R. L., MacLin, O. H., & MacLin, M. K. (2013). _Cognitive psychology_ (8th ed.). Pearson.
