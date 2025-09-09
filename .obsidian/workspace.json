@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Journal Review"
             }
+          },
+          {
+            "id": "cf1b1bd6c5254c5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psiko Kognitif - 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,8 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff87da4047ae6656",
+  "active": "cf1b1bd6c5254c5a",
   "lastOpenFiles": [
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 1.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 2.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Tugas Pra-Kelas (Attention & Consciousness).md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Tugas Essay Speech Perception.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Journal Review.md",
     "College 101/Zettelkasten/Permanent Notes/Etika.md",
     "College 101/Zettelkasten/Permanent Notes/Aspek.md",
@@ -182,7 +201,6 @@
     "College 101/Zettelkasten/Permanent Notes/Id.md",
     "College 101/Zettelkasten/Permanent Notes.zip",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 1.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif",
     "College 101/Zettelkasten/Permanent Notes/Punishment.md",
     "College 101/Zettelkasten/Permanent Notes/Overt.md",
@@ -200,10 +218,7 @@
     "College 101/Zettelkasten/Literature  Notes/Psikometri/Draft Psikometri.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika/Draft Psdk.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika",
-    "College 101/Zettelkasten/Permanent Notes/Proximodistal.md",
-    "College 101/Zettelkasten/Permanent Notes/Reinforcement.md",
     "College 101/Assets/Characteristics of self-actualizing people.png",
-    "College 101/Zettelkasten/Literature  Notes/Statistika/Stat Cheat Sheet.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan 1",
     "College 101/Zettelkasten/Literature  Notes/Neuro Pscyhology",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika",
