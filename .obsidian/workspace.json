@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bd64042bdbdee35",
+            "id": "ce2613fb7293b50a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Psikologi Perkembangan - 2"
+              "title": "New tab"
             }
           }
         ]
@@ -169,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a34e24f56905d944",
+  "active": "ce2613fb7293b50a",
   "lastOpenFiles": [
+    "College 101/Zettelkasten/Literature  Notes/Dasar-Dasar Etika Psikologi/Etika dan Psikodiagnostik.md",
+    "College 101/Zettelkasten/Literature  Notes/Dasar-Dasar Etika Psikologi/Etika dan Psikodiagnostik - 2.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 2.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 2.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 1.md",
@@ -200,8 +198,6 @@
     "College 101/Zettelkasten/Permanent Notes/Chepalocaudal.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kepribadian/Eric Erikson.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Kepribadian/Sigmund Freud.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikometri/Tugas Identifikasi Psikometri.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikometri/Draft Psikometri.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika",
     "College 101/Assets/Characteristics of self-actualizing people.png",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan 1",
