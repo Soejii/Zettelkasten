@@ -11,3 +11,4 @@ Qudsiatun Nuroniyah (240811615808)
 | Behavior     | Berfokus pada perilaku yang bisa diukur, memiliki fokus yang pasti dan jelas                                                   | Menurut kami, pendekatan ini terlalu berfokus pada perilaku tanpa adanya pertimbangan tentang emosi                            |
 | Psikodinamik | Fokus pada pengalaman masa lalu, eksplorasi ketidaksadaran dan konflik internal                                                | Pendekatan ini sangat bergantung pada kejadian masa lalu                                                                       |
 | Kognitif     | Membantu merubah pola pikir irasional atau maladaptif pada individu serta membantu klien bisa lebih menerima pikiran dan emosi | Pendekatan ini terlalu berfokus pada pemikiran seseorang sambil kurang memperhatikan emosi, keadaan sosial dan kultur yang ada |
+Merancang tes prestasi menggunakan rps perkambangan 1 
