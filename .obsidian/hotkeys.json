@@ -7,5 +7,13 @@
       ],
       "key": "B"
     }
+  ],
+  "claude-sidebar:open-claude": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
   ]
 }

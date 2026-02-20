@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5678dd5e82083740",
+        "id": "ebe6f76fca594960",
         "type": "tabs",
         "children": [
           {
-            "id": "19cd53a853a8d059",
+            "id": "d7d0d44bace70383",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Review Jurnal Psikologi Perkembangan - 1.md",
+                "file": "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Review Jurnal Psikologi Perkembangan - 1"
-            }
-          },
-          {
-            "id": "05ed0ed7ca1ad94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi/Tugas Konstruksi PIP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tugas Konstruksi PIP"
+              "title": "Manajemen Sumber Daya Manusia - 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 455.5
   },
   "right": {
     "id": "5c7caf9d2ae722d9",
@@ -157,20 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Psikopatologi - 1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -181,47 +167,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05ed0ed7ca1ad94a",
+  "active": "a34e24f56905d944",
   "lastOpenFiles": [
-    "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar",
+    "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 2.md",
+    "Untitled.base",
+    "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 3.md",
+    "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 3.md.tmp.1866.1770691642590",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikolagi Kuantitatif - 2.md",
+    "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 4.md",
+    "Penelitian Psikologi Kuantitatif - 3.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 3.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 3.md.tmp.3062.1770619209615",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar & Modifikasi Perilaku/Psikologi Belajar & Modifikasi Perilaku - 2.md",
+    "College 101/Zettelkasten/Permanent Notes/Covert.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 2.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Review Jurnal Psikologi Perkembangan - 2.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar & Modifikasi Perilaku",
+    "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 1.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 2.md.tmp.3238.1770099442543",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikolagi Kuantitatif - 2.md.tmp.3238.1770018597498",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Review Jurnal Psikologi Perkembangan - 1.md",
-    "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi/Tugas Konstruksi PIP.md",
-    "College 101/Zettelkasten/Permanent Notes/Confirmatory Factor Analysis.md",
-    "College 101/Zettelkasten/Permanent Notes/Dimensi.md",
-    "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi/Penyusunan Instrumen Psikologi - 5.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 5.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 3.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 2.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 1.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Review Jurnal Psikologi Perkembangan - 4.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Klinis/Draft Rumusan Masalah Klinis.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Tugas Essay Speech Perception.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Tugas Pra-Kelas (Attention & Consciousness).md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Tugas Pra-Kelas Working Memory.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psikologi Kognitif - 3.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif/Psiko Kognitif - 2.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Klinis/Psikologi Klinis - 4.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Klinis/Psikologi Klinis - 5.md",
-    "College 101/Templates/Book Templates.md",
-    "College 101/Zettelkasten/Permanent Notes/Operan Conditioning.md",
-    "College 101/Zettelkasten/Permanent Notes/Reinforcement.md",
-    "College 101/Zettelkasten/Permanent Notes/Punishment.md",
-    "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi/2025-09-26.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikolagi Kuantitatif - 2.md.tmp.3238.1770013831552",
+    "College 101/Refrences/Pictures/Pasted image 20260202132043.png",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif",
+    "College 101/Zettelkasten/Literature  Notes/Observasi dan Wawancara/Observasi dan Wawancara - 1.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikopatologi",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 9.md",
+    "College 101/Templates/Resume Template.md",
     "College 101/Templates/Daily Notes Template.md",
     "College 101/Templates/Core Templates.md",
-    "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi",
-    "College 101/Zettelkasten/Literature  Notes/Dasar-Dasar Etika Psikologi",
-    "College 101/Zettelkasten/Literature  Notes/Psikodiagnostik",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan",
-    "College 101/Zettelkasten/Permanent Notes.zip",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Kognitif",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika",
-    "College 101/Assets/Characteristics of self-actualizing people.png",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan 1",
-    "College 101/Zettelkasten/Literature  Notes/Neuro Pscyhology",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Sosial dan Dinamika"
+    "College 101/Templates/Book Templates.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 5.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Kepribadian/Eric Erikson.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 4.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 3.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Psikologi Perkembangan - 2.md",
+    "College 101/Zettelkasten/Literature  Notes/Penyusunan Instrumen Psikologi/Penyusunan Instrumen Psikologi - 6.md",
+    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/UTS PSIKOLOGI PERKEMBANGAN 2.md",
+    "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
+    "College 101/Assets/Characteristics of self-actualizing people.png"
   ]
 }

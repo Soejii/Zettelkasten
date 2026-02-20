@@ -1,4 +1,4 @@
-## Perkembangan Sosial-Emosi Remaja
+# Perkembangan Sosial-Emosi Remaja
 ### The Search for Identity
 
 #### Identity vs Identity Confusion (Erikson)
