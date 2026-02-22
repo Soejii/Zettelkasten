@@ -1,6 +1,7 @@
 Date: {{date:YYYY-MM-DD}}
 Time: {{time:HH:mm}}
-Status:
+Status: %% #low | #medium | #high %%
+Subject:
 Tags:
 
 

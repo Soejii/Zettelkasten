@@ -14,3 +14,6 @@ kematangan yang tidak baik dibagi menjadi dua yaitu,
 - Late
 Kematangan yang terjadi cepat lebih cepat dari rata-rata (misal 12 tahun), menurut penelitian lebih rentan mengalami depresi,  gangguan makan, dan sosial yang lebih besar. Sedangkan yang lebih lama memiliki waktu yang banyak untuk eksplorasi berbagai pilihan, identitas, dan karir (meskipun dengan common sense hal ini tidak baik)
 
+# Lihat Juga
+[[Chepalocaudal]] | [[Proximodistal]]
+

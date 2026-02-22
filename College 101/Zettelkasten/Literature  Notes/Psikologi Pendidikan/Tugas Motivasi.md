@@ -23,9 +23,9 @@ Berikut adalah beberapa teori motivasi, antara lain:
 	Victor Vroom menjelaskan bahwa motivasi dipengaruhi oleh harapan (expectancy), instrumentalitas (instrumentality), dan valensi (valence). Individu termotivasi jika mereka yakin usaha mereka akan menghasilkan hasil yang diinginkan.
 ## 3. Jenis Motivasi dalam Pendidikan dan Prestasi
 Dalam konteks pendidikan, motivasi dapat dibagi menjadi dua jenis utama:
-- #### a. Motivasi Intrisik
+- #### a. [[Motivasi Intrinsik]]
 	Motivasi intrinsik berasal dari dalam diri individu, seperti rasa ingin tahu, minat, atau kepuasan pribadi. Contohnya, siswa belajar karena mereka menikmati proses belajar itu sendiri.
-- #### b. Motivasi Ekstrinsik
+- #### b. [[Motivasi Ekstrinsik]]
 	Motivasi ekstrinsik berasal dari faktor luar, seperti penghargaan, pujian, atau menghindari hukuman. Contohnya, siswa belajar untuk mendapatkan nilai tinggi atau menghindari teguran dari guru.
 ## 4. Peran Motivasi dalam Pendidikan dan Prestasi
 Menurut saya sendiri, Motivasi memiliki peran penting dalam konteks Pendidikan dan Pencapaian Prestasi, antara lain:

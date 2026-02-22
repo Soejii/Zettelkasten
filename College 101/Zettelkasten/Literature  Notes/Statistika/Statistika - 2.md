@@ -10,22 +10,22 @@
 
 
 
-## Hubungan Atribut Covert dan Overt
+## Hubungan Atribut [[Covert]] dan [[Overt]]
 
-#### Atribut Overt (Atribut Non-Psikologi)
+#### Atribut [[Overt]] (Atribut Non-Psikologi)
 - **Segala hal yang ada pada diri individu yang kasat mata** 
 - **Bersifat physical**
 - **Dapat teramati**
  Contoh : Berat Badan, Warna Baju, Perilaku Makan 
 
-#### Atribut Covert (Atribut Psikologi)
+#### Atribut [[Covert]] (Atribut Psikologi)
 - **Segala hal yang ada pada diri individu yang tidak kasat  mata**
 - **Bersifat abstrak (psikologis)**
 - **Tidak Dapat teramati**
  Contoh : Kecerdasan, Kemampuan, Minat, Motivasi, Empati
 
 
-#### Construct
+#### Construct ([[Konstruk Psikologis]])
 
 *a **construct** refers to a **theoretical concept** that is used to understand, explain, or measure phenomena that are not directly observable. Constructs are **abstract ideas** or models that help scientists and researchers study complex psychological traits or states, like emotions, intelligence, or personality, by giving them a framework for measurement and analysis.*
 

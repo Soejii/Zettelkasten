@@ -46,13 +46,13 @@ Penelitian dibagi menjadi tiga yaitu:
 	Alat Quality Control
 
 
-## Overt dan Covert
+## [[Overt]] dan [[Covert]]
 
-### Overt
+### [[Overt]]
 Konsep Psikologi yang terlihat secara langsung
 
-### Covert
-Konsep Psikologi yang tidak tampak tapi termanifest didalam perilaku
+### [[Covert]]
+Konsep Psikologi yang tidak tampak tapi termanifest didalam perilaku — lihat [[Konstruk Psikologis]]
 - Keakuratan nya perlu diuji dengan alat ukur yang valid dan reliable
 
 ## Jenis Statistik

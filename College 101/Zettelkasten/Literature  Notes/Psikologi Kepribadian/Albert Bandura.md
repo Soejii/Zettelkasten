@@ -17,7 +17,7 @@
 
 ### 2. Konsep Utama dalam Social Cognitive Theory
 
-#### 1. Observational Learning (Pembelajaran Melalui Pengamatan)
+#### 1. [[Observational Learning]] (Pembelajaran Melalui Pengamatan)
 
 - **Definisi**
     
@@ -32,7 +32,7 @@
     
     - Individu cenderung meniru orang yang mereka anggap sebagai model. Model ini bisa berupa orang tua, teman, figur otoritas, atau bahkan karakter dalam media.
 
-#### 2. Self-Efficacy (Efikasi Diri)
+#### 2. [[Self-Efficacy]] (Efikasi Diri)
 
 - **Definisi**
     

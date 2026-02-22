@@ -7,7 +7,7 @@
 ### 1. **Konstruksi**
 
 **Definisi:**  
-Konstruksi adalah proses membuat instrumen baru sepenuhnya dari nol berdasarkan teori dan bukti empiris. Peneliti menentukan konstruk psikologis yang ingin diukur, mendefinisikan dimensinya, menyusun butir-butir pernyataan, lalu menguji validitas dan reliabilitasnya.
+Konstruksi adalah proses membuat instrumen baru sepenuhnya dari nol berdasarkan teori dan bukti empiris. Peneliti menentukan [[Konstruk Psikologis|konstruk psikologis]] yang ingin diukur, mendefinisikan [[Dimensi|dimensinya]], menyusun butir-butir pernyataan, lalu menguji validitas dan reliabilitasnya.
 
 **Contoh:**  
 Seorang peneliti mengembangkan _Digital Learning Fatigue Scale (DLFS)_ untuk mengukur kelelahan akibat pembelajaran daring. Karena belum ada alat ukur yang relevan sebelumnya, maka instrumen ini dikonstruksi secara penuh dari teori dan hasil wawancara awal.
@@ -66,7 +66,7 @@ Sampel standarisasi
 2. Efektivitas Prosedur Skoring
 3. Analisis Tampang
 
-Lalu Analisis Butir minimal memiliki daya beda (korelasi item dengan total) yang baik
+Lalu Analisis Butir minimal memiliki daya beda (korelasi [[Item|item]] dengan total) yang baik
 
 #### Tahap Desain/Rancangan Tes
 ##### Tujuan yang Jelas
@@ -101,7 +101,7 @@ Lalu Analisis Butir minimal memiliki daya beda (korelasi item dengan total) yang
 #### Adaptasi:
 - perlu disesuaikan dengna budaya yang berbeda
 - bukan translasi alat ukur
-- dimulai dari alah bahasa, penyesuaian bunyi item pernyataan hingga dimensi alat ukur
+- dimulai dari alah bahasa, penyesuaian bunyi [[Item|item]] pernyataan hingga [[Dimensi|dimensi]] alat ukur
 
 #### Modifikasi
 - Perlu penyesuaian

@@ -16,7 +16,7 @@ Dsygraphia adalah kesulitan dalam menulis tangan. Anak-anak yang memiliki Dsygra
 Dyscalculia atau bisa disebut dengan Developmental Arithmetic Disorder, Dyscalculia merupakan sebuah Disabilitas Belajar dalam melakukan penghitungan matematis. Peneliti menemukan bahwa anak-anak yang memiliki Dsycalculia seringkali memiliki kekurangan dalam kognitif dan neuropsychological nya.
 
 ### 2. Attention Deficit Hyperactivity Disorder (ADHD)
-ADHD adalah sebuah disabilitas yang mana anak-anak secara konsisten menunjukan salah satu dari karakteristik ini selama periode waktu tertentu:
+ADHD adalah sebuah disabilitas yang mana anak-anak secara konsisten menunjukan salah satu dari karakteristik ini selama periode waktu tertentu (lihat [[Perhatian (Attention)]]):
 - Inattention (Kurang Perhatian)
 - Hiperaktivitas
 - Impuslivitas
@@ -75,9 +75,9 @@ Apa penyebab gangguan spektrum autisme? Konsensus saat ini adalah bahwa autisme 
 ### 8. Emotional and Behavioral Disorder
 Gangguan Emosional dan Perilaku terdiri dari masalah serius, dan persisten yang melibatkan hubungan, agresi, depresi, dan ketakutan yang diasosiasikan dengan masalah pribadi atau sekolah. Gangguan Emosional dan Perilaku dapat diklasifikasian menjadi dua bagian yaitu:
 
-#### Aggressive, Out-of-Control Behaviors
+#### Aggressive, Out-of-Control Behaviors ([[Overt]])
 Beberapa anak yang diklasifikasikan sebagai hal inin memiliki sikap yang distruptif, agresif, menantang, atau sikap-sikap berbahaya lainnya dan seringkali dikeluarkan dari kelas. Anak-anak ini lebih mungkin laki-laki daripada perempuan dan lebih mungkin berasal dari keluarga berpenghasilan rendah daripada keluarga berpenghasilan menengah atau tinggi.
 
-#### Depression, Anxiety, and Fears
+#### Depression, Anxiety, and Fears ([[Covert]])
 Beberapa anak mengalihkan masalah emosional mereka ke dalam, dalam hal ini depresi, kecemasan, atau ketakutan mereka mungkin menjadi begitu intens dan terus-menerus sehingga kemampuan mereka untuk belajar sangat terganggu. Semua anak merasa depresi dari waktu ke waktu, tetapi kebanyakan mengatasi suasana hati mereka yang putus asa dan murung dalam beberapa jam atau beberapa hari. Namun, bagi sebagian anak, suasana hati negatifnya lebih serius dan berlangsung lebih lama. Depresi adalah jenis gangguan suasana hati di mana individu merasa tidak berharga, percaya bahwa segala sesuatu tidak mungkin menjadi lebih baik, dan berperilaku lesu untuk jangka waktu yang lama. Ketika anak-anak menunjukkan tanda-tanda ini selama dua minggu atau lebih, mereka kemungkinan mengalami depresi. Kurang nafsu makan dan tidak bisa tidur nyenyak juga dapat dikaitkan dengan depresi. Karena diarahkan ke dalam, depresi jauh lebih mungkin tidak diperhatikan daripada perilaku agresif yang meledak-ledak. Kecemasan melibatkan perasaan takut dan khawatir yang samar dan sangat tidak menyenangkan. Wajar bagi anak-anak untuk merasa khawatir atau cemas ketika mereka menghadapi tantangan hidup, tetapi beberapa anak memiliki kecemasan yang begitu intens dan berkepanjangan sehingga secara substansial mengganggu kinerja sekolah mereka (Rapee, Hudson, & Schniering, 2009). Beberapa anak juga memiliki ketakutan yang terkait dengan pribadi atau sekolah yang mengganggu pembelajaran mereka.
 

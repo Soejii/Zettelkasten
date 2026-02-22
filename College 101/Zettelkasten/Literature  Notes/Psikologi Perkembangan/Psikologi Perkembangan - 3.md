@@ -18,7 +18,7 @@ Adalah rasa keunikan dan tak terkalahkan (atau kebal), hal ini diasosiasikan den
 Perubahan kognitif paling penting pada masa remaja adala peningkatan fungsi eksekutif-sebuah konsep yang bersifat menyeluruh yang terdiri dari sejumlah proses kognitif tingkat tinggi
 
 #### Cognitive Control
-Pengendalian pemikiran yang efektif dalam sejumlah bidang, termasuk mengendalikan perhatian, mengurangi pikiran yang mengganggu, dan menjadi fleksibel secara kognitif 
+Pengendalian pemikiran yang efektif dalam sejumlah bidang, termasuk mengendalikan [[Perhatian (Attention)|perhatian]], mengurangi pikiran yang mengganggu, dan menjadi fleksibel secara kognitif
 
 #### Decision Making
 Remaja lebih kompeten dibgandingkan anak-anak dalam menghasilkan opsi, melihat perspektif, konsekuensi, dan menilai kredibilitas sumber
@@ -45,10 +45,10 @@ top dog => siswa berprestasi di sekolah sebelumnya, terus transisi dari level at
 
 
 ### Prestasi Akademik
-- Motivasi intrinsik berperan penting dalam prestasi akademik
+- [[Motivasi Intrinsik|Motivasi intrinsik]] berperan penting dalam prestasi akademik
 - Di negara berkembang, hambatan pendidikan lebih dipengaruhi faktor sosial-ekonomi seperti kemiskinan, kerja anak, dan diskriminasi gender
 - Di asia timur belajar dipandang sebagai kewajiban keluarga dan masyarakat sehingga siswa menunjukkan prestasi tinggi.
-- Selain motivasi, self-efficacy akademik sangt menentukan: siswa dengan keyakinan mampu belajar akan lebih gigih menghadapi kegagalan, sedangkan yang rendah self-efficacy cenderung menyalahkan faktor eksternal
+- Selain motivasi, [[Self-Efficacy|self-efficacy]] akademik sangat menentukan: siswa dengan keyakinan mampu belajar akan lebih gigih menghadapi kegagalan, sedangkan yang rendah self-efficacy cenderung menyalahkan faktor eksternal
 - Kemampuan regualsi diri dan disiplin juga berpengaruh besar pada keberhasilan belajar.
 
 ### Gender

@@ -9,7 +9,7 @@
     - **Pusat Perhatian:** Konsep perkembangan psikoseksual, di mana setiap tahap perkembangan manusia berhubungan dengan zona erotogenik.
     - **Konsep Utama:**
         - **Ketidaksadaran** – Sebagian besar perilaku dipengaruhi oleh ketidaksadaran.
-        - **Id, Ego, dan Superego** – Struktur kepribadian yang saling berinteraksi.
+        - **[[Id]], [[Ego]], dan [[Superego]]** – Struktur kepribadian yang saling berinteraksi.
         - **Konflik Internal** – Antara dorongan seksual dan tuntutan sosial.
 3. **Tahap Perkembangan Psikoseksual**
     
@@ -33,12 +33,12 @@
         - Fokus pada hubungan seksual yang sehat dan matang.
 4. **Konsep Id, Ego, dan Superego**
     
-    - **Id**: Impuls dasar dan naluri primal, berfokus pada pemenuhan kebutuhan instingtual.
-    - **Ego**: Realitas, berfungsi sebagai mediator antara Id dan dunia luar.
-    - **Superego**: Moralitas, berfungsi untuk menilai dan memberikan penilaian tentang tindakan seseorang.
+    - **[[Id]]**: Impuls dasar dan naluri primal, berfokus pada pemenuhan kebutuhan instingtual.
+    - **[[Ego]]**: Realitas, berfungsi sebagai mediator antara Id dan dunia luar.
+    - **[[Superego]]**: Moralitas, berfungsi untuk menilai dan memberikan penilaian tentang tindakan seseorang.
 5. **Konflik Psikodinamik dan Mekanisme Pertahanan**
     
-    - **Pertahanan Ego**: Cara-cara yang digunakan ego untuk mengatasi kecemasan dan konflik internal.
+    - **[[Mekanisme Pertahanan Ego]]**: Cara-cara yang digunakan ego untuk mengatasi kecemasan dan konflik internal.
     - Contoh mekanisme pertahanan:
         - **Represi**: Menekan perasaan atau kenangan yang tidak menyenangkan.
         - **Denial (Penolakan)**: Menolak kenyataan yang tidak dapat diterima.
