@@ -1,4 +1,4 @@
-### Bibliographic Information
+co### Bibliographic Information
 
 Amran, A., Marheni, E., Sin, T. H., & Yenes, R. (2020). _Kecanduan Game Online Mobile Legends dan Emosi Siswa SMAN 3 Batusangkar_. Jurnal Patriot, 2(4), 1119-1128. Link: [https://media.neliti.com/media/publications/474686-none-2dd713ec.pdf](https://media.neliti.com/media/publications/474686-none-2dd713ec.pdf?utm_source=chatgpt.com)
 
