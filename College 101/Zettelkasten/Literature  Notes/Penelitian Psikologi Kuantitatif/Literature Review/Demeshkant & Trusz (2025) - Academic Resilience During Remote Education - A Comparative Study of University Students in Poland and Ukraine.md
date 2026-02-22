@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Efikasi Diri Akademik, Pendidikan Jarak Jauh, Stres |
+| Field        |                                                                          |
+| ------------ | ------------------------------------------------------------------------ |
+| **Reviewer** | Suji                                                                     |
+| **Tanggal**  | 21 Februari 2026                                                         |
+| **Topik**    | Resiliensi Akademik, Efikasi Diri Akademik, Pendidikan Jarak Jauh, Stres |
 
 ---
 

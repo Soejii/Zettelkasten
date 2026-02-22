@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Adaptasi dan validasi instrumen resiliensi akademik versi Indonesia |
+| Field        |                                                                     |
+| ------------ | ------------------------------------------------------------------- |
+| **Reviewer** | Aru                                                                 |
+| **Tanggal**  | 21 Februari 2026                                                    |
+| **Topik**    | Adaptasi dan validasi instrumen resiliensi akademik versi Indonesia |
 
 ---
 

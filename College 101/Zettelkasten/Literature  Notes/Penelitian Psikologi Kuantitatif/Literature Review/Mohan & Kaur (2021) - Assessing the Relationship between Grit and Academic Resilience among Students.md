@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 22 Februari 2026 |
-| **Topik** | Hubungan antara grit dan komponen-komponen resiliensi akademik pada siswa sekolah |
+| Field        |                                                                                   |
+| ------------ | --------------------------------------------------------------------------------- |
+| **Reviewer** | Rafi                                                                              |
+| **Tanggal**  | 22 Februari 2026                                                                  |
+| **Topik**    | Hubungan antara grit dan komponen-komponen resiliensi akademik pada siswa sekolah |
 
 ---
 

@@ -1,10 +1,10 @@
-	## REVIEW ARTIKEL JURNAL
+## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Pengaruh rasa syukur (bersyukur) terhadap resiliensi akademik mahasiswa |
+| Field        |                                                                         |
+| ------------ | ----------------------------------------------------------------------- |
+| **Reviewer** | Rafi                                                                    |
+| **Tanggal**  | 21 Februari 2026                                                        |
+| **Topik**    | Pengaruh rasa syukur (bersyukur) terhadap resiliensi akademik mahasiswa |
 
 ---
 

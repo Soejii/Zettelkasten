@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Olahraga, Aktivitas Fisik, Faktor Sosiodemografis, ARS-30 |
+| Field        |                                                                                |
+| ------------ | ------------------------------------------------------------------------------ |
+| **Reviewer** | Rafi                                                                           |
+| **Tanggal**  | 21 Februari 2026                                                               |
+| **Topik**    | Resiliensi Akademik, Olahraga, Aktivitas Fisik, Faktor Sosiodemografis, ARS-30 |
 
 ---
 

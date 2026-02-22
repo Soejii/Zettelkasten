@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Growth mindset (incremental intelligence), rasa takut gagal, dan strategi koping akademik |
+| Field        |                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------- |
+| **Reviewer** | Rafi                                                                                      |
+| **Tanggal**  | 21 Februari 2026                                                                          |
+| **Topik**    | Growth mindset (incremental intelligence), rasa takut gagal, dan strategi koping akademik |
 
 ---
 

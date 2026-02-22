@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi akademik, prestasi akademik, dan peran mediasi dukungan guru pada mahasiswa |
+| Field        |                                                                                        |
+| ------------ | -------------------------------------------------------------------------------------- |
+| **Reviewer** | Suji                                                                                   |
+| **Tanggal**  | 21 Februari 2026                                                                       |
+| **Topik**    | Resiliensi akademik, prestasi akademik, dan peran mediasi dukungan guru pada mahasiswa |
 
 ---
 

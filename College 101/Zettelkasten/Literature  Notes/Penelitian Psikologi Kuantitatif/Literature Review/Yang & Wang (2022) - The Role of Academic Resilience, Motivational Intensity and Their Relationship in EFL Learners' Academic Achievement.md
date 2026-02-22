@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Motivasi Belajar Bahasa, Intensitas Motivasi, EFL, Kajian Literatur |
+| Field        |                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| **Reviewer** | Aru                                                                                      |
+| **Tanggal**  | 21 Februari 2026                                                                         |
+| **Topik**    | Resiliensi Akademik, Motivasi Belajar Bahasa, Intensitas Motivasi, EFL, Kajian Literatur |
 
 ---
 

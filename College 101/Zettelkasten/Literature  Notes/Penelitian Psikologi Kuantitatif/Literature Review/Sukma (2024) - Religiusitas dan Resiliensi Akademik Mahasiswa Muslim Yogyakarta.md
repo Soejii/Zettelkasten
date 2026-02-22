@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Hubungan antara religiusitas dan resiliensi akademik mahasiswa Muslim |
+| Field        |                                                                       |
+| ------------ | --------------------------------------------------------------------- |
+| **Reviewer** | Aru                                                                   |
+| **Tanggal**  | 21 Februari 2026                                                      |
+| **Topik**    | Hubungan antara religiusitas dan resiliensi akademik mahasiswa Muslim |
 
 ---
 

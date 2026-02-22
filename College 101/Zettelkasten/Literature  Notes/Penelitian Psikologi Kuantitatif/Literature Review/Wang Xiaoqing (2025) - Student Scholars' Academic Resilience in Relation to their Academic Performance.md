@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Performa Akademik, GPA, Mixed-Methods, Mahasiswa Kedokteran |
+| Field        |                                                                                  |
+| ------------ | -------------------------------------------------------------------------------- |
+| **Reviewer** | Aru                                                                              |
+| **Tanggal**  | 21 Februari 2026                                                                 |
+| **Topik**    | Resiliensi Akademik, Performa Akademik, GPA, Mixed-Methods, Mahasiswa Kedokteran |
 
 ---
 

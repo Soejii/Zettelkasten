@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Prestasi Akademik (GPA), COVID-19, Mahasiswa Universitas |
+| Field        |                                                                               |
+| ------------ | ----------------------------------------------------------------------------- |
+| **Reviewer** | Suji                                                                          |
+| **Tanggal**  | 21 Februari 2026                                                              |
+| **Topik**    | Resiliensi Akademik, Prestasi Akademik (GPA), COVID-19, Mahasiswa Universitas |
 
 ---
 

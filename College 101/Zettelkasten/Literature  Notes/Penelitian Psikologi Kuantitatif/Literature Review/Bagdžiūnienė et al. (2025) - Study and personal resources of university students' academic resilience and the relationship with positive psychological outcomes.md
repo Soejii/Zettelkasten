@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi Akademik, Study Demands-Resources, Efikasi Diri, Keterlibatan, Kesejahteraan, SEM |
+| Field        |                                                                                              |
+| ------------ | -------------------------------------------------------------------------------------------- |
+| **Reviewer** | Rafi                                                                                         |
+| **Tanggal**  | 21 Februari 2026                                                                             |
+| **Topik**    | Resiliensi Akademik, Study Demands-Resources, Efikasi Diri, Keterlibatan, Kesejahteraan, SEM |
 
 ---
 

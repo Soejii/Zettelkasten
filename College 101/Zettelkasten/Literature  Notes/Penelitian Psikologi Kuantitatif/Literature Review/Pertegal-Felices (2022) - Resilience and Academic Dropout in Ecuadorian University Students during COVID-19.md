@@ -1,10 +1,10 @@
 ## REVIEW ARTIKEL JURNAL
 
-| Field | |
-|---|---|
-| **Reviewer** | Suji |
-| **Tanggal** | 21 Februari 2026 |
-| **Topik** | Resiliensi dan putus kuliah (dropout) mahasiswa universitas di Ekuador selama pandemi COVID-19 |
+| Field        |                                                                                                |
+| ------------ | ---------------------------------------------------------------------------------------------- |
+| **Reviewer** | Rafi                                                                                           |
+| **Tanggal**  | 21 Februari 2026                                                                               |
+| **Topik**    | Resiliensi dan putus kuliah (dropout) mahasiswa universitas di Ekuador selama pandemi COVID-19 |
 
 ---
 
