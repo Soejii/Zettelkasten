@@ -5,7 +5,30 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git pull:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "Bash(cd C:\\\\Users\\\\sujia\\\\OneDrive\\\\Documents\\\\College Shit\\\\Penelitian Psikologi Kuan)",
+      "Bash(where pdftoppm:*)",
+      "Bash(ls \"C:\\\\Users\\\\sujia\\\\AppData\\\\Local\\\\Temp\\\\mystery_article\"* 2>/dev/null || ls /tmp/mystery* 2>/dev/null)",
+      "Bash(cygpath:*)",
+      "Bash(/c/Users/sujia/scoop/shims/pdftoppm.exe:*)",
+      "Bash(cd:*)",
+      "Bash(where pdftoppm 2>&1 || scoop which pdftoppm 2>&1)",
+      "Bash(echo === $f ===:*)",
+      "WebSearch",
+      "Bash(head:*)",
+      "Bash(export:*)",
+      "Bash(\"$POPPLER/pdftotext\":*)",
+      "Bash(cmd:*)",
+      "Bash(powershell:*)",
+      "Bash(cat:*)",
+      "Bash(pdftotext --version 2>&1 || scoop which pdftotext 2>&1)",
+      "Bash(ls C:\\\\\\\\Users\\\\\\\\sujia\\\\\\\\OneDrive\\\\\\\\Documents\\\\\\\\College Shit\\\\\\\\Penelitian Psikologi Kuantitatif\\\\\\\\artikel:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(grep pdf:*)",
+      "Bash(pandoc:*)"
     ]
   }
 }

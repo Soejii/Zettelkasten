@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is a personal Zettelkasten knowledge repository for a psychology college student (Rafi Mahadika Sujianto, NIM: 240811606606). All notes are written primarily in Indonesian (Bahasa Indonesia), covering college subjects in Psychology.
+This is a personal Zettelkasten knowledge repository for a psychology college student (Rafi Mahadika Sujianto). All notes are written primarily in Indonesian (Bahasa Indonesia), covering college subjects in Psychology.
 
 ## Structure
 
