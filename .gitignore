@@ -1,0 +1,17 @@
+# Obsidian workspace state (user-specific, changes frequently)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian plugin data (runtime/cache data)
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+
+# Claude Code local settings (machine-specific)
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
