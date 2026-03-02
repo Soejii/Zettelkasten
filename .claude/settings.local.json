@@ -30,7 +30,12 @@
       "Bash(grep pdf:*)",
       "Bash(pandoc:*)",
       "Skill(commit-commands:commit-push-pr)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(hyprctl version:*)",
+      "Bash(grep alias:*)",
+      "Bash(wc:*)",
+      "Bash(git:*)",
+      "Bash(GIT_EDITOR=true git rebase:*)"
     ]
   }
 }
