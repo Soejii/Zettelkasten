@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "093b569c747ac550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Psikopatologi - 5"
-            }
-          },
-          {
             "id": "bfe96622b718dcb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Literature  Notes/Observasi dan Wawancara/Observasi dan Wawancara - 6.md",
+                "file": "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observasi dan Wawancara - 6"
+              "title": "Penelitian Psikologi Kuantitatif - 4"
+            }
+          },
+          {
+            "id": "4ed17367c9365e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Penelitian Psikologi Kuantitatif - 6"
             }
           }
         ],
@@ -186,16 +186,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfe96622b718dcb0",
+  "active": "4ed17367c9365e5f",
   "lastOpenFiles": [
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 3.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 4.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Penelitian Psikologi Kuantitatif - 6.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kesimpulan Literature Review.md.tmp.16726.1772425079710",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kesimpulan Literature Review.md.tmp.16726.1772425072392",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kesimpulan Literature Review.md.tmp.16726.1772425066238",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kesimpulan Literature Review.md",
+    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Dwiastuti (2021) - Perkembangan Penelitian Resiliensi Akademik Di Indonesia - Scoping Literature Review.md",
+    "CLAUDE.md.tmp.13019.1772421848693",
+    "College 101/Zettelkasten/Literature  Notes/Observasi dan Wawancara/Observasi dan Wawancara - 6.md",
+    "CLAUDE.md.tmp.10888.1772421502815",
     "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Tugas Psikopatologi - Kasus Gangguan Simtom Somatis.md",
     "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Slide - Kasus Gangguan Simtom Somatis.md",
     "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 6.md",
     "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar & Modifikasi Perilaku/Psikologi Belajar & Modifikasi Perilaku - 4.md",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kesimpulan Literature Review.md",
     "College 101/Zettelkasten/Literature  Notes/Observasi dan Wawancara/Literature Review Conclusion.md",
     "College 101/Zettelkasten/Literature  Notes/Psikopatologi/Psikopatologi - 5.md",
-    "College 101/Zettelkasten/Literature  Notes/Observasi dan Wawancara/Observasi dan Wawancara - 6.md",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Utami (2020) - Bersyukur dan Resiliensi Akademik Mahasiswa.md",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/He (2025) - Pengaruh Pandangan Orang Tua tentang Kegagalan pada Resiliensi Akademik.md",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Cui (2023) - Validasi Skala Resiliensi Akademik Budaya Kolektif.md",
@@ -213,17 +222,8 @@
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Sukma (2024) - Religiusitas dan Resiliensi Akademik Mahasiswa Muslim Yogyakarta.md",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Sukma (2024) - Religiusitas dan Resiliensi Akademik Mahasiswa Muslim Yogyakarta.md.tmp.3810.1771684027997",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Dwiastuti (2021) - Perkembangan Penelitian Resiliensi Akademik Di Indonesia.md.tmp.3810.1771684005798",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Jowkar (2014) - Resiliensi Akademik dan Orientasi Tujuan Pencapaian.md.tmp.3810.1771683982887",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Format Literature Review.md",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/He (2025) - Pengaruh Pandangan Orang Tua tentang Kegagalan pada Resiliensi Akademik.md.tmp.3810.1771683960212",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Cai (2025) - Resiliensi Akademik dan Prestasi Peran Mediasi Dukungan Guru.md.tmp.3810.1771683935914",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Ye (2024) - Systematic Review Faktor Protektif Resiliensi Akademik.md.tmp.3810.1771683914427",
-    "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Cui (2023) - Validasi Skala Resiliensi Akademik Budaya Kolektif.md.tmp.3810.1771683892664",
     "College 101/Zettelkasten/Literature  Notes/Penelitian Psikologi Kuantitatif/Literature Review/Kumalasari (2020) - Adaptasi Instrumen Resiliensi Akademik Versi Indonesia.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar & Modifikasi Perilaku/Socratic Questions - Kognitif.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Belajar & Modifikasi Perilaku/Psikologi Belajar & Modifikasi Perilaku - 2.md",
-    "College 101/Zettelkasten/Literature  Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 3.md",
-    "College 101/Zettelkasten/Literature  Notes/Psikologi Perkembangan/Review Jurnal Psikologi Perkembangan - 5.md",
     "College 101/Refrences/Pictures/Pasted image 20260202132043.png",
     "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
     "College 101/Assets/Characteristics of self-actualizing people.png"

@@ -57,7 +57,3 @@ For lecture summaries — includes `Pertemuan Ke -` (session number) and student
 ## Linking
 
 Notes use Obsidian-style wiki-links `[[Note Name]]` to connect concepts. Permanent Notes heavily rely on cross-linking. When creating or editing Permanent Notes, add relevant `[[links]]` in the `# References` section.
-
-## Git Operations
-
-**Always use the git-operator agent** (via the Task tool with `subagent_type: "git-operator"`) for all git operations including commit, push, pull, branch, and PR creation. Never use commit-commands skills or run git commands directly in Bash.
