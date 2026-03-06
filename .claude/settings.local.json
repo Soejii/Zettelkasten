@@ -30,7 +30,15 @@
       "Bash(grep pdf:*)",
       "Bash(pandoc:*)",
       "Skill(commit-commands:commit-push-pr)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git branch:*)",
+      "WebFetch(domain:www.nature.com)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.eduresearchjournal.com)",
+      "Bash(mv:*)",
+      "WebFetch(domain:journal.minangdarussalam.or.id)",
+      "WebFetch(domain:sinta.kemdikbud.go.id)"
     ]
   }
 }
