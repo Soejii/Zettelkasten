@@ -38,7 +38,12 @@
       "WebFetch(domain:www.eduresearchjournal.com)",
       "Bash(mv:*)",
       "WebFetch(domain:journal.minangdarussalam.or.id)",
-      "WebFetch(domain:sinta.kemdikbud.go.id)"
+      "WebFetch(domain:sinta.kemdikbud.go.id)",
+      "Bash(hyprctl version:*)",
+      "Bash(grep alias:*)",
+      "Bash(wc:*)",
+      "Bash(git:*)",
+      "Bash(GIT_EDITOR=true git rebase:*)"
     ]
   }
 }

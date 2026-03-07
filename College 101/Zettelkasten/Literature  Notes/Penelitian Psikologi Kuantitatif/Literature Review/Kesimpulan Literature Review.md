@@ -12,6 +12,14 @@
 
 **Sebaran konteks internasional:** China (2), Lithuania (1), Serbia (1), Maroko (1), Ekuador (1), Ethiopia (1), Polandia & Ukraina (1), Makau (1), India (2), Pakistan (1), Amerika Serikat (1), lintas negara/79 negara (1), Inggris (1), tidak spesifik (4).
 
+Kajian terhadap 21 artikel menghasilkan tiga temuan inti yang secara kolektif membangun landasan teoritis dan empiris bagi hubungan growth mindset dengan resiliensi akademik.
+
+**Pertama, resiliensi akademik terbukti sebagai faktor protektif utama bagi mahasiswa.** Meta-analisis 17 studi (N = 4.194) mengkonfirmasi korelasi negatif kuat dengan stres akademik (r = −0,503; Mulati & Purwandari, 2022), konsisten dengan temuan pada mahasiswa Indonesia (r = −0,508; Riski & Mudhar, 2025). Resiliensi juga secara signifikan membedakan mahasiswa yang bertahan dari yang dropout (F = 20,150; p = ,000; Pertegal-Felices et al., 2022) dan memprediksi prestasi akademik (r = ,608; Cai, 2025). Lebih lanjut, resiliensi akademik berperan sebagai mediator antara dukungan akademik dan pencapaian mahasiswa (β = ,59; Melaku et al., 2025), menegaskan posisi sentralnya dalam keberhasilan studi.
+
+**Kedua, konstruk-konstruk motivasional yang berorientasi pertumbuhan secara konsisten terkait dengan resiliensi akademik.** Tao et al. (2022) menemukan bahwa growth mindset secara langsung meningkatkan *problem-focused coping* (β = 0,20; p < 0,001) dan menurunkan *fear of failure* (β = −0,18; p < 0,001); meski variabel dependen dalam studi tersebut adalah strategi koping, bukan resiliensi akademik sebagai konstruk tersendiri, kedua mekanisme ini secara teoritis mendasari ketekunan dan regulasi emosi dalam resiliensi. Mohan dan Kaur (2021) menunjukkan grit, konstruk yang berbagi mekanisme motivasional dengan growth mindset, berkorelasi positif dengan dimensi *self-belief* dan *persistence* dalam resiliensi akademik (r = 0,329; p < 0,01). Self-efficacy, yang juga berakar pada keyakinan tentang kapabilitas diri, terbukti sebagai prediktor terkuat resiliensi (β = ,409; Bagdžiūnienė et al., 2025). Pola ini menunjukkan bahwa keyakinan individu tentang kemampuannya untuk berkembang, yang merupakan inti dari growth mindset, adalah fondasi kognitif yang mendorong perilaku resilient.
+
+**Ketiga, keselarasan konseptual antara growth mindset (Dweck, 2006) dan tiga aspek resiliensi akademik (Cassidy, 2016) bukan kebetulan, melainkan mencerminkan mekanisme psikologis yang sama.** Keyakinan bahwa usaha menghasilkan perbaikan selaras dengan *perseverance*; kecenderungan mencari strategi baru setelah gagal selaras dengan *reflecting & adaptive help-seeking*; dan respons terhadap kegagalan sebagai peluang belajar selaras dengan *negative affect & emotional response*. Kumalasari et al. (2020) secara eksplisit menyatakan bahwa individu yang meyakini kemampuannya dapat berkembang akan lebih mampu mengatur respons emosional negatif dan lebih proaktif mencari solusi, yang persis merupakan perilaku yang diukur oleh ARS-30.
+
 ---
 
 ## Resiliensi Akademik sebagai Variabel Y
@@ -93,7 +101,7 @@ Dwiastuti et al. (2021) dalam scoping review terhadap 11 studi resiliensi akadem
 - Growth mindset sebagai prediktor resiliensi akademik belum pernah diteliti di Indonesia
 - Penelitian resiliensi akademik di Indonesia masih sangat terbatas
 
-Dari 7 studi Indonesia yang dikaji, tidak satu pun yang menguji growth mindset sebagai variabel. Studi Indonesia yang ada hanya meneliti religiusitas (r = ,193; Sukma, 2024) dan bersyukur (R² = ,682; Utami, 2020) sebagai prediktor, meninggalkan growth mindset sebagai celah yang belum terjamah sama sekali.
+Dari 7 studi Indonesia yang dikaji, tidak satu pun yang menguji growth mindset sebagai variabel. Meski landasan teoritis cukup kuat, pemetaan Dwiastuti et al. (2021) tidak menemukan penelitian yang menempatkan growth mindset sebagai variabel, mengindikasikan bahwa hubungan langsungnya dengan resiliensi akademik pada mahasiswa Indonesia belum pernah diteliti. Tao et al. (2022) pun mengukur *coping strategies*, bukan resiliensi akademik sebagai konstruk tersendiri, dan konteksnya berbeda (Makau, bukan Indonesia). Celah ini tetap terbuka hingga 2026.
 
 ---
 
