@@ -54,6 +54,10 @@ Used for journal article reviews in Penelitian Psikologi Kuantitatif:
 ### Resume Template
 For lecture summaries — includes `Pertemuan Ke -` (session number) and student identity header.
 
+## Writing Style
+
+- Never use em dashes (—). Use commas, semicolons, colons, parentheses, or other connectors instead.
+
 ## Linking
 
 Notes use Obsidian-style wiki-links `[[Note Name]]` to connect concepts. Permanent Notes heavily rely on cross-linking. When creating or editing Permanent Notes, add relevant `[[links]]` in the `# References` section.
