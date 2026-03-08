@@ -1,7 +1,8 @@
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
+## PDF Processing                                                                                                     
+For PDFs over 20 pages, split into parallel pdf-reader agents (20 pages each). Collect all extracted content, then pass it to the writing agent to produce the final literature note. For PDFs under 20 pages, use a single pdf-reader agent then pass to the writing agent.
 ## Repository Overview
 
 This is a personal Zettelkasten knowledge repository for a psychology college student (Rafi Mahadika Sujianto). All notes are written primarily in Indonesian (Bahasa Indonesia), covering college subjects in Psychology.
