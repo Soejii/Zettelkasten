@@ -26,7 +26,9 @@ Pada setiap kasus, terdapat disosiasi ("memisahkan diri") dari fungsi identitas,
 
 ## Gangguan Identitas Disosiatif (DID)
 
-Dua atau lebih kepribadian — masing-masing memiliki **trait, memori, tingkah laku, dan gaya berbicara yang berbeda** — "menempati" tubuh satu orang.
+Dua atau lebih kepribadian, masing-masing memiliki **trait, memori, tingkah laku, dan gaya berbicara yang berbeda**, "menempati" tubuh satu orang.
+
+Referensi budaya populer: film tahun 1950-an *The Three Faces of Eve* menggambarkan kasus DID.
 
 ### Karakteristik Utama DID
 
@@ -50,9 +52,13 @@ Dulu disebut **amnesia psikogenik**.
 
 ### Kasus Rutger (Amnesia Disosiatif)
 
-Rutger dibawa ke IGD oleh orang asing dalam kondisi bingung, tidak tahu siapa dirinya atau tempat tinggalnya. Saat pertama dirawat: **amnesia menyeluruh** (tidak bisa mengingat identitas atau peristiwa personal). Saat ingin dipulangkan: **amnesia lokal** (tidak ingat periode antara masuk IGD hingga pagi hari ia kembali sadar).
+Rutger dibawa ke IGD oleh orang asing yang menemukannya sedang berkeliaran di jalanan dalam kondisi bingung, tidak tahu siapa dirinya atau tempat tinggalnya. Ia tidak mabuk atau menggunakan narkoba, dan tidak ada tanda trauma fisik. Setelah dirawat beberapa hari, ia terbangun dalam kondisi tertekan dan ingatannya kembali: namanya Rutger dan ia memiliki urusan penting.
 
-Terungkap bahwa sebelum masuk IGD, Rutger tidak sengaja menewaskan seorang pejalan kaki dengan mobilnya. Meski tidak bersalah secara hukum, Rutger merasa bersalah. Amnesianya dihubungkan dengan **rasa bersalah, stres akibat kecelakaan, dan kekhawatiran akan pemeriksaan**.
+Saat pertama dirawat: **amnesia menyeluruh** (tidak bisa mengingat identitas atau peristiwa personal). Saat ingin dipulangkan: **amnesia lokal** (tidak ingat periode antara masuk IGD hingga pagi hari ia kembali sadar).
+
+Terungkap bahwa pada hari amnesianya dimulai, Rutger menewaskan seorang pejalan kaki dengan mobilnya. Beberapa saksi dan polisi menyatakan bahwa Rutger tidak bersalah secara emosional atas kejadian tersebut. Namun, Rutger diperintahkan untuk mengisi laporan kecelakaan dan hadir dalam pemeriksaan. Masih dalam kebingungan, ia mengisi formulir di rumah temannya, tidak sengaja meninggalkan dompet dan kartu identitasnya, lalu setelah memasukkan formulir ke kotak pesan, Rutger menjadi bingung dan kehilangan ingatannya.
+
+Meski tidak bertanggung jawab atas kecelakaan itu, Rutger merasa bersalah. Amnesianya dihubungkan dengan **rasa bersalah, stres akibat kecelakaan, dan kekhawatiran akan pemeriksaan**.
 
 ---
 
