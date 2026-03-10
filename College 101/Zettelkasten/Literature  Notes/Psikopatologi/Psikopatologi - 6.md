@@ -1,122 +1,193 @@
-## Pertemuan Ke - 6: Simtom Somatis dan Gangguan Terkait
+## Pertemuan Ke - 6: Gangguan Mood
 
 Overview:
-- Definisi dan klasifikasi gangguan simtom somatis dan terkait
-- Somatic Symptom Disorder (SSD)
-- Illness Anxiety Disorder (IAD)
-- Conversion Disorder
-- Factitious Disorder
-- Perbedaan kunci antar gangguan
+- Jenis-jenis gangguan mood (depresi dan bipolar)
+- Gangguan Depresi Mayor (MDD), Distimia, dan PMDD
+- Gangguan Bipolar I, II, dan Siklotimik
+- Faktor penyebab dan hubungan dengan bunuh diri
 
 ---
 
-## Simtom Somatis dan Gangguan Terkait
+## Jenis Gangguan Mood
 
-Kata **somatic** berasal dari bahasa Yunani *soma*, artinya **tubuh**. Orang dengan gangguan ini mungkin memiliki gejala fisik (somatis) tanpa penyebab fisik yang dapat diidentifikasi, atau memiliki kekhawatiran yang berlebihan tentang sifat/makna gejala mereka.
+Gangguan mood terbagi menjadi dua kategori utama:
 
-Gejala dapat mencerminkan **overactivity dari cabang simpatis** sistem saraf otonom, yang mungkin dihasilkan dari kecemasan. Semua pemeriksaan dokter melibatkan keluhan yang tidak dapat dijelaskan secara medis.
-
-### Konteks Historis
-
-Dalam versi DSM awal, gangguan ini diklasifikasikan bersama *anxiety disorders* di bawah kategori umum **neurosis**, berdasarkan model psikodinamik yang menyatakan bahwa gangguan somatis berfungsi sebagai cara maladaptif mengelola kecemasan. DSM-5 kemudian memisahkannya ke dalam kategori tersendiri.
+1. **Gangguan Depresi**: Gangguan Depresi Mayor (MDD), Gangguan Depresi Persisten (Distimia), Gangguan Disforik Pramenstruasi (PMDD)
+2. **Gangguan Bipolar** (Gangguan Perubahan Mood): Bipolar I, Bipolar II, Gangguan Siklotimik
 
 ---
 
-## Somatic Symptom Disorder (SSD) / Gangguan Simtom Somatis
+## Ciri Umum dari Depresi
 
-Orang dengan SSD tidak hanya mengalami kesulitan dengan gejala fisik, tetapi juga memiliki **kekhawatiran yang berlebihan** tentang gejala tersebut sejauh mempengaruhi pikiran, perasaan, dan perilaku mereka dalam kehidupan sehari-hari.
-
-### Fitur Diagnostik Utama
-
-Diagnosis SSD menekankan **fitur psikologis** dari gejala fisik, bukan apakah penyebab medis dapat dijelaskan. Diagnosis memerlukan:
-- **Gejala fisik yang bertahan**, biasanya selama enam bulan atau lebih (meskipun gejala tunggal mungkin tidak terus-menerus hadir)
-- **Distress pribadi yang signifikan** atau kerusakan dalam fungsi sehari-hari
-
-### Gejala dan Dampak
-
-- Gejala dapat mencakup *gastric distress*, berbagai nyeri dan sakit
-- Kekhawatiran berlebihan tentang keseriusan gejala
-- Terganggu oleh kecemasan yang terus-menerus tentang makna gejala
-- Menghabiskan banyak waktu **"doctor shopping"**, berlari dari dokter ke dokter mencari obat atau konfirmasi
-- Kekhawatiran dapat bertahan selama bertahun-tahun, menjadi sumber frustrasi bagi diri sendiri, keluarga, dan dokter
-- Pasien dengan kekhawatiran somatis berlebihan merupakan **heavy users** dari layanan medis (Barsky, Orav, & Bates, 2005)
-
-### Prevalensi
-
-Prevalensi tidak diketahui secara pasti, tetapi diperkirakan mempengaruhi **5-7% populasi dewasa umum**.
-
-### Perubahan Terminologi dari DSM-IV ke DSM-5
-
-Istilah **hypochondriasis** masih digunakan secara luas tetapi bukan lagi diagnosis tersendiri dalam DSM-5. Mayoritas besar kasus yang sebelumnya didiagnosis sebagai hypochondriasis (mungkin sebanyak tiga perempat) sekarang didiagnosis sebagai SSD.
-
-### Kasus: The Doctor Feels Sick (Henry)
-
-Seorang radiolog berusia 35 tahun baru saja kembali dari liburan 10 hari di fasilitas diagnostik di mana ia menjalani pemeriksaan menyeluruh pada seluruh saluran pencernaan. Evaluasi terbukti **negatif** untuk penyakit fisik yang signifikan, tetapi alih-alih lega, ia tampak murung dan kecewa. Sejak lulus sekolah kedokteran, ia berulang kali mengalami kekhawatiran tentang kesehatannya, dengan pola: perhatian pada gejala fisik ringan (sakit perut, sensasi penuh, massa abdominal) diikuti pikiran yang tidak proporsional tentang penyakit yang mungkin tidak terdeteksi.
+Depresi ditandai oleh perubahan mood yang persisten, kehilangan minat atau kesenangan, serta berbagai gejala somatik dan kognitif yang mengganggu fungsi sehari-hari.
 
 ---
 
-## Illness Anxiety Disorder (IAD) / Gangguan Kecemasan terhadap Penyakit
+## Gangguan Depresi Mayor (Major Depressive Disorder, MDD)
 
-Berbagai orang dengan riwayat hipokondriasis mengeluh tentang gejala fisik yang **relatif ringan** dan menganggapnya sebagai tanda penyakit serius. Karena ringannya gejala, diagnosis SSD tidak berlaku. Individu ini mengekspresikan tingkat *health anxiety* yang tinggi dan menerima diagnosis IAD dalam DSM-5.
+### Kriteria Diagnostik
 
-### Prevalensi
+Lima (atau lebih) gejala muncul selama periode **2 minggu berturut-turut** dan mewakili perubahan dari fungsionalitas sebelumnya. Setidaknya satu dari gejala yang tampak adalah (1) mood depresi atau (2) hilangnya minat atau kesenangan.
 
-Hipokondriasis/IAD diyakini mempengaruhi **1-5% populasi umum** dan sekitar **5% pasien** yang mencari perawatan medis.
+Gejala-gejala MDD:
 
-### Dua Subtipe
+1. **Mood depresi** hampir sepanjang hari, hampir setiap hari (merasa sedih, hampa, tanpa harapan). Pada anak-anak dan remaja, bisa berupa perasaan mudah tersinggung.
+2. **Hilangnya minat atau kesenangan** terhadap semua atau hampir semua aktivitas sepanjang hari, hampir setiap hari.
+3. **Perubahan berat badan** yang signifikan saat tidak diet (perubahan >5% dalam satu bulan), atau perubahan selera makan hampir setiap hari.
+4. **Insomnia atau hipersomnia** hampir setiap hari.
+5. **Agitasi atau retardasi psikomotor** hampir setiap hari (dapat diamati oleh orang lain).
+6. **Kelelahan atau kehilangan energi** hampir setiap hari.
+7. **Merasa tidak berharga** atau rasa bersalah yang berlebihan/tidak seharusnya (mungkin bersifat delusif) hampir setiap hari.
+8. **Hilangnya kemampuan berpikir atau berkonsentrasi**, atau keraguan, hampir setiap hari.
+9. **Pikiran berulang mengenai kematian**, gagasan bunuh diri berulang, percobaan bunuh diri, atau rencana spesifik untuk bunuh diri.
 
-| Subtipe | Deskripsi |
-|---|---|
-| **Care-Avoidant** | Menunda atau menghindari kunjungan medis atau tes lab karena tingkat kecemasan tinggi tentang apa yang mungkin ditemukan |
-| **Care-Seeking** | "Doctor-shopping", melompat dari dokter ke dokter dengan harapan menemukan profesional yang mengkonfirmasi ketakutan mereka; mungkin marah dengan dokter yang mencoba meyakinkan bahwa ketakuannya tidak berdasar |
+### Kriteria Tambahan
+
+- Simtom menyebabkan **distress yang signifikan secara klinis** atau hambatan pada fungsi sosial, pekerjaan, atau area penting lainnya
+- Episode depresi **tidak berhubungan** dengan dampak fisiologis dari suatu zat atau kondisi medis lainnya
+- Munculnya episode **tidak dapat dijelaskan lebih baik** dengan gangguan skizoafektif, skizofrenia, gangguan skizofreniform, gangguan delusi, atau spektrum skizofrenia lainnya
+- **Belum pernah** terjadi episode mania atau hipomania (kecuali yang disebabkan zat tertentu atau kondisi medis)
+
+### Catatan tentang Kehilangan
+
+Respons terhadap kehilangan yang signifikan (kematian, kegagalan finansial, bencana alam, penyakit serius) dapat menyerupai episode depresi. Kemunculan episode depresi mayor selain respons normal terhadap kehilangan tetap harus dipertimbangkan berdasarkan riwayat individu dan norma budaya.
+
+### Karakteristik MDD
+
+- MDD menyebabkan **kehilangan waktu produktif**
+- Episode yang lebih parah dapat disertai **ciri-ciri psikosis** seperti delusi
+- Sebagian besar orang dengan MDD mengalami **episode berulang** sepanjang hidupnya (Holzel et al., 2011; Reifler, 2006)
+- Semakin panjang periode pemulihan dari satu episode, **semakin rendah risiko** episode terulang kembali (Solomon et al., 2000)
+- **Faktor risiko**: usia, status sosial-ekonomi, dan status perkawinan
 
 ---
 
-## Conversion Disorder / Gangguan Konversi
+## Gangguan Depresi Persisten (Distimia)
 
-Disebut juga **functional neurological symptom disorder** dalam DSM-5.
+Diagnosis gangguan depresi persisten digunakan untuk mengklasifikasikan kasus kronis yang bertahan setidaknya selama **dua tahun**.
 
-Ditandai oleh gejala atau kekurangan yang mempengaruhi kemampuan mengontrol gerakan sukarela atau fungsi sensorik **tanpa penyebab medis** yang dapat diidentifikasi.
+Perbedaan utama: Gangguan depresi mayor cenderung **berat dan terbatas waktu**, sedangkan distimia **relatif ringan dan bertahan lama**.
 
-### Ciri Utama
-- Muncul dalam konteks konflik atau pengalaman penuh tekanan
-- Dapat disertai ***la belle indifference*** (sikap acuh tak acuh terhadap gejala yang seharusnya mengganggu)
-- Prevalensi: dilaporkan pada **~5% pasien** yang dirujuk ke klinik neurologi
+### Depresi Ganda
+
+Istilah "depresi ganda" berlaku bagi orang yang mengalami **episode depresi mayor yang tumpang tindih** dengan distimia yang bertahan lebih lama. Orang dengan depresi ganda mengalami episode depresi yang lebih parah daripada yang hanya mengalami depresi mayor saja (Klein, Schwartz, et al., 2000).
+
+### Kriteria Diagnostik Distimia
+
+**A.** Suasana hati murung hampir sepanjang hari, hampir setiap hari, selama setidaknya **2 tahun** (1 tahun untuk anak-anak/remaja).
+
+**B.** Adanya dua (atau lebih) gejala berikut saat depresi:
+1. Nafsu makan buruk atau makan berlebihan
+2. Insomnia atau hipersomnia
+3. Energi rendah atau kelelahan
+4. Rendah diri
+5. Konsentrasi buruk atau kesulitan mengambil keputusan
+6. Perasaan putus asa
+
+**C.** Selama periode 2 tahun, individu tidak pernah tanpa gejala selama lebih dari **2 bulan berturut-turut**.
+
+**D.** Kriteria untuk gangguan depresi mayor dapat terus hadir selama 2 tahun.
+
+**E.** Tidak pernah terjadi episode manik atau hipomanik.
+
+**F-G.** Gangguan tidak lebih baik dijelaskan oleh gangguan psikotik lainnya dan tidak disebabkan oleh efek fisiologis suatu zat atau kondisi medis lain.
+
+**H.** Gejala menyebabkan penderitaan atau gangguan yang signifikan secara klinis.
 
 ---
 
-## Factitious Disorder / Gangguan Factitious
+## Gangguan Disforik Pramenstruasi (PMDD)
 
-Memalsukan atau mengarang gejala fisik atau psikologis **tanpa motif jelas** selain menerima perawatan medis.
+Premenstrual dysphoric disorder (PMDD) adalah bentuk yang **lebih parah** dari premenstrual syndrome (PMS). PMDD ditujukan pada wanita yang mengalami berbagai simtom psikologis yang signifikan **satu minggu sebelum menstruasi** dan peningkatan dimulai dalam beberapa hari setelah menstruasi dimulai.
 
-### Dua Tipe Utama
+### Kriteria Diagnostik
 
-| Tipe | Nama Umum | Deskripsi |
+**A.** Pada sebagian besar siklus menstruasi, setidaknya **lima gejala** muncul pada minggu terakhir sebelum menstruasi, mulai membaik dalam beberapa hari setelah menstruasi, dan menjadi minimal/hilang pada minggu setelah menstruasi.
+
+**B.** Salah satu (atau lebih) harus ada:
+1. **Perubahan suasana hati** yang nyata (mood swing, tiba-tiba sedih/ingin menangis, peningkatan sensitivitas terhadap penolakan)
+2. **Iritabilitas atau kemarahan** yang nyata atau peningkatan konflik interpersonal
+3. Suasana hati yang **sangat tertekan**, perasaan putus asa, atau pikiran merendahkan diri sendiri
+4. **Kecemasan, ketegangan**, dan/atau perasaan gelisah atau tegang yang nyata
+
+**C.** Satu (atau lebih) gejala tambahan (untuk total lima gejala):
+1. Penurunan minat pada aktivitas biasa
+2. Kesulitan konsentrasi subjektif
+3. Lesu, mudah lelah, atau kekurangan energi yang nyata
+4. Perubahan nafsu makan yang nyata; makan berlebihan; atau keinginan makan tertentu
+5. Hipersomnia atau insomnia
+6. Perasaan kewalahan atau kehilangan kendali
+7. Gejala fisik (nyeri/pembengkakan payudara, nyeri sendi/otot, sensasi "kembung", penambahan berat badan)
+
+**D.** Gejala menyebabkan penderitaan yang signifikan secara klinis atau gangguan terhadap pekerjaan, sekolah, aktivitas sosial, atau hubungan.
+
+**E.** Bukan perburukan gejala dari gangguan lain (meskipun dapat terjadi bersamaan).
+
+**F.** Harus dikonfirmasi dengan penilaian harian prospektif selama setidaknya **dua siklus** (diagnosis sementara dapat dibuat sebelum konfirmasi).
+
+**G.** Gejala tidak disebabkan oleh efek fisiologis suatu zat atau kondisi medis lain.
+
+---
+
+## Gangguan Bipolar
+
+Ditandai dengan **perubahan ekstrem pada mood** dan perubahan tingkat energi dan aktivitas. Episode pertama bisa berupa mania atau depresi.
+
+### Karakteristik Umum
+
+- Episode mania umumnya berlangsung selama **beberapa minggu atau satu hingga dua bulan** dan umumnya lebih singkat serta berakhir lebih tiba-tiba daripada episode depresi mayor
+- Kondisi emosi yang naik turun
+- Dapat bergeser secara cepat antara mania dan depresi (kondisi campur aduk)
+
+### Bipolar I vs. Bipolar II
+
+| Aspek | Bipolar I | Bipolar II |
 |---|---|---|
-| **Imposed on Self** | Sindrom Munchausen | Memalsukan/menginduksi gejala pada diri sendiri |
-| **Imposed on Another** | Sindrom Munchausen by Proxy | Memalsukan/menginduksi gejala pada orang lain (biasanya anak) |
+| **Episode Mania** | Setidaknya satu episode mania **secara penuh** | Tidak pernah mengalami episode mania penuh |
+| **Episode Hipomania** | Bisa ada | Pernah mengalami episode **hipomania** |
+| **Episode Depresi** | Bisa ada | Setidaknya satu riwayat episode **depresi mayor** |
 
-### Perbedaan dengan Malingering
+### Episode Mania vs. Hipomania
 
-Berbeda dari **malingering** (berpura-pura sakit), di mana individu memiliki **tujuan jelas** (menghindari tanggung jawab, mendapat keuntungan). Pada factitious disorder, tidak ada keuntungan nyata selain menerima perawatan medis.
-
-Prevalensi: diperkirakan **~1% pasien medis** di rumah sakit.
+- Ciri utama keduanya: **meningkatnya aktivitas atau energi** (APA, 2013)
+- Perbedaan dasar: **tingkat atau keparahannya**
+- Selama episode mania: peningkatan mood secara tiba-tiba, merasa sangat senang, euphoria, penilaian yang buruk, argumentatif (terkadang sampai merusak barang), berbicara cepat, perpindahan ide yang cepat, kepercayaan diri yang ekstrem sampai delusi kemegahan, tidak mampu mempertimbangkan konsekuensi
 
 ---
 
-## Ringkasan Perbandingan
+## Gangguan Siklotimik
 
-| Gangguan | Gejala Fisik | Fokus Kekhawatiran | Ciri Khas |
-|---|---|---|---|
-| **SSD** | Ada dan signifikan | Pikiran/perasaan berlebihan tentang gejala | Doctor shopping, distress signifikan |
-| **IAD** | Minimal atau tidak ada | Keyakinan memiliki penyakit serius | Care-avoidant atau care-seeking |
-| **Conversion Disorder** | Kehilangan fungsi motorik/sensorik | Bervariasi | *La belle indifference*, muncul saat konflik |
-| **Factitious Disorder** | Dipalsukan/dikarang | Ingin mendapat perawatan medis | Tidak ada motif jelas selain mendapat perawatan |
-| **Malingering** | Dipura-purakan | Ada tujuan jelas | Bukan gangguan mental, ada keuntungan nyata |
+Pola melingkar yang **kronis** dari gangguan mood yang ditandai dengan perubahan mood ringan, berlangsung setidaknya selama **dua tahun** (satu tahun bagi anak-anak/remaja).
+
+### Karakteristik
+
+- Umumnya dimulai pada **masa remaja akhir atau dewasa awal** dan bertahan selama beberapa tahun
+- Orang dewasa dengan siklotimia mengalami beberapa periode simtom hipomania yang **tidak cukup parah** untuk memenuhi kriteria episode mania, dan sejumlah periode depresif ringan yang **tidak dapat dikatakan** sebagai episode depresi mayor (APA, 2013)
+- Batasan antara gangguan bipolar dan siklotimik belumlah jelas
+- Diperkirakan sekitar **satu dari tiga orang** dengan gangguan siklotimik akhirnya mengembangkan gangguan bipolar
+
+---
+
+## Faktor Penyebab Gangguan Depresi
+
+- **Stres dan depresi**: peristiwa kehidupan yang menekan sebagai pemicu
+- **Teori psikodinamika**: kemarahan kepada diri sendiri, self-hatred
+- **Teori humanistik**: tidak bisa mengisi keberadaan dengan makna dan membuat pilihan autentik yang menghasilkan self-fulfillment
+- **Teori pembelajaran**: penekanan pada faktor situasional, seperti kehilangan penguat positif
+- **Teori kognitif**: cara melihat diri dan dunia sekitar
+- **Model ketidakberdayaan yang dipelajari**: learned helplessness
+- **Faktor biologis**: genetik, neurokimia, dan faktor neurobiologis lainnya
+
+---
+
+## Bunuh Diri
+
+Perilaku bunuh diri **bukanlah gangguan psikologis**, tetapi sering menjadi simtom dari gangguan psikologis. Usaha bunuh diri lebih mungkin terjadi pada orang dengan **depresi mayor**. Diperkirakan sekitar **60%** orang yang bunuh diri mengalami gangguan mood (National Strategy for Suicide Prevention, 2001).
 
 ---
 
 ## Referensi
 
-- Nevid, Jeffrey S., Rathus, Spencer A., Greene, Beverly. (2018). *Abnormal Psychology in a Changing World*, Tenth Edition. New York: Pearson. Chapter 6, pp. 224-244.
-- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision* (DSM-5-TR)
+- Nevid, Jeffrey S., Rathus, Spencer A., Greene, Beverly. (2018). *Abnormal Psychology in a Changing World*, Tenth Edition. New York: Pearson.
+- American Psychiatric Association. (2013). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (DSM-5).
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision* (DSM-5-TR).
