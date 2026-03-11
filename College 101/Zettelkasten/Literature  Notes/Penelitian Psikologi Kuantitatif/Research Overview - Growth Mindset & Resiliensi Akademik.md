@@ -377,3 +377,6 @@ Sukma, A. A., et al. (2024). Religiusitas dan resiliensi akademik mahasiswa Musl
 Tao, V. Y. K., Li, Y., & Wu, A. M. S. (2022). Incremental intelligence mindset, fear of failure, and academic coping. *Journal of Pacific Rim Psychology*, *16*, 1–11.
 
 Utami, L. H. (2020). Bersyukur dan resiliensi akademik mahasiswa. *Nathiqiyyah: Jurnal Psikologi Islam*, *3*(1).
+
+
+hasil statistik tidak perlu

@@ -2,39 +2,41 @@
 
 Overview:
 - Definisi dan jenis-jenis gangguan disosiatif
-- Karakteristik utama tiap gangguan
+- Gangguan Identitas Disosiatif (DID)
+- Amnesia Disosiatif
+- Gangguan Depersonalisasi/Derealisasi
 - Perspektif teoretis gangguan disosiatif
-- Simtom Somatis dan Gangguan Terkait (pengantar)
+- Pengantar Simtom Somatis dan Gangguan Terkait
 
 ---
 
 ## Gangguan Disosiatif
 
-Ditandai dengan **perubahan atau gangguan fungsi self** (identitas, memori, atau kesadaran) yang membuat sebuah kepribadian utuh.
+Ditandai dengan **perubahan atau gangguan fungsi self** (identitas, memori, atau kesadaran) yang membuat sebuah kepribadian utuh. Pada setiap kasus, terdapat disosiasi ("memisahkan diri") dari fungsi identitas, memori, atau kesadaran yang dalam keadaan normal membuat kita utuh.
 
-Pada setiap kasus, terdapat disosiasi ("memisahkan diri") dari fungsi identitas, memori, atau kesadaran yang dalam keadaan normal membuat kita utuh.
+Gangguan disosiatif utama meliputi: Gangguan Identitas Disosiatif, Amnesia Disosiatif, dan Gangguan Depersonalisasi/Derealisasi.
 
-### Tiga Jenis Gangguan Disosiatif Utama
+### Ikhtisar Gangguan Disosiatif
 
-| Jenis Gangguan | Prevalensi | Deskripsi | Ciri Utama |
+| Jenis Gangguan | Prevalensi | Deskripsi | Ciri |
 |---|---|---|---|
-| **Gangguan Identitas Disosiatif (DID)** | Tidak diketahui | Munculnya dua atau lebih kepribadian yang berbeda | Penggantinya dapat memegang kendali; merepresentasikan pertahanan psikologis terhadap trauma/kekerasan parah di masa kecil |
-| **Amnesia Disosiatif** | Tidak diketahui | Ketidakmampuan mengingat hal-hal personal penting yang tidak bisa dijelaskan secara medis | Subtipe: amnesia lokal, selektif, menyeluruh; bisa dikaitkan dengan *fugue* disosiatif |
-| **Gangguan Depersonalisasi/Derealisasi** | 2% | Episode merasa terlepas dari self/tubuh atau merasa lingkungan sekitar tidak nyata | Merasa seperti dalam mimpi atau berperilaku seperti robot; terjadi berulang dan menyebabkan distress signifikan |
+| **Gangguan Identitas Disosiatif (DID)** | Tidak diketahui | Munculnya dua atau lebih kepribadian yang berbeda | Penggantinya dapat memegang kendali; dapat merepresentasikan pertahanan psikologis terhadap trauma atau kekerasan parah di masa kecil |
+| **Amnesia Disosiatif** | Tidak diketahui | Ketidakmampuan untuk mengingat hal-hal personal yang penting yang tidak bisa dijelaskan secara medis | Kehilangan memori biasanya disebabkan oleh pengalaman traumatis atau stres; subtipe: amnesia lokal, selektif, dan menyeluruh; dapat dikaitkan dengan *fugue* disosiatif |
+| **Gangguan Depersonalisasi/Derealisasi** | 2% | Episode merasa terlepas dari self atau tubuh, atau merasa lingkungan sekitar tidak nyata (derealisasi) | Orang tersebut mungkin merasa hidup di dalam mimpi atau berperilaku seperti robot; episode terjadi terus-menerus atau berulang dan menyebabkan distress yang signifikan |
 
 ---
 
-## Gangguan Identitas Disosiatif (DID)
+## Gangguan Identitas Disosiatif (Dissociative Identity Disorder, DID)
 
-Dua atau lebih kepribadian — masing-masing memiliki **trait, memori, tingkah laku, dan gaya berbicara yang berbeda** — "menempati" tubuh satu orang.
+Dua atau lebih kepribadian (masing-masing memiliki **trait, memori, tingkah laku, dan bahkan gaya berbicara yang berbeda**) "menempati" tubuh satu orang. Kondisi ini pernah diangkat dalam film 1950-an, *The Three Faces of Eve*.
 
 ### Karakteristik Utama DID
 
-- Adanya dua atau lebih kepribadian dalam diri seseorang
+- Adanya **dua atau lebih kepribadian** dalam diri seseorang
 - **Kepribadian alter** dapat mencerminkan perbedaan usia, gender, minat, dan cara berinteraksi
-- Dua atau lebih kepribadian berulang kali **mengendalikan perilaku** individu tersebut
-- Kelupaan akan peristiwa hidup biasa dan informasi penting yang tidak dapat dijelaskan dengan kelupaan biasa
-- Kepribadian utama/dominan mungkin menyadari atau tidak menyadari keberadaan kepribadian alter
+- Dua atau lebih kepribadian berulang kali **mengendalikan perilaku individu** tersebut
+- **Kelupaan** akan peristiwa hidup biasa dan informasi penting yang tidak dapat dijelaskan dengan kelupaan biasa
+- Kepribadian utama atau dominan mungkin **menyadari atau tidak menyadari** keberadaan kepribadian alter
 
 ---
 
@@ -42,17 +44,19 @@ Dua atau lebih kepribadian — masing-masing memiliki **trait, memori, tingkah l
 
 Dulu disebut **amnesia psikogenik**.
 
-- Individu menjadi **tidak dapat mengingat** informasi pribadi yang penting, umumnya melibatkan **pengalaman traumatis** atau yang memicu stres, dengan cara yang tidak dapat dijelaskan dengan kelupaan biasa
-- Ingatan yang hilang pada amnesia disosiatif **dapat dikembalikan**
-- Sebagian besar kasus berbentuk **amnesia lokal**: peristiwa yang terjadi selama periode waktu tertentu hilang dari ingatan
-- Paling umum terjadi pada **situasi peperangan** atau situasi yang sangat membuat stres
-- **Malingering**: memalsukan amnesia untuk melepaskan diri dari tanggung jawab (bukan gangguan disosiatif sejati)
+Individu menjadi **tidak dapat mengingat** informasi pribadi yang penting, umumnya melibatkan **pengalaman traumatis** atau yang memicu stres, dengan cara yang tidak dapat dijelaskan dengan kelupaan biasa. Ingatan yang hilang pada amnesia disosiatif **dapat dikembalikan**. Sebagian besar kasus berbentuk **amnesia lokal**: peristiwa yang terjadi selama periode waktu tertentu hilang dari ingatan.
 
-### Kasus Rutger (Amnesia Disosiatif)
+Amnesia disosiatif relatif tidak umum, tetapi paling umum terjadi pada **situasi peperangan** atau situasi yang tidak menguntungkan atau yang sangat membuat stres.
 
-Rutger dibawa ke IGD oleh orang asing dalam kondisi bingung, tidak tahu siapa dirinya atau tempat tinggalnya. Saat pertama dirawat: **amnesia menyeluruh** (tidak bisa mengingat identitas atau peristiwa personal). Saat ingin dipulangkan: **amnesia lokal** (tidak ingat periode antara masuk IGD hingga pagi hari ia kembali sadar).
+Memalsukan mengalami amnesia untuk melepaskan diri dari tanggung jawab disebut **malingering** (bukan gangguan disosiatif sejati).
 
-Terungkap bahwa sebelum masuk IGD, Rutger tidak sengaja menewaskan seorang pejalan kaki dengan mobilnya. Meski tidak bersalah secara hukum, Rutger merasa bersalah. Amnesianya dihubungkan dengan **rasa bersalah, stres akibat kecelakaan, dan kekhawatiran akan pemeriksaan**.
+### Kasus Rutger: Amnesia Disosiatif
+
+Rutger dibawa ke IGD sebuah rumah sakit oleh orang asing dalam kondisi bingung, tidak tahu siapa dirinya atau tempat ia tinggal. Terlepas dari kebingungannya, ia tidak mabuk atau menggunakan narkoba, dan amnesiannya tidak terkait trauma fisik. Setelah dirawat beberapa hari, ingatannya kembali.
+
+Pertama kali dirawat, Rutger tampaknya menderita **amnesia menyeluruh**: tidak bisa mengingat identitasnya atau peristiwa personal dalam hidupnya. Ketika ingin dipulangkan, ia menunjukkan **amnesia lokal** untuk periode antara ia memasuki IGD hingga pagi ia kembali mengingat peristiwa sebelumnya.
+
+Dikonfirmasi polisi bahwa pada hari amnesiannya dimulai, Rutger tidak sengaja menewaskan seorang pejalan kaki dengan mobilnya. Meski secara hukum tidak bersalah, Rutger merasa bersalah. Ia kemudian bingung dan kehilangan ingatannya setelah mengisi formulir pemeriksaan. Amnesianya mungkin berhubungan dengan **rasa bersalah, stres karena kecelakaan, dan kekhawatiran akan pemeriksaan** yang dialaminya.
 
 ---
 
@@ -62,7 +66,7 @@ Berdasarkan DSM-5, sekitar **setengah dari orang dewasa** pernah mengalami setid
 
 ### Karakteristik Utama
 
-- Episode **berulang** dari depersonalisasi atau derealisasi (atau keduanya)
+- Episode **berulang** dari depersonalisasi atau derealisasi maupun keduanya
 - Episode dicirikan dengan **perasaan terlepas** dari pikiran, perasaan, atau sensasi (*depersonalisasi*) atau dari lingkungan (*derealisasi*)
 - Episode dapat berupa **mengamati diri sendiri dari luar tubuh**
 - Episode dapat **terasa seperti mimpi**
@@ -72,25 +76,25 @@ Berdasarkan DSM-5, sekitar **setengah dari orang dewasa** pernah mengalami setid
 
 ## Perspektif Teoretis Gangguan Disosiatif
 
-- **Pandangan psikodinamika**: melibatkan penggunaan represi secara besar-besaran — pemisahan impuls yang tidak dapat diterima dan ingatan menyakitkan dari kesadaran; biasanya melibatkan kekerasan oleh orang tua (Ross & Ness, 2010 dalam Nevid)
-- **Teori sosial kognitif**: DID adalah bentuk permainan peran yang diperoleh melalui pembelajaran observasional dan penguatan
-- **Disfungsi otak**: disfungsi bagian otak yang terlibat dalam persepsi tubuh dapat menjelaskan perasaan terputus dari tubuh (depersonalisasi)
-- **Model diatesis-stres**: orang yang rentan berfantasi, mudah dihipnosis, dan terbuka untuk diubah kesadarannya memiliki kecenderungan lebih tinggi mengembangkan pengalaman disosiatif ketika dihadapkan dengan kekerasan traumatis
+- **Pandangan psikodinamika**: gangguan disosiatif melibatkan penggunaan represi secara besar-besaran, menyebabkan pemisahan impuls yang tidak dapat diterima dan ingatan menyakitkan dari kesadaran; biasanya melibatkan kekerasan yang dilakukan oleh orang tua (Ross & Ness, 2010 dalam Nevid)
+- **Teori sosial kognitif**: gangguan identitas disosiatif adalah bentuk permainan peran yang diperoleh melalui pembelajaran observasional dan penguatan
+- **Disfungsi otak**: kemungkinan adanya disfungsi bagian otak yang terlibat dalam persepsi tubuh dapat membantu menjelaskan perasaan terputus dari tubuh (depersonalisasi)
+- **Model diatesis-stres**: orang yang rentan berfantasi, sangat mudah dihipnosis, dan terbuka untuk diubah kesadarannya memiliki kecenderungan yang lebih tinggi untuk mengembangkan pengalaman disosiatif ketika dihadapkan dengan kekerasan traumatis
 
 ---
 
-## Simtom Somatis dan Gangguan Terkait (Pengantar)
+## Pengantar: Simtom Somatis dan Gangguan Terkait
 
-| Jenis Gangguan | Prevalensi | Deskripsi | Ciri-Ciri |
+| Jenis Gangguan | Rata-Rata Prevalensi | Deskripsi | Ciri-Ciri Terkait |
 |---|---|---|---|
-| **Gangguan Simtom Somatis (SSD)** | 5–7% populasi dewasa | Pola perilaku/pikiran/perasaan abnormal terkait simtom fisik | Sering segera mencari bantuan medis; mengganggu keberfungsian secara signifikan |
-| **Gangguan Kecemasan terhadap Penyakit (Illness Anxiety Disorder)** | Tidak diketahui | Terlalu percaya bahwa dirinya sedang sakit parah | Takut sakit persisten meski dokter mengatakan sebaliknya; menginterpretasikan sensasi ringan sebagai tanda penyakit serius |
-| **Gangguan Konversi (Gangguan Simtom Neurologis Fungsional)** | ~5% pasien ke klinik neurologi | Perubahan/kehilangan fungsi fisik tanpa penyebab medis | Muncul dalam konteks konflik/tekanan; bisa disertai *la belle indifférence* (pengabaian simtom) |
-| **Gangguan Factitious** | ~1% pasien medis | Memalsukan/mengarang simtom fisik atau psikologis tanpa motif jelas | Tidak seperti malingering (tidak ada tujuan jelas); tipe: dalam diri sendiri (sindrom Munchausen) dan dikenakan ke orang lain |
+| **Gangguan Simtom Somatis (SSD)** | 5-7% populasi dewasa | Pola perilaku, pikiran, atau perasaan abnormal terkait simtom-simtom fisik | Simtom menyebabkan seseorang sering mencari bantuan medis atau mengganggu keberfungsian secara signifikan |
+| **Gangguan Kecemasan terhadap Penyakit (IAD)** | Tidak diketahui | Terlalu percaya bahwa dirinya sedang sakit parah | Rasa takut sakit yang persisten meski praktisi medis mengatakan sebaliknya; cenderung menginterpretasikan sensasi fisik atau nyeri ringan sebagai tanda penyakit serius |
+| **Gangguan Konversi (Gangguan Simtom Neurologis Fungsional)** | ~5% pasien ke klinik neurologi | Perubahan atau kehilangan fungsi fisik tanpa penyebab medis | Muncul dalam konteks konflik atau pengalaman yang menekan; dapat diasosiasikan dengan *la belle indifference* (pengabaian simtom) |
+| **Gangguan Factitious** | ~1% pasien medis di RS | Memalsukan atau mengarang simtom fisik atau psikologis tanpa motif yang jelas | Tidak seperti malingering (tidak ada tujuan jelas); dua tipe: dalam diri sendiri (sindrom Munchausen) dan dikenakan ke orang lain |
 
 ---
 
 ## Referensi
 
-- Nevid, Jeffrey S., Rathus, Spencer A., Greene, Beverly. (2018). *Abnormal Psychology in a Changing World*, Tenth Edition. New York: Pearson
-- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision* (DSM-5-TR)
+- Nevid, Jeffrey S., Rathus, Spencer A., Greene, Beverly. (2018). *Abnormal Psychology in a Changing World*, Tenth Edition. New York: Pearson.
+- American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition Text Revision* (DSM-5-TR).
