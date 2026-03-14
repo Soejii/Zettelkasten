@@ -1,8 +1,10 @@
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
 ## PDF Processing                                                                                                     
 For PDFs over 20 pages, split into parallel pdf-reader agents (20 pages each). Collect all extracted content, then pass it to the writing agent to produce the final literature note. For PDFs under 20 pages, use a single pdf-reader agent then pass to the writing agent.
+
 ## Repository Overview
 
 This is a personal Zettelkasten knowledge repository for a psychology college student (Rafi Mahadika Sujianto). All notes are written primarily in Indonesian (Bahasa Indonesia), covering college subjects in Psychology.
@@ -12,52 +14,30 @@ This is a personal Zettelkasten knowledge repository for a psychology college st
 ```
 College 101/
 ├── Zettelkasten/
-│   ├── Literature  Notes/   # Course-specific lecture & assignment notes, organized by subject
-│   └── Permanent Notes/     # Atomic concept notes, linked to each other
+│   ├── Literature Notes/   # Course-specific lecture & assignment notes, organized by subject
+│   └── Permanent Notes/     # Atomic concept notes, linked to each other (linked and sourced from literature note for most of the times)
 ├── Templates/               # Note templates (Core, Book, Daily, Resume)
 ├── Refrences/Books/         # Book summaries and references
 └── Assets/                  # Images and diagrams
 ```
 
-### Note Types
+## Note Types
 
-**Literature Notes** (`Literature  Notes/`) — organized by course/subject folder:
+**Literature Notes** (`Literature Notes/`) — organized by course/subject folder:
 - Lecture summaries, task write-ups, journal reviews, drafts
-- Subjects include: Statistika, Psikologi Kepribadian, Psikologi Perkembangan, Psikologi Kognitif, Psikologi Klinis, Psikologi Pendidikan, Psikologi Industri Organisasi, Penelitian Psikologi Kuantitatif, Penyusunan Instrumen Psikologi, Observasi dan Wawancara, Sosiologi, Agama, Neuro Psychology, Managemen Sumber Daya Manusia, Psikologi Sosial dan Dinamika, Kewirausahaan dan Psikologi Konsumen, Dasar-Dasar Etika Psikologi
 
 **Permanent Notes** (`Permanent Notes/`) — atomic concept notes:
 - One idea per note
 - Linked to other notes via `[[Note Name]]` wiki-links
 - Uses the Core Template structure
 
-## Note Conventions
-
-### Frontmatter (Core Template)
-```
-Date: YYYY-MM-DD
-Time: HH:mm
-Status: #low | #medium | #high
-Tags:
-
-# Title
-
-[body]
-
-# References
-[[Linked Note]]
-```
-
-### Literature Review Format (`Format Literature Review.md`)
-Used for journal article reviews in Penelitian Psikologi Kuantitatif:
-- Identitas Artikel (author, year, title, source, DOI)
-- Masalah Penelitian, Landasan Teori, Metode (subjek, instrumen, analisis), Hasil, Catatan Lain, Kritik, Saran
-
 ### Resume Template
-For lecture summaries — includes `Pertemuan Ke -` (session number) and student identity header.
+For lecture summaries — includes `Pertemuan Ke -` (session number) and student identity header. ALWAYS ASK FOR SESSION NUMBER
 
 ## Writing Style
 
 - Never use em dashes (—). Use commas, semicolons, colons, parentheses, or other connectors instead.
+- Default to APA format for all academic work.
 
 ## Linking
 
