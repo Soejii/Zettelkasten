@@ -1,4 +1,4 @@
-# PROPOSAL PENELITIAN
+ # PROPOSAL PENELITIAN
 
 **Judul:** Bukan Bidangku, tapi Aku Bisa?: Eksplorasi Efikasi Diri dan Perilaku Belajar Mahasiswa Berlatar Belakang IPS dalam Program Studi Saintek
 
@@ -40,7 +40,7 @@ Meskipun jumlah mahasiswa linjur di perguruan tinggi Indonesia semakin bertambah
 
 1. Bagaimana gambaran efikasi diri mahasiswa berlatar belakang IPS dalam menjalani program studi saintek?
 2. Bagaimana perilaku belajar yang ditunjukkan mahasiswa berlatar belakang IPS dalam menghadapi tuntutan akademik saintek?
-3. Bagaimana keterkaitan antara efikasi diri dan perilaku belajar pada mahasiswa berlatar belakang IPS di program studi saintek?
+3. Bagaimana efikasi diri dan perilaku belajar saling membentuk dalam pengalaman akademik mahasiswa berlatar belakang IPS di program studi saintek?
 
 ---
 
@@ -48,7 +48,7 @@ Meskipun jumlah mahasiswa linjur di perguruan tinggi Indonesia semakin bertambah
 
 1. Mendeskripsikan gambaran efikasi diri mahasiswa berlatar belakang IPS dalam menjalani program studi saintek.
 2. Mengidentifikasi pola perilaku belajar yang ditunjukkan mahasiswa berlatar belakang IPS dalam menghadapi tuntutan akademik saintek.
-3. Menganalisis keterkaitan antara efikasi diri dan perilaku belajar pada mahasiswa berlatar belakang IPS di program studi saintek.
+3. Menganalisis bagaimana efikasi diri dan perilaku belajar saling membentuk dalam pengalaman akademik mahasiswa berlatar belakang IPS di program studi saintek.
 
 ---
 
@@ -94,7 +94,7 @@ Hubungan antara efikasi diri dan perilaku telah dibuktikan secara empiris. Bandu
 
 Perilaku belajar adalah keseluruhan pola respons yang dapat diamati dari individu selama proses belajar. Konsep ini tidak terbatas pada hasil belajar dalam bentuk nilai atau prestasi akademik, melainkan mencakup cara individu merespons stimulus akademik, berinteraksi dengan lingkungan belajarnya, dan mengelola kesulitan yang dihadapi. Dimensi perilaku dalam belajar menjadi sangat relevan dalam konteks penelitian kualitatif berbasis observasi, karena pola-pola ini dapat diamati secara langsung oleh peneliti tanpa bergantung pada laporan diri semata.
 
-**Definisi Konseptual.** Gage dan Berliner (dalam Marfita et al., 2023) mendefinisikan perilaku belajar sebagai perubahan perilaku manusia sebagai akibat dari pengalaman belajar. Skinner (dalam Suyadi, 2021) menekankan bahwa pembelajaran merupakan perubahan perilaku yang dapat diamati, terbentuk melalui prinsip stimulus dan respons dengan penguatan sebagai mekanisme pengaturnya. Kedua perspektif ini menempatkan perilaku yang tampak sebagai unit analisis utama, bukan proses internal yang tersembunyi.
+**Definisi Konseptual.** Gage dan Berliner (dalam Marfita et al., 2023) mendefinisikan perilaku belajar sebagai perubahan perilaku manusia sebagai akibat dari pengalaman belajar. Dalam konteks penelitian kualitatif, perilaku belajar tidak hanya dipahami sebagai respons yang tampak secara lahiriah, tetapi juga mencakup makna yang dilekatkan individu terhadap pola-pola belajarnya sendiri. Perspektif ini memungkinkan peneliti untuk mengamati manifestasi perilaku belajar secara langsung sekaligus menggali bagaimana individu memaknai dan menjelaskan perilaku tersebut dalam narasi pengalaman mereka.
 
 **Definisi Operasional.** Dalam penelitian ini, perilaku belajar dioperasionalkan sebagai keseluruhan pola respons yang ditampilkan mahasiswa berlatar belakang IPS selama proses belajar di lingkungan saintek, yang dapat diamati secara langsung oleh peneliti. Pola-pola ini meliputi cara informan merespons materi perkuliahan, berinteraksi dengan sesama mahasiswa, dan mengelola situasi akademik yang menantang.
 
@@ -147,7 +147,7 @@ Dalam pelaksanaannya, peneliti akan menerapkan prosedur epoche atau bracketing (
 
 Penelitian dilaksanakan di Universitas Negeri Malang (UM). Penentuan informan menggunakan purposive sampling dengan kriteria berikut: (1) berlatar belakang SMA jurusan IPS (bukan MIPA, SMK teknik, atau setara); (2) saat ini aktif menempuh program studi saintek di UM; (3) telah menjalani minimal satu semester penuh dalam program tersebut; serta (4) bersedia diobservasi selama sesi belajar dan diwawancarai secara mendalam.
 
-Jumlah informan yang ditargetkan adalah 3 hingga 5 orang. Pengumpulan data dihentikan ketika saturasi data tercapai, yaitu ketika penambahan informan baru tidak lagi menghasilkan tema atau pola yang secara substansial berbeda dari yang telah ditemukan sebelumnya (Saunders et al., 2018). Selain informan utama, penelitian juga melibatkan significant other dari masing-masing informan, yaitu satu orang teman sekelas berlatar belakang saintek, untuk keperluan triangulasi sumber.
+Jumlah informan yang ditargetkan adalah 5 hingga 7 orang. Pengumpulan data dihentikan ketika saturasi data tercapai, yaitu ketika penambahan informan baru tidak lagi menghasilkan tema atau pola yang secara substansial berbeda dari yang telah ditemukan sebelumnya (Saunders et al., 2018). Selain informan utama, penelitian juga melibatkan significant other dari masing-masing informan, yaitu satu orang teman sekelas berlatar belakang saintek, untuk keperluan triangulasi sumber.
 
 ---
 
@@ -232,8 +232,6 @@ Saunders, M. N. K., Lewis, P., & Thornhill, A. (2018). *Research methods for bus
 
 Setiaji, B., Santoso, P. H., Aziza, K. N., Retnawati, H., & Khairudin, M. (2023). Using multilevel modeling to evaluate science literacy and technology course of the Indonesian non-science students. *Unpublished manuscript*.
 
-Suyadi. (2021). *Psikologi belajar pendidikan anak usia dini*. Pustaka Insani Madani.
-
 Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity navigation in STEM: Overlapping figured worlds of success. *CBE-Life Sciences Education, 20*(ar48), 1-24. https://doi.org/10.1187/cbe.20-06-0121
 
 ---
@@ -245,13 +243,19 @@ Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity 
 **PEDOMAN WAWANCARA**
 **"Bukan Bidangku, tapi Aku Bisa?: Eksplorasi Efikasi Diri dan Perilaku Belajar Mahasiswa Berlatar Belakang IPS dalam Program Studi Saintek"**
 
+**Pendekatan:** Wawancara mendalam semi-terstruktur (Brinkmann & Kvale, 2018). Pewawancara menggunakan pedoman wawancara sebagai acuan umum, namun tetap fleksibel mengembangkan pertanyaan lanjutan (probing) sesuai arah percakapan yang muncul secara alamiah dari informan.
+
+**Tujuan Wawancara:** Menggali secara mendalam pengalaman efikasi diri dan perilaku belajar mahasiswa berlatar belakang IPS yang menempuh program studi saintek di Universitas Negeri Malang, termasuk makna subjektif yang mereka lekatkan pada pengalaman tersebut.
+
 **Petunjuk Pelaksanaan Wawancara:**
-1. Wawancara bersifat semi-terstruktur; peneliti dapat mengembangkan pertanyaan sesuai arah percakapan.
-2. Seluruh sesi wawancara direkam dengan persetujuan informan dan akan ditranskrip secara verbatim.
-3. Identitas informan dijaga kerahasiaannya; nama yang digunakan dalam laporan adalah pseudonym.
-4. Tidak ada jawaban yang benar atau salah; peneliti tertarik pada pengalaman nyata informan.
-5. Informan berhak tidak menjawab pertanyaan tertentu atau menghentikan sesi kapan saja tanpa konsekuensi.
-6. Sesi wawancara ketiga akan digunakan untuk member checking.
+1. Pewawancara memperkenalkan diri dan menjelaskan perannya sebagai peneliti.
+2. Pewawancara menjelaskan tujuan wawancara secara singkat dan jelas kepada informan.
+3. Pewawancara memberikan informed consent dan memastikan informan memahami hak-haknya, termasuk hak untuk tidak menjawab atau menghentikan sesi kapan saja.
+4. Pewawancara meminta izin untuk merekam seluruh sesi wawancara menggunakan alat perekam suara.
+5. Pewawancara menggunakan bahasa yang netral, terbuka, dan tidak mengarahkan (non-leading) selama wawancara berlangsung.
+6. Pewawancara memastikan informan merasa nyaman dan siap sebelum memulai pertanyaan inti.
+7. Pewawancara mencatat seluruh pembicaraan, termasuk ekspresi non-verbal dan konteks situasional yang relevan, dalam catatan lapangan.
+8. Pewawancara mengakhiri sesi dengan mengucapkan terima kasih dan menanyakan apakah informan ingin menambahkan sesuatu yang belum tersampaikan.
 
 ---
 
@@ -260,13 +264,19 @@ Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity 
 | Komponen | Pertanyaan |
 |---|---|
 | Pembuka | 1. Bisa ceritakan sedikit tentang latar belakang jurusan SMA-mu dan bagaimana kamu memutuskan masuk ke program studi saintek ini? |
-| Pembuka | 2. Apa yang pertama kali kamu rasakan ketika tahu kamu akan belajar [nama mata kuliah saintek] padahal sebelumnya tidak pernah kamu pelajari secara formal? |
+| Pembuka | 2. Apa yang pertama kali kamu rasakan ketika tahu kamu akan belajar mata kuliah saintek padahal sebelumnya tidak pernah kamu pelajari secara formal? |
 | Magnitude | 3. Dari semua mata kuliah saintek yang kamu ambil, mana yang paling terasa berat untukmu? Apa yang membuatnya berat? |
 | Magnitude | 4. Ketika kamu mendapat tugas atau soal yang benar-benar asing, apa yang biasanya kamu lakukan: mencoba mengerjakan sendiri dulu, atau langsung mencari bantuan? Kenapa? |
-| Strength | 5. Pernahkah kamu mendapat nilai yang jauh dari harapan di salah satu mata kuliah saintek? Ceritakan bagaimana perasaanmu dan apa yang kamu lakukan setelahnya. |
-| Strength | 6. Ketika kamu melihat teman sekelas yang berlatar belakang saintek tampak lebih cepat memahami materi, bagaimana itu memengaruhi keyakinanmu terhadap kemampuanmu sendiri? |
-| Generality | 7. Apakah ada mata kuliah saintek di mana kamu merasa "aku bisa ini"? Kalau ada, apakah perasaan itu membantumu di mata kuliah saintek yang lain juga? |
-| Generality | 8. Bagaimana kamu mendeskripsikan keyakinanmu terhadap kemampuanmu secara keseluruhan sebagai mahasiswa saintek yang berlatar belakang IPS? |
+| Magnitude | 5. Bagaimana kamu menilai kemampuanmu dalam menyelesaikan tugas praktikum atau laboratorium yang belum pernah kamu alami sebelumnya? Bisa ceritakan satu pengalaman konkretnya? |
+| Magnitude | 6. Apakah kamu pernah meragukan keputusanmu masuk prodi saintek ketika melihat tingkat kesulitan mata kuliahnya? Ceritakan momen itu dan apa yang kamu pikirkan saat itu. |
+| Strength | 7. Pernahkah kamu mendapat nilai yang jauh dari harapan di salah satu mata kuliah saintek? Ceritakan bagaimana perasaanmu dan apa yang kamu lakukan setelahnya. |
+| Strength | 8. Ketika kamu melihat teman sekelas berlatar belakang saintek tampak lebih cepat memahami materi, bagaimana itu memengaruhi keyakinanmu terhadap kemampuanmu sendiri? |
+| Strength | 9. Ketika kamu mengalami kegagalan berulang di mata kuliah tertentu, apakah keyakinanmu untuk bisa berhasil di prodi ini ikut berubah? Ceritakan prosesnya. |
+| Strength | 10. Apa yang paling sering membuatmu hampir menyerah, dan apa yang akhirnya membuatmu bertahan sampai sekarang? |
+| Generality | 11. Apakah ada mata kuliah saintek di mana kamu merasa "aku bisa ini"? Kalau ada, apakah perasaan itu membantumu di mata kuliah saintek yang lain juga? |
+| Generality | 12. Bagaimana kamu mendeskripsikan keyakinanmu terhadap kemampuanmu secara keseluruhan sebagai mahasiswa saintek yang berlatar belakang IPS? |
+| Generality | 13. Ketika kamu berhasil di satu mata kuliah saintek, apakah kamu merasa itu karena kamu memang mampu secara umum, atau karena mata kuliah itu kebetulan cocok denganmu? Jelaskan. |
+| Generality | 14. Apakah ada situasi di luar perkuliahan, misalnya organisasi atau kehidupan sehari-hari, di mana keyakinanmu terhadap kemampuan akademik saintek ikut berpengaruh? |
 
 ---
 
@@ -275,25 +285,63 @@ Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity 
 | Komponen | Pertanyaan |
 |---|---|
 | Kebiasaan Belajar | 1. Bagaimana rutinitas belajarmu untuk mata kuliah saintek? Kapan, di mana, dan berapa lama biasanya kamu belajar sebelum ujian atau kuis? |
-| Kebiasaan Belajar | 2. Apakah pola belajarmu untuk saintek berbeda dari cara belajarmu dulu saat di SMA jurusan IPS? Apa yang berubah? |
-| Keterampilan Belajar | 3. Ketika kamu tidak paham materi saintek di kelas, apa yang kamu lakukan? Apakah kamu mencari sumber lain, membentuk kelompok belajar, atau cara lain? |
-| Keterampilan Belajar | 4. Bagaimana kamu membuat catatan untuk mata kuliah saintek? Apakah strateginya berbeda dari cara kamu mencatat materi IPS dulu? |
-| Sikap dan Perilaku Afektif | 5. Bagaimana perasaanmu ketika berada di kelas saintek dan mendengar materi yang sama sekali asing bagimu? Ceritakan salah satu momen konkret yang kamu ingat. |
-| Sikap dan Perilaku Afektif | 6. Ketika kamu menghadapi kegagalan akademik (nilai buruk, tidak lulus praktikum, dll.), bagaimana kamu biasanya meresponsnya secara emosional dan apa yang kemudian kamu lakukan? |
+| Kebiasaan Belajar | 2. Apakah pola belajarmu untuk saintek berbeda dari cara belajarmu dulu saat di SMA jurusan IPS? Apa yang berubah dan mengapa? |
+| Kebiasaan Belajar | 3. Apakah kamu memiliki jadwal belajar yang tetap untuk mata kuliah saintek, atau cenderung belajar ketika ada ujian saja? Apa yang mendorongmu memilih pola itu? |
+| Keterampilan Belajar | 4. Ketika kamu tidak paham materi saintek di kelas, apa yang kamu lakukan? Apakah kamu mencari sumber lain, membentuk kelompok belajar, atau menggunakan cara lain? |
+| Keterampilan Belajar | 5. Bagaimana kamu membuat catatan untuk mata kuliah saintek? Apakah strateginya berbeda dari cara kamu mencatat materi IPS dulu? |
+| Keterampilan Belajar | 6. Apakah kamu menggunakan sumber belajar tambahan seperti video tutorial, aplikasi, atau referensi online untuk memahami materi saintek? Seberapa sering dan seberapa membantu menurutmu? |
+| Pengamatan | 7. Bagaimana caramu mengikuti penjelasan dosen di kelas, terutama ketika materi yang disampaikan sepenuhnya baru dan tidak ada kaitannya dengan pengetahuanmu sebelumnya? |
+| Pengamatan | 8. Apakah kamu pernah merasa tertinggal saat dosen menjelaskan materi teknis yang terlalu cepat? Apa yang kamu lakukan saat itu terjadi? |
+| Pengamatan | 9. Bagaimana konsentrasimu selama sesi praktikum atau demonstrasi? Apakah kamu merasa lebih mudah atau lebih sulit berkonsentrasi dibandingkan di kelas teori? |
+| Pemikiran Kritis dan Logis | 10. Ketika mengerjakan soal saintek, apakah kamu cenderung menghafal langkah penyelesaian atau mencoba memahami logika di baliknya? Bisa kasih contoh konkretnya? |
+| Pemikiran Kritis dan Logis | 11. Apakah cara berpikirmu dari latar belakang IPS, misalnya dalam menganalisis atau berargumentasi, pernah membantumu memahami materi saintek? Ceritakan pengalamannya. |
+| Pemikiran Kritis dan Logis | 12. Bagaimana pendekatanmu ketika menghadapi soal atau konsep yang membutuhkan penalaran logis bertahap yang belum pernah kamu temui sebelumnya? |
+| Sikap terhadap Materi | 13. Bagaimana perasaanmu terhadap materi kuliah saintek secara umum? Apakah ada topik yang benar-benar menarik minatmu, atau sebaliknya, yang sama sekali tidak kamu nikmati? |
+| Sikap terhadap Materi | 14. Apakah sikapmu terhadap materi saintek berubah seiring berjalannya semester? Misalnya, dari awalnya takut menjadi lebih tertarik, atau sebaliknya? |
+| Sikap terhadap Materi | 15. Bagaimana caramu memotivasi diri untuk mempelajari materi yang menurutmu membosankan atau tidak relevan dengan minatmu? |
+| Perilaku Afektif | 16. Bagaimana perasaanmu ketika berada di kelas saintek dan mendengar materi yang sama sekali asing bagimu? Ceritakan salah satu momen konkret yang kamu ingat. |
+| Perilaku Afektif | 17. Ketika kamu menghadapi kegagalan akademik seperti nilai buruk atau tidak lulus praktikum, bagaimana kamu biasanya meresponsnya secara emosional dan apa yang kemudian kamu lakukan? |
+| Perilaku Afektif | 18. Apakah ada momen di mana kamu merasa bangga atau lega terkait pencapaianmu di mata kuliah saintek? Ceritakan momen tersebut dan apa yang kamu rasakan. |
 
 ---
 
-### Lampiran 2: Pedoman Observasi
+### Lampiran 2: Pedoman Wawancara Significant Other
+
+**PEDOMAN WAWANCARA SIGNIFICANT OTHER**
+**"Bukan Bidangku, tapi Aku Bisa?: Eksplorasi Efikasi Diri dan Perilaku Belajar Mahasiswa Berlatar Belakang IPS dalam Program Studi Saintek"**
+
+Wawancara significant other dilakukan sebagai bagian dari triangulasi sumber (Creswell & Poth, 2018). Informan sekunder adalah satu orang teman sekelas berlatar belakang saintek dari masing-masing informan utama. Tujuannya adalah memverifikasi apakah perilaku belajar dan manifestasi efikasi diri yang dilaporkan informan utama konsisten dengan yang dipersepsikan oleh orang yang berinteraksi langsung dengannya dalam konteks akademik sehari-hari.
+
+**Catatan:** [nama informan] pada pertanyaan di bawah ini diganti dengan nama atau inisial informan utama yang bersangkutan.
+
+| Komponen | Pertanyaan |
+|---|---|
+| Partisipasi di Kelas | 1. Bagaimana Anda mendeskripsikan keterlibatan [nama informan] selama perkuliahan di kelas? Apakah ia cenderung aktif bertanya dan berpartisipasi, atau lebih banyak diam? |
+| Respons terhadap Kesulitan | 2. Apakah Anda pernah melihat [nama informan] mengalami kesulitan dengan materi perkuliahan? Bagaimana ia biasanya merespons kesulitan tersebut? |
+| Perbedaan Cara Belajar | 3. Menurut pengamatan Anda, apakah ada perbedaan yang terlihat antara cara belajar [nama informan] dengan mahasiswa lain yang berlatar belakang saintek? |
+| Perilaku Help-Seeking | 4. Apakah [nama informan] pernah meminta bantuan kepada Anda atau teman sekelas lainnya terkait materi perkuliahan? Seberapa sering dan dalam konteks seperti apa? |
+| Interaksi Sosial Akademik | 5. Bagaimana [nama informan] berinteraksi dengan teman-teman sekelas selama kegiatan belajar, misalnya diskusi kelompok atau praktikum? |
+| Respons Emosional | 6. Apakah Anda pernah melihat [nama informan] menunjukkan reaksi emosional tertentu, misalnya frustrasi, kegembiraan, atau kecemasan, terkait perkuliahan? Ceritakan. |
+| Perubahan Sepanjang Semester | 7. Menurut pengamatan Anda, apakah [nama informan] menunjukkan perubahan dalam cara belajar atau tingkat kepercayaan dirinya sejak awal semester hingga sekarang? |
+| Penilaian Keseluruhan | 8. Secara keseluruhan, bagaimana Anda menilai kemampuan [nama informan] dalam mengikuti dan beradaptasi dengan tuntutan akademik di program studi ini? |
+
+---
+
+### Lampiran 3: Pedoman Observasi
 
 **PEDOMAN OBSERVASI**
 **"Bukan Bidangku, tapi Aku Bisa?: Eksplorasi Efikasi Diri dan Perilaku Belajar Mahasiswa Berlatar Belakang IPS dalam Program Studi Saintek"**
 
+**Pendekatan:** Observasi non-partisipan (Creswell & Poth, 2018). Peneliti hadir sebagai pengamat pasif di lingkungan akademik informan tanpa terlibat dalam aktivitas belajar yang sedang berlangsung.
+
+**Tujuan Observasi:** Mengamati manifestasi efikasi diri dan perilaku belajar mahasiswa berlatar belakang IPS dalam setting akademik nyata, sehingga data observasi dapat disilangkan dengan data wawancara untuk keperluan triangulasi teknik.
+
 **Petunjuk Pelaksanaan Observasi:**
-1. Observasi dilakukan secara non-partisipan; peneliti hadir sebagai pengamat pasif tanpa terlibat dalam kegiatan belajar.
-2. Kehadiran peneliti diketahui oleh informan dan telah mendapat persetujuan sebelumnya.
-3. Pencatatan dilakukan menggunakan kombinasi narrative description, rating scale, time sampling, dan anecdotal record.
-4. Identitas informan dijaga kerahasiaannya dalam seluruh catatan lapangan.
-5. Observasi dilakukan minimal 3 sesi selama periode tiga minggu sebelum wawancara mendalam dilakukan.
+1. Peneliti berperan sebagai pengamat non-partisipan; tidak terlibat dalam aktivitas belajar yang sedang berlangsung.
+2. Peneliti memastikan informed consent telah diperoleh dari informan sebelum observasi dimulai.
+3. Pencatatan dilakukan menggunakan empat teknik secara bersamaan: narrative description, rating scale, time sampling, dan anecdotal record.
+4. Kerahasiaan identitas informan dijaga dalam seluruh catatan lapangan; menggunakan kode atau inisial, bukan nama asli.
+5. Observasi dilakukan minimal 3 sesi selama periode tiga minggu sebelum wawancara mendalam dilaksanakan.
 
 ---
 
@@ -301,12 +349,12 @@ Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity 
 
 | Dimensi | Indikator Perilaku yang Dapat Diamati |
 |---|---|
-| Magnitude | Informan mengangkat tangan untuk menjawab pertanyaan dosen meskipun soal bersifat teknis; informan mencoba mengerjakan soal sulit secara mandiri sebelum meminta bantuan |
-| Magnitude | Informan menghindari soal atau tugas tertentu; menolak mencoba bagian praktikum yang terasa asing; ekspresi menyerah sebelum mencoba |
-| Strength | Informan tetap mengerjakan tugas dan hadir ke kelas setelah nilai ujian yang buruk; tidak menunjukkan perubahan drastis dalam perilaku setelah pengalaman negatif |
-| Strength | Informan absen dari kelas atau sesi setelah kegagalan; menunjukkan penurunan keterlibatan setelah nilai buruk |
-| Generality | Informan menggunakan strategi belajar yang sama di berbagai mata kuliah saintek; terlihat aktif di lebih dari satu konteks akademik |
-| Generality | Informan hanya terlibat aktif di satu mata kuliah tertentu; pasif atau absen di mata kuliah saintek lainnya |
+| Magnitude (tinggi) | Informan mengangkat tangan untuk menjawab pertanyaan dosen meskipun soal bersifat teknis; mencoba mengerjakan soal sulit secara mandiri sebelum meminta bantuan |
+| Magnitude (rendah) | Informan menghindari soal atau tugas tertentu; menolak mencoba bagian praktikum yang terasa asing; ekspresi menyerah sebelum mencoba |
+| Strength (tinggi) | Informan tetap mengerjakan tugas dan hadir ke kelas setelah nilai ujian yang buruk; tidak menunjukkan perubahan drastis dalam perilaku setelah pengalaman negatif |
+| Strength (rendah) | Informan absen dari kelas atau sesi setelah kegagalan; menunjukkan penurunan keterlibatan setelah nilai buruk |
+| Generality (luas) | Informan menggunakan strategi belajar yang sama di berbagai mata kuliah saintek; terlihat aktif di lebih dari satu konteks akademik |
+| Generality (sempit) | Informan hanya terlibat aktif di satu mata kuliah tertentu; pasif atau absen di mata kuliah saintek lainnya |
 
 ---
 
@@ -315,15 +363,24 @@ Zuckerman, A. L., & Lo, S. M. (2021). Transfer student experiences and identity 
 | Dimensi | Indikator Perilaku yang Dapat Diamati |
 |---|---|
 | Kebiasaan Belajar | Informan terlihat memiliki bahan atau catatan yang sudah dipersiapkan sebelum masuk kelas; datang lebih awal dan mengulang materi sebelum kuliah dimulai |
+| Kebiasaan Belajar | Informan terlihat membuka catatan atau materi kuliah pada waktu senggang di luar jam kuliah; menunjukkan pola belajar yang konsisten antar sesi observasi |
 | Keterampilan Belajar | Informan aktif mencatat, menggarisbawahi, atau membuat ringkasan saat dosen menjelaskan; menggunakan sumber tambahan di laptop atau buku di luar bahan utama |
+| Keterampilan Belajar | Informan terlihat menggunakan strategi belajar tertentu seperti membuat mind map, menandai halaman penting, atau merangkum ulang materi dengan kata-kata sendiri |
+| Keterampilan Belajar | Informan meminta penjelasan ulang kepada dosen atau teman setelah kelas; membentuk atau bergabung dalam kelompok belajar secara inisiatif sendiri |
 | Pengamatan | Informan mempertahankan kontak visual dengan dosen selama penjelasan; tidak menggunakan ponsel atau melakukan kegiatan tidak relevan selama perkuliahan |
-| Pemikiran Kritis dan Logis | Informan mengajukan pertanyaan yang menunjukkan pemikiran kritis, bukan sekadar klarifikasi fakta; mencoba menghubungkan konsep baru dengan yang sudah dipahami |
-| Sikap terhadap Materi | Informan terlihat antusias (condong ke depan, ekspresi tertarik) ketika topik tertentu dibahas; atau sebaliknya, terlihat pasif dan tidak terlibat |
-| Perilaku Afektif | Informan menunjukkan respons emosional yang dapat diamati: frustrasi, kelegaan, kegembiraan ketika berhasil; perilaku help-seeking atau penghindaran saat menghadapi kesulitan |
+| Pengamatan | Informan menunjukkan penurunan perhatian secara bertahap selama sesi perkuliahan; terlihat mengalihkan pandangan atau melakukan kegiatan lain saat materi teknis disampaikan |
+| Pemikiran Kritis dan Logis | Informan mengajukan pertanyaan yang menunjukkan pemikiran analitis, bukan sekadar klarifikasi fakta; mencoba menghubungkan konsep baru dengan yang sudah dipahami |
+| Pemikiran Kritis dan Logis | Informan menunjukkan upaya menjelaskan ulang konsep dengan bahasa sendiri kepada teman; mengerjakan soal dengan pendekatan logis bertahap, bukan sekadar menyalin jawaban |
+| Sikap terhadap Materi | Informan terlihat antusias (condong ke depan, ekspresi tertarik) ketika topik tertentu dibahas; atau sebaliknya, terlihat pasif dan tidak terlibat secara afektif |
+| Sikap terhadap Materi | Informan menunjukkan perbedaan tingkat keterlibatan yang mencolok antara mata kuliah yang diminati dan yang tidak diminati |
+| Sikap terhadap Materi | Informan memberikan komentar spontan (positif atau negatif) tentang materi yang sedang dibahas; ekspresi wajah berubah ketika topik tertentu diperkenalkan |
+| Perilaku Afektif | Informan menunjukkan respons emosional yang dapat diamati: frustrasi, kelegaan, kegembiraan; perilaku help-seeking atau penghindaran ketika menghadapi kesulitan |
+| Perilaku Afektif | Informan menunjukkan tanda-tanda kecemasan menjelang ujian atau kuis (gelisah, ekspresi tegang); atau sebaliknya, menunjukkan ketenangan dan kesiapan |
+| Perilaku Afektif | Informan bereaksi secara emosional terhadap hasil ujian atau umpan balik dosen; menunjukkan perubahan perilaku yang terlihat (lebih pendiam atau lebih aktif) setelah menerima evaluasi akademik |
 
 ---
 
-### Lampiran 3: Informed Consent
+### Lampiran 4: Informed Consent
 
 **FORMULIR PERSETUJUAN BERPARTISIPASI DALAM PENELITIAN**
 **(Persetujuan Setelah Penjelasan / PSP)**
