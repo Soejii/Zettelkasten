@@ -45,8 +45,8 @@ House hampir tidak pernah mau memeriksa pasien secara langsung, lebih memilih me
 
 *Setting: Ruang klinik, House sedang menangani pasien malingering*
 
-| Antecedent Events | Behavior/Response | Consequence Events |
-| ----------------- | ----------------- | ------------------ |
+| Antecedent Events                                                                                                                               | Behavior/Response                                                                                                                                                                                                                     | Consequence Events                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | House sedang menangani pasien di klinik dan menyadari bahwa pasien tersebut sedang malingering (berpura-pura sakit). House membutuhkan Vicodin. | House meminta Vicodin ke apoteker, lalu terpikirkan untuk memberikan permen sebagai obat placebo kepada pasien. House menukar Vicodin miliknya dengan permen dan memberikan permen tersebut ke pasien seolah-olah itu obat sungguhan. | Pasien percaya dan menerima "obat" tersebut. House mendapatkan Vicodin yang ia butuhkan sekaligus menyelesaikan kasus klinik dengan cara yang tidak konvensional. |
 
 **Insiden 3 - "Who's Molesting You?" (S1E2, sekitar menit ke-15)**
