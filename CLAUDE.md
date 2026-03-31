@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Core Templates
+
+Only use core templates for Permanent Notes
+
 ## PDF Processing                                                                                                     
 For PDFs over 20 pages, split into parallel pdf-reader agents (20 pages each). Collect all extracted content, then pass it to the writing agent to produce the final literature note. For PDFs under 20 pages, use a single pdf-reader agent then pass to the writing agent.
 
