@@ -12,3 +12,4 @@ Confrimatory Factor Analysis adalah metode statistik psikometri yang bertujuan u
 
 # References
 [[Dimensi]]
+[[Factor Analysis]]

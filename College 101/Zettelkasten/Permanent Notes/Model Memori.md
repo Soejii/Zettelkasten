@@ -27,3 +27,5 @@ Tulving membedakan dua jenis long-term memory:
 # References
 [[Teori Pemrosesan Informasi]]
 [[Skema]]
+[[Working Memory]]
+[[Perhatian (Attention)]]

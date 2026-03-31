@@ -23,3 +23,4 @@ Self-efficacy berbeda dari harga diri (*self-esteem*): self-efficacy bersifat do
 [[Konstruk Psikologis]]
 [[Observational Learning]]
 [[Motivasi Intrinsik]]
+[[Determinisme Resiprokal]]

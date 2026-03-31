@@ -23,3 +23,5 @@ Gangguan perhatian adalah ciri utama ADHD (*Attention Deficit Hyperactivity Diso
 # References
 [[Overt]]
 [[Covert]]
+[[Model Memori]]
+[[Working Memory]]

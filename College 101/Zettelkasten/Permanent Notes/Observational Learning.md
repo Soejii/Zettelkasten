@@ -23,3 +23,4 @@ Observational learning juga menjadi dasar dari [[Self-Efficacy]]: melihat orang 
 [[Self-Efficacy]]
 [[Operan Conditioning]]
 [[Reinforcement]]
+[[Determinisme Resiprokal]]
