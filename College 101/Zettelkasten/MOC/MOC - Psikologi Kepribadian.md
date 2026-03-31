@@ -11,12 +11,34 @@ Map of Content untuk semua catatan tentang **Psikologi Kepribadian**.
 ---
 
 ## Konsep Kunci (Permanent Notes)
+
+### Psikoanalitik
 - [[Id]]
 - [[Ego]]
 - [[Superego]]
+- [[Ketidaksadaran]]
+- [[Teori Psikoseksual]]
 - [[Mekanisme Pertahanan Ego]]
+
+### Individual & Analitik
+- [[Inferiority Complex]]
+- [[Social Interest]]
+- [[Archetypes]]
+- [[Collective Unconscious]]
+- [[Individuation]]
+
+### Humanistik
+- [[Hierarki Kebutuhan]]
+- [[Self-Actualization]]
+- [[Congruence]]
+- [[Unconditional Positive Regard]]
+
+### Kognitif-Sosial
 - [[Self-Efficacy]]
 - [[Observational Learning]]
+- [[Determinisme Resiprokal]]
+
+### Perkembangan
 - [[Ego (Erikson) - Identity]]
 
 ---

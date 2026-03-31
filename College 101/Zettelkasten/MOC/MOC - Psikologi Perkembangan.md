@@ -14,6 +14,11 @@ Map of Content untuk semua catatan tentang **Psikologi Perkembangan**.
 - [[Chepalocaudal]]
 - [[Proximodistal]]
 - [[Ego (Erikson) - Identity]]
+- [[Teori Perkembangan Kognitif Piaget]]
+- [[Skema]]
+- [[Asimilasi & Akomodasi]]
+- [[Teori Psikoseksual]]
+- [[Observational Learning]]
 
 ---
 

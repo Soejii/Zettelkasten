@@ -12,6 +12,10 @@ Map of Content untuk semua catatan tentang **Psikologi Kognitif**.
 
 ## Konsep Kunci (Permanent Notes)
 - [[Perhatian (Attention)]]
+- [[Working Memory]]
+- [[Model Memori]]
+- [[Teori Pemrosesan Informasi]]
+- [[Skema]]
 - [[Overt]]
 - [[Covert]]
 
@@ -30,3 +34,9 @@ Map of Content untuk semua catatan tentang **Psikologi Kognitif**.
 - [[Tugas Pra-Kelas Working Memory]]
 - [[Tugas Individu Psikologi Kognitif]]
 - [[Draft Presentasi Psikologi Kognitif]]
+- [[Ringkasan Seven Sins of Memory]] — Tujuh kegagalan memori (Schacter)
+
+### Neuro Psychology
+- [[Sleepwalking]] — Somnambulisme, disosiasi NREM
+- [[Pengaturan Suhu]] — Termoregulasi, hipotalamus
+- [[Tugas UTS Neuropsych]]

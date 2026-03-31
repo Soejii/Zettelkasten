@@ -15,7 +15,15 @@ Map of Content untuk catatan **Psikologi Pendidikan**, **Psikologi Industri Orga
 - [[Motivasi Intrinsik]]
 - [[Motivasi Ekstrinsik]]
 - [[Perhatian (Attention)]]
+- [[Working Memory]]
+- [[Model Memori]]
+- [[Teori Pemrosesan Informasi]]
+- [[Teori Perkembangan Kognitif Piaget]]
 - [[Reinforcement]]
+- [[Operan Conditioning]]
+- [[Punishment]]
+- [[Prinsip Premack]]
+- [[Operasi Memotivasi]]
 - [[Observational Learning]]
 
 ---
@@ -37,6 +45,13 @@ Map of Content untuk catatan **Psikologi Pendidikan**, **Psikologi Industri Orga
 ### MSDM
 - [[Manajemen Sumber Daya Manusia - 2]]
 - [[Manajemen Sumber Daya Manusia - 3]]
+- [[Manajemen Sumber Daya Manusia - 9]] — Teori PMA Thurstone, IST dan Subtes
 
-## Kewirausahaan
-- [[Ringkasan Seven Sins of Memory]]
+## Psikologi Belajar & Modifikasi Perilaku
+
+### Catatan Kuliah
+- [[Psikologi Belajar & Modifikasi Perilaku - 2]] — Behaviorisme, ABC Model, Definisi Perilaku
+- [[Psikologi Belajar & Modifikasi Perilaku - 3]] — Teori Kognitif, Piaget, Bandura, Teori Pemrosesan Informasi
+- [[Psikologi Belajar & Modifikasi Perilaku - 4]] — Konstruktivisme, Vygotsky, Bruner
+- [[Psikologi Belajar & Modifikasi Perilaku - 6]] — Penguatan Positif, Pemilihan Reinforcer
+- [[Presenter Notes - Penguatan Positif Bagian C & D]]
