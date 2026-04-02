@@ -147,7 +147,6 @@ Sumber dapat dikategorikan berdasarkan:
 
 ## Menulis Pertanyaan Penelitian
 1. Mengajukan pertanyaan
-2. mulailah de
 
 ### Pertanyaan Deskriptif
 - Untuk mengeidentifikasi tanggapan partisipan terhapad ariabel atau pertanyaan tunggal
@@ -199,4 +198,4 @@ pilih salah satu:
 Masalah nyata => apa dampaknya jida dibiarkan? => apa yang belum jelas/masih terbatas? => kalau gap ini diisi, apa manfaatnya?
 
 ## Menyusun pertanyaan penelitian
-- pertanyaan penelitian (research question) adalah pertanyaan utama yang ingin dijawab melalui 
+- pertanyaan penelitian (research question) adalah pertanyaan utama yang ingin dijawab melalui penelitian
