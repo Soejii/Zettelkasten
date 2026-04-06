@@ -1,121 +1,99 @@
-## Asesmen Psikologis dalam Konteks MSDM
+## PAPIKOSTICK
 
-Asesmen psikologis merupakan salah satu instrumen penting dalam proses seleksi dan penempatan karyawan. Dalam praktik MSDM, kemampuan kognitif atau kecerdasan seseorang menjadi salah satu prediktor utama keberhasilan kerja. Oleh karena itu, pemahaman terhadap teori kecerdasan menjadi landasan penting bagi praktisi SDM dalam memilih dan menginterpretasikan alat ukur psikologis yang digunakan dalam proses rekrutmen dan pengembangan karyawan.
+PAPIKOSTICK (Personality and Preference Inventory - Kostick) adalah instrumen asesmen kepribadian yang dikembangkan oleh Max Martin Kostick dari Boston State College, Amerika Serikat, pada awal tahun 1960-an. Alat tes ini masuk ke Indonesia sekitar tahun 1980 dan sejak saat itu menjadi salah satu alat ukur yang paling banyak digunakan dalam konteks psikologi industri dan organisasi, terutama untuk keperluan seleksi, penempatan, dan pengembangan karyawan.
 
-Salah satu kerangka teori kecerdasan yang relevan dalam konteks asesmen SDM adalah teori Primary Mental Abilities (PMA) yang dikemukakan oleh L.L. Thurstone. Teori ini menawarkan pendekatan yang lebih terperinci dalam memahami profil kemampuan kognitif individu dibandingkan pendekatan kecerdasan tunggal.
+## Landasan Teoritis: Personologi Henry Murray
 
-## Latar Belakang Teori Primary Mental Abilities
+PAPIKOSTICK dikembangkan berdasarkan teori personologi yang dikemukakan oleh Henry Murray. Murray memandang kepribadian sebagai sistem yang terdiri dari needs (kebutuhan) dan press (tekanan lingkungan) yang saling berinteraksi dalam membentuk perilaku individu. Needs merujuk pada dorongan internal yang memotivasi perilaku, sementara press adalah kondisi eksternal dari lingkungan yang mempengaruhi cara individu berperilaku.
 
-### Kritik Thurstone terhadap Teori Faktor Umum Spearman
+Dalam konteks PAPIKOSTICK, fokus pengukuran diarahkan pada needs dan roles yang bersifat work-related: bagaimana individu berperilaku, berinteraksi, dan mengambil keputusan dalam lingkungan kerja. Penting untuk dipahami bahwa PAPIKOSTICK bukan alat ukur kepribadian yang komprehensif; alat ini hanya mengukur perilaku dan preferensi dalam konteks kerja, bukan seluruh dimensi kepribadian individu.
 
-Teori Primary Mental Abilities lahir dari kritik yang dikemukakan oleh Louis Leon Thurstone terhadap teori kecerdasan umum (general intelligence atau faktor "g") yang dicetuskan oleh Charles Spearman. Spearman berpendapat bahwa kecerdasan manusia dapat dijelaskan oleh satu faktor umum tunggal yang memengaruhi seluruh kemampuan kognitif. Thurstone menolak pandangan ini dan berargumen bahwa kecerdasan manusia tidak bersifat tunggal, melainkan terdiri dari sejumlah kemampuan dasar yang bersifat independen satu sama lain.
+## Struktur PAPIKOSTICK: Needs dan Roles
 
-Melalui pendekatan psikometrik yang lebih canggih, Thurstone mengembangkan teorinya pada tahun 1938 berdasarkan analisis terhadap hasil pengujian sejumlah besar subjek. Ia menyimpulkan bahwa terdapat tujuh kemampuan mental dasar yang secara bersama-sama membentuk profil kecerdasan seseorang.
+PAPIKOSTICK mengukur 20 skala yang terbagi dalam dua kelompok besar: 10 Needs dan 10 Roles. Masing-masing skala direpresentasikan dengan satu huruf kapital sebagai kode.
 
-## Konsep Dasar Teori PMA
+### 10 Needs (Kebutuhan)
 
-Teori Primary Mental Abilities (PMA) memaparkan bahwa manusia memiliki tujuh kemampuan dasar yang saling terkait satu sama lain. Kemampuan-kemampuan ini tidak berdiri sendiri secara mutlak, tetapi masing-masing dapat diidentifikasi dan diukur secara relatif independen melalui subtes yang dirancang khusus.
-
-Setiap kemampuan dasar dalam teori PMA dapat diukur dengan dimensi perilaku yang berbeda, yang direpresentasikan dalam bentuk subtes tersendiri. Meskipun kombinasi dari ketujuh faktor utama ini tetap mampu menghasilkan nilai IQ secara keseluruhan, profil kemampuan dasar yang dihasilkan memiliki peran yang lebih penting dan informatif dalam mendeskripsikan kemampuan kognitif seseorang secara menyeluruh.
-
-### Factor Analysis sebagai Dasar Metodologis
-
-Ketujuh kemampuan dasar dalam teori PMA lahir dari proses psikometrik yang disebut analisis faktor (factor analysis), yaitu metode statistik yang bertujuan mengidentifikasi keterkaitan antar variabel yang disebut dengan faktor. Terdapat dua jenis analisis faktor yang relevan:
-
-- **Exploratory Factor Analysis (EFA)**: digunakan ketika peneliti belum memiliki hipotesis sebelumnya mengenai struktur faktor yang akan ditemukan. Tujuannya adalah mengeksplorasi pola hubungan antar variabel secara terbuka untuk mengidentifikasi faktor-faktor yang muncul secara alami dari data
-- **Confirmatory Factor Analysis (CFA)**: digunakan ketika peneliti sudah memiliki hipotesis atau model faktor tertentu yang ingin diuji. Tujuannya adalah mengkonfirmasi apakah struktur faktor yang telah ditetapkan sesuai dengan data yang dikumpulkan
-
-Thurstone menggunakan pendekatan EFA dalam mengembangkan teori PMA, yang kemudian menghasilkan tujuh faktor utama kemampuan kognitif manusia.
-
-## Tujuh Kemampuan Dasar dalam Teori PMA
-
-### Verbal Comprehension (V)
-Kemampuan untuk memahami makna kata-kata dan bahasa secara umum. Kemampuan ini mencakup kemampuan membaca dengan pemahaman, memahami teks, serta menggunakan kosakata secara tepat. Diukur melalui subtes seperti pemahaman bacaan, sinonim-antonim, dan penyelesaian kalimat.
-
-### Word Fluency (W)
-Kemampuan untuk menghasilkan kata-kata secara cepat berdasarkan kriteria tertentu, seperti kata yang diawali huruf tertentu atau kata yang termasuk kategori tertentu. Berbeda dari Verbal Comprehension yang mengukur pemahaman, Word Fluency lebih berfokus pada kecepatan dan kelancaran produksi verbal.
-
-### Number (N)
-Kemampuan untuk melakukan operasi numerik secara cepat dan akurat, termasuk penjumlahan, pengurangan, perkalian, pembagian, dan operasi aritmatika dasar lainnya. Kemampuan ini penting dalam pekerjaan yang menuntut pengolahan data numerik secara rutin.
-
-### Space (S)
-Kemampuan untuk memvisualisasikan dan memanipulasi objek dalam ruang tiga dimensi secara mental. Mencakup kemampuan membayangkan rotasi objek, memahami peta atau diagram, serta menilai hubungan spasial antar objek. Relevan dalam pekerjaan yang membutuhkan pemahaman desain, arsitektur, atau teknik.
-
-### Associative Memory (M)
-Kemampuan untuk mengingat dan mengasosiasikan pasangan informasi yang tidak memiliki hubungan logis yang jelas, misalnya mengingat nama dengan wajah atau pasangan kata asing dengan artinya. Kemampuan ini penting dalam pekerjaan yang menuntut hafalan prosedur atau identifikasi pelanggan.
-
-### Perceptual Speed (P)
-Kemampuan untuk mengenali persamaan dan perbedaan antar objek visual secara cepat dan akurat. Mencakup kemampuan memindai data visual, mengidentifikasi detail, serta mencocokkan pola. Diukur melalui tugas seperti membandingkan angka, simbol, atau gambar dalam waktu singkat.
-
-### General Reasoning (I)
-Kemampuan untuk menemukan aturan, prinsip, atau pola dalam serangkaian informasi, kemudian menggunakannya untuk menyelesaikan masalah. Mencakup penalaran induktif, yaitu kemampuan menarik kesimpulan umum dari informasi yang spesifik. Berbeda dari kemampuan deduktif, General Reasoning lebih menekankan pada fleksibilitas berpikir dalam situasi yang belum pernah dihadapi sebelumnya.
-
-## Profil Kemampuan versus Skor IQ Tunggal
-
-Salah satu kontribusi penting teori PMA adalah pergeseran perspektif dari skor IQ tunggal menuju profil kemampuan yang lebih komprehensif. Meskipun kombinasi ketujuh faktor utama dalam teori PMA tetap dapat menghasilkan nilai IQ, profil kemampuan dasar yang dihasilkan jauh lebih informatif karena mampu:
-
-- mengidentifikasi kekuatan dan kelemahan kognitif spesifik seseorang
-- memberikan gambaran yang lebih akurat mengenai kemampuan yang relevan untuk jenis pekerjaan tertentu
-- membantu dalam merancang program pelatihan dan pengembangan yang lebih terarah sesuai kebutuhan individu
-
-## Intelligenz-Struktur-Test (IST) sebagai Operasionalisasi Teori PMA
-
-Intelligenz-Struktur-Test atau IST adalah alat tes kecerdasan yang dikembangkan oleh Rudolf Amthauer di Jerman pada tahun 1953. IST dirancang berdasarkan pandangan bahwa kecerdasan bersifat multidimensional, sehingga pendekatannya selaras secara konseptual dengan teori PMA Thurstone. Alat ini mengukur berbagai aspek kemampuan kognitif melalui serangkaian subtes yang masing-masing dirancang untuk menangkap dimensi kecerdasan yang berbeda. Di Indonesia, IST termasuk salah satu alat ukur kecerdasan yang paling banyak digunakan dalam konteks asesmen psikologi industri dan organisasi, terutama untuk keperluan seleksi dan penempatan karyawan.
-
-### Struktur dan Subtes IST
-
-IST terdiri dari sejumlah subtes yang dikelompokkan berdasarkan domain kemampuan yang diukur. Setiap subtes memiliki format soal, instruksi, dan batasan waktu tersendiri, sehingga menghasilkan skor terpisah untuk setiap dimensi kemampuan:
-
-#### SE - Satzergänzung (Melengkapi Kalimat)
-Subtes pertama menyajikan kalimat-kalimat yang belum selesai dan subjek diminta memilih kata yang paling tepat untuk melengkapinya. Subtes ini mengukur kemampuan berpikir verbal yang bersifat praktis, pemahaman bahasa dalam konteks sehari-hari, serta kemampuan penalaran umum berbasis pengalaman. Berkorespondensi dengan kemampuan Verbal Comprehension (V) dalam teori PMA.
-
-#### WA - Wortauswahl (Pilihan Kata)
-Subtes ini menyajikan lima kata dan subjek diminta menentukan satu kata yang tidak memiliki kesamaan makna atau kategori dengan empat kata lainnya. WA mengukur kemampuan memahami makna kata, membedakan konsep, serta berpikir secara kategoris. Berkorespondensi dengan kemampuan Verbal Comprehension (V).
-
-#### AN - Analogien (Analogi Kata)
-Subtes AN menyajikan pasangan kata dengan hubungan tertentu, kemudian subjek diminta melengkapi pasangan analogi yang serupa. Misalnya, "panas : api = dingin : ?" Subtes ini mengukur kemampuan berpikir relasional, fleksibilitas verbal, dan penalaran berdasarkan hubungan konsep. Berkorespondensi dengan General Reasoning (I) dan Verbal Comprehension (V).
-
-#### GE - Gemeinsamkeiten (Persamaan/Kesamaan)
-Subtes GE menyajikan beberapa kata dan subjek diminta menentukan konsep atau kategori umum yang mencakup seluruh kata tersebut. Subtes ini mengukur kemampuan abstraksi verbal, yaitu kemampuan mengidentifikasi esensi bersama dari beberapa konsep yang berbeda. Berkorespondensi dengan General Reasoning (I).
-
-#### ME - Merkaufgaben (Tugas Memori)
-Subtes ME mengukur memori asosiatif jangka pendek. Subjek diberikan sejumlah pasangan kata untuk dipelajari dalam waktu tertentu, kemudian diminta mengingat pasangan yang tepat dari pilihan yang disediakan. Berkorespondensi langsung dengan kemampuan Associative Memory (M) dalam teori PMA.
-
-#### RA - Rechenaufgaben (Soal Berhitung)
-Subtes RA menyajikan soal-soal aritmatika yang harus diselesaikan secara mental tanpa alat bantu. Mencakup operasi penjumlahan, pengurangan, perkalian, pembagian, serta soal cerita numerik sederhana. Subtes ini mengukur kemampuan numerik dasar dan kecepatan komputasi. Berkorespondensi dengan kemampuan Number (N) dalam teori PMA.
-
-#### ZR - Zahlenreihen (Deret Angka)
-Subtes ZR menyajikan deret angka dengan pola tertentu yang belum selesai, dan subjek diminta menentukan angka berikutnya. Berbeda dari RA yang mengukur kecepatan komputasi, ZR mengukur kemampuan mendeteksi pola numerik dan penalaran induktif berbasis angka. Berkorespondensi dengan kemampuan Number (N) sekaligus General Reasoning (I).
-
-#### FA - Figurenauswahl (Pemilihan Gambar/Figur)
-Subtes FA menyajikan sebuah gambar yang memiliki bagian yang hilang, dan subjek diminta memilih potongan gambar yang tepat untuk melengkapinya. Subtes ini mengukur kemampuan imajinasi spasial dua dimensi dan persepsi visual. Berkorespondensi dengan kemampuan Space (S) dalam teori PMA.
-
-#### WÜ - Würfelaufgaben (Tugas Kubus)
-Subtes WÜ menyajikan gambar sebuah kubus dengan simbol atau pola pada masing-masing sisinya, kemudian subjek diminta menentukan kubus mana dari beberapa pilihan yang merupakan representasi yang benar dari kubus tersebut jika diputar. Subtes ini mengukur kemampuan berpikir spasial tiga dimensi dan rotasi mental objek. Berkorespondensi dengan kemampuan Space (S).
-
-### Pemetaan IST ke dalam Dimensi PMA
-
-| Subtes IST | Kode | Kemampuan PMA |
+| Kode | Nama | Deskripsi |
 |---|---|---|
-| Satzergänzung | SE | Verbal Comprehension (V) |
-| Wortauswahl | WA | Verbal Comprehension (V) |
-| Analogien | AN | Verbal Comprehension (V) + General Reasoning (I) |
-| Gemeinsamkeiten | GE | General Reasoning (I) |
-| Merkaufgaben | ME | Associative Memory (M) |
-| Rechenaufgaben | RA | Number (N) |
-| Zahlenreihen | ZR | Number (N) + General Reasoning (I) |
-| Figurenauswahl | FA | Space (S) |
-| Würfelaufgaben | WÜ | Space (S) |
+| P | Need to Control Others | Kebutuhan untuk mengontrol, mempengaruhi, atau mendominasi orang lain |
+| W | Need for Rules and Supervision | Kebutuhan untuk bekerja di bawah aturan yang jelas dan pengawasan yang terstruktur |
+| Z | Need for Change | Kebutuhan untuk variasi, perubahan, dan hal-hal baru dalam pekerjaan |
+| N | Need to Finish a Task | Kebutuhan untuk menyelesaikan pekerjaan hingga tuntas sebelum beralih ke hal lain |
+| X | Need to Be Noticed | Kebutuhan untuk mendapatkan perhatian, pengakuan, dan diperhatikan oleh orang lain |
+| B | Need to Belong to Groups | Kebutuhan untuk menjadi bagian dari kelompok dan bekerja dalam tim |
+| O | Need to Be Close and Affectionate | Kebutuhan untuk membangun hubungan yang dekat dan bersifat afektif dengan orang lain |
+| K | Need to Be Forceful | Kebutuhan untuk bertindak tegas, agresif, dan langsung dalam menyelesaikan masalah |
+| A | Need to Achieve | Kebutuhan untuk berprestasi, melampaui standar, dan mencapai tujuan yang menantang |
+| F | Need to Support Authority | Kebutuhan untuk mendukung dan mengikuti otoritas, serta memberikan dukungan kepada atasan |
 
-### Skor dan Profil IST
+### 10 Roles (Peran)
 
-Setiap subtes IST menghasilkan skor mentah yang kemudian dikonversi ke dalam nilai standar menggunakan norma yang telah dikalibrasi berdasarkan kelompok usia atau pendidikan tertentu. Hasil IST tidak hanya berupa satu angka IQ total, tetapi juga profil skor per subtes yang memperlihatkan konfigurasi kekuatan dan kelemahan kognitif seseorang. Profil inilah yang menjadikan IST sangat berguna dalam konteks MSDM, karena memungkinkan pencocokan yang lebih presisi antara kemampuan individu dengan tuntutan jabatan tertentu.
+| Kode | Nama | Deskripsi |
+|---|---|---|
+| L | Leadership Role | Kecenderungan untuk mengambil peran kepemimpinan dan memimpin orang lain |
+| C | Organized Type | Kecenderungan untuk bekerja secara terorganisir, terstruktur, dan sistematis |
+| D | Detail-Conscious Type | Perhatian tinggi terhadap detail, ketelitian, dan akurasi dalam pekerjaan |
+| R | Conceptual Thinker | Kecenderungan untuk berpikir secara konseptual, reflektif, dan analitis |
+| S | Social Harmonizer | Kecenderungan untuk menjaga harmoni sosial dan menghindari konflik dalam kelompok |
+| I | Easy-Going Type | Kemudahan dalam pengambilan keputusan; gaya kerja yang tidak kaku |
+| T | Work Pace Setter | Kecenderungan untuk bekerja dengan kecepatan dan ritme yang konsisten |
+| V | Vigorous Type | Orientasi pada aktivitas fisik, energik, dan dinamis dalam pekerjaan |
+| E | Emotionally Restrained Type | Kemampuan mengendalikan emosi dan tampil tenang dalam situasi kerja |
+| G | Hard-Working Type | Kecenderungan untuk bekerja keras, tekun, dan berdedikasi tinggi |
 
-## Implikasi PMA dalam Praktik MSDM
+## Administrasi dan Skoring
 
-Pemahaman terhadap teori PMA memiliki implikasi praktis yang signifikan dalam beberapa fungsi MSDM:
+### Format Tes
+PAPIKOSTICK menggunakan format forced-choice (pilihan paksa). Subyek dihadapkan pada pasangan pernyataan dan diminta memilih satu pernyataan yang paling menggambarkan dirinya. Tidak ada jawaban benar atau salah; pilihan mencerminkan preferensi dan kecenderungan perilaku individu.
 
-- **Seleksi dan Rekrutmen**: profil PMA memungkinkan pencocokan yang lebih presisi antara kemampuan kognitif pelamar dengan tuntutan jabatan. Misalnya, posisi akuntan dapat lebih menekankan kemampuan Number (N) dan Perceptual Speed (P), sementara posisi desainer lebih membutuhkan Space (S) yang kuat
-- **Penempatan Karyawan**: pemahaman terhadap profil kemampuan individu membantu pengambil keputusan dalam menempatkan karyawan pada posisi yang sesuai dengan kekuatan kognitifnya
-- **Pelatihan dan Pengembangan**: identifikasi kemampuan yang relatif lemah pada karyawan dapat menjadi dasar perancangan program pelatihan yang ditargetkan
-- **Konseling Karir**: profil PMA dapat digunakan sebagai bahan diskusi dalam perencanaan karir karyawan agar selaras antara minat, kemampuan, dan kebutuhan organisasi
+### Skoring
+Total item PAPIKOSTICK terdiri dari:
+- 45 pasang pernyataan bagian atas (upper)
+- 45 pasang pernyataan bagian bawah (lower)
+- Total: 90 pasang pernyataan
+
+Setiap skala mendapatkan skor berdasarkan akumulasi pilihan yang relevan dengan skala tersebut. Skor mentah kemudian diinterpretasikan berdasarkan norma yang tersedia.
+
+### Norma dan Interpretasi Skor
+
+Setiap skala memiliki rentang skor standar dengan kategori interpretasi:
+
+| Skala | Rentang Rendah | Rentang Sedang | Rentang Tinggi |
+|---|---|---|---|
+| L (Leadership) | 1-3 | 4-6 | 7-9 |
+| P (Control Others) | 1-3 | 4-6 | 7-9 |
+| I (Decision Making) | 1-3 | 4-6 | 7-9 |
+| C (Organized) | 1-3 | 4-6 | 7-9 |
+| D (Detail) | 1-3 | 4-6 | 7-9 |
+| R (Conceptual) | 1-3 | 4-6 | 7-9 |
+| W (Rules/Supervision) | 1-3 | 4-6 | 7-9 |
+| Z (Change) | 1-3 | 4-6 | 7-9 |
+| N (Finish Task) | 1-3 | 4-6 | 7-9 |
+| S (Social Harmony) | 1-3 | 4-6 | 7-9 |
+| B (Belong to Groups) | 1-3 | 4-6 | 7-9 |
+| X (Be Noticed) | 1-3 | 4-6 | 7-9 |
+| O (Close/Affectionate) | 1-3 | 4-6 | 7-9 |
+| T (Work Pace) | 1-3 | 4-6 | 7-9 |
+| V (Vigorous) | 1-3 | 4-6 | 7-9 |
+| E (Emotional Restraint) | 1-3 | 4-6 | 7-9 |
+| G (Hard Worker) | 1-3 | 4-6 | 7-9 |
+| A (Achieve) | 1-3 | 4-6 | 7-9 |
+| F (Supportive) | 1-3 | 4-6 | 7-9 |
+| K (Forceful) | 1-3 | 4-6 | 7-9 |
+
+Skor tinggi pada suatu skala mengindikasikan kecenderungan atau kebutuhan yang kuat pada dimensi tersebut. Skor rendah mengindikasikan kecenderungan yang lemah atau preferensi yang berlawanan. Interpretasi tidak bersifat normatif (baik/buruk), melainkan deskriptif dan kontekstual sesuai dengan tuntutan jabatan yang dianalisis.
+
+## Kegunaan PAPIKOSTICK dalam MSDM
+
+PAPIKOSTICK memiliki keunggulan komparatif untuk digunakan dalam konteks MSDM karena dirancang khusus untuk mengukur preferensi perilaku dalam lingkungan kerja, bukan kepribadian secara umum. Kegunaannya meliputi:
+
+- **Seleksi dan Rekrutmen**: mencocokkan profil needs dan roles kandidat dengan tuntutan jabatan yang dianalisis melalui job analysis
+- **Penempatan Karyawan**: memastikan kesesuaian antara karakteristik perilaku kerja individu dengan lingkungan dan tuntutan posisi
+- **Pengembangan Karier**: mengidentifikasi jalur karier yang sesuai berdasarkan profil kebutuhan dan peran dominan individu
+- **Pengembangan Tim**: memahami komposisi kebutuhan dan peran dalam tim untuk meningkatkan efektivitas kerja kelompok
+- **Pelatihan dan Pengembangan**: merancang program yang sesuai dengan profil kebutuhan dan gaya kerja individu
+
+## Keterbatasan PAPIKOSTICK
+
+Sebagai alat yang menggunakan format forced-choice, PAPIKOSTICK rentan terhadap social desirability bias: subyek dapat memanipulasi jawaban untuk menampilkan diri secara lebih positif. Selain itu, karena fokusnya pada perilaku kerja, PAPIKOSTICK kurang komprehensif untuk tujuan asesmen klinis atau gambaran kepribadian yang menyeluruh. Interpretasi hasil harus selalu dilakukan dalam konteks jabatan yang spesifik dan dikombinasikan dengan alat asesmen lainnya untuk menghasilkan gambaran yang lebih lengkap.
