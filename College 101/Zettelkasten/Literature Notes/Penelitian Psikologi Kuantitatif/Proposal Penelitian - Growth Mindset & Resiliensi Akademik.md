@@ -343,7 +343,7 @@ Untuk penelitian masa depan, beberapa arah direkomendasikan. Pertama, desain eks
 
 Antara, N. L. K. D. D. L., Purnomo, K. I., & Giri, M. K. W. (2025). Hubungan antara stres akademik dengan resiliensi mahasiswa S1 di Indonesia: Tinjauan literatur. *Jurnal Kesehatan Tambusai*, *6*(4), 16390-16396.
 
-Aslihah, Wasehuhdin, Hadiyyin, I., Uyuni, Y. R., & Nugraha, E. (2025). Urgensi religiusitas dan resiliensi akademik dalam mencegah dropout mahasiswa PAI di STIT Al-Khairiyah Cilegon. *Jurnal Mu'allim*, *7*(2). https://doi.org/10.35891/muallim
+Aslihah, Wasehuhdin, Hadiyyin, I., Uyuni, Y. R., & Nugraha, E. (2025). Urgensi religiusitas dan resiliensi akademik dalam mencegah dropout mahasiswa PAI di STIT Al-Khairiyah Cilegon. *Jurnal Mu'allim*, *7*(2), 343-359. https://doi.org/10.35891/muallim.v7i2.5782
 
 Bagdziuniene, D., Zukauskaitė, I., Bulotaitė, L., & Sargautytė, R. (2025). Study and personal resources of university students' academic resilience and the relationship with positive psychological outcomes. *Frontiers in Psychology*, *16*, Article 1517559. https://doi.org/10.3389/fpsyg.2025.1517559
 
@@ -375,7 +375,7 @@ Kumalasari, D., Luthfiyanni, N. A., & Grasiaswaty, N. (2020). Analisis faktor ad
 
 Lawes, R. (2024). *The association of academic self-efficacy, mindset and academic resilience* [Doctoral dissertation, Oklahoma State University]. ProQuest Dissertations & Theses Global.
 
-Martin, A. J. (2013). Academic buoyancy and academic resilience: Exploring 'everyday' and 'classic' resilience in the face of academic adversity. *School Psychology International*, *34*(5), 488-500.
+Martin, A. J. (2013). Academic buoyancy and academic resilience: Exploring 'everyday' and 'classic' resilience in the face of academic adversity. *School Psychology International*, *34*(5), 488-500. https://doi.org/10.1177/0143034312472759
 
 Mohan, V., & Kaur, J. (2021). Assessing the relationship between grit and academic resilience among students. *Issues and Ideas in Education*, *9*(1), 39-47. https://doi.org/10.15415/iie.2021.91005
 
@@ -387,20 +387,20 @@ Pertegal-Felices, M. L., Valdivieso-Salazar, D. A., Espin-Leon, A., & Jimeno-Mor
 
 Poerwanto, & Prihastiwi, W. J. (2017). Hubungan kualitas hubungan guru-siswa, regulasi diri, dan religiusitas terhadap resiliensi akademik siswa SMP. *Prosiding Seminar Nasional Psikologi*.
 
-Prayudy, R., Makaria, E. C., & Sulistiyana, S. (2025). Hubungan growth mindset dengan resiliensi pengurus BEM FKIP ULM. *Journal of Education Research*, *6*(3), 685-695.
+Prayudy, R., Makaria, E. C., & Sulistiyana, S. (2025). Hubungan growth mindset dengan resiliensi pengurus BEM FKIP ULM. *Journal of Education Research*, *6*(3), 685-695. https://doi.org/10.37985/jer.v6i3.2792
 
 Revathy, K. (2026). Growth mindset and academic resilience as predictors of mathematics achievement among middle school students: A quantitative analysis. *International Journal of Education Insights*, *2*(1), 8-15. https://doi.org/10.5281/zenodo.18740119
 
-Sari, D. P., & Indrawati, E. S. (2016). Hubungan antara dukungan sosial teman sebaya dengan resiliensi akademik pada mahasiswa. *Jurnal Empati*, *5*(2), 469-474.
+Sari, D. P., & Indrawati, E. S. (2016). Hubungan antara dukungan sosial teman sebaya dengan resiliensi akademik pada mahasiswa. *Jurnal Empati*, *5*(2), 177-182. https://doi.org/10.14710/empati.2016.14979
 
 Sari, P. K. P., & Suhariadi, F. (2019). Kontrak psikologis dan resiliensi akademik mahasiswa. *Jurnal Psikologi*, *12*(1).
 
-Satyaninrum, I. R. (2014). Pengaruh school engagement, locus of control, dan dukungan sosial terhadap resiliensi akademik remaja. *Tazkiya: Journal of Psychology*, *2*(1).
+Satyaninrum, I. R. (2014). Pengaruh school engagement, locus of control, dan dukungan sosial terhadap resiliensi akademik remaja. *Tazkiya: Journal of Psychology*, *2*(1). https://doi.org/10.15408/tazkiya.v2i1.10749
 
 Schultz, D. P., & Schultz, S. E. (2016). *Theories of personality* (11th ed.). Cengage Learning.
 
-Sukma, A. A., Nurrochma, Y. M., Hanifah, A. P., & Nashori, F. (2024). Religiusitas dan resiliensi akademik mahasiswa Muslim Yogyakarta. *IJPS: Indonesia Journal of Psychological Studies*, *1*(2), 98-108.
+Sukma, A. A., Nurrochma, Y. M., Hanifah, A. P., & Nashori, F. (2024). Religiusitas dan resiliensi akademik mahasiswa Muslim Yogyakarta. *IJPS: Indonesia Journal of Psychological Studies*, *1*(2), 98-114.
 
 Tao, V. Y. K., Li, Y., & Wu, A. M. S. (2022). Incremental intelligence mindset, fear of failure, and academic coping. *Journal of Pacific Rim Psychology*, *16*, 1-11. https://doi.org/10.1177/18344909211447034
 
-Utami, L. H. (2020). Bersyukur dan resiliensi akademik mahasiswa. *Nathiqiyyah: Jurnal Psikologi Islam*, *3*(1), 1-14.
+Utami, L. H. (2020). Bersyukur dan resiliensi akademik mahasiswa. *Nathiqiyyah: Jurnal Psikologi Islam*, *3*(1), 1-21. https://doi.org/10.46781/nathiqiyyah.v3i1.69
