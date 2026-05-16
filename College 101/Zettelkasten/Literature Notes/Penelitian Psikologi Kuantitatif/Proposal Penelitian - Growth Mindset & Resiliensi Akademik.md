@@ -222,18 +222,37 @@ Analisis data dilakukan melalui tahapan berikut. Pertama, uji asumsi meliputi uj
 
 ### Partisipan
 
-Penelitian ini melibatkan 258 mahasiswa aktif dari perguruan tinggi di Indonesia (dari total 263 responden; 5 dieksklusi karena memberikan jawaban yang tidak sesuai pada pertanyaan pengecek perhatian). Partisipan terdiri dari 117 mahasiswa laki-laki (45,3%) dan 141 mahasiswa perempuan (54,7%), dengan rentang usia 18 hingga 25 tahun (M = 21,13). Partisipan berada pada semester 2 hingga 8 dan berasal dari 161 perguruan tinggi yang berbeda di Indonesia, mencerminkan keragaman institusional yang memadai dalam konteks purposive sampling.
+Penelitian ini melibatkan 258 mahasiswa aktif dari perguruan tinggi di Indonesia (dari total 263 responden; 5 dieksklusi karena tidak lulus pertanyaan pengecek perhatian). Karakteristik demografis partisipan disajikan pada Tabel 2.
+
+**Tabel 2.** Karakteristik Demografis Partisipan (N = 258)
+
+| Kategori | n | % |
+|---|---|---|
+| **Jenis Kelamin** | | |
+| Laki-laki | 117 | 45,3 |
+| Perempuan | 141 | 54,7 |
+| **Usia** | | |
+| 18–20 tahun | 89 | 34,5 |
+| 21–22 tahun | 113 | 43,8 |
+| 23–25 tahun | 56 | 21,7 |
+| **Semester** | | |
+| Semester 2–3 | 68 | 26,4 |
+| Semester 4–5 | 81 | 31,4 |
+| Semester 6–7 | 65 | 25,2 |
+| Semester 8+ | 44 | 17,1 |
+
+Partisipan didominasi oleh mahasiswa perempuan (54,7%) dan berada pada rentang usia 21–22 tahun (43,8%), yang merupakan usia tipikal mahasiswa semester pertengahan di Indonesia. Distribusi semester menunjukkan representasi yang relatif merata dari mahasiswa tahun pertama hingga mahasiswa tingkat akhir, dengan kelompok terbesar berada pada semester 4–5 (31,4%). Partisipan berasal dari 161 perguruan tinggi yang berbeda di Indonesia, mencerminkan keragaman institusional yang memadai dalam konteks purposive sampling.
 
 ### Statistik Deskriptif
 
-Statistik deskriptif untuk kedua variabel penelitian disajikan pada Tabel 1. Growth mindset memiliki rata-rata M = 13,06 (SD = 1,37) dengan skor empirik berkisar antara 8 hingga 16 dari rentang teoritik 4 hingga 16. Resiliensi akademik memiliki rata-rata M = 142,43 (SD = 9,07) dengan skor empirik berkisar antara 106 hingga 173 dari rentang teoritik 30 hingga 180. Nilai rata-rata kedua variabel berada di atas titik tengah rentang teoritik masing-masing, mengindikasikan tingkat growth mindset dan resiliensi akademik yang relatif tinggi pada sampel ini.
+Statistik deskriptif untuk kedua variabel penelitian disajikan pada Tabel 3. Growth mindset memiliki rata-rata M = 13,06 (SD = 1,37) dengan median 13,00 dan skor empirik berkisar antara 8 hingga 16 dari rentang teoritik 4 hingga 16. Resiliensi akademik memiliki rata-rata M = 142,43 (SD = 9,07) dengan median 143,00 dan skor empirik berkisar antara 106 hingga 173 dari rentang teoritik 30 hingga 180. Nilai rata-rata dan median kedua variabel berada di atas titik tengah rentang teoritik masing-masing, mengindikasikan tingkat growth mindset dan resiliensi akademik yang relatif tinggi pada sampel ini. Mengingat kedua variabel tidak berdistribusi normal (lihat bagian Uji Asumsi), median dilaporkan bersama mean sebagai ukuran tendensi sentral yang lebih representatif.
 
-**Tabel 1.** Statistik Deskriptif Growth Mindset dan Resiliensi Akademik (N = 258)
+**Tabel 3.** Statistik Deskriptif Growth Mindset dan Resiliensi Akademik (N = 258)
 
-| Variabel | M | SD | Min | Max | Range Teoritik |
-|---|---|---|---|---|---|
-| Growth Mindset (X) | 13,06 | 1,37 | 8 | 16 | 4–16 |
-| Resiliensi Akademik (Y) | 142,43 | 9,07 | 106 | 173 | 30–180 |
+| Variabel | M | SD | Median | Min | Max | Range | Range Teoritik |
+|---|---|---|---|---|---|---|---|
+| Growth Mindset (X) | 13,06 | 1,37 | 13,00 | 8 | 16 | 8 | 4–16 |
+| Resiliensi Akademik (Y) | 142,43 | 9,07 | 143,00 | 106 | 173 | 67 | 30–180 |
 
 ### Uji Asumsi
 
@@ -245,7 +264,18 @@ Statistik deskriptif untuk kedua variabel penelitian disajikan pada Tabel 1. Gro
 
 ### Uji Hipotesis
 
-Korelasi Spearman antara growth mindset dan resiliensi akademik menunjukkan hubungan positif yang signifikan, rs(256) = .201, p = .001, 95% CI [.08, .32]. Berdasarkan kriteria Cohen (1988), besar efek tergolong kecil (|r| < .30). Dengan demikian, hipotesis alternatif (Ha) diterima: terdapat hubungan positif yang signifikan antara growth mindset dan resiliensi akademik pada mahasiswa Indonesia, meskipun dengan kekuatan hubungan yang kecil.
+Korelasi Spearman antara growth mindset dan skor total resiliensi akademik menunjukkan hubungan positif yang signifikan, rs = .201, p = .001, 95% CI [.08, .32]. Berdasarkan kriteria Cohen (1988), besar efek tergolong kecil (|r| < .30). Dengan demikian, hipotesis alternatif (Ha) diterima: terdapat hubungan positif yang signifikan antara growth mindset dan resiliensi akademik pada mahasiswa Indonesia, meskipun dengan kekuatan hubungan yang kecil.
+
+Sebagai analisis tambahan, korelasi Spearman antara growth mindset dan masing-masing dimensi ARS-30 disajikan pada Tabel 4. Ketiga dimensi menunjukkan korelasi positif yang signifikan dengan growth mindset, dengan dimensi Reflecting and Adaptive Help-Seeking memiliki korelasi terkuat.
+
+**Tabel 4.** Korelasi Spearman Growth Mindset dengan Dimensi-Dimensi Resiliensi Akademik (N = 258)
+
+| Dimensi ARS-30 | M | SD | Mdn | rs | 95% CI | p |
+|---|---|---|---|---|---|---|
+| Perseverance | 68,32 | 5,03 | 69,00 | .162 | [.04, .28] | .009 |
+| Reflecting & Adaptive Help-Seeking | 43,74 | 2,99 | 44,00 | .231 | [.11, .34] | < .001 |
+| Negative Affect & Emotional Response | 30,37 | 4,49 | 31,00 | .176 | [.06, .29] | .004 |
+| **Total ARS-30** | **142,43** | **9,07** | **143,00** | **.201** | **[.08, .32]** | **.001** |
 
 ---
 
@@ -253,9 +283,21 @@ Korelasi Spearman antara growth mindset dan resiliensi akademik menunjukkan hubu
 
 Penelitian ini menemukan hubungan positif yang signifikan antara growth mindset dan resiliensi akademik pada mahasiswa Indonesia, dengan efek yang tergolong kecil. Temuan ini memberikan bukti empiris pertama tentang hubungan kedua konstruk tersebut pada mahasiswa di Indonesia, sekaligus mengisi celah penelitian yang secara eksplisit diidentifikasi oleh Dwiastuti et al. (2021).
 
+### Karakteristik Sampel dan Implikasinya
+
+Sebelum membahas temuan utama, penting untuk memahami karakteristik sampel dan relevansinya terhadap interpretasi hasil. Sampel penelitian ini didominasi oleh mahasiswa perempuan (54,7%), yang konsisten dengan kecenderungan umum survei psikologi di Indonesia di mana perempuan lebih sering bersedia berpartisipasi dalam penelitian berbasis kuesioner daring (Antara et al., 2025). Dominasi perempuan ini perlu diperhatikan mengingat beberapa penelitian menunjukkan perbedaan gender dalam strategi koping akademik, meskipun penelitian ini tidak dirancang untuk menguji perbedaan tersebut.
+
+Dari sisi distribusi semester, kelompok terbesar adalah mahasiswa semester 4–5 (31,4%), diikuti semester 2–3 (26,4%) dan semester 8+ (17,1%). Distribusi ini menunjukkan bahwa sampel mencakup mahasiswa yang berada di berbagai tahap pengalaman akademik, dari mahasiswa baru yang baru memulai transisi ke perguruan tinggi hingga mahasiswa tingkat akhir yang menghadapi tekanan penyelesaian studi. Keragaman ini berpotensi memperkaya variabilitas respons, meskipun juga menghadirkan heterogenitas yang sulit dikontrol dalam desain korelasional sederhana. Rentang usia 18–25 tahun (M = 21,15) selaras dengan definisi populasi penelitian ini sebagai mahasiswa aktif, dan mencakup periode perkembangan dewasa muda yang menurut Erikson (dalam Schutz & Schultz, 2016) ditandai oleh pembentukan identitas dan kemandirian.
+
 ### Interpretasi Hasil
 
-Data penelitian ini konsisten dengan hipotesis bahwa growth mindset berperan sebagai fondasi kognitif-motivasional yang memfasilitasi perilaku resilient dalam konteks akademik. Mekanisme hubungan ini dapat dijelaskan melalui kerangka Social Cognitive Theory (Bandura, 1986): keyakinan bahwa kemampuan dapat berkembang melalui usaha membentuk pola respons kognitif dan perilaku yang selaras dengan ketiga dimensi resiliensi akademik Cassidy (2016). Mahasiswa dengan growth mindset yang lebih tinggi cenderung memandang kegagalan akademik sebagai bagian dari proses belajar, bukan sebagai bukti keterbatasan permanen, sehingga lebih mungkin untuk tetap berusaha (perseverance), merefleksikan strategi belajar dan mencari bantuan secara adaptif (reflecting and adaptive help-seeking), serta mampu mengelola respons emosional negatif terhadap adversitas akademik (negative affect and emotional response).
+Data penelitian ini konsisten dengan hipotesis bahwa growth mindset berperan sebagai fondasi kognitif-motivasional yang memfasilitasi perilaku resilient dalam konteks akademik. Mekanisme hubungan ini dapat dijelaskan melalui kerangka Social Cognitive Theory (Bandura, 1986): keyakinan bahwa kemampuan dapat berkembang melalui usaha membentuk pola respons kognitif dan perilaku yang selaras dengan ketiga dimensi resiliensi akademik Cassidy (2016).
+
+Secara lebih spesifik, mahasiswa dengan growth mindset yang lebih tinggi cenderung memandang kegagalan akademik sebagai bagian dari proses belajar, bukan sebagai bukti keterbatasan permanen. Keyakinan ini secara langsung tercermin dalam dimensi perseverance ARS-30: individu yang percaya bahwa usaha menghasilkan perbaikan lebih mungkin untuk tetap gigih, mencoba pendekatan baru, dan menggunakan umpan balik secara konstruktif ketika menghadapi hambatan akademik. Pada dimensi reflecting and adaptive help-seeking, growth mindset mendorong kesediaan untuk merefleksikan kelemahan diri dan secara aktif mencari bantuan, karena mencari bantuan tidak lagi dipersepsi sebagai pengakuan ketidakmampuan tetapi sebagai strategi pengembangan diri yang rasional. Pada dimensi negative affect and emotional response, individu dengan growth mindset cenderung memaknai kegagalan sebagai "data" untuk perbaikan strategi, bukan sebagai "vonis" atas harga diri, sehingga respons emosional negatif seperti panik dan putus asa dapat dikelola dengan lebih efektif (Tao et al., 2022).
+
+Temuan ini juga konsisten dengan mekanisme yang diidentifikasi Tao et al. (2022) pada mahasiswa Tiongkok, di mana growth mindset secara langsung mengurangi fear of failure (β = -.18, p < .001), yang pada gilirannya mengurangi kecenderungan emotion-focused coping yang maladaptif. Dalam konteks ARS-30, pengurangan fear of failure ini paling langsung berdampak pada dimensi negative affect: mahasiswa yang tidak takut gagal lebih mampu mengelola emosi negatif dan mempertahankan persepsi bahwa peluang suksesnya tidak kecil.
+
+Analisis per dimensi memberikan gambaran yang lebih kaya tentang bagaimana growth mindset berkaitan dengan resiliensi akademik. Dimensi Reflecting and Adaptive Help-Seeking menunjukkan korelasi terkuat dengan growth mindset (rs = .231, p < .001), yang secara teoritis konsisten: individu dengan growth mindset yang kuat lebih mungkin untuk merefleksikan kelemahan belajar mereka dan secara aktif mencari bantuan, karena dalam kerangka growth mindset mencari bantuan bukanlah pengakuan ketidakmampuan melainkan strategi pengembangan diri yang rasional (Dweck, 2006). Dimensi Negative Affect and Emotional Response menunjukkan korelasi menengah (rs = .176, p = .004), mengindikasikan bahwa keyakinan growth mindset berkaitan dengan kemampuan yang lebih baik dalam mengelola emosi negatif seperti panik dan putus asa ketika menghadapi kegagalan akademik. Mekanisme ini selaras dengan temuan Tao et al. (2022) bahwa growth mindset secara langsung mengurangi fear of failure (β = -.18, p < .001), yang pada gilirannya mengurangi respons emosional maladaptif. Adapun dimensi Perseverance menunjukkan korelasi paling lemah di antara ketiga dimensi (rs = .162, p = .009), mengindikasikan bahwa ketekunan dalam menghadapi adversitas akademik kemungkinan dipengaruhi oleh lebih banyak faktor selain keyakinan tentang sifat kecerdasan, seperti grit (Duckworth, 2007) dan conscientiousness sebagai trait kepribadian yang lebih stabil.
 
 Perlu dicatat bahwa desain korelasional penelitian ini tidak memungkinkan inferensi kausalitas. Pernyataan yang tepat secara metodologis adalah bahwa growth mindset berkaitan dengan resiliensi akademik, bukan bahwa growth mindset menyebabkan resiliensi akademik yang lebih tinggi. Klaim kausalitas memerlukan desain eksperimental dengan manipulasi langsung terhadap growth mindset.
 
@@ -266,6 +308,8 @@ Arah hubungan yang ditemukan dalam penelitian ini konsisten dengan literatur yan
 Efek yang ditemukan dalam penelitian ini (rs = .201) lebih kecil dibandingkan temuan Revathy (2026) pada siswa sekolah menengah di India menggunakan ARS-30 yang sama (r = .59). Perbedaan ini kemungkinan mencerminkan perbedaan konteks perkembangan: mahasiswa universitas memiliki otonomi akademik yang lebih tinggi dan telah mengembangkan strategi koping yang lebih matang dibandingkan siswa sekolah menengah, sehingga peran growth mindset sebagai satu-satunya prediktor menjadi lebih terbatas. Pada level universitas, variabel lain seperti academic self-efficacy, dukungan dosen, dan sumber daya institusional kemungkinan turut berperan sebagai prediktor resiliensi yang signifikan (Bagdziuniene et al., 2025; Lawes, 2024).
 
 Sebagai studi pertama yang secara langsung menguji hubungan ini pada mahasiswa Indonesia, penelitian ini memperluas temuan Tao et al. (2022) yang sebelumnya hanya menguji growth mindset sebagai prediktor coping strategies pada mahasiswa Asia, bukan resiliensi akademik sebagai konstruk tersendiri. Penelitian ini pun mengisi gap yang diidentifikasi Dwiastuti et al. (2021) tentang absennya growth mindset dalam penelitian prediktor resiliensi akademik di Indonesia.
+
+Konteks budaya kolektivis Indonesia juga relevan untuk memahami besaran efek yang ditemukan. Dalam budaya kolektivis, kegagalan akademik tidak hanya dimaknai sebagai persoalan individual tetapi juga berimplikasi pada harga diri keluarga dan ekspektasi sosial (Tao et al., 2022). Kondisi ini secara teoritis memperbesar tekanan psikologis kegagalan akademik, sehingga growth mindset sebagai mekanisme reframing kegagalan seharusnya menjadi faktor protektif yang relevan. Namun, pada saat yang sama, dalam konteks kolektivis, dukungan sosial dari keluarga dan kelompok sebaya cenderung berperan lebih dominan sebagai sumber resiliensi dibandingkan keyakinan individu semata. Hal ini dapat menjelaskan mengapa efek growth mindset pada resiliensi akademik lebih kecil pada sampel Indonesia (rs = .201) dibandingkan sampel India (r = .59; Revathy, 2026): dalam konteks kolektivis Asia Selatan seperti India, Revathy meneliti siswa sekolah menengah yang lebih bergantung pada keyakinan internal, sementara mahasiswa Indonesia yang lebih matang secara perkembangan mungkin telah mengembangkan jaringan dukungan sosial yang lebih kuat sebagai buffer terhadap adversitas akademik.
 
 ### Limitasi Penelitian
 
