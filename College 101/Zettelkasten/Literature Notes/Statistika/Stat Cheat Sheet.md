@@ -1,4 +1,4 @@
-
+														
 ## How to do Normality
 - Analyze
 - Regression

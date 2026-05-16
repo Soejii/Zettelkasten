@@ -1,6 +1,5 @@
 # Verbatim Wawancara Linjur - Subjek 1
 
-**Pewawancara:** [NAMA] / [NIM]
 **Kode Informan:** S1 (Faiz, Teknologi Rekayasa Sistem Elektronika, Angkatan 24, Fakultas Vokasi)
 **Tanggal:** 15 April 2026
 **Topik:** Efikasi Diri Mahasiswa Berlatar Belakang IPS di Program Studi Saintek
@@ -20,7 +19,7 @@
 ## Transkrip
 
 1. P: Hai. Oke, untuk pertama-tama mungkin kau bisa, apa, perkenalkan diri sama jurusan.
-2. I: ==Aku dari Fakultas Vokasi, jurusan Teknologi Rekayasa Sistem Elektronika, angkatan 24.== **[Pembuka]**
+2. I: ==Aku Faiz dari Fakultas Vokasi, jurusan Teknologi Rekayasa Sistem Elektronika, angkatan 24.== **[Pembuka]**
 3. P: Mungkin, bagaimana kamu bisa memutuskan masuk ke saintek?
 4. I: ==Aku bukan dari SMA, saya. Aku dulu mondok, nah di pondok ini cuma ada IPS, jadi otomatis mau ngapain, masuknya ke IPS. Habisnya, kenapa aku ngurusin masuk saintek, karena aku sebelumnya itu ada keinginan pengen memperdalam tentang kayak teknik gitu. Kayak, benar, aku passion waktu itu pengennya ke informatika, cuma waktu itu nggak lolos. Semua jurusan informatika nggak lolos, dan lolosnya di elektronika, itu. Hasil masuknya lebih ke elektronika, tinggal jalur SNBT.== **[Pembuka]**
 5. P: Apa yang pertama kali kamu rasakan ketika kamu akan belajar mata kuliah saintek?

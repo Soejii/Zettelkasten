@@ -218,6 +218,71 @@ Analisis data dilakukan melalui tahapan berikut. Pertama, uji asumsi meliputi uj
 
 ---
 
+## D. HASIL
+
+### Partisipan
+
+Penelitian ini melibatkan 258 mahasiswa aktif dari perguruan tinggi di Indonesia (dari total 263 responden; 5 dieksklusi karena memberikan jawaban yang tidak sesuai pada pertanyaan pengecek perhatian). Partisipan terdiri dari 117 mahasiswa laki-laki (45,3%) dan 141 mahasiswa perempuan (54,7%), dengan rentang usia 18 hingga 25 tahun (M = 21,13). Partisipan berada pada semester 2 hingga 8 dan berasal dari 161 perguruan tinggi yang berbeda di Indonesia, mencerminkan keragaman institusional yang memadai dalam konteks purposive sampling.
+
+### Statistik Deskriptif
+
+Statistik deskriptif untuk kedua variabel penelitian disajikan pada Tabel 1. Growth mindset memiliki rata-rata M = 13,06 (SD = 1,37) dengan skor empirik berkisar antara 8 hingga 16 dari rentang teoritik 4 hingga 16. Resiliensi akademik memiliki rata-rata M = 142,43 (SD = 9,07) dengan skor empirik berkisar antara 106 hingga 173 dari rentang teoritik 30 hingga 180. Nilai rata-rata kedua variabel berada di atas titik tengah rentang teoritik masing-masing, mengindikasikan tingkat growth mindset dan resiliensi akademik yang relatif tinggi pada sampel ini.
+
+**Tabel 1.** Statistik Deskriptif Growth Mindset dan Resiliensi Akademik (N = 258)
+
+| Variabel | M | SD | Min | Max | Range Teoritik |
+|---|---|---|---|---|---|
+| Growth Mindset (X) | 13,06 | 1,37 | 8 | 16 | 4–16 |
+| Resiliensi Akademik (Y) | 142,43 | 9,07 | 106 | 173 | 30–180 |
+
+### Uji Asumsi
+
+**Normalitas.** Uji normalitas dilakukan menggunakan Shapiro-Wilk. Hasil uji menunjukkan bahwa distribusi growth mindset tidak normal, W = .945, p < .001, begitu pula distribusi resiliensi akademik, W = .967, p < .001. Mengingat kedua variabel tidak memenuhi asumsi normalitas, analisis korelasi Spearman (non-parametrik) digunakan sebagai pengganti korelasi Pearson.
+
+**Linearitas.** Uji linearitas menggunakan F-test perbandingan model linear dengan model intercept-only menunjukkan bahwa hubungan antara growth mindset dan resiliensi akademik bersifat linear, F = 22,73, p < .001. Asumsi linearitas terpenuhi.
+
+**Homoskedastisitas.** Uji Breusch-Pagan menunjukkan bahwa varians residual bersifat konstan sepanjang rentang prediktor, BP = 0,56, p = .456. Asumsi homoskedastisitas terpenuhi.
+
+### Uji Hipotesis
+
+Korelasi Spearman antara growth mindset dan resiliensi akademik menunjukkan hubungan positif yang signifikan, rs(256) = .201, p = .001, 95% CI [.08, .32]. Berdasarkan kriteria Cohen (1988), besar efek tergolong kecil (|r| < .30). Dengan demikian, hipotesis alternatif (Ha) diterima: terdapat hubungan positif yang signifikan antara growth mindset dan resiliensi akademik pada mahasiswa Indonesia, meskipun dengan kekuatan hubungan yang kecil.
+
+---
+
+## E. DISKUSI
+
+Penelitian ini menemukan hubungan positif yang signifikan antara growth mindset dan resiliensi akademik pada mahasiswa Indonesia, dengan efek yang tergolong kecil. Temuan ini memberikan bukti empiris pertama tentang hubungan kedua konstruk tersebut pada mahasiswa di Indonesia, sekaligus mengisi celah penelitian yang secara eksplisit diidentifikasi oleh Dwiastuti et al. (2021).
+
+### Interpretasi Hasil
+
+Data penelitian ini konsisten dengan hipotesis bahwa growth mindset berperan sebagai fondasi kognitif-motivasional yang memfasilitasi perilaku resilient dalam konteks akademik. Mekanisme hubungan ini dapat dijelaskan melalui kerangka Social Cognitive Theory (Bandura, 1986): keyakinan bahwa kemampuan dapat berkembang melalui usaha membentuk pola respons kognitif dan perilaku yang selaras dengan ketiga dimensi resiliensi akademik Cassidy (2016). Mahasiswa dengan growth mindset yang lebih tinggi cenderung memandang kegagalan akademik sebagai bagian dari proses belajar, bukan sebagai bukti keterbatasan permanen, sehingga lebih mungkin untuk tetap berusaha (perseverance), merefleksikan strategi belajar dan mencari bantuan secara adaptif (reflecting and adaptive help-seeking), serta mampu mengelola respons emosional negatif terhadap adversitas akademik (negative affect and emotional response).
+
+Perlu dicatat bahwa desain korelasional penelitian ini tidak memungkinkan inferensi kausalitas. Pernyataan yang tepat secara metodologis adalah bahwa growth mindset berkaitan dengan resiliensi akademik, bukan bahwa growth mindset menyebabkan resiliensi akademik yang lebih tinggi. Klaim kausalitas memerlukan desain eksperimental dengan manipulasi langsung terhadap growth mindset.
+
+### Kaitan dengan Literatur
+
+Arah hubungan yang ditemukan dalam penelitian ini konsisten dengan literatur yang ada. King et al. (2026) dalam studi lintas-budaya terbesar sejauh ini (N = 606.191 siswa dari 79 negara) menemukan bahwa growth mindset berkorelasi positif signifikan dengan resiliensi akademik (β = .198, p < .001) setelah mengontrol berbagai kovariat, yang besarannya hampir identik dengan temuan penelitian ini (rs = .201). Fatima (2024) juga melaporkan korelasi positif antara growth mindset dan resiliensi akademik pada mahasiswa universitas di Pakistan (r = .34), sementara Lawes (2024) menemukan bahwa growth mindset menjelaskan 12,4% varians resiliensi akademik pada mahasiswa keperawatan di Amerika Serikat.
+
+Efek yang ditemukan dalam penelitian ini (rs = .201) lebih kecil dibandingkan temuan Revathy (2026) pada siswa sekolah menengah di India menggunakan ARS-30 yang sama (r = .59). Perbedaan ini kemungkinan mencerminkan perbedaan konteks perkembangan: mahasiswa universitas memiliki otonomi akademik yang lebih tinggi dan telah mengembangkan strategi koping yang lebih matang dibandingkan siswa sekolah menengah, sehingga peran growth mindset sebagai satu-satunya prediktor menjadi lebih terbatas. Pada level universitas, variabel lain seperti academic self-efficacy, dukungan dosen, dan sumber daya institusional kemungkinan turut berperan sebagai prediktor resiliensi yang signifikan (Bagdziuniene et al., 2025; Lawes, 2024).
+
+Sebagai studi pertama yang secara langsung menguji hubungan ini pada mahasiswa Indonesia, penelitian ini memperluas temuan Tao et al. (2022) yang sebelumnya hanya menguji growth mindset sebagai prediktor coping strategies pada mahasiswa Asia, bukan resiliensi akademik sebagai konstruk tersendiri. Penelitian ini pun mengisi gap yang diidentifikasi Dwiastuti et al. (2021) tentang absennya growth mindset dalam penelitian prediktor resiliensi akademik di Indonesia.
+
+### Limitasi Penelitian
+
+Beberapa keterbatasan metodologis perlu diperhatikan dalam menginterpretasi temuan ini. Pertama, desain cross-sectional tidak memungkinkan inferensi kausalitas; arah hubungan yang ditemukan bersifat korelatif dan perlu dikonfirmasi melalui desain longitudinal atau eksperimental. Kedua, kedua variabel diukur melalui kuesioner laporan diri (self-report), yang rentan terhadap social desirability bias dan ketidakakuratan persepsi diri. Ketiga, teknik purposive sampling membatasi generalisabilitas temuan; meskipun partisipan berasal dari 161 perguruan tinggi yang beragam, representativitas terhadap seluruh populasi mahasiswa Indonesia tidak dapat dijamin. Keempat, efek yang ditemukan tergolong kecil, mengindikasikan bahwa proporsi besar varians resiliensi akademik tidak dijelaskan oleh growth mindset semata, melainkan juga oleh variabel lain yang tidak diukur dalam penelitian ini, seperti academic self-efficacy, grit, dan dukungan sosial. Kelima, rata-rata skor kedua variabel yang relatif tinggi pada sampel ini mengindikasikan kemungkinan adanya ceiling effect, sehingga variabilitas yang tersedia untuk mendeteksi korelasi menjadi lebih terbatas.
+
+### Implikasi
+
+**Implikasi Teoretis.** Penelitian ini memberikan kontribusi empiris dengan mengonfirmasi keselarasan konseptual antara growth mindset (Dweck, 2006) dan konstruk resiliensi akademik Cassidy (2016) yang sebelumnya hanya diargumentasikan secara teoritis oleh Kumalasari et al. (2020). Temuan ini juga memperluas cakupan empiris Tao et al. (2022) dari strategi koping ke resiliensi akademik sebagai konstruk yang lebih komprehensif, serta menambahkan konteks Indonesia ke dalam peta penelitian yang selama ini didominasi oleh sampel dari Asia Timur, Asia Selatan, dan negara-negara Barat.
+
+**Implikasi Praktis.** Penelitian ini memberikan dasar empiris bagi institusi pendidikan tinggi di Indonesia untuk mempertimbangkan program intervensi berbasis growth mindset. Intervensi semacam ini dapat diintegrasikan ke dalam orientasi mahasiswa baru, program bimbingan akademik, atau pelatihan psikoedukatif yang berfokus pada reframing persepsi terhadap kegagalan akademik. Mengingat efeknya yang tergolong kecil, intervensi yang paling efektif kemungkinan adalah yang menggabungkan growth mindset dengan penguatan faktor protektif lain. Salah satu bentuk konkret yang dapat diimplementasikan adalah pemberian umpan balik berbasis proses oleh dosen pembimbing akademik, yaitu umpan balik yang menekankan usaha dan strategi yang digunakan mahasiswa alih-alih sekadar hasil akhir, guna menggeser orientasi mahasiswa dari penilaian diri berbasis nilai ke orientasi belajar berbasis pertumbuhan.
+
+### Arah Penelitian Masa Depan
+
+Beberapa agenda penelitian lanjutan direkomendasikan berdasarkan temuan dan keterbatasan penelitian ini. Pertama, desain eksperimental dengan random assignment ke kondisi intervensi growth mindset versus kontrol diperlukan untuk menguji kausalitas hubungan yang ditemukan. Kedua, penelitian mediasi dan moderasi yang mengidentifikasi variabel yang memediasi (misalnya, self-efficacy, fear of failure) atau memoderasi (misalnya, dukungan dosen, budaya institusi) hubungan growth mindset dengan resiliensi akademik akan memperdalam pemahaman mekanistiknya. Ketiga, desain longitudinal yang mengukur perubahan growth mindset dan resiliensi akademik dari waktu ke waktu dapat memberikan gambaran tentang stabilitas dan arah hubungan kausal kedua konstruk. Keempat, penelitian dengan sampel yang lebih representatif dan metode pengambilan sampel probabilistik diperlukan untuk meningkatkan generalisabilitas temuan ke populasi mahasiswa Indonesia secara luas.
+
+---
+
 ## Daftar Pustaka
 
 Antara, N. L. K. D. D. L., Purnomo, K. I., & Giri, M. K. W. (2025). Hubungan antara stres akademik dengan resiliensi mahasiswa S1 di Indonesia: Tinjauan literatur. *Jurnal Kesehatan Tambusai*, *6*(4), 16390-16396.
