@@ -7,11 +7,30 @@
 
 ## Peta Konsep
 
-### Dimensi Efikasi Diri
-
 ```mermaid
 flowchart TD
+    subgraph PENDUKUNG["✅ Faktor Pendukung"]
+        fp1["Dukungan teman sebaya"]
+        fp2["AI & YouTube (dengan pemahaman)"]
+        fp3["Dukungan & normalisasi keluarga"]
+        fp4["Pengalaman praktis & relevansi bidang"]
+        fp5["Kesesuaian minat (ditemukan bertahap)"]
+        fp6["Dosen yang suportif"]
+    end
+
     EDL["🎯 EFIKASI DIRI\nMAHASISWA LINJUR\n(Dinamis, Spesifik, Berkembang)"]
+
+    subgraph PENGHAMBAT["❌ Faktor Penghambat"]
+        fh1["Kesenjangan latar belakang akademik"]
+        fh2["Gengsi/malu mengakui kesulitan"]
+        fh3["Manajemen waktu buruk"]
+        fh4["Beban tugas menumpuk"]
+        fh5["Dosen tidak suportif"]
+        fh6["AI sebagai crutch tanpa pemahaman"]
+    end
+
+    PENDUKUNG -->|meningkatkan| EDL
+    PENGHAMBAT -->|menurunkan| EDL
 
     EDL --> MAG["📏 MAGNITUDE\nPersepsi Tingkat Kesulitan"]
     EDL --> STR["💪 STRENGTH\nPersistensi & Konsistensi"]
@@ -28,34 +47,6 @@ flowchart TD
     GEN --> G1["Zona efikasi tinggi:\npraktikum & bidang minat"]
     GEN --> G2["Efikasi spesifik,\nbelum tergeneralisasi"]
     GEN --> G3["Perkembangan bertahap\nantar semester"]
-```
-
-### Faktor Pendukung dan Penghambat
-
-```mermaid
-flowchart LR
-    subgraph PENDUKUNG["✅ Faktor Pendukung"]
-        fp1["Dukungan teman sebaya"]
-        fp2["AI & YouTube (dengan pemahaman)"]
-        fp3["Dukungan & normalisasi keluarga"]
-        fp4["Pengalaman praktis & relevansi bidang"]
-        fp5["Kesesuaian minat (ditemukan bertahap)"]
-        fp6["Dosen yang suportif"]
-    end
-
-    EDL["🎯 EFIKASI DIRI\nMAHASISWA LINJUR"]
-
-    subgraph PENGHAMBAT["❌ Faktor Penghambat"]
-        fh1["Kesenjangan latar belakang akademik"]
-        fh2["Gengsi/malu mengakui kesulitan"]
-        fh3["Manajemen waktu buruk"]
-        fh4["Beban tugas menumpuk"]
-        fh5["Dosen tidak suportif"]
-        fh6["AI sebagai crutch tanpa pemahaman"]
-    end
-
-    PENDUKUNG -->|meningkatkan| EDL
-    PENGHAMBAT -->|menurunkan| EDL
 ```
 
 ---
