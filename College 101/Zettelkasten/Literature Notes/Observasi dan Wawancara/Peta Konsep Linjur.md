@@ -9,7 +9,7 @@
 
 ```mermaid
 flowchart TD
-    subgraph PENDUKUNG["✅ Faktor Pendukung"]
+    subgraph PENDUKUNG["Faktor Pendukung"]
         fp1["Dukungan teman sebaya"]
         fp2["AI & YouTube (dengan pemahaman)"]
         fp3["Dukungan & normalisasi keluarga"]
@@ -18,9 +18,9 @@ flowchart TD
         fp6["Dosen yang suportif"]
     end
 
-    EDL["🎯 EFIKASI DIRI\nMAHASISWA LINJUR\n(Dinamis, Spesifik, Berkembang)"]
+    EDL["EFIKASI DIRI\nMAHASISWA LINJUR\n(Dinamis, Spesifik, Berkembang)"]
 
-    subgraph PENGHAMBAT["❌ Faktor Penghambat"]
+    subgraph PENGHAMBAT["Faktor Penghambat"]
         fh1["Kesenjangan latar belakang akademik"]
         fh2["Gengsi/malu mengakui kesulitan"]
         fh3["Manajemen waktu buruk"]
@@ -32,9 +32,9 @@ flowchart TD
     PENDUKUNG -->|meningkatkan| EDL
     PENGHAMBAT -->|menurunkan| EDL
 
-    EDL --> MAG["📏 MAGNITUDE\nPersepsi Tingkat Kesulitan"]
-    EDL --> STR["💪 STRENGTH\nPersistensi & Konsistensi"]
-    EDL --> GEN["🌐 GENERALITY\nTransfer Lintas Konteks"]
+    EDL --> MAG["MAGNITUDE\nPersepsi Tingkat Kesulitan"]
+    EDL --> STR["STRENGTH\nPersistensi & Konsistensi"]
+    EDL --> GEN["GENERALITY\nTransfer Lintas Konteks"]
 
     MAG --> M1["Kesenjangan pengetahuan\nawal (IPS → Saintek)"]
     MAG --> M2["Orientasi minimalis\nsebagai pelindung diri"]
