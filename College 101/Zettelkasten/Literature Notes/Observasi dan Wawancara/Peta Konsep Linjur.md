@@ -7,6 +7,8 @@
 
 ## Peta Konsep
 
+### Dimensi Efikasi Diri
+
 ```mermaid
 flowchart TD
     EDL["🎯 EFIKASI DIRI\nMAHASISWA LINJUR\n(Dinamis, Spesifik, Berkembang)"]
@@ -21,31 +23,39 @@ flowchart TD
 
     STR --> S1["Strategi belajar adaptif\n(AI, YouTube, kakak tingkat)"]
     STR --> S2["Motivasi eksternal\nsebagai anchor"]
-    STR --> S3["Ketergantungan sosial\nacademik"]
+    STR --> S3["Ketergantungan sosial\nakademik"]
 
     GEN --> G1["Zona efikasi tinggi:\npraktikum & bidang minat"]
     GEN --> G2["Efikasi spesifik,\nbelum tergeneralisasi"]
     GEN --> G3["Perkembangan bertahap\nantar semester"]
+```
 
-    FP["✅ FAKTOR PENDUKUNG"]
-    FH["❌ FAKTOR PENGHAMBAT"]
+### Faktor Pendukung dan Penghambat
 
-    FP -->|meningkatkan| EDL
-    FH -->|menurunkan| EDL
+```mermaid
+flowchart LR
+    subgraph PENDUKUNG["✅ Faktor Pendukung"]
+        fp1["Dukungan teman sebaya"]
+        fp2["AI & YouTube (dengan pemahaman)"]
+        fp3["Dukungan & normalisasi keluarga"]
+        fp4["Pengalaman praktis & relevansi bidang"]
+        fp5["Kesesuaian minat (ditemukan bertahap)"]
+        fp6["Dosen yang suportif"]
+    end
 
-    FP --- fp1["Dukungan teman sebaya"]
-    FP --- fp2["AI & YouTube\n(dengan pemahaman)"]
-    FP --- fp3["Dukungan & normalisasi keluarga"]
-    FP --- fp4["Pengalaman praktis\n& relevansi bidang"]
-    FP --- fp5["Kesesuaian minat\n(ditemukan bertahap)"]
-    FP --- fp6["Dosen yang suportif"]
+    EDL["🎯 EFIKASI DIRI\nMAHASISWA LINJUR"]
 
-    FH --- fh1["Kesenjangan latar\nbelakang akademik"]
-    FH --- fh2["Gengsi/malu\nmengakui kesulitan"]
-    FH --- fh3["Manajemen waktu buruk"]
-    FH --- fh4["Beban tugas menumpuk"]
-    FH --- fh5["Dosen tidak suportif"]
-    FH --- fh6["AI sebagai crutch\ntanpa pemahaman"]
+    subgraph PENGHAMBAT["❌ Faktor Penghambat"]
+        fh1["Kesenjangan latar belakang akademik"]
+        fh2["Gengsi/malu mengakui kesulitan"]
+        fh3["Manajemen waktu buruk"]
+        fh4["Beban tugas menumpuk"]
+        fh5["Dosen tidak suportif"]
+        fh6["AI sebagai crutch tanpa pemahaman"]
+    end
+
+    PENDUKUNG -->|meningkatkan| EDL
+    PENGHAMBAT -->|menurunkan| EDL
 ```
 
 ---
