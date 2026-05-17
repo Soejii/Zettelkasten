@@ -26,7 +26,7 @@ flowchart TD
         fh3["Manajemen waktu buruk"]
         fh4["Beban tugas menumpuk"]
         fh5["Dosen tidak suportif"]
-        fh6["AI sebagai crutch tanpa pemahaman"]
+        fh6["Menggunakan AI tanpa pemahaman"]
     end
 
     PENDUKUNG -->|meningkatkan| EDL
