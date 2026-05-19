@@ -52,11 +52,11 @@ Selain pikiran dan perasaan, SSD juga memunculkan pola perilaku tertentu, di ant
 
 Menurut DSM-5-TR, gejala SSD bersifat persisten, umumnya berlangsung lebih dari enam bulan (American Psychiatric Association, 2022). Tingkat keparahan SSD dibagi menjadi tiga:
 
-| Tingkat | Kriteria |
-|--------|----------|
-| Ringan (*mild*) | Hanya satu dari tiga kriteria pikiran/perasaan (B) yang terpenuhi |
-| Sedang (*moderate*) | Dua atau lebih kriteria (B) terpenuhi |
-| Berat (*severe*) | Dua atau lebih kriteria (B) terpenuhi, disertai banyak keluhan fisik atau satu gejala fisik yang sangat berat |
+| Tingkat             | Kriteria                                                                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Ringan (*mild*)     | Hanya satu dari tiga kriteria pikiran/perasaan (B) yang terpenuhi                                             |
+| Sedang (*moderate*) | Dua atau lebih kriteria (B) terpenuhi                                                                         |
+| Berat (*severe*)    | Dua atau lebih kriteria (B) terpenuhi, disertai banyak keluhan fisik atau satu gejala fisik yang sangat berat |
 
 ---
 
