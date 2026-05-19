@@ -291,10 +291,52 @@ Atensi kompleks, Fungsi eksekutif, Pembelajaran dan memori, Bahasa, Perseptual-m
 
 | Sesi | Gangguan | Pola Pikir Negatif Kunci | Pengalaman Traumatik | Coping Utama |
 |---|---|---|---|---|
-| 9 | Tidur & Makan | Body image distortion; abstinence violation effect; hyperarousal kognitif insomnia | ACEs → ED + insomnia; PTSD → insomnia; emotional eating | CBT-E, CBT-I; FBT |
+| 9 | Tidur & Makan | Body image distortion[^1]; abstinence violation effect[^2]; hyperarousal kognitif insomnia[^3] | ACEs[^4] → ED[^5] + insomnia; PTSD[^6] → insomnia; emotional eating | CBT-E[^7], CBT-I[^8]; FBT[^9] |
 | 10 | Seksual, Gender, Parafilia | Performance anxiety; body image; distress bukan dari dysphoria tapi lingkungan | Pelecehan seksual → disfungsi; bullying/kekerasan → gender dysphoria | Terapi seks; gender-affirming care; penerimaan keluarga |
-| 11 | Skizofrenia Spektrum | Anosognosia; JTC; external attribution; stigma yang diinternalisasi | ACEs → severity gejala; model diathesis-stress | Antipsikotik; kurangi DUP; edukasi keluarga |
-| 12 | Neurodevelopmental | "Saya tidak bisa" (IDD); masking ASD; identitas negatif ADHD | Bullying → trauma interpersonal; kegagalan berulang = trauma kumulatif | Stimulan ADHD; ABA ASD; parent training |
-| 13 | Disruptif & Kontrol Impuls | Hostile attribution bias (CD); siklus tegangan-kecanduan (pyromania/kleptomania) | Trauma fisik/emosional → IED; penganiayaan/kekerasan → CD | PCIT/PMT (ODD); CBT manajemen kemarahan (IED); MST (CD) |
-| 14 | Neurokognitif | Catastrophizing; denial; hopelessness tentang demensia | TBI (kecelakaan/militer); alkohol → Korsakoff; trauma keluarga (caregiver burden) | Inhibitor kolinesterase; modifikasi faktor risiko; reality orientation |
-| 15 | Zat & Adiktif | Self-medication; cognitive biases zat; hopelessness; rasa malu → menghindari bantuan | PTSD + SUD comorbid; ACEs dosis-respons; pelecehan seksual → opioid SUD | CBT, MI, maintenance therapy (naltrexone/metadon/buprenorfin); 12-step |
+| 11 | Skizofrenia Spektrum | Anosognosia[^10]; JTC[^11]; external attribution[^12]; stigma yang diinternalisasi | ACEs[^4] → severity gejala; model diathesis-stress[^13] | Antipsikotik; kurangi DUP[^14]; edukasi keluarga |
+| 12 | Neurodevelopmental | "Saya tidak bisa" (IDD[^15]); masking ASD[^16]; identitas negatif ADHD[^17] | Bullying → trauma interpersonal; kegagalan berulang = trauma kumulatif | Stimulan ADHD; ABA[^18] (ASD); parent training |
+| 13 | Disruptif & Kontrol Impuls | Hostile attribution bias[^19] (CD[^20]); siklus tegangan-kecanduan (pyromania/kleptomania) | Trauma fisik/emosional → IED[^21]; penganiayaan/kekerasan → CD[^20] | PCIT[^22]/PMT[^23] (ODD[^24]); CBT manajemen kemarahan (IED[^21]); MST[^25] (CD[^20]) |
+| 14 | Neurokognitif | Catastrophizing[^26]; denial; hopelessness tentang demensia | TBI[^27] (kecelakaan/militer); alkohol → Korsakoff[^28]; trauma keluarga (caregiver burden[^29]) | Inhibitor kolinesterase[^30]; modifikasi faktor risiko; reality orientation[^31] |
+| 15 | Zat & Adiktif | Self-medication[^32]; cognitive biases zat[^33]; hopelessness; rasa malu → menghindari bantuan | PTSD[^6] + SUD[^34] comorbid; ACEs[^4] dosis-respons; pelecehan seksual → opioid SUD[^34] | CBT, MI[^35], maintenance therapy (naltrexone[^36]/metadon/buprenorfin); 12-step[^37] |
+
+---
+
+### Catatan Kaki
+
+[^1]: **Body image distortion** — persepsi tubuh yang menyimpang; melihat tubuh sendiri jauh lebih besar/tidak ideal dari kenyataannya.
+[^2]: **Abstinence violation effect** — pikiran "sudah terlanjur melanggar diet, sekalian saja makan semua." Satu pelanggaran kecil terasa seperti kegagalan total, mendorong binge.
+[^3]: **Hyperarousal kognitif insomnia** — otak terlalu aktif saat mau tidur; pikiran terus berputar, tubuh waspada padahal harusnya rileks.
+[^4]: **ACEs** (Adverse Childhood Experiences) — pengalaman buruk di masa kecil seperti kekerasan, penelantaran, atau disfungsi keluarga. Makin banyak ACEs, makin tinggi risiko gangguan mental.
+[^5]: **ED** (Eating Disorder) — gangguan makan; mencakup Anorexia Nervosa, Bulimia Nervosa, dan Binge-Eating Disorder.
+[^6]: **PTSD** (Post-Traumatic Stress Disorder) — gangguan stres pasca-trauma; muncul setelah mengalami atau menyaksikan kejadian traumatik, ditandai flashback, mimpi buruk, dan hypervigilance.
+[^7]: **CBT-E** (Enhanced Cognitive Behavioral Therapy for Eating Disorders) — versi CBT yang dikembangkan khusus untuk gangguan makan; menargetkan pola pikir distorsi tentang berat badan dan makanan.
+[^8]: **CBT-I** (Cognitive Behavioral Therapy for Insomnia) — terapi lini pertama insomnia; mencakup pembatasan tidur, kontrol stimulus, dan restrukturisasi kognitif tentang tidur.
+[^9]: **FBT** (Family-Based Treatment) — terapi berbasis keluarga untuk gangguan makan, terutama Anorexia pada remaja; orang tua aktif terlibat dalam proses pemulihan.
+[^10]: **Anosognosia** — ketidakmampuan menyadari bahwa diri sendiri sakit. Pada skizofrenia, pasien tidak merasa dirinya punya gangguan, sehingga menolak minum obat.
+[^11]: **JTC** (Jumping to Conclusions) — langsung menarik kesimpulan dari bukti yang sangat minim; memperkuat delusi ("dia lihat saya sebentar, pasti sedang memata-matai saya").
+[^12]: **External attribution** — kecenderungan menyalahkan orang lain atau situasi luar untuk hal-hal negatif yang terjadi pada diri sendiri; mendorong delusi persekutorik.
+[^13]: **Model diathesis-stress** — kerentanan biologis (genetik) + tekanan lingkungan (stres, trauma) = risiko gangguan. Tidak ada kerentanan = stres tidak memicu psikosis.
+[^14]: **DUP** (Duration of Untreated Psychosis) — lamanya waktu antara munculnya gejala psikosis pertama dan dimulainya pengobatan. DUP pendek = prognosis lebih baik.
+[^15]: **IDD** (Intellectual Developmental Disorder) — gangguan perkembangan intelektual; defisit signifikan pada fungsi kognitif dan perilaku adaptif sejak masa perkembangan.
+[^16]: **Masking ASD** — perilaku menyembunyikan gejala autisme di depan umum agar terlihat "normal." Melelahkan secara mental dan meningkatkan risiko burnout, anxiety, dan depresi.
+[^17]: **ADHD** (Attention Deficit Hyperactivity Disorder) — gangguan pemusatan perhatian dan hiperaktivitas; kesulitan fokus, impulsif, dan/atau hiperaktif.
+[^18]: **ABA** (Applied Behavior Analysis) — terapi perilaku intensif berbasis reinforcement untuk ASD; melatih keterampilan sosial, komunikasi, dan perilaku adaptif.
+[^19]: **Hostile attribution bias** — kecenderungan menginterpretasikan tindakan orang lain yang netral atau ambigu sebagai serangan/ancaman yang disengaja.
+[^20]: **CD** (Conduct Disorder) — gangguan perilaku; pola persisten melanggar hak orang lain dan norma sosial; mencakup agresi, penipuan, dan pelanggaran aturan serius.
+[^21]: **IED** (Intermittent Explosive Disorder) — gangguan ledakan emosi; episode marah dan agresif yang tidak proporsional dengan provokasi yang terjadi.
+[^22]: **PCIT** (Parent-Child Interaction Therapy) — terapi interaksi orang tua-anak; melatih orang tua cara merespons perilaku anak secara konsisten dan positif.
+[^23]: **PMT** (Parent Management Training) — pelatihan manajemen orang tua; strategi untuk mengubah perilaku anak melalui perubahan cara orang tua merespons.
+[^24]: **ODD** (Oppositional Defiant Disorder) — gangguan oposisional; pola argumentatif, defiant, dan mudah marah terhadap otoritas.
+[^25]: **MST** (Multisystemic Therapy) — terapi multisistemik; intervensi intensif untuk remaja dengan masalah perilaku berat; melibatkan keluarga, sekolah, dan komunitas sekaligus.
+[^26]: **Catastrophizing** — distorsi kognitif yang membesar-besarkan konsekuensi negatif; "kalau saya lupa sesuatu, berarti saya pasti demensia."
+[^27]: **TBI** (Traumatic Brain Injury) — cedera otak traumatik akibat benturan atau guncangan keras pada kepala.
+[^28]: **Korsakoff** (Sindrom Wernicke-Korsakoff) — gangguan memori parah akibat kekurangan thiamine (vitamin B1) karena konsumsi alkohol kronis; ditandai konfabulasi (mengisi kekosongan memori dengan cerita yang tidak akurat).
+[^29]: **Caregiver burden** — beban psikologis, fisik, dan emosional yang dialami anggota keluarga yang merawat orang dengan demensia atau penyakit kronis.
+[^30]: **Inhibitor kolinesterase** — obat yang memperlambat pemecahan asetilkolin di otak; contoh: donepezil, rivastigmin, galantamin. Digunakan untuk Alzheimer mild-moderate.
+[^31]: **Reality orientation** — teknik non-farmakologi untuk demensia; secara rutin mengingatkan pasien tentang waktu, tempat, dan identitas untuk memperlambat disorientasi.
+[^32]: **Self-medication hypothesis** — teori bahwa penggunaan zat dimulai sebagai cara mengatasi kecemasan, depresi, atau trauma, bukan semata karena mencari "high."
+[^33]: **Cognitive biases zat** — distorsi pikiran spesifik pada pengguna zat, seperti gambler's fallacy ("sudah lama bersih, sekali tidak apa-apa"), melebih-lebihkan manfaat, dan meremehkan konsekuensi.
+[^34]: **SUD** (Substance Use Disorder) — gangguan penggunaan zat; pola penggunaan yang menyebabkan hendaya atau distress signifikan, dinilai dari 11 kriteria DSM-5-TR.
+[^35]: **MI** (Motivational Interviewing) — wawancara motivasional; teknik konseling yang membantu klien menemukan motivasi intrinsik untuk berubah; menggunakan teknik OARS (Open questions, Affirmation, Reflection, Summary).
+[^36]: **Naltrexone** — obat yang memblokir reseptor opioid; mengurangi efek euforia alkohol dan opioid sehingga menurunkan craving.
+[^37]: **12-step** — program pemulihan berbasis komunitas (contoh: Alcoholics Anonymous/AA, Narcotics Anonymous/NA); menggunakan peer support dan kerangka spiritual untuk mempertahankan sobriety.
