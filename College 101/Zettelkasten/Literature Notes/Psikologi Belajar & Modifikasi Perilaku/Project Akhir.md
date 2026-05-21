@@ -41,6 +41,10 @@ Proses *fading* dalam penelitian ini mencakup dua komponen utama yang berlangsun
 
 Sistem *token economy* juga menjalani *fading* melalui peningkatan rasio penguatan. Pada sesi 1-16, pertukaran token dilakukan setiap lima bintang terkumpul (*fixed ratio* 5), yang tercatat terjadi pada sesi ke-6, ke-11, dan ke-16. Memasuki sesi ke-17, rasio ditingkatkan secara bertahap, ditandai dengan akumulasi token yang melampaui angka lima tanpa pertukaran langsung dan mencapai tujuh token pada sesi terakhir (sesi 23, 16 Mei).
 
+## 3.5 Pembahasan Teoretis (Poin 3 — Extinction Burst)
+
+Kemunculan *extinction burst* pada fase intervensi menjadi indikasi kuat bahwa mekanisme *extinction* telah berjalan dengan benar. *Extinction burst* paling jelas terlihat pada Sesi 4 (Tabel 2), ketika orang tua untuk pertama kalinya menurunkan level bantuan dari *full physical prompt* (FP) ke *partial physical prompt* (PP). Subjek langsung "mogok" (penolakan emosional intens), menangis, dan memprotes secara verbal, respons yang mencerminkan frustrasi atas hilangnya *reinforcement* berupa panduan fisik penuh yang sebelumnya selalu tersedia. Pola ini konsisten dengan prediksi teori Operant Conditioning yang mana *extinction burst* umumnya muncul apabila *reinforcement* yang selama ini mempertahankan perilaku lama dihentikan secara konsisten (Martin & Pear, 2019). Konsistensi orang tua dalam menerapkan prosedur, yakni tetap tenang dan tidak mengambil alih tugas merapikan meski menghadapi tangisan dan penolakan, menjadi faktor penentu keberhasilan tahap ini. Kemunculan *burst* yang bersifat sementara ini, yang tidak diikuti oleh pengambilalihan tugas dari pihak orang tua, justru menandakan bahwa pola lama mulai mengalami kepunahan dan membuka peluang bagi penguatan perilaku baru pada L.
+
 ## Daftar Pustaka
 
 Martin, G., & Pear, J. (2019). *Behavior modification: What it is and how to do it* (11th ed.). Routledge.
