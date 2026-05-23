@@ -1,5 +1,23 @@
 # Project Akhir - Psikologi Belajar & Modifikasi Perilaku
 
+## Abstract
+
+Establishing independent self-care routines such as toy-tidying is a core developmental task in early childhood that often requires structured intervention. This single-subject study examined whether an integrated behavior modification program combining token economy, song-based stimulus control, and a prompting hierarchy was associated with increased independent toy-tidying behavior in a 3-year-old preschooler (L). The study was planned as an A-B-A design, but time constraints limited execution to the A-B phases. During the five baseline sessions (28 April to 2 May 2026), L tidied her toys without prompts at an average frequency of 0.6 occurrences per session. Across 23 intervention sessions (4 to 16 May 2026), prompts were faded from full physical to partial physical, gestural, and verbal, while token reinforcement was applied; planned stimulus fading on the song was not implemented. The mean success score rose from 1.4 (less than half tidied) to 3.1 (more than half to full), with an average frequency of 2.56 per session. Findings indicate that the integrated intervention was associated with improvement in toy-tidying behavior, although causal conclusions remain limited by the absence of the A' phase.
+
+**Keywords:** token economy; stimulus control; prompting hierarchy; toy tidying; early childhood
+
+## Abstrak
+
+Membangun rutinitas perawatan diri secara mandiri seperti merapikan mainan merupakan tahapan perkembangan inti pada anak usia dini yang sering kali memerlukan intervensi terstruktur. Penelitian *single-subject* ini menguji apakah program modifikasi perilaku terintegrasi yang menggabungkan *token ekonomi*, *stimulus control* berbasis lagu, dan *prompting hierarchy* berkaitan dengan peningkatan perilaku merapikan mainan secara mandiri pada seorang anak prasekolah berusia tiga tahun (L). Penelitian dirancang menggunakan desain A-B-A; namun, keterbatasan waktu menyebabkan hanya fase A-B yang terlaksana. Pada lima sesi *baseline* (28 April hingga 2 Mei 2026), frekuensi L merapikan mainan tanpa *prompt* rata-rata 0,6 kali per sesi. Selama 23 sesi intervensi (4 hingga 16 Mei 2026), *prompt* diturunkan secara bertahap dari *full physical*, *partial physical*, *gestural*, hingga *verbal*, disertai pemberian penguatan token; rencana *stimulus fading* pada lagu tidak terlaksana. Rata-rata skor keberhasilan meningkat dari 1,4 (kurang dari setengah) menjadi 3,1 (lebih dari setengah hingga penuh), dengan rata-rata frekuensi 2,56 kali per sesi. Temuan menunjukkan bahwa intervensi terintegrasi ini berkaitan dengan peningkatan perilaku merapikan mainan, meskipun kesimpulan kausal masih terbatas karena fase A' tidak terlaksana.
+
+**Kata kunci:** *token ekonomi*; *stimulus control*; *prompting hierarchy*; merapikan mainan; anak usia dini
+
+## Simpulan
+
+Hasil penelitian ini menunjukkan bahwa integrasi *token ekonomi*, *stimulus control* berbasis lagu, dan *prompting hierarchy* berkaitan dengan peningkatan frekuensi serta ketuntasan perilaku merapikan mainan pada anak usia tiga tahun, dari rata-rata 0,6 kali per sesi pada fase *baseline* menjadi 2,56 kali per sesi pada fase intervensi, dengan skor keberhasilan yang naik dari rentang KS-S menjadi LS-P di sesi-sesi akhir. Pengurangan *prompt* secara bertahap dari *full physical* hingga *verbal* berhasil membawa subjek menuju kemandirian relatif terhadap panduan fisik, sementara sistem *token ekonomi* dengan peningkatan rasio penguatan mendukung keterlibatan anak sepanjang program. Kemunculan *extinction burst* pada Sesi 4, yang ditangani secara konsisten oleh orang tua melalui penerapan *extinction* dan *Differential Reinforcement of Alternative behavior* (DRA), mengindikasikan bahwa pola perilaku lama mulai mengalami kepunahan dan membuka ruang bagi pembentukan perilaku baru yang lebih adaptif. Meskipun demikian, hasil ini perlu dimaknai dengan memperhatikan dua keterbatasan utama, yakni *stimulus fading* lagu yang belum sempat dilaksanakan sehingga lagu 'Beres-beres' tetap diputar penuh sepanjang 23 sesi, serta fase *baseline* kedua (A') yang tidak dapat dijalankan, sehingga desain efektif hanya mencapai A-B dan hubungan fungsional antara intervensi dan perubahan perilaku belum dapat disimpulkan secara kuat.
+
+Berdasarkan temuan tersebut, penelitian selanjutnya direkomendasikan untuk memperpanjang durasi program agar *stimulus fading* lagu dan fase A' dapat dituntaskan, sehingga *transfer of stimulus control* dari intervensi buatan menuju isyarat alami serta hubungan fungsional antara intervensi dan perubahan perilaku dapat dibuktikan secara lebih utuh. Bagi orang tua, hasil ini memberikan panduan praktis bahwa modifikasi perilaku berbasis prinsip *operant conditioning* dapat diterapkan di rumah tanpa membutuhkan intervensi profesional langsung, sepanjang konsistensi dalam pemberian *prompt*, *reinforcement*, dan respons terhadap *tantrum* dapat dipertahankan.
+
 ## Tinjauan Pustaka: Prompting dan Fading
 
 Dalam aplikasi modifikasi perilaku, *prompting* merupakan salah satu teknik utama yang digunakan untuk meningkatkan kemunculan perilaku target. Martin dan Pear (2019) mendefinisikan *prompt* sebagai stimulus anteseden tambahan yang diberikan untuk meningkatkan kemungkinan terjadinya perilaku yang diinginkan, namun bukan merupakan stimulus target akhir yang diharapkan mengendalikan perilaku tersebut secara permanen. Jenis-jenis *prompt* diklasifikasikan berdasarkan tingkat intensitas bantuannya, meliputi *physical prompt* (panduan fisik langsung), *modeling prompt* (demonstrasi perilaku), *gestural prompt* (isyarat seperti menunjuk), dan *verbal prompt* (instruksi lisan) (Martin & Pear, 2019). Kamil et al. (2023), dalam kajian literatur yang berfokus pada anak autis, menyimpulkan bahwa metode *prompting* dapat dimanfaatkan sebagai alternatif intervensi pendidikan dalam membangun kebiasaan dan rutinitas perilaku yang diharapkan.
@@ -14,19 +32,9 @@ Berdasarkan uraian di atas, penelitian ini bertujuan untuk menganalisis pengaruh
 
 ## 4.6 Proses Fading
 
-Proses *fading* dalam penelitian ini mencakup dua komponen utama yang berlangsung secara paralel: *stimulus fading* pada lagu sebagai anteseden diskriminatif dan *prompt fading* pada hierarki bantuan yang diberikan kepada L.
+Proses *fading* dalam penelitian ini awalnya dirancang mencakup beberapa komponen yang berlangsung secara paralel, yakni *prompt fading* pada hierarki bantuan yang diberikan kepada L, *fading* pada sistem token ekonomi melalui peningkatan rasio penguatan, serta *stimulus fading* lagu yang dibagi ke dalam lima tahap (Fase 3a hingga 3e), mulai dari pemutaran lagu 'Beres-beres' secara penuh, penurunan volume, pemendekan durasi, pengalihan menjadi senandung, hingga isyarat verbal pendek. Namun, akibat keterbatasan waktu pelaksanaan, *stimulus fading* lagu tidak sempat dilaksanakan, sehingga lagu 'Beres-beres' tetap diputar penuh sepanjang 23 sesi intervensi (Fase 3a). Dengan demikian, komponen *fading* yang benar-benar terlaksana dalam penelitian ini hanya mencakup *prompt fading* dan *fading* token ekonomi.
 
-**Tabel 4. Tahapan *Stimulus Fading* Lagu**
-
-| Fase | Bentuk Stimulus | Sesi Awal | Tanggal |
-|---|---|---|---|
-| 1 | Lagu "Beres-beres" diputar penuh | 1 | 4 Mei |
-| 3a | Volume lagu diturunkan bertahap | 10 | 8 Mei |
-| 3b | Durasi lagu dipersingkat | 17 | 11 Mei |
-| 3c | Lagu diganti senandung (*humming*) | 20 | 14 Mei |
-| 3d | Isyarat verbal pendek | 23 | 16 Mei |
-
-**Tabel 5. Tahapan *Prompt Fading***
+**Tabel 4. Tahapan *Prompt Fading***
 
 | Level | Bentuk Bantuan | Sesi Awal | Tanggal |
 |---|---|---|---|
@@ -34,8 +42,6 @@ Proses *fading* dalam penelitian ini mencakup dua komponen utama yang berlangsun
 | PP | *Partial physical prompt* (panduan fisik sebagian) | 6 | 6 Mei |
 | G | *Gestural prompt* (isyarat gestural) | 11 | 9 Mei |
 | V | *Verbal prompt* (instruksi verbal) | 18 | 12 Mei |
-
-*Stimulus fading* berlangsung sepanjang 23 sesi intervensi. Pada sesi 1-9 (4-8 Mei), lagu "Beres-beres" diputar secara penuh sebagai anteseden diskriminatif utama. Memasuki sesi ke-10 (8 Mei), volume lagu mulai diturunkan secara bertahap (fase 3a). Lagu kemudian dipersingkat durasinya pada sesi ke-17 (11 Mei, fase 3b), dialihkan menjadi senandung pada sesi ke-20 (14 Mei, fase 3c), dan akhirnya disederhanakan menjadi isyarat verbal pendek pada sesi ke-23 (16 Mei, fase 3d).
 
 *Prompt fading* dimulai dari *full physical prompt* pada sesi 1-3. Upaya transisi ke *partial physical prompt* pada sesi ke-4 (5 Mei) sempat memicu frustrasi pada L sehingga FP diberikan kembali pada sesi ke-5, sebelum PP diterapkan secara konsisten mulai sesi ke-6. Isyarat gestural pertama kali dicoba pada sesi ke-9, namun L menunjukkan penolakan sehingga prompt diturunkan kembali ke PP; transisi ke G yang stabil baru tercapai pada sesi ke-11 (9 Mei). *Verbal prompt* pertama kali diperkenalkan pada sesi ke-18 (12 Mei) dan menjadi level prompt dominan pada sesi-sesi akhir intervensi, meskipun sempat kembali ke G pada sesi ke-19 dan ke-20 sebelum V diterapkan secara konsisten mulai sesi ke-21.
 
