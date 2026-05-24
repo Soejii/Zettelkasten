@@ -10,7 +10,7 @@
 
 ---
 
-## Sesi ke-2 | 8 April 2026 | Fisika Teknik
+## Sesi ke-2 | 8 April 2026 | Aplikasi Elektronika
 
 ---
 
@@ -19,7 +19,7 @@
 **Nama/Kode Informan:** S1
 **Tanggal:** 8 April 2026
 **Sesi ke-:** 2
-**Mata Kuliah:** Fisika Teknik
+**Mata Kuliah:** Aplikasi Elektronika
 **Lokasi:** Gedung D3 Fakultas Vokasi, Ruang 207
 **Waktu Mulai:** 08.00
 **Waktu Selesai:** 09.40
@@ -49,7 +49,7 @@ Pola perilaku S1 dalam sesi ini sangat konsisten dengan profil yang ia deskripsi
 **Nama/Kode Informan:** S1
 **Tanggal:** 8 April 2026
 **Sesi ke-:** 2
-**Mata Kuliah:** Fisika Teknik
+**Mata Kuliah:** Aplikasi Elektronika
 **Lokasi:** Gedung D3 Fakultas Vokasi, Ruang 207
 
 | No. | Dimensi Efikasi Diri | Indikator Manifestasi Perilaku | 1 (Sangat Rendah) | 2 (Rendah) | 3 (Cukup) | 4 (Tinggi) | 5 (Sangat Tinggi) | Catatan |
@@ -65,7 +65,7 @@ Pola perilaku S1 dalam sesi ini sangat konsisten dengan profil yang ia deskripsi
 **Nama/Kode Informan:** S1
 **Tanggal:** 8 April 2026
 **Sesi ke-:** 2
-**Mata Kuliah:** Fisika Teknik
+**Mata Kuliah:** Aplikasi Elektronika
 **Durasi Total:** 100 menit (6 interval 10 menit yang dapat diamati dari pukul 08.00–09.00)
 
 Tandai (v) perilaku yang teramati pada setiap interval waktu.
@@ -98,7 +98,7 @@ Tandai (v) perilaku yang teramati pada setiap interval waktu.
 | **Tanggal** | 8 April 2026 |
 | **Waktu** | 08.26 |
 | **Setting/Lokasi** | Ruang 207 Gedung D3, selama sesi pengerjaan soal mandiri |
-| **Mata Kuliah** | Fisika Teknik |
+| **Mata Kuliah** | Aplikasi Elektronika |
 | **Konteks Situasi** | Dosen meminta seluruh mahasiswa mengerjakan satu soal aplikasi rangkaian RLC secara mandiri selama 10 menit. Soal ditampilkan di slide. S1 sudah membuka binder dan menuliskan nomor soal. |
 
 **Deskripsi Kejadian:**
