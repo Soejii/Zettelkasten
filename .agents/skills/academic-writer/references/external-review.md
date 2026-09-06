@@ -27,6 +27,8 @@ Create a self-contained review prompt that identifies:
 
 The packet or prompt tells the reviewer where the evidence lives. It does not pre-argue that the draft is correct.
 
+Store the review prompt, findings, and run log inside `working/<Assignment Name>/` with the assignment's other non-canonical artifacts. Never place them loose in the shared `working/` directory.
+
 ## Dispatch
 
 Use explicit paths for executables and output files. Redirect stdin from the review prompt so the complete request reaches the reviewer without shell argument limits.

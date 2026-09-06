@@ -34,11 +34,11 @@ Return findings only. Do not rewrite the paper and do not edit files.
 
 ## Authoritative sources and ledger
 
-- Working ledger: `working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.working.md`
-- Quantitative source PDF: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017).pdf`
-- Quantitative faithful transcript: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017).md`
-- Qualitative source PDF: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019).pdf`
-- Qualitative faithful transcript: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019).md`
+- Working ledger: `working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.working.md`
+- Quantitative source PDF: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017)/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017).pdf`
+- Quantitative faithful transcript: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017)/perceived stress in first year medical students - associations with personal resources and emotional distress - (heinen et al., 2017).md`
+- Qualitative source PDF: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019)/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019).pdf`
+- Qualitative faithful transcript: `/home/suji/document/college/penelitian psikologi kualitatif/sources/papers/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019)/stressors and resources related to academic studies and improvements suggested by medical students - a qualitative study - (weber et al., 2019).md`
 
 ## Deliberate choices
 

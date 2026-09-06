@@ -12,6 +12,8 @@ This repository is an Obsidian vault for psychology coursework, written primaril
 
 Keep attachments near the established asset location and use relative Obsidian links so the vault remains portable.
 
+Keep canonical assignments and ordinary lecture notes directly in their established course or topic folder. Put every non-canonical artifact for an assignment or other note-producing task under `working/<Canonical Name>/`, including section drafts, evidence ledgers, review prompts, findings, and run logs. Do not leave task artifacts loose in a shared `working/` directory.
+
 ## Development and Validation Commands
 
 There is no build system or automated test suite. Open the repository as an Obsidian vault for normal editing and visual verification. Before submitting changes, run:

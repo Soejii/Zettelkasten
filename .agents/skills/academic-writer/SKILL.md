@@ -24,7 +24,7 @@ Read each selected reference completely. Do not load the external-review procedu
 - Run the global `grilling` skill at document level and again before every section. If it is unavailable, stop and explain that the mandatory decision gate cannot run.
 - Ask one decision at a time. Investigate discoverable facts yourself.
 - Write or revise only the named, authorized section. Adjacent sections may be read for context but remain unchanged unless Suji explicitly authorizes them.
-- Create section working files automatically. Maintain one canonical, complete final Markdown file for the assignment.
+- Create one assignment-named folder under `working/` and keep every section working file and review artifact for that assignment inside it. Maintain one canonical, complete final Markdown file outside that folder.
 - Treat model memory and search results as discovery aids, never as evidence.
 - Use Hound MCP for independent web research. Inspect the exact source before using a substantive claim.
 - If the exact source is inaccessible, ask Suji to obtain it. Replace, narrow, or omit the claim until the source can be inspected.
