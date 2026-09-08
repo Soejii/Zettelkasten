@@ -30,6 +30,10 @@ Map of Content untuk catatan **Psikologi Pendidikan**, **Psikologi Industri Orga
 
 ## Psikologi Pendidikan
 
+### Psikologi Pendidikan Komprehensif
+
+- [[Cara Mengintervensi Perilaku Siswa]], ABA, FBA, dan PBIS
+
 ### Catatan & Tugas
 - [[Tugas Motivasi]] — Teori Motivasi, Motivasi Intrinsik/Ekstrinsik
 - [[Children with Disabilities]] — ADHD, Learning Disabilities, ASD
