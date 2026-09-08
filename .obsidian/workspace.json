@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "34026832b80e00fd",
+        "id": "e1d2e331373e1aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "7eabd535abac36ad",
+            "id": "d6979c1d4ff4fddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 2.md",
+                "file": "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Penelitian Psikologi Kualitatif - 2"
+              "title": "Intervensi Komunitas - 1"
+            }
+          },
+          {
+            "id": "0f3a10fe999b24bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/Psikologi Kesehatan - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Psikologi Kesehatan - 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "buli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +86,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.69987869262695
+    "width": 479.5
   },
   "right": {
     "id": "5c7caf9d2ae722d9",
@@ -169,47 +187,48 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7eabd535abac36ad",
+  "active": "0f3a10fe999b24bc",
   "lastOpenFiles": [
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Penelitian Psikologi Kualitatif - 2/source-review.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 2.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Inquiry-Based Learning - Definisi Tujuan Manfaat dan Karakteristik.working.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif/external-review-run.log",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif/external-review-prompt.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif/external-review-findings.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.working.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Tugas Individu Mata Kuliah Analisis Jabatan/Job Description dan Job Specification Mini.working.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Tugas Individu Mata Kuliah Analisis Jabatan/Job Specification.working.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Tugas Individu Mata Kuliah Analisis Jabatan",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/external-review-findings.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/external-review-prompt.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 1.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/external-review-run.log",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.working.md",
-    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working",
-    "AGENTS.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 1.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Tugas Individu Mata Kuliah Analisis Jabatan.md",
     "CLAUDE.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Analisis Jabatan - 1.md",
-    "College 101/Zettelkasten/Literature Notes/Managemen Sumber Daya Manusia/Project MSDM.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Job Specification.working.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Job Description dan Job Specification Mini.working.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working",
-    "College 101/Zettelkasten/Literature Notes/Managemen Sumber Daya Manusia/Analisis Peran - Ketua Komisi IV.md",
-    "Untitled.base",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri.md",
+    "AGENTS.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/Psikologi Kesehatan - 2.md",
+    "College 101/Zettelkasten/Literature Notes/Psikopatologi/Cheat Sheet UAS Psikopatologi.md",
+    "College 101/Zettelkasten/Literature Notes/Psikopatologi/Psikopatologi - 9.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/Psikologi Kesehatan - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Belajar Komprehensif/Psikologi Belajar Komprehensif - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Manajemen Kelas/Psikologi Belajar Komprehensif - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Manajemen Kelas/Memahami Konsep dan Cara Mengaplikasikan Manajemen Kelas.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Manajemen Kelas",
     "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working/Inquiry-Based Learning - Definisi Tujuan Manfaat dan Karakteristik.working.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Komprehensif",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/What Is Inquiry-Guided Learning - (Lee, 2012).pdf",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/The Many Levels of Inquiry - (Banchi & Bell, 2008).pdf",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/The Effect of Inquiry-Based Learning on Students' Critical Thinking Skills in Science Education - (Arifin et al., 2025).pdf",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Implementasi Pendekatan Saintifik pada Sintaks Discovery-Inquiry Learning, Based Learning, Project Based Learning - (Banawi, 2019).pdf",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Educational Psychology, Chapter 12, Planning, Instruction, and Technology - (Santrock, 2023).pdf",
+    "College 101/Refrences/Sources/Psikologi Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/Psikologi Konseling - 1.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kuantitatif/Literature Review/Mulati & Purwandari (2022) - The Role of Resilience in Coping with Academic Stress - A Meta-Analysis Study.md",
+    "College 101/Zettelkasten/Literature Notes/Agama/Disorientasi Seksual dalam Islam.md",
+    "College 101/Zettelkasten/Literature Notes/Statistika/Tugas Korelasi.md",
+    "College 101/Zettelkasten/Literature Notes/Statistika/Stat Cheat Sheet.md",
+    "College 101/Zettelkasten/Literature Notes/Statistika/Statistika - 2.md",
+    "College 101/Zettelkasten/Literature Notes/Statistika/Statistika - 4.md",
+    "College 101/Zettelkasten/Literature Notes/Statistika/Statistika - 9.md",
+    "College 101/Zettelkasten/Literature Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 3.md",
+    "College 101/Zettelkasten/Literature Notes/Managemen Sumber Daya Manusia/Manajemen Sumber Daya Manusia - 2.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Analisis Jabatan - 1.md",
     "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Artikel Psycho Idea - Bukan Bidangku tapi Aku Bisa.md",
     "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Proposal Linjur.md",
-    "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Literature Review/Fassl et al. (2020) - Impostors Dare to Compare Associations Between the Impostor Phenomenon Gender Typing and Social Comparison Orientation.md.tmp.2763.ed24e833de6e",
-    "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Literature Review/Cassidy (2015) - Resilience Building in Students The Role of Academic Self-Efficacy.md.tmp.2763.32201abaecb4",
     "College 101/Refrences/Pictures/Pasted image 20260202132043.png",
     "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
     "College 101/Assets/Characteristics of self-actualizing people.png"
