@@ -10,7 +10,7 @@ Draf sementara untuk ditinjau Suji dan kelompok. Bukan hasil penelitian atau nas
 - Kontribusi diposisikan sebagai perluasan kontekstual, bukan klaim bahwa fenomena belum pernah diteliti.
 - Rencana pengumpulan data: catatan singkat tiga hari diikuti wawancara.
 - Format sitasi: APA 7; bahasa Indonesia.
-- Informasi faktual memakai sumber Indonesia. Suji menolak survei remaja Spanyol pada 13 September 2026 karena cakupannya terlalu lebar, sehingga digantikan survei nasional APJII dan satu studi kualitatif mahasiswa Indonesia.
+- Informasi faktual memakai sumber Indonesia. Suji menolak survei remaja Spanyol pada 13 September 2026 karena cakupannya terlalu lebar. Penggantinya ditetapkan dua lapis: Badan Pusat Statistik sebagai garis dasar nasional yang dapat ditunjuk per halaman, dan APJII 2026 untuk kategori video pendek daring serta durasi media sosial, ditambah satu studi kualitatif mahasiswa Indonesia untuk tingkat pengalaman.
 - Partisipan: mahasiswa aktif Universitas Negeri Malang. Mahasiswa sesuai konteks jeda belajar; UM membatasi lokasi perekrutan dan memudahkan pengumpulan data. Alasan ini bukan klaim bahwa mahasiswa UM memiliki masalah khusus atau bahwa lokasi tersebut membuktikan kebaruan. Disetujui Suji pada revisi bagian partisipan.
 
 ## Keputusan implementasi sementara
@@ -34,4 +34,4 @@ Partisipan mencatat episode yang benar-benar terjadi selama tiga hari: kegiatan 
 Wawancara menggunakan catatan sebagai pemicu ingatan untuk menguraikan pengalaman. Durasi yang diingat adalah laporan partisipan, bukan pengukuran objektif. Efek pencatatan terhadap kebiasaan perlu ditanyakan dan diakui sebagai keterbatasan. Penelitian belum dilaksanakan dan belum ada data partisipan.
 
 ## Audit
-Fenomena ditulis sebagai sasaran penelusuran, bukan observasi awal fiktif. Angka APJII disebut sebagai durasi akses internet secara keseluruhan dan tidak digeneralisasi menjadi durasi menonton video pendek. Temuan Kamilia et al. tidak digeneralisasi melampaui enam informan dan genre konten yang mereka teliti. Tidak ada diagnosis adiksi atau klaim kausal. Tidak ada klaim kebaruan mutlak. Identitas yang belum tersedia dibiarkan kosong. Tidak ada ekspor, komit, atau pengiriman eksternal.
+Fenomena ditulis sebagai sasaran penelusuran, bukan observasi awal fiktif. Angka BPS dan APJII tidak digabungkan dalam satu pernyataan karena definisi dan penyebutnya berbeda. Durasi APJII disebut sebagai durasi media sosial, bukan durasi menonton video pendek. Temuan Kamilia et al. tidak digeneralisasi melampaui enam informan dan genre konten yang mereka teliti. Tidak ada diagnosis adiksi atau klaim kausal. Tidak ada klaim kebaruan mutlak. Identitas yang belum tersedia dibiarkan kosong. Tidak ada ekspor, komit, atau pengiriman eksternal.
