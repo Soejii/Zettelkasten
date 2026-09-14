@@ -76,12 +76,12 @@ Do not use a candidate or `needs-user-copy` entry in final prose.
 
 The final Markdown file contains only material intended for submission:
 
-- assignment identity required by the lecturer;
-- accepted title and section structure;
-- accepted prose;
-- tables, figures, and captions;
-- in-text citations;
-- one reconciled reference list;
+- assignment identity required by the lecturer.
+- accepted title and section structure.
+- accepted prose.
+- tables, figures, and captions.
+- in-text citations.
+- one reconciled reference list.
 - required appendices.
 
 Do not leak source-ledger notes, reviewer findings, search notes, drafting instructions, uncertainty markers, or internal status labels into the final file.

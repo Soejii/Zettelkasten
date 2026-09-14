@@ -16,13 +16,13 @@ Run from the assignment folder. The reviewer may inspect the complete assignment
 
 Create a self-contained review prompt that identifies:
 
-- the assignment and assessment criteria;
-- the canonical final file;
-- section ownership and read-only group contributions;
-- the confirmed purpose, central position, and document map;
-- citation and formatting rules;
-- authoritative local sources and working ledgers;
-- deliberate choices that should not be rediscovered as errors;
+- the assignment and assessment criteria.
+- the canonical final file.
+- section ownership and read-only group contributions.
+- the confirmed purpose, central position, and document map.
+- citation and formatting rules.
+- authoritative local sources and working ledgers.
+- deliberate choices that should not be rediscovered as errors.
 - the findings-only review request below.
 
 The packet or prompt tells the reviewer where the evidence lives. It does not pre-argue that the draft is correct.
