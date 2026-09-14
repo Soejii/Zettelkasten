@@ -1,6 +1,6 @@
 # Memahami Konsep dan Cara Mengaplikasikan Manajemen Kelas
 
-Catatan Psikologi Pendidikan Komprehensif berdasarkan presentasi Kelompok 1 (Cantika et al., n.d.). Nomor slide mengikuti urutan halaman PDF. Fokus materi meliputi pengelolaan kelas, lingkungan fisik, iklim belajar positif, komunikasi, dan penanganan perilaku bermasalah.
+Catatan Psikologi Pembelajaran Komprehensif berdasarkan presentasi Kelompok 1 (Cantika et al., n.d.). Nomor slide mengikuti urutan halaman PDF. Fokus materi meliputi pengelolaan kelas, lingkungan fisik, iklim belajar positif, komunikasi, dan penanganan perilaku bermasalah.
 
 ## Konsep dan tujuan manajemen kelas
 
@@ -145,6 +145,6 @@ Cantika, P. A., Dharma, N. M. G. P., Nabila, N. R., Nindya Fadhilah k, Nisrina I
 
 Nama yang tidak jelas pemisahan nama akhir atau kepanjangan inisialnya dipertahankan sebagaimana tercantum pada slide 2. Tahun publikasi tidak tercantum pada slide; tanggal pembuatan berkas tidak digunakan sebagai tahun publikasi. Sampul menuliskan “Psikologi Pembelajaran Komprehensif”; pengelompokan catatan mengikuti mata kuliah yang ditentukan pengguna.
 
-Sumber asli: [PDF di repositori college privat](<../../../../../document/college/psikologi pendidikan komprehensif/sources/slides/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.)/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.).pdf>). Tautan ini mengikuti susunan folder pada komputer ini; PDF disimpan di luar vault publik.
+Sumber asli: [PDF di repositori college privat](<../../../../../college/psikologi pembelajaran komprehensif/sources/slides/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.)/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.).pdf>). Tautan ini mengikuti susunan folder pada komputer ini; PDF disimpan di luar vault publik.
 
 Catatan terkait: [[Cara Mengintervensi Perilaku Siswa]], [[Reinforcement]], [[Punishment]], [[Motivasi Intrinsik]], dan [[MOC - Psikologi Pendidikan & PIO]].
