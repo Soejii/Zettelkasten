@@ -36,6 +36,7 @@ Map of Content untuk catatan **Psikologi Pendidikan**, **Psikologi Industri Orga
 - [[Cara Mengintervensi Perilaku Siswa]], ABA, FBA, dan PBIS
 - [[Memahami Konsep dan Cara Mengaplikasikan Manajemen Kelas]]
 - [[Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri]]
+- [[Refleksi Film Freedom Writers]]
 
 ### Catatan & Tugas
 - [[Tugas Motivasi]] — Teori Motivasi, Motivasi Intrinsik/Ekstrinsik
