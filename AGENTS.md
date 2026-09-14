@@ -35,6 +35,8 @@ Write academic material in concise Indonesian unless the surrounding document us
 
 ## Testing and Content Review
 
+For academic work, first inspect and use relevant sources in Fafnir (`/home/suji/document/college/<course>/sources/`), matching the assignment's course or matkul name. Check retained books and course materials before web research. Account for course-name variants already confirmed by Suji without renaming folders unless requested. Read the actual source and record its relevant pages in working notes or source ledgers; use web research only for evidence gaps the retained sources cannot answer.
+
 Review factual claims, citations, tables, and attachment paths manually. For PDFs, inspect the text layer with `pdf-inspector detect <file> --json` before extraction or OCR. Visually verify tables because automated extraction can reorder columns.
 
 ## Commit & Push Guidelines
