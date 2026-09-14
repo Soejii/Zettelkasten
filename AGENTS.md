@@ -33,6 +33,8 @@ Use Markdown with one top-level title per note and descriptive sentence-case hea
 
 Write academic material in concise Indonesian unless the surrounding document uses another language. Use APA style for academic citations. Do not use em dashes.
 
+In canonical assignment files, use author-year citations without page numbers. Keep exact page locators in working notes and source ledgers for traceability. Include page numbers in the canonical file only when Suji explicitly requests them.
+
 ## Testing and Content Review
 
 For academic work, first inspect and use relevant sources in Fafnir (`/home/suji/document/college/<course>/sources/`), matching the assignment's course or matkul name. Check retained books and course materials before web research. Account for course-name variants already confirmed by Suji without renaming folders unless requested. Read the actual source and record its relevant pages in working notes or source ledgers; use web research only for evidence gaps the retained sources cannot answer.
