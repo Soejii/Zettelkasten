@@ -1,4 +1,8 @@
-# Memahami Konsep dan Cara Mengaplikasikan Manajemen Kelas
+# Psikologi pembelajaran komprehensif - (1)
+
+Minggu 1 · Kelompok 1
+
+Topik: manajemen kelas.
 
 Catatan Psikologi Pembelajaran Komprehensif berdasarkan presentasi Kelompok 1 (Cantika et al., n.d.). Nomor slide mengikuti urutan halaman PDF. Fokus materi meliputi pengelolaan kelas, lingkungan fisik, iklim belajar positif, komunikasi, dan penanganan perilaku bermasalah.
 
@@ -107,7 +111,7 @@ Untuk pelanggaran kecil yang sesekali muncul, materi memuat tujuh strategi:
 6. Memberikan perintah langsung yang singkat dan tegas.
 7. Memberikan pilihan perilaku dengan konsekuensi yang jelas.
 
-Pemilihan respons perlu memperhatikan penyebab gangguan. Siswa yang bingung mengerjakan tugas, misalnya, membutuhkan penjelasan tambahan. Pembahasan fungsi perilaku dapat dilanjutkan melalui [[Cara Mengintervensi Perilaku Siswa]].
+Pemilihan respons perlu memperhatikan penyebab gangguan. Siswa yang bingung mengerjakan tugas, misalnya, membutuhkan penjelasan tambahan. Pembahasan fungsi perilaku dapat dilanjutkan melalui [[psikologi pembelajaran komprehensif - (2)|Intervensi perilaku siswa]].
 
 ### Intervensi moderat dan bantuan pihak lain
 
@@ -145,6 +149,6 @@ Cantika, P. A., Dharma, N. M. G. P., Nabila, N. R., Nindya Fadhilah k, Nisrina I
 
 Nama yang tidak jelas pemisahan nama akhir atau kepanjangan inisialnya dipertahankan sebagaimana tercantum pada slide 2. Tahun publikasi tidak tercantum pada slide; tanggal pembuatan berkas tidak digunakan sebagai tahun publikasi. Sampul menuliskan “Psikologi Pembelajaran Komprehensif”; pengelompokan catatan mengikuti mata kuliah yang ditentukan pengguna.
 
-Sumber asli: [PDF di repositori college privat](<../../../../../college/psikologi pembelajaran komprehensif/sources/slides/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.)/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.).pdf>). Tautan ini mengikuti susunan folder pada komputer ini; PDF disimpan di luar vault publik.
+Sumber asli: [PDF di repositori college privat](<../../../../../document/college/psikologi pembelajaran komprehensif/sources/slides/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.)/memahami konsep dan cara mengaplikasikan manajemen kelas - (cantika et al., n.d.).pdf>). Tautan ini mengikuti susunan folder pada komputer ini; PDF disimpan di luar vault publik.
 
-Catatan terkait: [[Cara Mengintervensi Perilaku Siswa]], [[Reinforcement]], [[Punishment]], [[Motivasi Intrinsik]], dan [[MOC - Psikologi Pendidikan & PIO]].
+Catatan terkait: [[psikologi pembelajaran komprehensif - (2)|Intervensi perilaku siswa]], [[Reinforcement]], [[Punishment]], [[Motivasi Intrinsik]], dan [[MOC - Psikologi Pendidikan & PIO]].

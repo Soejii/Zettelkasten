@@ -1,4 +1,8 @@
-# Cara Mengintervensi Perilaku Siswa
+# Psikologi pembelajaran komprehensif - (2)
+
+Minggu 2 · Kelompok 2
+
+Topik: intervensi perilaku siswa.
 
 Catatan Psikologi Pembelajaran Komprehensif berdasarkan materi Kelompok 2 (Zahiroh et al., n.d.). Pembahasan mencakup analisis perilaku terapan, asesmen fungsi perilaku, dan dukungan perilaku positif di sekolah.
 
@@ -149,4 +153,4 @@ Zahiroh, N. Z., Warsito K., P. R. C., Tira, P. I., Nuroniyah, Q., & Aulia, R. V.
 
 Catatan terkait: [[Operan Conditioning]], [[Reinforcement]], [[Jadwal Penguatan]], [[Operant Extinction]], [[Punishment]], dan [[MOC - Psikologi Pendidikan & PIO]].
 
-Sumber asli: [PDF di repositori college privat](<../../../../../college/psikologi pembelajaran komprehensif/sources/slides/cara mengintervensi perilaku siswa - (zahiroh et al., n.d.)/cara mengintervensi perilaku siswa - (zahiroh et al., n.d.).pdf>).
+Sumber asli: [PDF di repositori college privat](<../../../../../document/college/psikologi pembelajaran komprehensif/sources/slides/cara mengintervensi perilaku siswa - (zahiroh et al., n.d.)/cara mengintervensi perilaku siswa - (zahiroh et al., n.d.).pdf>).

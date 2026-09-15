@@ -32,9 +32,9 @@ Map of Content untuk catatan **Psikologi Pendidikan**, **Psikologi Industri Orga
 
 ### Psikologi Pembelajaran Komprehensif
 
-- [[Psikologi Pembelajaran Komprehensif - 1]]
-- [[Cara Mengintervensi Perilaku Siswa]], ABA, FBA, dan PBIS
-- [[Memahami Konsep dan Cara Mengaplikasikan Manajemen Kelas]]
+- [[psikologi pembelajaran komprehensif - (1)|Minggu 1: manajemen kelas]]
+- [[psikologi pembelajaran komprehensif - (2)|Minggu 2: intervensi perilaku siswa]], ABA, FBA, dan PBIS
+- [[psikologi pembelajaran komprehensif - (3)|Minggu 3: komunikasi empatik dan asesmen pembelajaran]]
 - [[Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri]]
 - [[Refleksi Film Freedom Writers]]
 
