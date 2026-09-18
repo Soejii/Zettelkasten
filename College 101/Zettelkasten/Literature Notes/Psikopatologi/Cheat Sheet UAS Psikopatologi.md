@@ -7,13 +7,13 @@
 
 ### Gangguan Makan (Eating Disorders)
 
-| Gangguan | Kriteria Kunci | Prevalensi |
-|---|---|---|
-| **Anorexia Nervosa** | A) Restriksi energi → berat badan sangat rendah; B) Takut intensif terhadap kenaikan BB; C) Distorsi persepsi tubuh | 0.14-0.3% (perempuan lebih tinggi) |
-| **Bulimia Nervosa** | A) Binge eating berulang; B) Perilaku kompensasi tidak tepat; C) ≥1x/minggu × ≥3 bulan; D) Self-worth ditentukan bentuk/berat badan | 0.44-1.2% |
-| **Binge-Eating Disorder** | A) Binge eating berulang + ≥3 dari: cepat makan/makan saat tidak lapar/makan sampai tidak nyaman/makan sendiri karena malu/merasa jijik/bersalah/depresi; B) Distress; C) ≥1x/minggu × 3 bulan; tanpa kompensasi | 0.44-1.2% |
-| **ARFID** | Gangguan makan + ≥1: penurunan BB / defisiensi nutrisi / ketergantungan suplemen / interferensi psikososial | - |
-| **Pica** | Makan bahan non-nutritif ≥1 bulan; tidak sesuai usia; bukan praktik budaya | ~5% anak sekolah; ~28% kehamilan |
+| Gangguan                  | Kriteria Kunci                                                                                                                                                                                                   | Prevalensi                         |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **Anorexia Nervosa**      | A) Restriksi energi → berat badan sangat rendah; B) Takut intensif terhadap kenaikan BB; C) Distorsi persepsi tubuh                                                                                              | 0.14-0.3% (perempuan lebih tinggi) |
+| **Bulimia Nervosa**       | A) Binge eating berulang; B) Perilaku kompensasi tidak tepat; C) ≥1x/minggu × ≥3 bulan; D) Self-worth ditentukan bentuk/berat badan                                                                              | 0.44-1.2%                          |
+| **Binge-Eating Disorder** | A) Binge eating berulang + ≥3 dari: cepat makan/makan saat tidak lapar/makan sampai tidak nyaman/makan sendiri karena malu/merasa jijik/bersalah/depresi; B) Distress; C) ≥1x/minggu × 3 bulan; tanpa kompensasi | 0.44-1.2%                          |
+| **ARFID**                 | Gangguan makan + ≥1: penurunan BB / defisiensi nutrisi / ketergantungan suplemen / interferensi psikososial                                                                                                      | -                                  |
+| **Pica**                  | Makan bahan non-nutritif ≥1 bulan; tidak sesuai usia; bukan praktik budaya                                                                                                                                       | ~5% anak sekolah; ~28% kehamilan   |
 
 ### Gangguan Tidur
 
