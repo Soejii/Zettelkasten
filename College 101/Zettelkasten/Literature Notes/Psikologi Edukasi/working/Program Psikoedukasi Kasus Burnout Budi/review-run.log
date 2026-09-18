@@ -1,0 +1,746 @@
+Reading prompt from stdin...
+OpenAI Codex v0.155.0
+--------
+workdir: /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: low
+reasoning summaries: none
+session id: 01a0b320-5f22-7702-9f70-d87779344856
+--------
+user
+# External review packet
+
+Review the complete Indonesian academic assignment as an independent reader. Return findings only. Do not rewrite the paper and do not edit files.
+
+## Assignment
+
+- Course: Psikologi Edukasi
+- Task: Analyze Case 5 about Budi, a 30-year-old startup employee experiencing burnout indicators, then design a psychoeducation program using the Life-Skills Model to improve coping and work-life balance through experiential learning.
+- Required output: An Indonesian written response of approximately 800 to 1,000 body words.
+- Canonical final file: `/home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md`
+- Section owner: Suji owns the complete document. There are no group-member sections.
+
+## Confirmed purpose and document map
+
+The document must translate the case into a practical individual psychoeducation program without diagnosing Budi. It must explain the Life-Skills rationale, state program goals, and present three connected sessions:
+
+1. Recognize work pressure and response patterns.
+2. Practice coping, relaxation, and work-life planning.
+3. Practice assertive communication through role-play.
+
+The response deliberately omits a formal outcome evaluation. It uses narrative form rather than a table and does not assign session durations because the lecturer did not specify them.
+
+## Citation and formatting rules
+
+- Use APA 7 author-year citations without page numbers in the canonical file.
+- The canonical reference list intentionally contains Maslach (2017) and Walsh (2010).
+- Lecturer slides are the authority for the task, the Life-Skills Model mapping, and experiential-learning requirement. At Suji's explicit direction, the canonical document retains slide-derived content without citing or listing Tira (2026).
+- Do not report the deliberate removal of the Tira citation as an error.
+- Indonesian prose must be logical, direct, clear, formal, and precise.
+- Semicolons and em dashes are prohibited.
+
+## Authoritative evidence
+
+- Working file and claim-to-source ledger: `/home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/working/Program Psikoedukasi Kasus Burnout Budi/Program Psikoedukasi Kasus Burnout Budi.working.md`
+- Lecturer slides transcript: `/home/suji/document/college/psikologi edukasi/sources/slides/teori dan model dalam psikoedukasi - (tira, 2026)/teori dan model dalam psikoedukasi - (tira, 2026).md`
+- Walsh book transcript: `/home/suji/document/college/psikologi edukasi/sources/books/psychoeducation in mental health - (walsh, 2010)/psychoeducation in mental health - (walsh, 2010).md`
+- Maslach article: `https://doi.org/10.1037/cpb0000090`
+- The working ledger records verified exact support and source locations. The Maslach full text was inspected before drafting.
+
+## Findings-only review request
+
+Evaluate:
+
+1. Whether the document fulfills the assignment and each section performs its intended rhetorical job.
+2. Whether the central position develops coherently across sections.
+3. Whether claims follow from the cited evidence without overstating population, method, certainty, or causality.
+4. Whether citations and references are accurate, complete, and mutually reconciled.
+5. Whether definitions, terminology, and scope remain consistent.
+6. Whether adjacent sections repeat, contradict, or fail to hand off logically.
+7. Whether Indonesian sentences and paragraphs are logical, direct, clear, economical, formal, and precise.
+8. Whether exact passages exhibit formulaic model patterns such as repeated paragraph machinery, empty signposting, rephrased repetition, automatic closure, forced grouping, generic filler, or excessive structural polish.
+
+For each finding, provide the exact location, the problem, evidence from the assignment or sources, why it matters, and the direction of a correction. Distinguish demonstrable defects from subjective preferences. Order findings by impact. If no material findings exist, say so in one line.
+
+codex
+I’ll read the final document against the working ledger and source transcripts, then return only findings that warrant correction.
+
+hook: PreToolUse
+hook: PreToolUse Failed
+exec
+/usr/bin/bash -lc 'pwd; rg -n "Psikologi Edukasi|academic|source ledger" /home/suji/.codex/memories/MEMORY.md' in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+ succeeded in 0ms:
+/home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+165:applies_to: cwd=/home/suji/document/Zettelkasten with assignment material in /home/suji/document/college; reuse_rule=the proposed question, sources, and local paths are assignment-specific; reuse the provisional-outline, source-scope matching, and evidence-gap safeguards for comparable Indonesian academic research
+1028:- rollout_summaries/2026-09-01T06-44-28-Ec5Q-vendor_academic_workflow_skills_and_push_vault.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/09/01/rollout-2026-09-01T13-44-28-01a05bb6-4a5f-7610-813c-0f31bc2b11aa.jsonl, updated_at=2026-09-01T06:49:23+00:00, thread_id=01a05bb6-4a5f-7610-813c-0f31bc2b11aa, success)
+1034:## Task 2: vendor academic-writer and academic-explainer into `.agents/skills`, completed
+1038:- rollout_summaries/2026-09-01T06-44-28-Ec5Q-vendor_academic_workflow_skills_and_push_vault.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/09/01/rollout-2026-09-01T13-44-28-01a05bb6-4a5f-7610-813c-0f31bc2b11aa.jsonl, updated_at=2026-09-01T06:49:23+00:00, thread_id=01a05bb6-4a5f-7610-813c-0f31bc2b11aa, success)
+1042:- academic-writer, academic-explainer, .agents/skills, allow_implicit_invocation, quick_validate.py, diff -qr, git diff --check, zero em dashes, fe3d1a9
+1048:- rollout_summaries/2026-08-30T09-54-09-HO59-agents_guide_academic_writer_design_inquiry_video.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/08/30/rollout-2026-08-30T16-54-09-01a05217-3a52-7b62-b1de-88ad2a045a9f.jsonl, updated_at=2026-08-30T19:03:15+00:00, thread_id=01a05217-3a52-7b62-b1de-88ad2a045a9f, success)
+1072:- academic-writer, working/<Canonical Name>, canonical Markdown, evidence ledgers, review prompts, findings, logs, f23ae43, .obsidian/workspace.json
+1077:- when the user referred to “the academic writer and the other one” -> use recent project context to identify the intended pair as `academic-writer` and `academic-explainer` before modifying files. [Task 2]
+1087:- Copy complete source folders from `/home/suji/.agents/skills/academic-writer` and `/home/suji/.agents/skills/academic-explainer` into `.agents/skills/`, including `SKILL.md`, `agents/openai.yaml`, and linked `references/*.md`. Validate with `/usr/bin/python3 /home/suji/.codex/skills/.system/skill-creator/scripts/quick_validate.py <skill>` if direct execution returns `Permission denied`; then use `diff -qr`, `git diff --check`, and `rg -n '—'`. The validated commit was `fe3d1a9 Add repository academic workflow skills`. [Task 2]
+1089:- `CLAUDE.md` requires Core Templates for Permanent Notes, APA academic formatting, no em dashes, and Obsidian wikilinks in References. Validate document changes with `git diff --check` and `LC_ALL=C grep -o '—' AGENTS.md | wc -l`. [Task 3]
+1092:- `academic-writer` now places section drafts, evidence ledgers, review prompts, findings, and logs in assignment-named `working/` folders, while the canonical Markdown remains outside. Preserve historical review logs that record old paths; update active ledgers/prompts separately. The migration commit was `f23ae43 Organize assignment working artifacts`; no push occurred. [Task 5]
+1102:# Task Group: Indonesian academic-writer global skill design and current source directories
+1103:scope: apply the user-approved Indonesian academic-writing workflow and distinguish its older design evidence from the currently observed global skill source directories
+1106:## Task 1: design `/academic-writer`, partial; original construction was not validated in this rollout
+1110:- rollout_summaries/2026-08-30T09-54-09-HO59-agents_guide_academic_writer_design_inquiry_video.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/08/30/rollout-2026-08-30T16-54-09-01a05217-3a52-7b62-b1de-88ad2a045a9f.jsonl, updated_at=2026-08-30T19:03:15+00:00, thread_id=01a05217-3a52-7b62-b1de-88ad2a045a9f, partial; design only)
+1114:- academic-writer, Indonesian academic writing, grilling, section gate, .working.md, canonical .md, Hound MCP, smart_search, smart_fetch, headless Claude Code, Codex, genre module
+1116:## Task 2: observe and vendor the current global academic workflow skill sources, completed
+1120:- rollout_summaries/2026-09-01T06-44-28-Ec5Q-vendor_academic_workflow_skills_and_push_vault.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/09/01/rollout-2026-09-01T13-44-28-01a05bb6-4a5f-7610-813c-0f31bc2b11aa.jsonl, updated_at=2026-09-01T06:49:23+00:00, thread_id=01a05bb6-4a5f-7610-813c-0f31bc2b11aa, success; source directories validated through repository vendoring)
+1124:- /home/suji/.agents/skills/academic-writer, /home/suji/.agents/skills/academic-explainer, allow_implicit_invocation, academic-explainer, quick_validate.py, .agents/skills
+1128:- the user wants a “skill selebar mungkin” that acts and thinks like an academic writer, not a humanizer or paragraph generator -> use progressive disclosure: compact `SKILL.md` plus detailed linked Markdown references. [Task 1]
+1131:- use Indonesian only and expose it globally as user-invoked `/academic-writer`; keep one canonical final `.md` with section-based `.working.md` files for decisions, source details, claim ledgers, and revision notes. Derived DOCX is optional and comes from Markdown. [Task 1]
+1140:- As of 2026-09-01, `/home/suji/.agents/skills/academic-writer` and `academic-explainer` existed and their complete copies passed the skill validator when vendored. `academic-writer` covers the designed controlled Indonesian-writing workflow; `academic-explainer` is read-only and does not draft submission prose. Both use `allow_implicit_invocation: false`. This verifies current source content, not when or how the global skills were originally constructed. [Task 2]
+1145:- Do not overfit short reflective notes as an academic voice template or impose a universal five-part introduction/page-length formula. Use assignment, genre, argument, evidence, and grilling decisions as controls. [Task 1]
+1155:- rollout_summaries/2026-08-30T09-54-09-HO59-agents_guide_academic_writer_design_inquiry_video.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/08/30/rollout-2026-08-30T16-54-09-01a05217-3a52-7b62-b1de-88ad2a045a9f.jsonl, updated_at=2026-08-30T19:03:15+00:00, thread_id=01a05217-3a52-7b62-b1de-88ad2a045a9f, success)
+
+hook: PreToolUse
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+paths=[Path('Program Psikoedukasi Kasus Burnout Budi.md'),Path('working/Program Psikoedukasi Kasus Burnout Budi/Program Psikoedukasi Kasus Burnout Budi.working.md'),Path('/home/suji/document/college/psikologi edukasi/sources/slides/teori dan model dalam psikoedukasi - (tira, 2026)/teori dan model dalam psikoedukasi - (tira, 2026).md')]
+for p in paths:
+ print('\\nFILE',p)
+ for i,l in enumerate(p.read_text().splitlines(),1): print(f'{i}: {l}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+ succeeded in 0ms:
+
+FILE Program Psikoedukasi Kasus Burnout Budi.md
+1: # Program Psikoedukasi Individual untuk Budi
+2:
+3: ## Analisis kasus dan dasar program
+4:
+5: Budi adalah karyawan berusia 30 tahun yang sering bekerja lembur. Dalam skenario, ia mengalami kelelahan fisik dan mental, kehilangan motivasi, menarik diri dari rekan kerja, mudah marah, dan merasa tidak berguna. Pola tersebut berkaitan dengan tiga dimensi burnout yang dijelaskan Maslach (2017), yaitu kelelahan, sinisme atau penarikan diri, dan penurunan efikasi profesional. Keterkaitan ini digunakan untuk memahami kebutuhan Budi, bukan untuk menetapkan diagnosis. Budi membutuhkan cara yang lebih terarah untuk mengenali tekanan kerja, mengelola respons terhadap tekanan tersebut, dan menyampaikan kebutuhannya di tempat kerja.
+6:
+7: Life-Skills Model dipilih sebagai kerangka program. Dalam materi kuliah, model ini berhubungan dengan pendekatan kognitif-behavioral dan memusatkan perhatian pada keterampilan komunikasi, pemecahan masalah, serta pengelolaan emosi. Model tersebut sesuai dengan kebutuhan Budi karena ia menghadapi persoalan praktis berupa beban kerja, kesulitan menjaga batas antara pekerjaan dan kehidupan pribadi, serta kecenderungan menarik diri. Namun, faktor situasional dan lingkungan kerja juga penting dalam memahami burnout (Maslach, 2017). Program individual ini tidak menempatkan seluruh tanggung jawab pada Budi. Keterampilan yang dilatih digunakan untuk mengelola respons pribadi sekaligus membantu Budi mengupayakan perubahan yang realistis pada beban dan pola kerjanya.
+8:
+9: Walsh (2010) menjelaskan bahwa psikoedukasi tidak berhenti pada pemberian informasi. Psikoedukasi juga membantu peserta mengembangkan dukungan dan keterampilan coping untuk menghadapi tantangan hidup. Atas dasar itu, program untuk Budi memiliki tiga tujuan. Pertama, Budi mampu mengenali hubungan antara tuntutan kerja, kondisi diri, dan respons yang selama ini ia gunakan. Kedua, Budi mampu menerapkan strategi coping dan membangun pola hidup-kerja yang lebih teratur. Ketiga, Budi mampu mengomunikasikan batas dan kebutuhan kerjanya secara asertif.
+10:
+11: Ketiga sesi disusun secara bertahap agar pengetahuan langsung dihubungkan dengan tindakan. Sesi pertama menghasilkan pemahaman yang akan digunakan untuk menyusun strategi pada sesi kedua. Strategi tersebut kemudian menjadi dasar latihan komunikasi pada sesi ketiga. Urutan ini mengikuti anjuran Walsh (2010) untuk memecah materi kompleks menjadi unit yang dapat dipelajari secara berurutan dan memberi kesempatan kepada peserta untuk mempraktikkan materi baru. Karena program diberikan secara individual, contoh dan latihan dapat disesuaikan dengan situasi kerja Budi. Fasilitator tetap melibatkan Budi dalam memilih tindakan agar program tidak berubah menjadi pemberian nasihat satu arah.
+12:
+13: ## Sesi pertama: mengenali tekanan dan pola respons
+14:
+15: Sesi pertama berfokus pada pemahaman masalah dan kesadaran diri. Fasilitator menjelaskan bahwa psikoedukasi menggabungkan informasi dengan pengembangan keterampilan. Setelah itu, Budi memetakan situasi yang paling menguras energinya, tanda fisik dan emosional yang muncul, pikiran yang menyertai tekanan, serta perilaku yang biasanya ia lakukan. Pemetaan ini dapat membedakan antara tuntutan yang tidak dapat segera diubah dan bagian yang masih dapat ia kendalikan.
+16:
+17: Kegiatan utama dalam sesi ini adalah refleksi terarah atas satu minggu kerja Budi. Budi diminta mengidentifikasi waktu ketika kelelahan, kemarahan, atau dorongan untuk menarik diri menjadi paling kuat. Fasilitator kemudian membantunya merumuskan masalah secara konkret. Misalnya, masalah tidak dirumuskan sebagai “saya tidak berguna,” tetapi sebagai “saya menerima beberapa tugas dengan tenggat yang bertabrakan dan belum membicarakan prioritasnya dengan atasan.” Perumusan konkret menjadi dasar bagi latihan pemecahan masalah pada sesi berikutnya. Di antara pertemuan, Budi mencatat pola sederhana mengenai tuntutan kerja, respons diri, dan tindakan coping yang ia pilih. Catatan ini berfungsi sebagai bahan latihan, bukan evaluasi formal.
+18:
+19: ## Sesi kedua: coping dan keseimbangan hidup-kerja
+20:
+21: Sesi kedua berfokus pada pengelolaan diri. Walsh (2010) menempatkan keterampilan relaksasi, pencegahan stres, keterampilan sosial, dan keterampilan asertif sebagai bagian dari latihan cognitive coping. Sejalan dengan gagasan tersebut, Budi terlebih dahulu mengikuti latihan relaksasi sederhana yang dipandu fasilitator. Setelah praktik, ia merefleksikan perubahan yang dirasakan dan menentukan situasi kerja yang memungkinkan penggunaan latihan itu, misalnya sebelum merespons pesan yang memicu ketegangan atau setelah menyelesaikan tugas yang berat.
+22:
+23: Selanjutnya, Budi menyusun rencana keseimbangan hidup-kerja. Ia mengurutkan tugas berdasarkan prioritas, mengenali pekerjaan yang dapat dinegosiasikan, menentukan waktu berhenti kerja yang realistis, dan menyediakan ruang untuk istirahat serta kegiatan pribadi. Fokus ini relevan karena pengurangan lembur, pengelolaan waktu, dan keseimbangan antara tanggung jawab kerja dengan kehidupan pribadi termasuk strategi yang dibahas dalam intervensi burnout individual, walaupun hasil penelitian mengenai efektivitasnya masih beragam (Maslach, 2017). Proses penyusunan rencana menggunakan langkah pemecahan masalah berupa mendefinisikan masalah, menghasilkan beberapa pilihan, mempertimbangkan konsekuensi, dan memilih tindakan yang paling mungkin dilakukan.
+24:
+25: ## Sesi ketiga: komunikasi asertif melalui role-play
+26:
+27: Sesi ketiga mengubah rencana pribadi menjadi keterampilan interpersonal. Fasilitator mengenalkan komunikasi asertif sebagai kemampuan menyampaikan kondisi, kebutuhan, dan usulan secara jelas tanpa menyerang atau menghindar. Keterampilan ini relevan karena penarikan diri dan kemarahan dapat menghambat pembicaraan konstruktif dengan rekan kerja atau atasan.
+28:
+29: Metode utama sesi ini adalah role-play. Walsh (2010) menjelaskan bahwa dalam role-play fasilitator dapat memodelkan keterampilan terlebih dahulu, kemudian berlatih bersama peserta. Fasilitator berperan sebagai atasan dan Budi mempraktikkan percakapan tentang beban kerjanya. Ia menyampaikan fakta mengenai tugas yang bertabrakan, menjelaskan dampaknya terhadap penyelesaian pekerjaan, meminta kejelasan prioritas, lalu menawarkan pilihan yang realistis. Latihan ini tidak hanya mengajarkan Budi agar lebih tahan menghadapi tekanan. Latihan juga membantunya membicarakan beban kerja dan kontrol atas keputusan kerja, dua kondisi yang relevan dalam hubungan antara pekerja dan lingkungan kerja (Maslach, 2017). Setelah menerima umpan balik, Budi mengulangi percakapan dengan perbaikan. Peran kemudian dapat ditukar agar Budi memahami sudut pandang atasannya dan menyiapkan respons terhadap keberatan yang mungkin muncul.
+30:
+31: Rangkaian pengalaman, refleksi, pemahaman konsep, dan praktik sesuai dengan prinsip experiential learning dalam materi kuliah. Pada akhir sesi, Budi menyusun kalimat pembuka yang akan ia gunakan dalam percakapan nyata dan memilih waktu yang tepat untuk melakukannya. Program ini diharapkan membantu Budi bergerak dari respons pasif atau reaktif menuju pengelolaan diri dan komunikasi yang lebih terencana. Psikoedukasi dalam rancangan ini tidak hanya memberikan pengetahuan tentang burnout, tetapi juga membekali Budi dengan keterampilan yang dapat digunakan dalam kehidupan kerjanya.
+32:
+33: ## Daftar pustaka
+34:
+35: Maslach, C. (2017). Finding solutions to the problem of burnout. *Consulting Psychology Journal: Practice and Research, 69*(2), 143–152. https://doi.org/10.1037/cpb0000090
+36:
+37: Walsh, J. (2010). *Psychoeducation in mental health*. Lyceum Books.
+
+FILE working/Program Psikoedukasi Kasus Burnout Budi/Program Psikoedukasi Kasus Burnout Budi.working.md
+1: # Working: Program Psikoedukasi Kasus Burnout Budi
+2:
+3: ## Konteks tugas
+4:
+5: - Tugas: Analisis Kasus 5 dan rancangan program psikoedukasi bagi Budi
+6: - Mata kuliah: Psikologi Edukasi
+7: - Pembaca: Dosen dan kelompok kelas
+8: - Bentuk: Jawaban tertulis dalam bahasa Indonesia
+9: - Panjang: Sekitar 800 sampai 1.000 kata
+10: - Aturan sitasi: APA 7 dengan sitasi penulis dan tahun
+11: - Pemilik bagian: Suji
+12:
+13: ## Keputusan dokumen yang telah dikonfirmasi
+14:
+15: - Fokus kasus: Budi sebagai pekerja perusahaan rintisan yang mengalami burnout
+16: - Model utama: Life-Skills Model
+17: - Sasaran program: Budi secara individual
+18: - Bentuk program: Tiga sesi dalam uraian naratif
+19: - Aktivitas experiential learning: Latihan relaksasi dan role-play komunikasi asertif
+20: - Evaluasi hasil formal: Tidak disertakan
+21: - Sumber utama: Materi kuliah Tira (2026) dan buku Walsh (2010)
+22: - Sumber tambahan yang disetujui: Maslach (2017) untuk konteks burnout di tempat kerja
+23: - Sumber tambahan lain hanya dapat digunakan setelah mendapat persetujuan Suji
+24:
+25: ## Peta dokumen
+26:
+27: 1. Analisis kebutuhan Budi dan alasan pemilihan Life-Skills Model
+28: 2. Tujuan program psikoedukasi
+29: 3. Rancangan sesi pertama
+30: 4. Rancangan sesi kedua
+31: 5. Rancangan sesi ketiga
+32: 6. Penutup
+33: 7. Daftar pustaka
+34:
+35: ## Kontrak bagian
+36:
+37: - Pekerjaan retoris: Mengubah informasi kasus menjadi rancangan psikoedukasi individual yang dapat diterapkan dan didukung sumber.
+38: - Perkembangan gagasan: Analisis kebutuhan Budi, alasan pemilihan model, tujuan program, tiga sesi yang saling terhubung, lalu penutup.
+39: - Kebutuhan bukti: Definisi dan komponen psikoedukasi, hubungan Life-Skills Model dengan keterampilan hidup, dasar latihan coping, relaksasi, komunikasi asertif, dan role-play.
+40: - Batas bagian: Tidak mendiagnosis Budi, tidak membahas penyebab burnout melebihi dukungan sumber, tidak menggunakan sumber selain Tira (2026), Walsh (2010), dan Maslach (2017), serta tidak memasukkan evaluasi hasil formal.
+41: - Kondisi selesai: Seluruh instruksi Kasus 5 terjawab dalam sekitar 800 sampai 1.000 kata dengan sitasi dan daftar pustaka yang selaras.
+42:
+43: ## Ledger sumber
+44:
+45: | ID | Klaim atau penggunaan | Sumber | Dukungan tepat | Lokasi | Akses | Status |
+46: |---|---|---|---|---|---|---|
+47: | S1 | Life-Skills Model berhubungan dengan CBT dan berfokus pada keterampilan komunikasi, pemecahan masalah, serta pengelolaan emosi. | Tira (2026) | Slide memetakan CBT ke Life-Skills Model dan memberi tiga contoh keterampilan tersebut. | PDF hlm. 8 sampai 9 | `/home/suji/document/college/psikologi edukasi/sources/slides/teori dan model dalam psikoedukasi - (tira, 2026)/teori dan model dalam psikoedukasi - (tira, 2026).pdf` | verified |
+48: | S2 | Experiential learning bergerak dari pengalaman menuju refleksi, konsep, dan praktik. | Tira (2026) | Slide menjelaskan prinsip learning by doing serta mencantumkan role-play dan latihan individual sebagai metode. | PDF hlm. 12 sampai 13 | Sumber S1 | verified |
+49: | S3 | Kasus meminta analisis burnout dengan model life-skills atau biopsikososial, program coping dan keseimbangan hidup-kerja, serta metode experiential learning. | Tira (2026) | Instruksi Kasus 5 menyebut seluruh unsur tugas dan memberi contoh role-play komunikasi asertif serta latihan relaksasi. | PDF hlm. 22 | Sumber S1 | verified, visual check |
+50: | S4 | Psikoedukasi memberikan pengetahuan, dukungan sumber daya, dan keterampilan coping untuk menghadapi tantangan hidup. | Walsh (2010) | Walsh mendefinisikan tiga unsur tersebut dan menambahkan pengembangan keterampilan pemecahan masalah. | PDF hlm. 17 | `/home/suji/document/college/psikologi edukasi/sources/books/psychoeducation in mental health - (walsh, 2010)/psychoeducation in mental health - (walsh, 2010).pdf` | verified, visual check |
+51: | S5 | Psikoedukasi dapat diarahkan pada kebiasaan hidup teratur, pengenalan tanda awal, kekuatan peserta, kesejahteraan, dan keterampilan sosial. | Walsh (2010) | Uraian menempatkan keteraturan gaya hidup dan kebiasaan sehat sebagai dasar serta menekankan kekuatan dan masa depan peserta. | PDF hlm. 18 | Sumber S4 | verified, visual check |
+52: | S6 | Cognitive coping mengajarkan dan melatih cara yang lebih efektif untuk menghadapi stres melalui keterampilan asertif, relaksasi, pencegahan stres, dan sosial. | Walsh (2010) | Uraian menyebut pendidikan dan latihan keterampilan bertahap untuk mengelola tantangan. | PDF hlm. 29 | Sumber S4 | verified, visual check |
+53: | S7 | Role-play cocok untuk mengajarkan komunikasi asertif dan negosiasi. | Walsh (2010) | Fasilitator memodelkan keterampilan, berlatih bersama peserta, dan dapat meminta peserta mengambil perspektif atasan. | PDF hlm. 30 | Sumber S4 | verified, visual check |
+54: | S8 | Materi baru perlu dipraktikkan melalui diskusi, role-play, latihan pemecahan masalah, atau penerapan di luar sesi. | Walsh (2010) | Pedoman pengajaran menganjurkan latihan komunikasi atau relaksasi di antara pertemuan. | PDF hlm. 62 | Sumber S4 | verified, visual check |
+55: | S9 | Burnout mencakup dimensi kelelahan, sinisme atau penarikan diri, dan penurunan efikasi profesional. | Maslach (2017) | Artikel menjelaskan tiga dimensi burnout dan ciri yang terkait dengan masing-masing dimensi. | hlm. 143 sampai 144 | `https://doi.org/10.1037/cpb0000090` | verified, full text |
+56: | S10 | Intervensi individual berguna tetapi tidak cukup jika kondisi kerja tidak dibahas. | Maslach (2017) | Faktor situasional dan lingkungan kerja dinilai sama pentingnya dengan variabel personal. Artikel memperingatkan risiko menyalahkan pekerja ketika intervensi hanya menekankan coping individual. | hlm. 145 sampai 147 | Sumber S9 | verified, full text |
+57: | S11 | Pengelolaan waktu, resolusi konflik, perubahan pola kerja, pengurangan lembur, dan keseimbangan hidup-kerja merupakan strategi yang relevan, tetapi bukti intervensi individual masih beragam. | Maslach (2017) | Artikel menguraikan strategi coping dan perubahan pola kerja serta membatasi klaim efektivitasnya. | hlm. 147 sampai 148 | Sumber S9 | verified, full text |
+58: | S12 | Beban kerja berlebih yang kronis membatasi kesempatan untuk pulih, sedangkan kontrol berkaitan dengan kemampuan memengaruhi keputusan kerja. | Maslach (2017) | Areas of Work Life mengidentifikasi beban kerja dan kontrol sebagai dua area ketidakselarasan antara pekerja dan pekerjaan. | hlm. 149 sampai 150 | Sumber S9 | verified, full text |
+59:
+60: ## Kesenjangan bukti
+61:
+62: - Maslach (2017) menyediakan landasan khusus mengenai burnout di tempat kerja, tetapi tidak menguji program tiga sesi yang dirancang untuk Budi. Tulisan tidak mengklaim bahwa program ini terbukti efektif secara klinis.
+63: - Instruksi tidak menetapkan durasi sesi. Rancangan menjelaskan urutan dan kegiatan tanpa menetapkan durasi yang tidak diberikan.
+64:
+65: ## Rencana argumen
+66:
+67: 1. Menafsirkan gejala dalam skenario sebagai kebutuhan keterampilan tanpa menetapkan diagnosis.
+68: 2. Menjelaskan mengapa Life-Skills Model sesuai dan mengapa model itu bukan penjelasan tunggal penyebab masalah.
+69: 3. Menetapkan tujuan yang menghubungkan coping, keseimbangan hidup-kerja, dan komunikasi asertif.
+70: 4. Menyusun tiga sesi dengan alur mengenali masalah, melatih pengelolaan diri, lalu melatih komunikasi di tempat kerja.
+71: 5. Menutup dengan hasil praktis yang diharapkan tanpa menjadikannya evaluasi formal.
+72:
+73: ## Draf
+74:
+75: # Program Psikoedukasi Individual untuk Budi
+76:
+77: ## Analisis kasus dan dasar program
+78:
+79: Budi adalah karyawan berusia 30 tahun yang sering bekerja lembur. Dalam skenario, ia mengalami kelelahan fisik dan mental, kehilangan motivasi, menarik diri dari rekan kerja, mudah marah, dan merasa tidak berguna. Pola tersebut berkaitan dengan tiga dimensi burnout yang dijelaskan Maslach (2017), yaitu kelelahan, sinisme atau penarikan diri, dan penurunan efikasi profesional. Keterkaitan ini digunakan untuk memahami kebutuhan Budi, bukan untuk menetapkan diagnosis. Budi membutuhkan cara yang lebih terarah untuk mengenali tekanan kerja, mengelola respons terhadap tekanan tersebut, dan menyampaikan kebutuhannya di tempat kerja.
+80:
+81: Life-Skills Model dipilih sebagai kerangka program. Dalam materi kuliah, model ini berhubungan dengan pendekatan kognitif-behavioral dan memusatkan perhatian pada keterampilan komunikasi, pemecahan masalah, serta pengelolaan emosi. Model tersebut sesuai dengan kebutuhan Budi karena ia menghadapi persoalan praktis berupa beban kerja, kesulitan menjaga batas antara pekerjaan dan kehidupan pribadi, serta kecenderungan menarik diri. Namun, faktor situasional dan lingkungan kerja juga penting dalam memahami burnout (Maslach, 2017). Program individual ini tidak menempatkan seluruh tanggung jawab pada Budi. Keterampilan yang dilatih digunakan untuk mengelola respons pribadi sekaligus membantu Budi mengupayakan perubahan yang realistis pada beban dan pola kerjanya.
+82:
+83: Walsh (2010) menjelaskan bahwa psikoedukasi tidak berhenti pada pemberian informasi. Psikoedukasi juga membantu peserta mengembangkan dukungan dan keterampilan coping untuk menghadapi tantangan hidup. Atas dasar itu, program untuk Budi memiliki tiga tujuan. Pertama, Budi mampu mengenali hubungan antara tuntutan kerja, kondisi diri, dan respons yang selama ini ia gunakan. Kedua, Budi mampu menerapkan strategi coping dan membangun pola hidup-kerja yang lebih teratur. Ketiga, Budi mampu mengomunikasikan batas dan kebutuhan kerjanya secara asertif.
+84:
+85: Ketiga sesi disusun secara bertahap agar pengetahuan langsung dihubungkan dengan tindakan. Sesi pertama menghasilkan pemahaman yang akan digunakan untuk menyusun strategi pada sesi kedua. Strategi tersebut kemudian menjadi dasar latihan komunikasi pada sesi ketiga. Urutan ini mengikuti anjuran Walsh (2010) untuk memecah materi kompleks menjadi unit yang dapat dipelajari secara berurutan dan memberi kesempatan kepada peserta untuk mempraktikkan materi baru. Karena program diberikan secara individual, contoh dan latihan dapat disesuaikan dengan situasi kerja Budi. Fasilitator tetap melibatkan Budi dalam memilih tindakan agar program tidak berubah menjadi pemberian nasihat satu arah.
+86:
+87: ## Sesi pertama: mengenali tekanan dan pola respons
+88:
+89: Sesi pertama berfokus pada pemahaman masalah dan kesadaran diri. Fasilitator menjelaskan bahwa psikoedukasi menggabungkan informasi dengan pengembangan keterampilan. Setelah itu, Budi memetakan situasi yang paling menguras energinya, tanda fisik dan emosional yang muncul, pikiran yang menyertai tekanan, serta perilaku yang biasanya ia lakukan. Pemetaan ini dapat membedakan antara tuntutan yang tidak dapat segera diubah dan bagian yang masih dapat ia kendalikan.
+90:
+91: Kegiatan utama dalam sesi ini adalah refleksi terarah atas satu minggu kerja Budi. Budi diminta mengidentifikasi waktu ketika kelelahan, kemarahan, atau dorongan untuk menarik diri menjadi paling kuat. Fasilitator kemudian membantunya merumuskan masalah secara konkret. Misalnya, masalah tidak dirumuskan sebagai “saya tidak berguna,” tetapi sebagai “saya menerima beberapa tugas dengan tenggat yang bertabrakan dan belum membicarakan prioritasnya dengan atasan.” Perumusan konkret menjadi dasar bagi latihan pemecahan masalah pada sesi berikutnya. Di antara pertemuan, Budi mencatat pola sederhana mengenai tuntutan kerja, respons diri, dan tindakan coping yang ia pilih. Catatan ini berfungsi sebagai bahan latihan, bukan evaluasi formal.
+92:
+93: ## Sesi kedua: coping dan keseimbangan hidup-kerja
+94:
+95: Sesi kedua berfokus pada pengelolaan diri. Walsh (2010) menempatkan keterampilan relaksasi, pencegahan stres, keterampilan sosial, dan keterampilan asertif sebagai bagian dari latihan cognitive coping. Sejalan dengan gagasan tersebut, Budi terlebih dahulu mengikuti latihan relaksasi sederhana yang dipandu fasilitator. Setelah praktik, ia merefleksikan perubahan yang dirasakan dan menentukan situasi kerja yang memungkinkan penggunaan latihan itu, misalnya sebelum merespons pesan yang memicu ketegangan atau setelah menyelesaikan tugas yang berat.
+96:
+97: Selanjutnya, Budi menyusun rencana keseimbangan hidup-kerja. Ia mengurutkan tugas berdasarkan prioritas, mengenali pekerjaan yang dapat dinegosiasikan, menentukan waktu berhenti kerja yang realistis, dan menyediakan ruang untuk istirahat serta kegiatan pribadi. Fokus ini relevan karena pengurangan lembur, pengelolaan waktu, dan keseimbangan antara tanggung jawab kerja dengan kehidupan pribadi termasuk strategi yang dibahas dalam intervensi burnout individual, walaupun hasil penelitian mengenai efektivitasnya masih beragam (Maslach, 2017). Proses penyusunan rencana menggunakan langkah pemecahan masalah berupa mendefinisikan masalah, menghasilkan beberapa pilihan, mempertimbangkan konsekuensi, dan memilih tindakan yang paling mungkin dilakukan.
+98:
+99: ## Sesi ketiga: komunikasi asertif melalui role-play
+100:
+101: Sesi ketiga mengubah rencana pribadi menjadi keterampilan interpersonal. Fasilitator mengenalkan komunikasi asertif sebagai kemampuan menyampaikan kondisi, kebutuhan, dan usulan secara jelas tanpa menyerang atau menghindar. Keterampilan ini relevan karena penarikan diri dan kemarahan dapat menghambat pembicaraan konstruktif dengan rekan kerja atau atasan.
+102:
+103: Metode utama sesi ini adalah role-play. Walsh (2010) menjelaskan bahwa dalam role-play fasilitator dapat memodelkan keterampilan terlebih dahulu, kemudian berlatih bersama peserta. Fasilitator berperan sebagai atasan dan Budi mempraktikkan percakapan tentang beban kerjanya. Ia menyampaikan fakta mengenai tugas yang bertabrakan, menjelaskan dampaknya terhadap penyelesaian pekerjaan, meminta kejelasan prioritas, lalu menawarkan pilihan yang realistis. Latihan ini tidak hanya mengajarkan Budi agar lebih tahan menghadapi tekanan. Latihan juga membantunya membicarakan beban kerja dan kontrol atas keputusan kerja, dua kondisi yang relevan dalam hubungan antara pekerja dan lingkungan kerja (Maslach, 2017). Setelah menerima umpan balik, Budi mengulangi percakapan dengan perbaikan. Peran kemudian dapat ditukar agar Budi memahami sudut pandang atasannya dan menyiapkan respons terhadap keberatan yang mungkin muncul.
+104:
+105: Rangkaian pengalaman, refleksi, pemahaman konsep, dan praktik sesuai dengan prinsip experiential learning dalam materi kuliah. Pada akhir sesi, Budi menyusun kalimat pembuka yang akan ia gunakan dalam percakapan nyata dan memilih waktu yang tepat untuk melakukannya. Program ini diharapkan membantu Budi bergerak dari respons pasif atau reaktif menuju pengelolaan diri dan komunikasi yang lebih terencana. Psikoedukasi dalam rancangan ini tidak hanya memberikan pengetahuan tentang burnout, tetapi juga membekali Budi dengan keterampilan yang dapat digunakan dalam kehidupan kerjanya.
+106:
+107: ## Daftar pustaka
+108:
+109: Maslach, C. (2017). Finding solutions to the problem of burnout. *Consulting Psychology Journal: Practice and Research, 69*(2), 143–152. https://doi.org/10.1037/cpb0000090
+110:
+111: Walsh, J. (2010). *Psychoeducation in mental health*. Lyceum Books.
+112:
+113: ## Catatan revisi dan peninjauan
+114:
+115: - Draf pertama disusun setelah kontrak bagian dikonfirmasi.
+116: - Seluruh klaim substantif dibatasi pada materi Tira (2026), Walsh (2010), Maslach (2017), dan fakta dalam skenario.
+117: - Tidak ada klaim diagnosis, prevalensi, penyebab, atau efektivitas klinis burnout.
+118: - Draf menggunakan bentuk naratif tanpa tabel dan tanpa evaluasi hasil formal.
+119: - Audit argumen: Setiap bagian bergerak dari kebutuhan kasus menuju keterampilan yang dilatih dan tidak melebihi batas bukti.
+120: - Audit bukti: Seluruh penggunaan sumber memiliki lokasi terverifikasi dalam ledger dan halaman utama telah diperiksa secara visual.
+121: - Audit organisasi: Tiga sesi memiliki fungsi berbeda dan membentuk urutan pengenalan masalah, pengelolaan diri, lalu komunikasi.
+122: - Audit bahasa: Penutup formulaik direvisi menjadi pernyataan langsung mengenai fungsi program.
+123: - Revisi sumber: Maslach (2017) ditambahkan setelah Suji menyetujui satu sumber tambahan khusus burnout di tempat kerja.
+124: - Revisi argumen: Program individual dibatasi sebagai sarana coping dan upaya perubahan beban kerja, bukan sebagai pengganti perbaikan kondisi organisasi.
+125: - Revisi sitasi: Sitasi dalam teks dan entri daftar pustaka Tira (2026) dihapus atas permintaan Suji tanpa mengubah isi yang bersumber dari materi kuliah.
+126: - Penerimaan: Suji menerima draf dan mengizinkan penggabungan ke berkas kanonis.
+127:
+128: ## Status
+129:
+130: Accepted
+
+FILE /home/suji/document/college/psikologi edukasi/sources/slides/teori dan model dalam psikoedukasi - (tira, 2026)/teori dan model dalam psikoedukasi - (tira, 2026).md
+1: ---
+2: source_pdf: "teori dan model dalam psikoedukasi - (tira, 2026).pdf"
+3: source_sha256: "7f7f6f67c82db81e027e822970c93a868d450a2df2c15025709b26613212ed0c"
+4: extracted_at: "2026-09-18T12:23:52+07:00"
+5: pdf_inspector_version: "1.17.0"
+6: extraction_method: "native"
+7: status: "clean"
+8: ocr_pages: []
+9: review_pages: []
+10: ---
+11:
+12: <!-- page 1 -->
+13:
+14: # PSIKOEDUKASI
+15:
+16: ## TEORI DAN MODEL
+17:
+18: <!-- page 2 -->
+19:
+20: **PSIKOEDUKASI**
+21:
+22: # Overview
+23:
+24: ## Teori dan Model
+25:
+26: ## Diskusi Kelompok
+27:
+28: <!-- page 3 -->
+29:
+30: # Goals hari ini:
+31:
+32: Memahami teori dan model psikoedukasi Mengeksplorasi pendekatan CBT, recovery, dan biopsikososial Mempelajari experiential learning dalam psikoedukasi Mengaitkan teori dengan praktik kelompok
+33:
+34: <!-- page 4 -->
+35:
+36: # Sebelumnya, apa itu psikoedukasi?
+37:
+38: <!-- page 5 -->
+39:
+40: # Psikoedukasi
+41:
+42: **DEFINISI**
+43:
+44: Proses **pemberian informasi, pengetahuan,** **dan keterampilan psikologis** secara sistematis untuk membantu individu/kelompok menghadapi masalah kehidupan.
+45:
+46: Berbeda dengan edukasi biasa karena mencakup **proses refleksi psikologis, latihan** **keterampilan, dan perubahan sikap**.
+47:
+48: <!-- page 6 -->
+49:
+50: Layanan pendidikan psikologis untuk meningkatkan pemahaman, keterampilan, dan kesejahteraan Fokus pada informasi + keterampilan + dukungan sosial
+51:
+52: # Jadi, psikoedukasi
+53:
+54: Dilaksanakan pada individu maupun kelompok mencakup:
+55:
+56: <!-- page 7 -->
+57:
+58: # Dari Teori ke Praktik Berbasis Experiential
+59:
+60: # Learning
+61:
+62: <!-- page 8 -->
+63:
+64: # Teori dan Model Utama
+65:
+66: ## Kognitif-Behavioral → Life-Skills Model
+67:
+68: ## Recovery Model → Model Ragam Bantuan
+69:
+70: ## Biopsikososial → Model Tugas Perkembangan
+71:
+72: ## Experiential Learning → Metode Kelompok
+73:
+74: <!-- page 9 -->
+75:
+76: CBT: mengubah pola pikir & perilaku maladaptif
+77:
+78: # CBT & Life-
+79:
+80: Life-Skills Model: masalah muncul karena kurang keterampilan hidup
+81:
+82: # Skills Model
+83:
+84: Contoh keterampilan: komunikasi, problem solving, manajemen emosi
+85:
+86: <!-- page 10 -->
+87:
+88: |Recovery Model & Model Ragam|Recovery: pemulihan sebagai proses penuh harapan & pemberdayaan Ragam Bantuan: informasi + keterampilan + dukungan sosial Fokus: dukungan jangka panjang, pemberdayaan klien|
+89: |---|---|
+90: |Bantuan||
+91:
+92: <!-- page 11 -->
+93:
+94: |Biopsikososial & Model Tugas Perkembangan|Biopsikososial: integrasi faktor biologis, psikologis, sosial Tugas Perkembangan: isi program sesuai tahap hidup individu Contoh: remaja → identitas & relasi; dewasa muda → peran keluarga &|
+95: |---|---|
+96: ||pekerjaan|
+97:
+98: <!-- page 12 -->
+99:
+100: Kolb (1984): pengalaman → refleksi
+101:
+102: # Experiential
+103:
+104: → konsep → praktik Prinsip: learning by doing
+105:
+106: # Learning
+107:
+108: Mengaktifkan peserta melalui latihan langsung & refleksi
+109:
+110: <!-- page 13 -->
+111:
+112: |Metode Experiential Learning|Diskusi kasus Role-play (bermain peran) Simulasi & games Latihan individual Refleksi kelompok|
+113: |---|---|
+114: ||Modelling perilaku|
+115:
+116: <!-- page 14 -->
+117:
+118: |Psikoedukasi Kelompok|Dukungan sosial & belajar bersama Mengurangi stigma → meningkatkan motivasi Fasilitator sebagai pemandu proses, bukan hanya pengajar Peserta aktif: berbagi, berlatih,|
+119: |---|---|
+120: ||refleksi|
+121:
+122: <!-- page 15 -->
+123:
+124: |Psikoedukasi Kelompok|Dukungan sosial & belajar bersama Mengurangi stigma → meningkatkan motivasi Fasilitator sebagai pemandu proses, bukan hanya pengajar Peserta aktif: berbagi, berlatih,|
+125: |---|---|
+126: ||refleksi|
+127:
+128: <!-- page 16 -->
+129:
+130: ||PENGANTAR|
+131: |---|---|
+132: |Diskusi Kelompok|PSIKOEDUKASI|
+133: |Diskusikan skenario kasus||
+134: |Kerjakan setiap tugas yang diberikan||
+135:
+136: <!-- page 17 -->
+137:
+138: # SKENARIO STUDI KASUS PSIKOEDUKASI
+139:
+140: <!-- page 18 -->
+141:
+142: |Kasus 1: Remaja dengan Kecemasan Sosial||
+143: |---|---|
+144: |Andi (17 tahun) adalah siswa SMA yang sering merasa gugup saat berbicara di depan kelas. Ia menghindari kegiatan kelompok karena takut salah bicara dan ditertawakan. Prestasi akademiknya menurun karena ia jarang aktif|Tugas kelompok: Pilih teori/model psikoedukasi yang relevan (misalnya CBT-Life Skills). Rancang psikoedukasi singkat: tujuan, materi, metode (misalnya role-play, diskusi). Jelaskan bagaimana pendekatan itu bisa|
+145: |bertanya atau presentasi. Orang tua mulai khawatir, sementara Andi sendiri merasa “tidak punya kemampuan apa pun”.|membantu Andi.|
+146:
+147: <!-- page 19 -->
+148:
+149: |Kasus 2: Keluarga dengan Anggota|Tugas kelompok:|
+150: |---|---|
+151: |Depresi Ibu Rani (42 tahun) mengalami depresi setelah kehilangan pekerjaan. Ia sering murung, sulit tidur, dan menarik diri dari aktivitas keluarga. Suami dan anak-anaknya merasa bingung bagaimana|Gunakan teori/model psikoedukasi (misalnya Recovery Model – Ragam Bantuan). Susun program singkat psikoedukasi keluarga untuk meningkatkan pemahaman tentang depresi dan strategi dukungan.|
+152: |mendukung. Keluarga mulai mengalami ketegangan karena komunikasi menjadi kaku.|Tentukan metode experiential learning yang cocok (misalnya diskusi kelompok keluarga, sharing pengalaman).|
+153:
+154: <!-- page 20 -->
+155:
+156: |Kasus 3: Mahasiswa Baru dengan||
+157: |---|---|
+158: |Stres Akademik Siti (19 tahun) baru masuk kuliah di jurusan Psikologi. Ia merasa kewalahan dengan banyaknya tugas, organisasi, dan tekanan untuk berprestasi. Siti sering sakit kepala, sulit konsentrasi, dan cemas|Tugas kelompok: Analisis kasus dengan pendekatan biopsikososial. Rancang psikoedukasi berbasis tugas perkembangan (dewasa muda) untuk membantu Siti menyesuaikan diri. Berikan contoh aktivitas experiential|
+159: |menjelang ujian. Ia merasa “sendirian” dan tidak mampu mengatur waktu.|learning (misalnya simulasi manajemen waktu, refleksi kelompok).|
+160:
+161: <!-- page 21 -->
+162:
+163: |Kasus 4: Penyintas Bencana Alam Sekelompok remaja di sebuah desa baru saja mengalami gempa bumi. Mereka kehilangan rumah dan beberapa anggota keluarga. Saat program pemulihan, mereka sering menunjukkan gejala trauma: mimpi|Tugas kelompok: Pilih model psikoedukasi yang sesuai (Recovery Model atau CBT). Rancang intervensi kelompok berbasis experiential learning. Sertakan tujuan (pemahaman trauma,|
+164: |---|---|
+165: |buruk, takut masuk bangunan, dan mudah panik.|keterampilan coping, dukungan sosial).|
+166:
+167: <!-- page 22 -->
+168:
+169: |Kasus 5: Pekerja dengan Burnout Budi (30 tahun) adalah karyawan sebuah perusahaan startup. Ia sering lembur, merasa kelelahan fisik dan mental, serta kehilangan motivasi kerja. Budi mulai menarik diri dari rekan kerja, mudah marah,|Tugas kelompok: Gunakan model biopsikososial atau life- skills untuk menganalisis burnout. Susun program psikoedukasi untuk meningkatkan keterampilan coping dan keseimbangan hidup-kerja. Pilih metode experiential learning|
+170: |---|---|
+171: |dan merasa “tidak berguna”.|(misalnya role-play komunikasi asertif, latihan relaksasi).|
+172:
+173: <!-- page 23 -->
+174:
+175: |Kasus 6: Orang Tua dengan Anak|Tugas kelompok:|
+176: |---|---|
+177: |Remaja yang Bermasalah Pak Ahmad dan Bu Lina memiliki anak remaja, Fajar (15 tahun), yang akhir-akhir ini sering melawan, malas sekolah, dan lebih banyak bermain game online. Orang tua merasa frustrasi dan bingung|Gunakan teori/model psikoedukasi yang relevan (misalnya Recovery Model untuk keluarga atau Life-Skills untuk remaja). Rancang program psikoedukasi keluarga untuk meningkatkan komunikasi dan keterampilan parenting. Sertakan aktivitas experiential learning|
+178: |bagaimana menghadapi Fajar tanpa memperburuk konflik.|(diskusi kasus, role-play komunikasi orang tua-anak).|
+179:
+180: <!-- page 24 -->
+181:
+182: # TERIMA KASIH
+
+hook: PreToolUse
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+p=Path('/home/suji/document/college/psikologi edukasi/sources/books/psychoeducation in mental health - (walsh, 2010)/psychoeducation in mental health - (walsh, 2010).md')
+s=p.read_text().splitlines()
+for page in [2,3,4,17,18,29,30,61,62]:
+ start=next((i for i,l in enumerate(s) if l.strip()==f'<"'!-- page {page} -->'"'),None)
+ if start is None: continue
+ end=next((i for i in range(start+1,len(s)) if s[i].startswith('<"'!-- page '"')),len(s))
+ print('\\nPAGE',page)
+ for i in range(start,end): print(f'{i+1}: {s[i]}')
+p=Path('Program Psikoedukasi Kasus Burnout Budi.md'); body=p.read_text().split('## Daftar pustaka')[0];print('BODY WORDS excluding headings:',len(' '.join(l for l in body.splitlines() if not l.startswith('#')).split()));print('Prohibited punctuation:',[(i,l) for i,l in enumerate(body.splitlines(),1) if ';' in l or '—' in l])
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+ succeeded in 0ms:
+
+PAGE 2
+16: <!-- page 2 -->
+17:
+18: <!-- review required: OCR produced no usable text; discarded 1 regions without usable recognition output -->
+19:
+
+PAGE 3
+20: <!-- page 3 -->
+21:
+22: # Psychoeducation in Mental Health
+23:
+
+PAGE 4
+24: <!-- page 4 -->
+25:
+26: ## Also Available from Lyceum Books, Inc.
+27:
+28: M. Meenaghan, New York University
+29:
+30: |Advisory|Editor:|Thomas|
+31: |---|---|---|
+32: |STRAIGHT by Kim|TALK Strom-Gottfried|ABOUT|
+33:  PROFESSIONALS ETHICS
+34: ENDINGS IN CLINICAL PRACTICE: EFFECTIVE CLOSURE IN DIVERSE SETTINGS, 2/e by Joseph Walsh, foreword by Thomas M. Meenaghan SECONDARY TRAUMATIC STRESS AND THE CHILD WELFARE PROFESSIONAL by Josephine G. Pryce, Kimberly K. Shackelford, and David H. Pryce WHAT IS PROFESSIONAL SOCIAL WORK? by Malcolm Payne EVIDENCE-BASED PRACTICES FOR SOCIAL WORKERS by Thomas O’Hare TEAMWORK IN MULTIPROFESSIONAL CARE
+35:
+36: |by Malcolm|Payne,|foreword||by Thomas|M. Meenaghan|
+37: |---|---|---|---|---|---|
+38: |AN EXPERIENTIAL||APPROACH||TO GROUP|WORK|
+39: |by Rich|Furman,|Diana|Rowan,|and Kimberly|Bender|
+40:
+41: ## SHORT-TERM EXISTENTIAL INTERVENTION IN CLINICAL PRACTICE
+42:
+43: |by Jim|Lantz|and Joseph|Walsh|
+44: |---|---|---|---|
+45: |MINDFULNESS||AND|SOCIAL|
+46: |edited|by Steven|Hick||
+47:
+48: WORK
+49:
+50: SOCIAL WORK PRACTICE IN NURSING HOMES by Julie Sahlins SOCIAL WORK PRACTICE WITH FAMILIES by Mary Patricia Van Hook THERAPEUTIC GAMES AND GUIDED IMAGERY by Monit Cheung
+51:
+
+PAGE 17
+201: <!-- page 17 -->
+202:
+203: ## Chapter 1
+204:
+205: # An Introduction to Psychoeducation
+206:
+207: The term psychoeducation describes a range of individual, family, and group interventions that are focused on educating participants about a significant challenge in living, helping participants develop social and resource supports in managing the challenge, and developing coping skills to deal with the challenge (Griffiths, 2006). Although these three elements charac- terize all psychoeducational strategies, particular programs may have addi- tional goals, including reducing participants’ sense of stigma, changing participants’ cognitions with regard to an issue, identifying and exploring feelings about the issue, and developing problem-solving skills related to the issue (see exhibit 1.1).
+208:
+209: #### Exhibit 1.1: Definition ofpsychoeducation
+210:
+211: A range of programs that focus on the following: | _Educating participants about a chailenge in living 7 elping participants develop social and resource supports na
+212:
+213: ### naging the challenge eveloping coping skills to deal with the challenge Developing emotional support
+214:
+215: ### Reducing participants’ sense of stigma
+216:
+217: Changing participants’ attitudes and beliefs about a disorder Identifying and exploring feelings about the issue Developing problem-solving skills Developing crisis-intervention skills ®
+218:
+219: Psychoeducation is a means of removing barriers to participants’ under- standing of complex, emotionally charged information and developing strategies for using the information in a constructive manner. The targets of change in psychoeducation may include the participants themselves, their significant others (usually family members), or the larger community (through promotion of advocacy efforts) (Roffman, 2004). Psychoeducation serves the goals of both treatment and rehabilitation. It involves teaching people about a problem so that they can reduce the
+220:
+
+PAGE 18
+221: <!-- page 18 -->
+222:
+223: 4 Part1 Theory and Research
+224:
+225: ## Exhibit 1.2: Whatpsycho “education” does
+226:
+227: Directly provides information through lectures, discussion, and other formal or informal means that are essential to the participant’s biological, psychological, and social functioning Provides participants with concrete resources and information regarding the nature and impact of a life challenge Teaches participants how to gather information for themselves Helps participants understand the effects of their behavior on others Helps participants understand others’ needs and motivations Models techniques for self-advocacy
+228:
+229: related stresses or prevent them from occurring again (see exhibit 1.2). It is based on a model of lifestyle regularity and healthy habits, early detection of warning signs, and treatment adherence. Psychoeducation is also based on participant strengths, focusing on the present and future rather than dwelling on past difficulties with the issue. It can serve as a forum for rec- ognizing and normalizing participants’ experiences and response patterns as well as holding professionals accountable to high standards of service. Other goals for psychoeducation programs may include increasing participant well-being, self-identity, social skills, and respite opportunities.
+230:
+231: ## The Varieties of Psychoeducation
+232:
+233: Psychoeducation has become extremely popular in human services practice during the past thirty years in the United States and around the world. The philosophy of psychoeducation has been applied to a variety of health, mental health, and human-development challenges. A sample of such programs derived from a PsycINFO literature review revealed the following applications:
+234:
+235: |General|parenting-skills|development|||||
+236: |---|---|---|---|---|---|---|
+237: |Families|experiencing|mental|illness|or substance|abuse|in a member|
+238: |Families|of children|with emotional||and behavioral|problems||
+239:
+240: life-threatening phys-
+241:
+242: |Families|of persons||facing various|chronic|and|
+243: |---|---|---|---|---|---|
+244: |ical|conditions|||||
+245: |The significant||others|of persons|with|HIV/AIDS|
+246: |Trauma|recovery|for|youth|in residential|treatment|
+247: |Incarcerated||male and|female|inmates||
+248:
+249: Permanency planning for the adult offspring of aging parents
+250:
+251: University women who have experienced sexual assault Social workers who experience vicarious trauma Juvenile offenders incarcerated as adults
+252:
+
+PAGE 29
+443: <!-- page 29 -->
+444:
+445: Psychoeducation and Human Behavior Theory 15
+446:
+447: experiments, or tasks, that he or she can carry out in daily life to test their validity. The parent may be given some ideas about how to approach the daughter differently, in the hopes of engaging her in a conversation. If the new strategy works, the man will be likely to give up his previous interpre- tation of the daughter’s behavior, and their relationship may improve.
+448:
+449: A third category of cognitive intervention is cognitive coping (Corcoran, 2006). The leader helps the participant learn and practice ‘new or more effective ways of dealing with stress andnegative moods. All of these interventions involve step-by-step procedures for the participant to follow in mastering new skills. Cognitive coping involves education and skills training with the goal of helping participants become more effective at managing their challenges. There are many such types of coping-skills development that will be described throughout this book, including assertion skills, parenting skills, relaxation skills, stress-prevention skills, and social skills. Participants will modify their cognitive distortions when they experi- ence positive results from practicing new coping skills.
+450:
+451: ## Behavior Theory
+452:
+453: It has already been noted that in many psychoeducation programs participants are helped to learn a new skill and then practice the new skill inBethe
+454:
+455: fe) reason the educator should have Pain peer
+456:
+457: with the behavior theory principles of operant conditioning. The leader helps the participant achieve new, desirable behaviors in themselves or others by manipulating the environment to pr rards hose behaviors As an example, in the cycle of aggressive ceidren tnildven zen acids
+458:
+459: get caught up in a pattern that tends to increase the child’s undesired behavior. The adult makes a request of the child (to do homework), the child reacts with hostility, the adult in turn acts with hostility and withdraws, and the child thus averts complying with the request. In other words, the defi- ant behavior is rewarded, or reinforced. Parenting-skills development is one model of psychoeducation that teaches parents the principles of reinforce- ment to break these frustrating patterns. Parents learn to reinforce desirable behaviors in their children and ignore or punish negative behavior. In the above example, the child may lose privileges for failing to do homework rather than win the argument with the parent. If the child does her homework, she may be permitted to spend more time with friends.
+460:
+461: ## Learning Theory
+462:
+463: The challenge of understanding how people learn, and what educational approaches facilitate their learning in ways that are most relevant to them, is
+464:
+
+PAGE 30
+465: <!-- page 30 -->
+466:
+467: 16 Part1 Theory and Research
+468:
+469: at the heart of psychoeducation. Of the six theories reviewed in this chapter, learning theory may be the least known to human services practitioners Out- side the education profession. The utilization of learning theory in psychoeducation involves the practitioner understanding different levels at which learning objectives can be articulated, depending on the nature of the learn- ers and the subject matter to be delivered. Education about breast cancer, for example, will be delivered differently depending on the age of the participants (adults vs. adolescents) and whether or not they actually have breast cancer (it could be a prevention program). Further, people have different ways of learning (through lecture, discussion, activity, etc.). These topics will be covered in depth in chapter 4, and only a few points are considered here. Social learning theory is based on the peteiioss principle of vicarious learning, or modeling, which asserts that people acquire ma y witnessing how the actions of others are re-d Bandura, 1997,
+470:
+471: 2001). Social learning theory emp earning through observation, practice, and interaction between people and their environments. The focus in psychoeducation is on creating support for learning among participants and developing a social context in which that learning can take place. It rests on the belief that a supportive social context contributes to motivation, retention of information, and the ability to transfer knowledge across situa- tions. This form of learning is emphasized in groups more so than in indi- vidual intervention.
+472: # Seraliagagconic MRso im
+473:
+474: communication builds ess ips ps closthiess with others, which in
+475:
+476: turn helps improve mood and feelings about oneself (Hargie, 1997). These skills cover a wide range of behaviors that includes attention to participants’ social, assertiveness, and negotiation skills. When a person can articulate his or her concerns, other people are more likely to constructively suggest how they might adjust their behaviors in response. _Role-playing is an effective teaching strategy that can be used with all of the above interventions (Hepworth, Rooney, Rooney, Strom-Gottfried, & Larsen, in press). In this strategy, the practitioner first models a skill, then the practitioner and participant rehearse it together. Role-playing offers sev- eral advantages for intervention. The practitioner demonstrates new skills for the participant, which usually is amore powerful way of conveying information than simple instruction. Also, when the participant takes on the per- spective of another significant person in his or her life (family member, boss, or friend), he or she is better able to understand the other person’s point of view.
+477:
+478: ### Psychodynamic (Reflective) Theory
+479:
+480: Psychodynamic theories, such as ego psychology and object relations, are
+481:
+482: moredirectlyfocusedonparticipants’emotionallives—howtheirfeelings
+483:
+
+PAGE 61
+893: <!-- page 61 -->
+894:
+895: Teaching Skills for Psychoeducation
+896:
+897: know a lot or very little about the situation, and care must be taken to intro- duce content at a level at which the learner can comprehend it and not be overwhelmed by its implications. People are often initially in denial about certain problems (such as mental illness, alcoholism, and physical disease), and their defenses need to be respected as they gradually develop the abil- ity to accept and cope with the issue. The challenge for the leader to be sensitive to the learner’s stage of knowledge can be clearly seen in group work. For example, in a multiple- family group, the leader must be careful about including family participants whose disabled relative has dealt with a frustrating chronic condition along- side other families who are newer to the condition. Although this may be an opportunity for the constructive sharing of experiences and perspectives, the “younger” family may become overwhelmed with grief if they are not ready to consider the possible duration of their family challenges. As another example, some leaders of grief groups do not include participants who have been bereaved for less than six months, on the grounds that they are not ready to fully process the implications of their life change. The points described above suggest that designing effective instruc- tional materials for psychoeducation takes careful planning, with attention to the needs, personal characteristics, existing knowledge bases, and demo- graphic backgrounds of the participants. Implications of these issues for the educator are discussed next.
+898:
+899: ## Components of Effective Instruction
+900:
+901: When educational material is to be disseminated, the leader needs to further attend to the principles of effective instruction, as described in the following: Orient participants to the subject matter at the first meeting, and orient them to each related subject that is subsequently introduced. For example, participants should be thoroughly introduced to the nature of bereavement at the first session of such a group. Later the stages of grief should be separately reviewed in depth as they become a focus of discussion. State all learning objectives clearly, and invite the participants to articulate their own objectives. Break down information about complex topics into units that can be addressed sequentially. This is particularly helpful for learners who feel overwhelmed or have difficulty keeping focused on their concerns. One example is to slowly describe the identifiable steps of the progres- sion of AIDS and the steps involved in its treatment. Review any prerequisite knowledge that participants must have in order to comprehend new material. Prior to a psychoeducational pre- sentation on disruptive behavior disorders, for example, the practi-
+902:
+
+PAGE 62
+903: <!-- page 62 -->
+904:
+905: Part1 Theory and Research
+906:
+907: tioner may survey a participant about his or her prior knowledge of some causes of disruptive behavior and then offer reading material to supplement this level of knowledge. Present the new material in ways that the audience can appreci- ate, be it through DVD presentations, shared activities, or lecture, for example. Ask questions of the participants regularly as new material is being presented to test whether it is being received as intended. Provide practice of new content through discussion, role-playing, hypothetical problem-solving exercises, and perhaps through implemen- tation outside the session. As an example, participants can be encouraged to practice new communication or relaxation strategies between meetings. Assess participant learning regularly, through the use of formal or informal measures. Provide regular feedback to participants on their progress in grasp- ing new information, and be prepared to review or present the information again in another way. Understand that discussion of material is always indicated when dealing with controversial topics, particularly difficult topics, and when the educational experience includes emotional processing. Practitioners should not assume that participants will share their feelings about sen- sitive topics without being encouraged to do so.
+908:
+909: The structure of a psychoeducation program should depend on the characteristics of the desired participants. Some structures have been rec- ommended for persons with mental illnesses. For persons with depression, education should facilitate the acquisition of problem-solving skills and the reframing of negative memories (Klausner et al., 1998). For persons with schizophrenia, who have problems with attention, concentration, and memory, it is important for the leader to focus on cognitive-skills enhance- ment (Hogarty et al., 2004). Both types of participants benefit from instruc- tional methods that include constant repetition of content to reinforce learning. One group of researchers has found that intellectually higher functioning participants learn significantly more when the information is presented in an unstructured format (Emer, McLarney, Goodwin, & Keller, 2002). They argue that structured formats interfere with higher functioning participants’ own varied learning approaches. The same researchers found that lower intellectually functioning participants show no preference for either structured or unstructured formats, but they do require additional support (and more time) with their information-processing needs. In addition, Green- berg, Fine, Cohen, and Larson (1988) argue that lower functioning partici-
+910:
+BODY WORDS excluding headings: 886
+Prohibited punctuation: []
+
+hook: PreToolUse
+mcp: hound/mcp_smart_fetch started
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+p=Path('/home/suji/document/college/psikologi edukasi/sources/books/psychoeducation in mental health - (walsh, 2010)/psychoeducation in mental health - (walsh, 2010).md')
+s=p.read_text().splitlines()
+for i in range(51,105): print(f'{i+1}: {s[i]}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi
+ succeeded in 0ms:
+52: <!-- page 5 -->
+53:
+54: # Psychoeducation in Mental Health
+55:
+56: ### Joseph Walsh Schoolof Social Work
+57:
+58: Virginia Commonwealth University
+59:
+60: ## LYCEUM
+61:
+62: BOOKS, INC.
+63:
+64: #### Chicago, Illinois
+65:
+66: <!-- page 6 -->
+67:
+68: © Lyceum Books, Inc., 2010
+69:
+70: Published by
+71:
+72: LYCEUM BOOKS, INC. 5758 S. Blackstone Avenue Chicago, Illinois 60637 773-643-1903 (fax) 773-643-1902 (phone) lyceum@lyceumbooks.com www.lyceumbooks.com
+73:
+74: |All rights|reserved|under|International|and Pan-American||Copyright||
+75: |---|---|---|---|---|---|---|---|
+76: |Conventions.||No part of the|publication|may be|reproduced,|stored|in a|
+77: |retrieval|system,|copied,|or transmitted|in any form|or by|any means|without|
+78: |written|permission|from|the publisher.|||||
+79:
+80: ## GS 44 2)ih al@iil a aie)
+81:
+82: ISBN 978-1-933478-62-3
+83:
+84: Data
+85:
+86: ||Library|of|Congress|Cataloging-in-Publication||
+87: |---|---|---|---|---|---|
+88: |Walsh, Joseph|(Joseph|EF.)||||
+89: |Psychoeducation p. cm.||in mental|health|\ Joseph|Walsh.|
+90: |Includes ISBN 978-1-933478-62-3|bibliographical||references (pbk.|and : alk. paper)|index.|
+91:
+92: 1. Mental health counseling. 2. Patient education. 3. Psychotherapy patients—
+93: Education. I. Title. [DNLM: 1. Family Therapy—methods. 2. Mental Disorders— therapy. 3. Caregivers—education. 4. Patient Education as Topic. 5. Social Support. WM 430.5.F2 W225p 2010] RC466.W35
+94:
+95: 616.89'14—dc22
+96: 2009030621
+97:
+98: <!-- page 7 -->
+99:
+100: This book is dedicated to my grandmothers, Theresa and Mary, and my aunts and uncles, Mary Francis, Bill and Annamae, Joe and Mary Louise, Frank and Josephine, Rosie and Don, Alyce and Ed, Helen Angela and Jim, Millie and Aldie, Joe and Jinny, Marie and Dick, Rita and PJ., and Fred and Ruth.
+101:
+102: <!-- page 8 -->
+103:
+104: Hh
+105:
+
+mcp: hound/mcp_smart_fetch (completed)
+codex
+1. **Moderate, practical specification gap: the relaxation exercise is unnamed.**
+   **Location:** [Session 2, line 21](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:21>), “latihan relaksasi sederhana yang dipandu fasilitator.”
+   **Problem and evidence:** The paragraph specifies reflection and possible workplace applications but never identifies what Budi actually practices. Walsh’s discussion of cognitive coping emphasizes step-by-step skill acquisition, while the assignment requires a practical experiential program.
+   **Why it matters:** A central coping activity remains too abstract to implement, particularly compared with the detailed role-play instructions.
+   **Correction direction:** Name one relaxation technique and briefly describe its core procedure. This does not require session durations or formal evaluation.
+
+2. **Minor, demonstrable ambiguity: an illustrative work problem becomes an apparent case fact.**
+   **Location:** [Session 1, line 17](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:17>) and [Session 3, line 29](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:29>), especially “menyampaikan fakta mengenai tugas yang bertabrakan.”
+   **Problem and evidence:** Conflicting deadlines initially appear under “Misalnya,” correctly marking an illustration. Session 3 subsequently calls them “fakta.” The original Case 5 establishes frequent overtime and distress indicators, but does not establish conflicting deadlines or an unaddressed priority discussion with a supervisor.
+   **Why it matters:** The wording blurs supplied case evidence and an invented training scenario.
+   **Correction direction:** Explicitly retain conflicting deadlines as a hypothetical role-play scenario, or make their use conditional on Budi identifying them during Session 1.
+
+
+tokens used
+53,379
+1. **Moderate, practical specification gap: the relaxation exercise is unnamed.**
+   **Location:** [Session 2, line 21](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:21>), “latihan relaksasi sederhana yang dipandu fasilitator.”
+   **Problem and evidence:** The paragraph specifies reflection and possible workplace applications but never identifies what Budi actually practices. Walsh’s discussion of cognitive coping emphasizes step-by-step skill acquisition, while the assignment requires a practical experiential program.
+   **Why it matters:** A central coping activity remains too abstract to implement, particularly compared with the detailed role-play instructions.
+   **Correction direction:** Name one relaxation technique and briefly describe its core procedure. This does not require session durations or formal evaluation.
+
+2. **Minor, demonstrable ambiguity: an illustrative work problem becomes an apparent case fact.**
+   **Location:** [Session 1, line 17](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:17>) and [Session 3, line 29](</home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md:29>), especially “menyampaikan fakta mengenai tugas yang bertabrakan.”
+   **Problem and evidence:** Conflicting deadlines initially appear under “Misalnya,” correctly marking an illustration. Session 3 subsequently calls them “fakta.” The original Case 5 establishes frequent overtime and distress indicators, but does not establish conflicting deadlines or an unaddressed priority discussion with a supervisor.
+   **Why it matters:** The wording blurs supplied case evidence and an invented training scenario.
+   **Correction direction:** Explicitly retain conflicting deadlines as a hypothetical role-play scenario, or make their use conditional on Budi identifying them during Session 1.
