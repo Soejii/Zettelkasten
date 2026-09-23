@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect width="1920" height="1080" fill="#f7f8fa"/>
+  <rect width="1920" height="270" fill="#294f7b"/>
+  <circle cx="1770" cy="65" r="180" fill="#ffdd65" opacity="0.98"/>
+  <path d="M1645 0v150c0 42 34 76 76 76h199" fill="none" stroke="#294f7b" stroke-width="18"/>
+  <path d="M1685 0v115c0 38 31 69 69 69h166" fill="none" stroke="#294f7b" stroke-width="12"/>
+
+  <text x="105" y="115" font-family="Arial, sans-serif" font-size="66" font-weight="700" fill="#ffffff">SUMBER DAYA DESA</text>
+  <text x="108" y="177" font-family="Arial, sans-serif" font-size="27" fill="#dce8f5">Aset yang menopang program, partisipasi, dan mobilisasi masyarakat Kejapanan</text>
+
+  <!-- Card 1 -->
+  <g>
+    <rect x="105" y="330" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="105" y="330" width="520" height="14" rx="7" fill="#4f7da6"/>
+    <circle cx="180" cy="415" r="43" fill="#e3eef8"/>
+    <circle cx="180" cy="399" r="12" fill="none" stroke="#294f7b" stroke-width="6"/>
+    <path d="M151 444c3-18 14-28 29-28s26 10 29 28" fill="none" stroke="#294f7b" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="149" cy="410" r="9" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <circle cx="211" cy="410" r="9" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <text x="245" y="402" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">SDM &amp; ORGANISASI</text>
+    <text x="245" y="447" font-family="Arial, sans-serif" font-size="23" fill="#617286">Struktur penggerak desa</text>
+    <text x="150" y="518" font-family="Arial, sans-serif" font-size="26" fill="#26394f">Pemdes • BPD • kasun</text>
+    <text x="150" y="561" font-family="Arial, sans-serif" font-size="26" fill="#26394f">RW/RT • Pokdarwis</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g>
+    <rect x="700" y="330" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="700" y="330" width="520" height="14" rx="7" fill="#d4a72c"/>
+    <circle cx="775" cy="415" r="43" fill="#fff2ca"/>
+    <circle cx="758" cy="399" r="8" fill="#294f7b"/>
+    <circle cx="796" cy="399" r="8" fill="#294f7b"/>
+    <circle cx="777" cy="435" r="8" fill="#294f7b"/>
+    <line x1="764" y1="405" x2="772" y2="428" stroke="#294f7b" stroke-width="5"/>
+    <line x1="790" y1="405" x2="782" y2="428" stroke="#294f7b" stroke-width="5"/>
+    <line x1="766" y1="399" x2="788" y2="399" stroke="#294f7b" stroke-width="5"/>
+    <text x="840" y="402" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">JEJARING EKSTERNAL</text>
+    <text x="840" y="447" font-family="Arial, sans-serif" font-size="23" fill="#617286">Akses dukungan dan pendanaan</text>
+    <text x="745" y="518" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Bupati • DPR/DPRD • BNN</text>
+    <text x="745" y="561" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Kejaksaan • kepolisian</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g>
+    <rect x="1295" y="330" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="1295" y="330" width="520" height="14" rx="7" fill="#55946a"/>
+    <circle cx="1370" cy="415" r="43" fill="#e4f1e7"/>
+    <path d="M1342 404h56l-6-18h-44z" fill="none" stroke="#294f7b" stroke-width="5" stroke-linejoin="round"/>
+    <rect x="1347" y="404" width="46" height="34" rx="4" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <line x1="1362" y1="404" x2="1362" y2="438" stroke="#294f7b" stroke-width="5"/>
+    <text x="1435" y="402" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">EKONOMI &amp; UMKM</text>
+    <text x="1435" y="447" font-family="Arial, sans-serif" font-size="23" fill="#617286">Potensi usaha berbasis kampung</text>
+    <text x="1340" y="518" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Pia • itik • ayam • keset</text>
+    <text x="1340" y="561" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Batik • ecobrick</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g>
+    <rect x="105" y="680" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="105" y="680" width="520" height="14" rx="7" fill="#7c6aa8"/>
+    <circle cx="180" cy="765" r="43" fill="#ece8f5"/>
+    <path d="M153 785v-45h54v45M149 785h62M169 740v45M191 740v45M153 758h54" fill="none" stroke="#294f7b" stroke-width="5" stroke-linecap="round"/>
+    <text x="245" y="752" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">FASILITAS PUBLIK</text>
+    <text x="245" y="797" font-family="Arial, sans-serif" font-size="23" fill="#617286">Ruang layanan dan aktivitas warga</text>
+    <text x="150" y="868" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Sekolah • posyandu • pasar</text>
+    <text x="150" y="911" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Lapangan • TPS</text>
+  </g>
+
+  <!-- Card 5 -->
+  <g>
+    <rect x="700" y="680" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="700" y="680" width="520" height="14" rx="7" fill="#c46f55"/>
+    <circle cx="775" cy="765" r="43" fill="#f7e6df"/>
+    <path d="M775 731c-18 0-31 13-31 30 0 23 31 48 31 48s31-25 31-48c0-17-13-30-31-30z" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <circle cx="775" cy="761" r="10" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <text x="840" y="752" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">ASET &amp; LOKASI</text>
+    <text x="840" y="797" font-family="Arial, sans-serif" font-size="23" fill="#617286">Modal fisik dan posisi strategis</text>
+    <text x="745" y="868" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Tanah kas desa • pusat desa</text>
+    <text x="745" y="911" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Akses dekat pintu tol</text>
+  </g>
+
+  <!-- Card 6 -->
+  <g>
+    <rect x="1295" y="680" width="520" height="285" rx="28" fill="#ffffff" stroke="#d9e1ea" stroke-width="3"/>
+    <rect x="1295" y="680" width="520" height="14" rx="7" fill="#3c8e9f"/>
+    <circle cx="1370" cy="765" r="43" fill="#dff1f4"/>
+    <circle cx="1370" cy="748" r="11" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <circle cx="1343" cy="757" r="8" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <circle cx="1397" cy="757" r="8" fill="none" stroke="#294f7b" stroke-width="5"/>
+    <path d="M1344 793c2-19 12-29 26-29s24 10 26 29M1324 791c2-13 9-21 19-21M1416 791c-2-13-9-21-19-21" fill="none" stroke="#294f7b" stroke-width="5" stroke-linecap="round"/>
+    <text x="1435" y="752" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#20354f">PARTISIPASI WARGA</text>
+    <text x="1435" y="797" font-family="Arial, sans-serif" font-size="23" fill="#617286">Saluran keterlibatan komunitas</text>
+    <text x="1340" y="868" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Karang Taruna • Forum Anak</text>
+    <text x="1340" y="911" font-family="Arial, sans-serif" font-size="25" fill="#26394f">Tokoh agama • tokoh pemuda</text>
+  </g>
+
+  <text x="105" y="1033" font-family="Arial, sans-serif" font-size="22" fill="#748398">Sumber: wawancara Pak Eki dan data kelompok</text>
+</svg>
