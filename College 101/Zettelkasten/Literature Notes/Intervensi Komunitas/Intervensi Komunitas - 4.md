@@ -45,8 +45,6 @@ power interest card
 | Haji Amin | Tinggi   | Tinggi   |
 identifikasi actor berdasarkan power dan interest berdasarkan justifikasi
 
-![[Pasted image 20260917160000.png]]
-
 | actor     | Power    | Interest |
 | --------- | -------- | -------- |
 | Bapak     | Tinggi   | Tinggi   |
