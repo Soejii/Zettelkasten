@@ -14,6 +14,14 @@ Keep attachments near the established asset location and use relative Obsidian l
 
 Keep canonical assignments and ordinary lecture notes directly in their established course or topic folder. Put every non-canonical artifact for an assignment or other note-producing task under `working/<Canonical Name>/`, including section drafts, evidence ledgers, review prompts, findings, and run logs. Do not leave task artifacts loose in a shared `working/` directory.
 
+## Fafnir (course source library)
+
+"Fafnir" is Suji's separate git repository of college assignments and retained sources at `/home/suji/document/college` (remote `github.com/Soejii/fafnir`). When Suji says "Fafnir", "the one in Fafnir", or "document/college", this is the location.
+
+- Courses are lowercase folders, for example `psikologi konseling/`, each with `assignments/` and `sources/{books,papers,slides,handouts,other}/`.
+- Each source has its own folder whose PDF and faithful Markdown transcript share a citation basename, such as `counseling a comprehensive profession - (gladding, 2018).md`. Read the `.md` transcript (grep headings, then read the relevant range) instead of re-extracting the PDF; `<!-- page N -->` markers give the PDF page, and printed book page numbers appear in running headers.
+- Treat Fafnir as read-only from this vault. Its own `AGENTS.md` governs it: git there is manual, and nothing is committed, moved, or converted without Suji's request.
+
 ## Development and Validation Commands
 
 There is no build system or automated test suite. Open the repository as an Obsidian vault for normal editing and visual verification. Before submitting changes, run:
