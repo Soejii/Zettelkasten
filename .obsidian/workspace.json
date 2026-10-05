@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "34026832b80e00fd",
+        "id": "017d5d6a552a5e98",
         "type": "tabs",
         "children": [
           {
-            "id": "7eabd535abac36ad",
+            "id": "76095ace98901af0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/working/Video Kelompok 7 - Ragam Konseling/naskah video.md",
+                "file": "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "naskah video"
+              "title": "Penelitian Psikologi Kualitatif - 7"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "buli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.69987869262695
+    "width": 479.5
   },
   "right": {
     "id": "5c7caf9d2ae722d9",
@@ -169,50 +172,49 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a34e24f56905d944",
+  "active": "76095ace98901af0",
   "lastOpenFiles": [
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/Panduan_Group_Interview_Kabid_Pembinaan_Imakris.docx",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/lu26573154wteqp.tmp",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/Panduan_Group_Interview_Kabid_Pembinaan_Imakris.html",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Individu Perbandingan Penelitian Fenomenologi dan Studi Kasus.md",
+    "College 101/Zettelkasten/Permanent Notes/Mekanisme Pertahanan Ego.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Penelitian Psikologi Kualitatif - 7/source-review.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Penelitian Psikologi Kualitatif - 7/source-review.md.tmp.6995.f66460868787",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Penelitian Psikologi Kualitatif - 7",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 7.md.tmp.6995.4fdbc53f0b05",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 7.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Penelitian Psikologi Kualitatif - 7.md.tmp.6995.fee62bb93033",
+    "College 101/Zettelkasten/Permanent Notes/Pleasure Principle.md",
+    "College 101/Zettelkasten/Permanent Notes/Id.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Kepribadian/Sigmund Freud.md",
+    "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Observasi dan Wawancara - 6.md",
+    "College 101/Zettelkasten/Literature Notes/Observasi dan Wawancara/Pedoman Wawancara Linjur.md",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/render_docx.py",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/Panduan_Group_Interview_Kabid_Pembinaan_Imakris.html",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan/Panduan_Group_Interview_Kabid_Pembinaan_Imakris.docx",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Panduan Group Interview Kabid Pembinaan",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Panduan Group Interview Kabid Pembinaan Imakris.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Panduan Group Interview Kabid Pembinaan Imakris.md.tmp.2533380.5f47f1b663b8",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Bagian Suji - Laporan Analisis Jabatan Kabid Pembinaan Imakris.md",
-    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Tugas Individu Mata Kuliah Analisis Jabatan.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa/Tahap 2.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa/Tahap 1.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 4.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/resources-slide.svg",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/power-interest-grid.svg",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/Catatan komprehensif asesmen Desa Kejapanan.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 1.md",
-    "Pasted image 20260917160000.png",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Inquiry-Based Learning - Definisi Tujuan Manfaat dan Karakteristik.working.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/working/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri/Catatan Presenter Slide 9-12 - Inquiry-Based Learning.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/Makalah Strategi Pembelajaran Ekspositori Saintifik dan Inkuiri.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/Refleksi Film Freedom Writers.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/psikologi pembelajaran komprehensif - (1).md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/psikologi pembelajaran komprehensif - (2).md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/psikologi pembelajaran komprehensif - (3).md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/working/psikologi pembelajaran komprehensif - (1)/versi sebelumnya.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/working/psikologi pembelajaran komprehensif - (3)/source-ledger.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/working/Refleksi Film Freedom Writers/1. Permasalahan kelas.working.md",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Ringkasan Konseptual Metode dan Rating dalam Analisis Jabatan.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Sejarah dan profil organisasi Imakris.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Tugas Individu Mata Kuliah Analisis Jabatan.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/working/Ringkasan Konseptual Metode dan Rating dalam Analisis Jabatan/Source ledger.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Analisis Jabatan - 3.md",
     "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Analisis Jabatan Customer Service Perusahaan Perangkat Lunak.md",
-    "College 101/Zettelkasten/Literature Notes/Asesmen Psikologi/Hasil Tes SSCT.md",
-    "College 101/Zettelkasten/Literature Notes/Asesmen Psikologi/Hasil Tes SSCT.pdf",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/working/psikologi pembelajaran komprehensif - (3)",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/working/psikologi pembelajaran komprehensif - (1)",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/working/Program Psikoedukasi Kasus Burnout Budi/Program Psikoedukasi Kasus Burnout Budi.working.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/working/Program Psikoedukasi Kasus Burnout Budi/review-findings.md",
+    "College 101/Zettelkasten/Literature Notes/Analisis Jabatan/Analisis Jabatan - 6.md",
+    "CLAUDE.md.tmp.6405.7aa0d42c2e04",
+    "AGENTS.md.tmp.6405.748f7c4ec4b6",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Kelompok Review 15 Artikel Video Pendek.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Kelompok Rancangan Penelitian Scrolling Video Pendek.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Tugas Kelompok Review 15 Artikel Video Pendek/Ledger sumber.md",
+    "Pasted image 20260917160000.png",
+    "College 101/Zettelkasten/Literature Notes/Psikopatologi/Cheat Sheet UAS Psikopatologi.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Pendidikan/Children with Disabilities.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Pendidikan/Tugas Motivasi.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Pendidikan/Tugas Analisis Film.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Pembelajaran Komprehensif/Refleksi Film Freedom Writers.md",
     "College 101/Refrences/Pictures/Pasted image 20260202132043.png",
     "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
     "College 101/Assets/Characteristics of self-actualizing people.png"
