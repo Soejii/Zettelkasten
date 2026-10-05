@@ -1,0 +1,18 @@
+# Source verification for week 7
+
+- Course and placement confirmed by Suji on 2026-10-05: Penelitian Psikologi Kualitatif, week 7. Suji first said the slides do not continue an existing note and then asked for them to be written up as a lecture note, so this is a separate note. Week 7 teaches "Materi 6"; the material number and the week number are different.
+- Main source: Mutia Husna Avezahra, *Materi 6: Metode Penelitian Psikologi Kualitatif*, course PPSIUM6038, 53 pages. Title, course, and author appear on page 1. No publication year appears in the slide content; citation uses n.d., matching Materi 2 and Materi 4. PDF creation metadata (2026-10-05) is not treated as the publication year. Suji said no citation choice was needed, so the n.d. convention stands.
+- Private source: `/home/suji/document/college/penelitian psikologi kualitatif/sources/slides/materi 6 metode penelitian psikologi kualitatif - (avezahra, n.d.)/`. The retained PDF, not its extraction cache, is the source of record.
+- Page map: data collection logic, 4, 7; sampling strategies, 8–12; sample size and saturation, 13–14; sample characteristics examples, 16–20; in-depth interview, 23–25; role of theory, 27–28; interview guide principles, 29–30; top-down guide, 31–33; bottom-up guide, 34–35; observation, 37–39; credibility and triangulation, 41; ethics, 43–49; methods section outline, 51; references, 52.
+- Visually checked pages 13, 14, 17–20, 24, 25, 28, 31–35, 39, 41, 43–49, and 51 against the PDF. The note's table contents, example questions, and ethics document details come from those visual checks, not from the transcript where they disagree.
+- Transcript defects found (transcript not edited):
+  - Page 47: the left-hand UM ethical exemption's research title was dropped entirely (the discarded OCR region). The slide reads "Finding Your Voices: Model Dukungan Sosial & Resiliensi Bagi Mahasiswa Korban Street Harassment". The right-hand title is truncated and both WHO standard lists are garbled.
+  - Page 34: both tables (case summary and justice-judgment theories) are scrambled into unreadable fused text. Usable only from the image.
+  - Page 46: the UGM form and approval letter are interleaved; the research title is truncated, and only the signature date (24 Maret 2021) survives, not the approval date (23 Maret 2021).
+  - Page 45: OCR picked up the certificate text but lost the risk-assessment form fields. Low impact.
+  - Pages 24, 43, 49: two-column slides are interleaved line by line in the transcript, mixing the preparation and execution lists (24), the three principles and Lipson's categories (43), and the interview-ethics and distress lists (49).
+  - Pages 13, 14, 17–20, 25, 28, 31–33, 35, 39, 41, 48: content is embedded as images of articles, tables, or forms; the transcript carries only titles, references, and links. Page 28 (role-of-theory table) and pages 32–33, 35 (interview guide tables) are absent from the transcript.
+- Slide 13 cites an NCBI PMC article (PMC3312514) and slide 14 a ScienceDirect article (pii S0277953621008558) by URL only, without author names. The note attributes the saturation figures to "the systematic review quoted on the slide" rather than naming authors that the slide does not give.
+- Slide 18's reference gives pages 55–73 for Avezahra and Chusniyah (2022), while the article header in the screenshot reads 57–74. The note does not cite the article directly.
+- Slide 19 text says six advocates and two experts, while the snowball description says one initial participant plus seven advocates and two experts, and the demographic table lists nine people. The note reports only the snowball description.
+- The source PDF was not copied into the public Obsidian vault.
