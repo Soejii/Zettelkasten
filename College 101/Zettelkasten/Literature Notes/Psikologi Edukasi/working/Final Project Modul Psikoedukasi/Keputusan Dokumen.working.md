@@ -29,12 +29,12 @@
 
 | No. | Bagian | Pemilik | Status |
 |---|---|---|---|
-| 1 | Latar Belakang dan Rasional | Suji | Drafted, menunggu penerimaan |
-| 2 | Tujuan Umum dan Tujuan Khusus | Suji | Belum ditulis |
-| 3 | Profil Peserta Sasaran | Suji | Belum ditulis |
+| 1 | Latar Belakang dan Rasional | Suji | Masuk dokumen utama |
+| 2 | Tujuan Umum dan Tujuan Khusus | Suji | Masuk dokumen utama |
+| 3 | Profil Peserta Sasaran | Suji | Masuk dokumen utama |
 | 4 | Daftar Pustaka | Suji | Mengikuti bagian 1 sampai 3 |
 
 ## File
 
-- Dokumen kanonik: `Psikologi Edukasi/Final Project Modul Psikoedukasi.md` (dibuat setelah bagian pertama diterima)
+- Dokumen kanonik: `Psikologi Edukasi/Final Project Modul Psikoedukasi.md` (berisi bagian 1 sampai 3, dibuat atas permintaan Suji 8 Oktober 2026)
 - Working per bagian: `working/Final Project Modul Psikoedukasi/<Bagian>.working.md`
