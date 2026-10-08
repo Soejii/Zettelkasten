@@ -36,10 +36,10 @@ Presentasi asesmen desa perlu memuat:
 
 Data dalam presentasi kelompok mencatat:
 
-- jumlah penduduk: 21.739 jiwa;
-- jumlah keluarga: 8.153 keluarga;
+- jumlah penduduk: 21.545 jiwa (laki-laki 10.836, perempuan 10.709);
+- jumlah keluarga: 7.897 KK;
 - luas wilayah: 3,56 km²;
-- pembagian administratif: 12 dusun, 27 RW, dan 150 RT;
+- pembagian administratif: 12 dusun, 27 RW, dan 152 RT;
 - sumber penghasilan utama: industri pengolahan;
 - fasilitas keagamaan: 14 masjid, 47 musala, dan satu gereja Katolik.
 
@@ -209,7 +209,7 @@ Posisi warga adalah pembongkaran dapat diterima apabila pihak pondok membangun T
 - pemerintah desa dan perangkat desa;
 - BPD dengan sembilan kursi;
 - kasun pada tiap dusun;
-- 27 RW dan 150 RT;
+- 27 RW dan 152 RT;
 - Pokdarwis;
 - Karang Taruna;
 - Forum Anak dan Lingkungan dengan perwakilan per dusun;
