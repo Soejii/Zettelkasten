@@ -196,6 +196,16 @@ Pernyataan “tiga orang yang speak up dalam rapat desa” dipahami sementara se
 - Disebut sebagai wilayah kecil dengan penduduk sekitar seribu orang.
 - Statusnya sebagai dusun perlu diverifikasi karena tidak muncul dalam peta aktor, sedangkan Tabeyan tidak muncul dalam daftar dusun pada presentasi.
 
+## Temuan lapangan kelompok
+
+Temuan berikut berasal dari wawancara dan observasi kelompok di luar catatan Pak Eki yang tersusun di atas. Suji mengonfirmasi bahwa temuan ini nyata. Temuan ini juga dipakai dalam laporan asesmen Forum Anak.
+
+- **Karang Taruna stagnan.** Lembaganya ada, tetapi program kerjanya tidak berjalan. Temuan ini didasarkan pada wawancara dan pengamatan langsung, sehingga lebih diutamakan daripada klaim "bimbel gratis oleh Karang Taruna" dalam Jatimsatunews (2025).
+- **Kafe desa dan hidroponik** sudah ada sebagai peluang usaha desa, tetapi belum terkelola optimal karena kapasitas pengelolanya terbatas.
+- **Forum Anak** sudah terbentuk secara kelembagaan, tetapi belum aktif berkegiatan.
+- **SDN Kejapanan V** menjadi pendamping Forum Anak bersama pemerintah desa.
+- **Aspirasi tidak ditanggapi** dan **anggaran belum jelas** muncul sebagai keluhan dalam temuan terkait Forum Anak.
+
 ## Konflik TPS Tabeyan
 
 Tabeyan sebelumnya belum memiliki TPS sehingga warga mengumpulkan dana untuk menyediakannya. Setelah pondok pesantren memperoleh lahan di dekat atau di depan TPS, TPS tersebut dibongkar dalam konteks persiapan pengajian yang melibatkan Gus Idham. TPS tidak segera dibangun kembali selama hampir tiga bulan sehingga memicu protes warga.
@@ -281,7 +291,9 @@ Nama `Jawara` disebut sebagai sumber dana dalam wawancara, tetapi identitasnya b
 | Kasun, ketua RW, dan ketua RT | Menengah | Tinggi | Mampu menggerakkan warga pada wilayah masing-masing, tetapi tidak mempunyai dominasi desa-wide. |
 | Tokoh masyarakat, agama, dan pemuda | Menengah | Menengah | Memiliki legitimasi lokal dan dapat memobilisasi kelompok tertentu, tetapi pengaruhnya terfragmentasi. |
 | Pelaku UMKM dan kelompok usaha | Rendah | Tinggi | Berkepentingan terhadap program ekonomi dan fasilitas desa, tetapi kewenangan formalnya terbatas. |
-| Karang Taruna, Forum Anak dan Lingkungan, serta perwakilan perempuan | Rendah | Tinggi | Menjadi saluran partisipasi masyarakat, tetapi belum ditemukan bukti pengaruh formal yang besar. |
+| Perwakilan perempuan | Rendah | Tinggi | Menjadi saluran partisipasi masyarakat, tetapi belum ditemukan bukti pengaruh formal yang besar. |
+| Forum Anak dan Lingkungan | Rendah | Rendah | Terbentuk dengan perwakilan tiap dusun, tetapi belum aktif berkegiatan menurut temuan lapangan kelompok. |
+| Karang Taruna | Rendah | Rendah | Ada secara kelembagaan, tetapi stagnan; program kerjanya tidak berjalan menurut wawancara dan observasi kelompok. |
 | Aktor eksternal pemerintah dan politik | Tinggi | Menengah | Mampu menyediakan dana, akses, dan dukungan, tetapi keterlibatannya cenderung berkala dan tidak mengelola desa sehari-hari. |
 | Pondok pesantren dan tokoh agama Tabeyan | Menengah | Menengah | Mempunyai pengaruh lokal dan sumber daya organisasi, sebagaimana terlihat dalam konflik serta pembangunan kembali TPS. |
 
