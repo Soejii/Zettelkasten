@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@700;800&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root { --navy: #254671; --ink: #1d2f47; --muted: #5d6f85; --yellow: #ffde59; }
+  body { width: 1920px; height: 1080px; background: #f5f7fa; font-family: Montserrat, sans-serif; color: var(--ink); position: relative; overflow: hidden; }
+
+  .band { position: absolute; left: 0; top: 0; width: 1920px; height: 200px; background: var(--navy); overflow: hidden; }
+  .sun { position: absolute; right: -60px; top: -170px; width: 380px; height: 380px; border-radius: 50%; background: var(--yellow); }
+  .arc1, .arc2 { position: absolute; border: solid var(--navy); border-top: 0; border-right: 0; border-bottom-left-radius: 90px; }
+  .arc1 { right: -20px; top: -20px; width: 300px; height: 190px; border-width: 18px; }
+  .arc2 { right: -20px; top: -20px; width: 250px; height: 150px; border-width: 12px; }
+  h1 { position: absolute; left: 108px; top: 50px; font-family: "League Spartan"; font-weight: 800; font-size: 92px; letter-spacing: -2px; color: #fff; line-height: 1; }
+  .lead { position: absolute; left: 112px; top: 145px; font-size: 24px; color: #dce8f5; }
+
+  .cards { position: absolute; left: 108px; right: 108px; top: 228px; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: 378px 378px; gap: 22px 30px; }
+  .card { background: #fff; border-radius: 22px; border: 2px solid #dfe5ec; overflow: hidden; display: flex; flex-direction: column; }
+  .card .top { height: 10px; }
+  .head { display: flex; align-items: center; gap: 16px; padding: 16px 24px 6px; }
+  .ico { flex: none; width: 58px; height: 58px; border-radius: 50%; display: grid; place-items: center; }
+  .ico svg { width: 34px; height: 34px; fill: none; stroke: var(--navy); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+  .head h3 { font-family: "League Spartan"; font-weight: 800; font-size: 28px; color: var(--ink); line-height: 1; }
+  .head small { display: block; font-size: 15px; color: var(--muted); margin-top: 4px; font-weight: 500; }
+  ul { list-style: none; padding: 2px 24px 0 24px; flex: 1; }
+  li { position: relative; padding-left: 18px; font-size: 18.5px; line-height: 1.3; margin: 8px 0; color: #2b3d53; }
+  li::before { content: ""; position: absolute; left: 2px; top: 9px; width: 8px; height: 8px; border-radius: 50%; background: var(--accent); }
+  li b { font-weight: 700; color: var(--ink); }
+  .use { margin: 0 16px 14px; border-radius: 12px; padding: 10px 14px; font-size: 16px; line-height: 1.3; color: var(--ink); background: var(--tint); }
+  .use b { color: var(--navy); font-weight: 700; }
+
+  .foot { position: absolute; left: 108px; right: 108px; bottom: 22px; font-size: 13.5px; color: #7a8899; }
+</style>
+</head>
+<body>
+  <div class="band"><div class="sun"></div><div class="arc1"></div><div class="arc2"></div></div>
+  <h1>SUMBER DAYA DESA</h1>
+  <div class="lead">Apa yang dimiliki Kejapanan, dan bagaimana itu bisa dipakai untuk program</div>
+
+  <div class="cards">
+    <div class="card" style="--accent:#4f7da6; --tint:#e6eef7">
+      <div class="top" style="background:#4f7da6"></div>
+      <div class="head"><div class="ico" style="background:#e3eef8"><svg viewBox="0 0 36 36"><circle cx="18" cy="12" r="5"/><path d="M9 29c1-6 4.5-9 9-9s8 3 9 9"/><circle cx="7.5" cy="15" r="3.5"/><circle cx="28.5" cy="15" r="3.5"/></svg></div>
+        <div><h3>SDM &amp; ORGANISASI</h3><small>Struktur penggerak desa</small></div></div>
+      <ul>
+        <li><b>Pemdes</b>, perangkat desa, dan <b>BPD</b> (9 kursi)</li>
+        <li><b>Kasun</b> tiap dusun, <b>27 RW</b>, dan <b>152 RT</b></li>
+        <li><b>Pokdarwis</b> dan <b>Koperasi Desa Merah Putih</b></li>
+        <li><b>Koperasi Wasuka</b>, wadah ±32 pengusaha pia</li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> jalur resmi izin, koordinasi, dan penyebaran informasi sampai tingkat RT.</div>
+    </div>
+    <div class="card" style="--accent:#d4a72c; --tint:#fdf4d8">
+      <div class="top" style="background:#d4a72c"></div>
+      <div class="head"><div class="ico" style="background:#fff2ca"><svg viewBox="0 0 36 36"><circle cx="9" cy="10" r="4"/><circle cx="27" cy="10" r="4"/><circle cx="18" cy="27" r="4"/><path d="M13 10h10M11 13.5l5 10M25 13.5l-5 10"/></svg></div>
+        <div><h3>JEJARING EKSTERNAL</h3><small>Akses dukungan dan pendanaan</small></div></div>
+      <ul>
+        <li>Relasi <b>Pak Kades</b> dengan bupati dan wakil bupati</li>
+        <li><b>DPR/DPRD</b>, kejaksaan, <b>BNN</b>, kepolisian</li>
+        <li><b>Pemkab, BRI, kampus</b> pernah membantu UMKM pia</li>
+        <li>Catatan: dana dari <b>pabrik</b> disebut sulit diperoleh</li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> sumber dana, narasumber, dan legitimasi untuk kegiatan skala desa.</div>
+    </div>
+    <div class="card" style="--accent:#55946a; --tint:#e5f2e8">
+      <div class="top" style="background:#55946a"></div>
+      <div class="head"><div class="ico" style="background:#e4f1e7"><svg viewBox="0 0 36 36"><path d="M6 14h24l-3-7H9z"/><rect x="8" y="14" width="20" height="15" rx="2"/><path d="M15 29v-8h6v8"/></svg></div>
+        <div><h3>EKONOMI &amp; UMKM</h3><small>Usaha berbasis kampung</small></div></div>
+      <ul>
+        <li><b>Industri pengolahan</b> jadi mata pencaharian utama</li>
+        <li><b>Kampung Pia</b>, sentra <b>bebek &amp; telur asin</b>, keset, batik, ecobrick</li>
+        <li>Pemilik <b>NIB UMKM terbanyak</b> di Kab. Pasuruan</li>
+        <li>Rincian per dusun di slide berikutnya</li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> titik masuk intervensi ekonomi, seperti pelatihan, pemasaran, dan penguatan kelompok usaha.</div>
+    </div>
+    <div class="card" style="--accent:#7c6aa8; --tint:#efecf7">
+      <div class="top" style="background:#7c6aa8"></div>
+      <div class="head"><div class="ico" style="background:#ece8f5"><svg viewBox="0 0 36 36"><path d="M5 14 18 6l13 8"/><path d="M8 14v14M14 14v14M22 14v14M28 14v14M5 29h26"/></svg></div>
+        <div><h3>FASILITAS PUBLIK</h3><small>Ruang layanan dan kegiatan warga</small></div></div>
+      <ul>
+        <li><b>Sekolah</b> dari PAUD hingga SMA/SMK</li>
+        <li><b>Posyandu</b>, layanan kesehatan gratis, <b>perpustakaan desa</b></li>
+        <li><b>14 masjid</b>, <b>47 musala</b>, dan gereja</li>
+        <li>Pasar desa, lapangan sepak bola, <b>gedung sentra pia</b></li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> tempat kegiatan yang sudah tersedia, tanpa perlu membangun fasilitas baru.</div>
+    </div>
+    <div class="card" style="--accent:#c46f55; --tint:#f9ebe5">
+      <div class="top" style="background:#c46f55"></div>
+      <div class="head"><div class="ico" style="background:#f7e6df"><svg viewBox="0 0 36 36"><path d="M18 5c-6 0-10.5 4.4-10.5 10 0 7.5 10.5 16 10.5 16s10.5-8.5 10.5-16C28.5 9.4 24 5 18 5z"/><circle cx="18" cy="15" r="3.5"/></svg></div>
+        <div><h3>ASET &amp; LOKASI</h3><small>Modal fisik dan posisi strategis</small></div></div>
+      <ul>
+        <li><b>Tanah kas desa</b> (TKD)</li>
+        <li>Kantor desa di <b>Dusun Penanggungan</b></li>
+        <li>Di jalur <b>Jl. Raya Malang-Surabaya</b>, dekat <b>tol Gempol-Pandaan</b></li>
+        <li>Sekitar 1 km dari pusat Kecamatan Gempol</li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> mudah dijangkau warga, pembeli, dan mitra dari luar desa.</div>
+    </div>
+    <div class="card" style="--accent:#3c8e9f; --tint:#e2f2f5">
+      <div class="top" style="background:#3c8e9f"></div>
+      <div class="head"><div class="ico" style="background:#dff1f4"><svg viewBox="0 0 36 36"><circle cx="18" cy="11" r="4.5"/><circle cx="8" cy="15" r="3.2"/><circle cx="28" cy="15" r="3.2"/><path d="M10.5 29c1-5.5 3.8-8.5 7.5-8.5s6.5 3 7.5 8.5M3 28c.8-4 2.6-6 5-6M33 28c-.8-4-2.6-6-5-6"/></svg></div>
+        <div><h3>PARTISIPASI WARGA</h3><small>Kesediaan warga untuk terlibat</small></div></div>
+      <ul>
+        <li><b>Kesehatan gratis</b> selalu ramai, bisa sampai siang</li>
+        <li><b>Forum Anak &amp; Lingkungan</b> ada di tiap dusun, tetapi belum aktif</li>
+        <li><b>Festival Kebangsaan</b> Kampung Pancasila tiap Agustus</li>
+        <li>Program lingkungan warga: <b>eco enzym, biopori, kompos</b></li>
+      </ul>
+      <div class="use"><b>Untuk program:</b> warga mau datang bila manfaatnya jelas; forum yang belum aktif bisa dihidupkan lewat program.</div>
+    </div>
+  </div>
+
+  <div class="foot">Sumber: wawancara Pak Eki (Ketua Pokdarwis); profil desa yang dihimpun kelompok; Jatimsatunews (2025); Mustofah &amp; Sukmana (2025).</div>
+</body>
+</html>

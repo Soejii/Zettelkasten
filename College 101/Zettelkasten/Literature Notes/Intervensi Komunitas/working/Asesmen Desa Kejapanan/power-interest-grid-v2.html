@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@700;800&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  :root { --navy: #254671; --ink: #1d2f47; --muted: #5d6f85; --yellow: #ffde59; }
+  body { width: 1920px; height: 860px; background: #ffffff; font-family: Montserrat, sans-serif; color: var(--ink); position: relative; overflow: hidden; }
+
+  .grid-wrap { position: absolute; left: 108px; top: 10px; width: 930px; height: 690px; }
+  .y-title { position: absolute; left: -6px; top: 300px; transform: rotate(-90deg); transform-origin: center; font-family: "League Spartan"; font-weight: 800; font-size: 30px; color: var(--navy); letter-spacing: 2px; width: 120px; text-align: center; }
+  .y-lab { position: absolute; left: 70px; width: 110px; text-align: right; font-size: 17px; font-weight: 600; color: var(--muted); }
+  .x-lab { position: absolute; top: 640px; width: 240px; text-align: center; font-size: 17px; font-weight: 600; color: var(--muted); }
+  .x-title { position: absolute; top: 668px; left: 190px; width: 740px; text-align: center; font-family: "League Spartan"; font-weight: 800; font-size: 30px; color: var(--navy); letter-spacing: 2px; }
+  .cells { position: absolute; left: 190px; top: 0; width: 740px; height: 630px; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(3, 1fr); border: 4px solid var(--navy); border-radius: 6px; overflow: hidden; }
+  .cell { border: 1.5px solid rgba(37,70,113,.25); padding: 14px 12px; display: flex; flex-direction: column; gap: 10px; justify-content: center; }
+  .chip { display: flex; align-items: center; gap: 10px; background: #fff; border-radius: 999px; padding: 6px 14px 6px 6px; box-shadow: 0 2px 6px rgba(29,47,71,.12); font-weight: 700; font-size: 17px; line-height: 1.15; }
+  .num { flex: none; width: 34px; height: 34px; border-radius: 50%; background: var(--navy); color: #fff; font-weight: 700; font-size: 18px; display: grid; place-items: center; }
+  .num.key { background: var(--yellow); color: var(--navy); }
+  .empty { color: rgba(37,70,113,.35); font-size: 15px; font-weight: 500; text-align: center; }
+
+  .panel { position: absolute; left: 1080px; top: 14px; width: 760px; height: 700px; }
+  .panel h2 { font-family: "League Spartan"; font-weight: 800; font-size: 30px; color: var(--navy); margin-bottom: 4px; }
+  .panel .sub { font-size: 15px; color: var(--muted); margin-bottom: 8px; }
+  .row { display: grid; grid-template-columns: 40px 1fr; gap: 12px; padding: 3px 0; border-top: 1.5px solid #e3e8ee; }
+  .row .num { margin-top: 2px; }
+  .name { font-weight: 700; font-size: 17px; line-height: 1.2; display: flex; justify-content: space-between; gap: 10px; }
+  .tag { flex: none; font-size: 13px; font-weight: 700; color: var(--navy); background: #e8eef6; border-radius: 6px; padding: 3px 8px; white-space: nowrap; align-self: flex-start; }
+  .why { font-size: 14px; color: #3c4d62; line-height: 1.3; margin-top: 2px; }
+
+  .insight { position: absolute; left: 108px; right: 80px; top: 730px; height: 104px; background: var(--navy); border-radius: 16px; display: flex; align-items: center; gap: 26px; padding: 0 30px; }
+  .insight .label { flex: none; background: var(--yellow); color: var(--navy); font-family: "League Spartan"; font-weight: 800; font-size: 22px; padding: 10px 16px; border-radius: 10px; letter-spacing: 1px; }
+  .insight p { color: #fff; font-size: 19px; line-height: 1.35; }
+  .insight p b { color: var(--yellow); }
+  .foot { position: absolute; left: 108px; right: 80px; top: 838px; font-size: 13.5px; color: #7a8899; }
+</style>
+</head>
+<body>
+  <div class="grid-wrap">
+    <div class="y-title">POWER</div>
+    <div class="y-lab" style="top:95px">Tinggi</div>
+    <div class="y-lab" style="top:305px">Menengah</div>
+    <div class="y-lab" style="top:515px">Rendah</div>
+    <div class="cells">
+      <div class="cell" style="background:#fbf3d6"><div class="empty">Tidak teridentifikasi</div></div>
+      <div class="cell" style="background:#f6eec8"><div class="chip"><span class="num">3</span>Aktor eksternal</div></div>
+      <div class="cell" style="background:#d9ebd3">
+        <div class="chip"><span class="num key">1</span>Pak Kades</div>
+        <div class="chip"><span class="num key">2</span>Pak Eki</div>
+      </div>
+      <div class="cell" style="background:#f4f5f2"><div class="empty">Tidak teridentifikasi</div></div>
+      <div class="cell" style="background:#eef1ee">
+        <div class="chip"><span class="num">6</span>Tokoh masyarakat</div>
+        <div class="chip"><span class="num">7</span>Pesantren Tabeyan</div>
+      </div>
+      <div class="cell" style="background:#e0ecf2">
+        <div class="chip"><span class="num">4</span>BPD</div>
+        <div class="chip"><span class="num">5</span>Kasun, RW, RT</div>
+      </div>
+      <div class="cell" style="background:#f1f3f5"><div class="chip"><span class="num">10</span>Karang Taruna</div><div class="chip"><span class="num">11</span>Forum Anak</div></div>
+      <div class="cell" style="background:#eaeff4"><div class="empty">Tidak teridentifikasi</div></div>
+      <div class="cell" style="background:#dbe8f6">
+        <div class="chip"><span class="num">8</span>UMKM</div>
+        <div class="chip"><span class="num">9</span>Perempuan</div>
+      </div>
+    </div>
+    <div class="x-lab" style="left:190px">Rendah</div>
+    <div class="x-lab" style="left:437px">Menengah</div>
+    <div class="x-lab" style="left:683px">Tinggi</div>
+    <div class="x-title">INTEREST</div>
+  </div>
+
+  <div class="panel">
+    <h2>Mengapa di posisi ini?</h2>
+    <div class="sub">Interest = kepentingan untuk terlibat dan mendukung pembangunan desa atau program intervensi.</div>
+
+    <div class="row"><span class="num key">1</span><div>
+      <div class="name">Pak Kades Randi Saputra <span class="tag">P tinggi · I tinggi</span></div>
+      <div class="why">Kewenangan formal tertinggi, relasi eksternal kuat, dan belum ada pesaing serius.</div></div></div>
+    <div class="row"><span class="num key">2</span><div>
+      <div class="name">Pak Eki, Ketua Pokdarwis &amp; penasihat kades <span class="tag">P tinggi · I tinggi</span></div>
+      <div class="why">Pengaruhnya setara Pak Kades; selalu bersuara di rapat dan aktif di kegiatan desa.</div></div></div>
+    <div class="row"><span class="num">3</span><div>
+      <div class="name">Bupati, DPR/DPRD, kejaksaan, BNN, polisi <span class="tag">P tinggi · I menengah</span></div>
+      <div class="why">Bisa membuka dana dan dukungan, tetapi masuk lewat relasi Pak Kades, bukan urusan harian.</div></div></div>
+    <div class="row"><span class="num">4</span><div>
+      <div class="name">BPD (9 kursi) <span class="tag">P menengah · I tinggi</span></div>
+      <div class="why">Ikut mengesahkan aturan dan anggaran desa, tetapi tiap kursi mewakili wilayahnya sendiri.</div></div></div>
+    <div class="row"><span class="num">5</span><div>
+      <div class="name">Kasun, ketua RW, dan ketua RT <span class="tag">P menengah · I tinggi</span></div>
+      <div class="why">Paling kuat menggerakkan warga, tetapi hanya di wilayahnya; kepentingannya tinggi untuk wilayah sendiri.</div></div></div>
+    <div class="row"><span class="num">6</span><div>
+      <div class="name">Tokoh masyarakat, agama, dan pemuda <span class="tag">P menengah · I menengah</span></div>
+      <div class="why">Dihormati di lingkungannya, tetapi jangkauannya terpecah per kelompok dan wilayah.</div></div></div>
+    <div class="row"><span class="num">7</span><div>
+      <div class="name">Pondok pesantren Tabeyan <span class="tag">P menengah · I menengah</span></div>
+      <div class="why">Punya lahan, santri, dan jaringan; kasus TPS menunjukkan warga tetap mampu menekannya.</div></div></div>
+    <div class="row"><span class="num">8</span><div>
+      <div class="name">UMKM dan kelompok usaha <span class="tag">P rendah · I tinggi</span></div>
+      <div class="why">Berkepentingan langsung pada program ekonomi, tetapi tidak punya kewenangan formal.</div></div></div>
+    <div class="row"><span class="num">9</span><div>
+      <div class="name">Perwakilan perempuan <span class="tag">P rendah · I tinggi</span></div>
+      <div class="why">Saluran partisipasi warga, tetapi tanpa kewenangan formal yang besar.</div></div></div>
+    <div class="row"><span class="num">10</span><div>
+      <div class="name">Karang Taruna <span class="tag">P rendah · I rendah</span></div>
+      <div class="why">Ada secara kelembagaan, tetapi stagnan; program kerjanya tidak berjalan.</div></div></div>
+    <div class="row"><span class="num">11</span><div>
+      <div class="name">Forum Anak &amp; Lingkungan <span class="tag">P rendah · I rendah</span></div>
+      <div class="why">Terbentuk dengan perwakilan tiap dusun, tetapi belum aktif berkegiatan.</div></div></div>
+  </div>
+
+  <div class="insight">
+    <div class="label">TEMUAN KUNCI</div>
+    <p>Ada <b>dua pusat pengaruh yang setara</b>, Pak Kades dan Pak Eki. Di bawahnya, <b>tiap dusun, RW, dan RT setara</b> dan punya kepentingan sendiri. Program perlu restu keduanya, lalu dijalankan per wilayah.</p>
+  </div>
+  <div class="foot">Sumber: wawancara Pak Eki (Ketua Pokdarwis) dan observasi kelompok. Posisi aktor selain Pak Kades dan Pak Eki merupakan penilaian kelompok berdasarkan wawancara.</div>
+</body>
+</html>
