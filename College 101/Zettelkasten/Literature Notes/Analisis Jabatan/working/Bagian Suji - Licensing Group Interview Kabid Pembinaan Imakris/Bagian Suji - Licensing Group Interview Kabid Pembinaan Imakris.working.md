@@ -27,6 +27,8 @@
 - ART was not available locally, so no claim cites ART. Specific extra requirements (angkatan, IPK, pengalaman di sie, kaderisasi) appear only as interview probes, not as claims.
 
 ## Revision notes
+- 2026-10-06, second revision: cut to one row (one main question plus two probes) to match the lecturer's slide format, "Bagian II: Content (Isi Wawancara - Eksplorasi 15 Jenis Data)", Tema 2 Lisensi dan Persyaratan Pemerintah (police officer example). The slide's main question asks for "syarat formal, lisensi, atau sertifikasi", and its probes ask whether certification and training are mandatory and how they are obtained. Rationale shortened to one paragraph. S2 (AD Pasal 6) is no longer cited.
+- First revision (superseded):
 - Replaced the single generic row with four focus rows: the first three follow S1, the fourth follows S5.
 - Added the Pembina probe because S4 is the clearest university-linked rule in the AD.
 - Group-level issue for Suji to raise, not edited: the report's Daftar Pustaka lists Brannick, Lavine [sic], & Morgeson (2007, 2nd ed.), but the in-text citations say 2019. The local 3rd edition lists Morgeson as first author (LoC record dated [2019], copyright 2020).
