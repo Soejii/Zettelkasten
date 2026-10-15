@@ -20,13 +20,13 @@ Atas dasar itu, Kelompok 1 mata kuliah Intervensi Komunitas melakukan asesmen *s
 
 Tujuan umum: memperoleh gambaran sosial desa yang memadai untuk menetapkan masalah prioritas dan merancang pilihan intervensi yang kontekstual, legitimate, serta dapat dilaksanakan.
 
-| No. | Tujuan khusus | Pertanyaan yang dijawab |
-|---|---|---|
-| 1 | Menyusun profil demografi dan struktur sosial. | Siapa yang tinggal di desa, bagaimana persebarannya, dan kelompok mana yang rentan atau kurang terwakili? |
-| 2 | Mengidentifikasi aktor, relasi, pengaruh, serta kepentingannya. | Siapa memengaruhi keputusan, siapa terdampak, dan bagaimana pola koalisi atau konflik? |
-| 3 | Memetakan sumber daya dan masalah umum melalui MAP. | Aset apa yang dapat dimobilisasi dan masalah apa yang membatasi kesejahteraan? |
-| 4 | Menetapkan prioritas dengan APKL dan USG. | Masalah mana yang paling aktual, problematik, berdampak luas, layak, mendesak, serius, dan berpotensi memburuk? |
-| 5 | Menjelaskan akar penyebab melalui fishbone. | Mekanisme apa yang memproduksi dan mempertahankan masalah prioritas? |
+| No. | Tujuan khusus                                                   | Pertanyaan yang dijawab                                                                                         |
+| --- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1   | Menyusun profil demografi dan struktur sosial.                  | Siapa yang tinggal di desa, bagaimana persebarannya, dan kelompok mana yang rentan atau kurang terwakili?       |
+| 2   | Mengidentifikasi aktor, relasi, pengaruh, serta kepentingannya. | Siapa memengaruhi keputusan, siapa terdampak, dan bagaimana pola koalisi atau konflik?                          |
+| 3   | Memetakan sumber daya dan masalah umum melalui MAP.             | Aset apa yang dapat dimobilisasi dan masalah apa yang membatasi kesejahteraan?                                  |
+| 4   | Menetapkan prioritas dengan APKL dan USG.                       | Masalah mana yang paling aktual, problematik, berdampak luas, layak, mendesak, serius, dan berpotensi memburuk? |
+| 5   | Menjelaskan akar penyebab melalui fishbone.                     | Mekanisme apa yang memproduksi dan mempertahankan masalah prioritas?                                            |
 
 Kelima tujuan khusus disusun berurutan karena hasil setiap tujuan menjadi bahan bagi tujuan berikutnya. Profil demografi dan struktur sosial (tujuan 1) diuraikan pada Bab 3, sedangkan aktor dan relasi kuasa (tujuan 2) dianalisis pada Bab 4. Bab 5 menyajikan inventarisasi sumber daya dan masalah melalui MAP (tujuan 3). Masalah yang terkumpul kemudian disaring dengan APKL dan diprioritaskan dengan USG pada Bab 6 (tujuan 4). Akar penyebab masalah prioritas ditelusuri melalui analisis fishbone pada Bab 7 (tujuan 5). Urutan ini mengikuti rangkaian asesmen MAP, APKL, USG, dan fishbone yang mendahului kesimpulan asesmen dan rencana intervensi (Pambudi, 2026).
 
