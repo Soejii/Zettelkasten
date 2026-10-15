@@ -22,33 +22,29 @@ Masalahnya, BPS hanya mencatat *alasannya*, bukan *pemicunya*. Bertengkar terus 
 
 Ada beberapa petunjuk. Penelitian Anisa dan rekan menemukan tiga putusan cerai di pengadilan agama yang perselisihannya dipicu media sosial. Lalu konteks Indonesia: survei APJII 2026 mencatat 81,7% penduduk sudah terhubung ke internet, dan alasan terbesarnya justru komunikasi dan media sosial. Artinya perangkat digital hampir selalu ada, termasuk saat suami dan istri sedang berdua.
 
-Angka ketiga dari penelitian Indonesia tahun 2025: makin sering seseorang diabaikan pasangannya karena HP, makin rendah kepuasan pernikahannya. Fenomena ini kami jelaskan di slide berikutnya.
+Angka ketiga dari penelitian Indonesia tahun 2025: makin sering seseorang diabaikan pasangannya karena HP, makin rendah kepuasan pernikahannya. 
 
-Semua data ini korelasional, jadi kami tidak mengklaim HP *menyebabkan* perceraian. Tapi polanya cukup kuat untuk ditindaklanjuti."
-
-➜ *"Kalau HP selalu ada di tengah kebersamaan, yang perlu diperhatikan bukan kasus besar seperti mengunggah aib pasangan ke Facebook. Yang lebih sering terjadi justru hal kecil: pasangan sedang cerita, kita scroll. Makan malam, HP di tangan. Hal kecil yang terjadi setiap hari ini punya nama."*
+➜ *"Kalau HP selalu ada di tengah kebersamaan Yyng lebih sering terjadi justru hal yang kita anggap kecil. Pasangan sedang cerita, kita scroll. Makan malam, HP di tangan. Hal kecil yang terjadi setiap hari ini punya nama."*
 
 ## 4. Technoference
 
 "Namanya *technoference*: gangguan sehari-hari dari teknologi saat pasangan sedang berinteraksi. Bentuk yang paling dikenal adalah *phubbing*, yaitu mengabaikan pasangan karena lebih fokus ke HP.
 
-Yang penting adalah rantainya. McDaniel dan Coyne menemukan bahwa technoference tidak langsung merusak hubungan. Technoference memicu **konflik soal teknologi** dulu, dan konflik itulah yang menurunkan kepuasan hubungan. Pola ini terjadi di studi harian 173 pasangan, dan di meta-analisis 52 studi dengan hampir 20 ribu partisipan.
+Yang perlu diperhatikan adalah rantainya dan polanya. McDaniel dan Coyne menemukan bahwa technoference tidak langsung merusak hubungan. Technoference memicu **konflik soal teknologi** dulu, dan konflik itulah yang menurunkan kepuasan hubungan. Pola ini terjadi di studi harian 173 pasangan, dan di meta-analisis 52 studi dengan hampir 20 ribu partisipan.
 
-Ini menyambung ke data BPS tadi. Yang tercatat di pengadilan adalah 'perselisihan', dan technoference adalah salah satu sumber perselisihan kecil yang berulang setiap hari."
+Ini menyambung dengan data yang tercatat BPS tadi. Yang tercatat di pengadilan adalah 'perselisihan', dan technoference adalah salah satu sumber perselisihan kecil yang berulang setiap hari."
 
 ➜ *"Kalau masalahnya ada di konflik, pertanyaan berikutnya: kenapa HP bisa jadi bahan konflik? Jawabannya ada di komunikasi."*
 
 ## 5. Kenapa Komunikasi?
 
-"Ini menjawab pertanyaan Ibu minggu lalu.
-
 Pertama, standar komunikasi tiap orang berbeda. Buat suami, cek HP sambil nonton TV itu biasa. Buat istri, itu tanda tidak diperhatikan. Konflik muncul karena harapan dan ekspetasi yang tidak sama dan tidak pernah dibicarakan.
 
 Kedua, para peneliti sendiri menyarankan solusinya: pasangan perlu membicarakannya secara terbuka, dan perlu pelatihan komunikasi pasangan.
 
-Ketiga, ini dugaan kami: di budaya kolektivis seperti Indonesia, orang cenderung memilih diam demi menjaga kerharmonisan berumah tangga.
+Ketiga, ini dugaan kami: di budaya kolektivis seperti di Indonesia, orang cenderung memilih diam demi menjaga kerharmonisan berumah tangga.
 
-Jadi keberatan soal HP biasanya keluar dengan dua cara yang sama-sama buruk: dipendam, atau meledak jadi tuduhan."
+Jadi keberatan soal HP biasanya keluar dengan dua cara yang sama-sama buruk: dipendam, atau meledak menjadi sebuah serangan."
 
 ➜ *"Dua cara itu punya nama dalam teori komunikasi."*
 
@@ -58,9 +54,9 @@ Jadi keberatan soal HP biasanya keluar dengan dua cara yang sama-sama buruk: dip
 
 Pasif: 'Ya sudah, nggak apa-apa,' padahal kesal. Kesalnya menumpuk.
 
-Agresif: 'Kamu tuh HP terus, nggak pernah peduli sama aku!' Pasangan langsung defensif, dan yang terjadi justru bertengkar soal HP.
+Agresif: 'Kamu tuh HP terus, nggak pernah peduli sama aku!' Pasangan langsung memberikan respon defensif, dan yang justru terjadi bertengkar masalah HP.
 
-Asertif: 'Aku merasa diabaikan waktu kamu buka HP pas kita makan. Aku ingin makan malam kita bebas HP.' Yang disebut perilakunya, bukan karakter pasangannya.
+Asertif: 'Aku merasa diabaikan waktu kamu buka HP pas kita makan. Aku ingin makan malam kita bebas HP.' yang bisa kita lihat dari gaya ini adalah penyebutan perilakunya, bukan karakter pasangannya.
 
 Rumusnya *I-statement*: saya merasa, ketika, saya ingin. Gladding menjelaskan bahwa inti pelatihan asertivitas adalah membedakan tiga gaya ini, lalu melatih yang asertif. Latihannya lewat role-play: fasilitator mencontohkan dulu, baru peserta berlatih."
 
@@ -68,11 +64,11 @@ Rumusnya *I-statement*: saya merasa, ketika, saya ingin. Gladding menjelaskan ba
 
 ## 7. Dua Keterampilan
 
-"Modul ini memakai pendekatan keterampilan hidup. Gladding menjelaskan bahwa banyak kesulitan muncul karena ada keterampilan yang belum dipelajari, sehingga tugas konselor adalah mengajarkannya. Walsh bahkan memberi contoh yang sama dengan kami: mengajarkan sikap asertif bisa menyelesaikan masalah yang muncul karena kurangnya keterampilan sosial.
+"Maka dari itu Modul ini menggunakan pendekatan like skills. Gladding menjelaskan bahwa banyak kesulitan muncul karena ada keterampilan yang belum dipelajari, sehingga tugas konselor adalah mengajarkannya. Walsh bahkan memberi contoh yang sama dengan kami: mengajarkan sikap asertif bisa menyelesaikan masalah yang muncul karena kurangnya keterampilan sosial.
 
 Jadi kami melatih dua keterampilan. Pertama, komunikasi asertif, supaya keberatan bisa disampaikan tanpa jadi pertengkaran. Kedua, perencanaan bersama: rencana jika-maka, ditambah rencana menghadapi hambatan.
 
-Dasarnya penelitian Radtke tahun 2024. Kelompok yang hanya diberi informasi tidak berubah sebaik kelompok yang menyusun rencana. Tapi di studi itu hanya satu pihak yang ikut, dan peneliti sendiri menyarankan perencanaan bersama. Karena itu modul kami melibatkan suami dan istri, dan komunikasi asertif menjadi alat untuk merundingkan isi rencananya."
+Dasarnya penelitian Radtke tahun 2024. Kelompok yang hanya diberi informasi tidak berubah sebaik kelompok yang menyusun rencana.
 
 ➜ *"Dari dua keterampilan ini, kami rumuskan tujuannya."*
 
@@ -88,17 +84,21 @@ dari tujuan umum ini kami spesifikan kembali menjadi 5 tujuan khusus
 
 "Setiap tujuan sekarang punya batas waktu, angka minimal, dan alat ukur. Tujuan 1 mengenali masalahnya. Tujuan 2 dan 3 khusus asertivitas: membedakan tiga gaya, lalu mempraktikkan I-statement dalam role-play yang dinilai dengan daftar periksa. Tujuan 4 dan 5 untuk rencana bersama, sampai dijalankan dan direvisi sendiri."
 
-➜ *"Lalu siapa pesertanya?"*
+➜ *"contoh kegiatan"*
 
 ## 13. Contoh Kegiatan
 
-"Sesi 1, kartu situasi: pasangan akan diberikan sebuah kartu yang berisikan situasi situasi technoference lalu bercerita.
+"Sesi 1, kartu situasi: pasangan akan diberikan sebuah kartu yang berisikan situasi situasi technoference lalu bercerita tentang pengalamannya.
 
-Sesi 2, role-play: satu pihak menyampaikan keberatan dengan I-statement, pihak lain mendengarkan dan mengulang intinya, lalu bertukar peran.
+Sesi 2, role-play: Satu pihak menyampaikan keberatan dengan _I-statement_, pihak lain mendengarkan dan mengulang intinya, lalu bertukar peran. Dinilai dengan daftar periksa.
 
-Sesi 3, rencana jika-maka."
+Sesi 3, rencana jika-maka. Masing-masing menyampaikan keinginannya dengan _I-statement_, lalu berdua menulis _action plan_ dan _coping plan_.
 
-Bacakan dua contoh di bawah slide: action plan dan coping plan.
+Contoh action plan dan coping plan
+
+**Action plan:** “Jika kami duduk untuk makan malam, maka kami berdua meletakkan ponsel terbalik di meja dapur.”
+
+**Coping plan:** “Jika ada telepon kerja saat makan malam, maka saya memberi tahu pasangan, mengangkatnya di ruangan lain, dan kembali dalam lima menit.”
 
 ## 10. Profil Peserta
 
@@ -110,7 +110,7 @@ Logika kami gunakan adalah pencegahan, aturan HP disepakati selagi kebiasaan rum
 
 ## 11. Setting Pelaksanaan
 
-"Kami tidak membuat lembaga baru. KUA sudah punya program bimbingan pascanikah, lanjutan dari Bimwin untuk calon pengantin, dan modul kami masuk ke program itu. Kemenag membuka peluang lembaga profesional ikut menyelenggarakan, jadi fasilitatornya psikolog atau konselor, dibantu penyuluh agama KUA yang sudah mengenal warganya. Waktunya akhir pekan, karena suami dan istri harus hadir berdua.
+"KUA sudah punya program bimbingan pascanikah untuk calon pengantin, dan modul kami masuk ke program itu. Kemenag membuka peluang lembaga profesional ikut menyelenggarakan, jadi fasilitatornya psikolog atau konselor, dibantu penyuluh agama KUA yang sudah mengenal warganya. Waktunya akhir pekan, karena suami dan istri harus hadir berdua.
 
 Dan yang menarik, Kemenag sendiri menyebut pasangan muda perlu dibantu membangun komunikasi yang sehat. Itu persis fokus modul kami."
 
