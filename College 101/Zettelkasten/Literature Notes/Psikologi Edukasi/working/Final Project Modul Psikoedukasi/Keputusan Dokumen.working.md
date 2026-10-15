@@ -38,3 +38,9 @@
 
 - Dokumen kanonik: `Psikologi Edukasi/Final Project Modul Psikoedukasi.md` (berisi bagian 1 sampai 3, dibuat atas permintaan Suji 8 Oktober 2026)
 - Working per bagian: `working/Final Project Modul Psikoedukasi/<Bagian>.working.md`
+
+## Revisi 16 Oktober 2026 (setelah umpan balik Bu Dewi)
+
+- Keputusan bahwa komunikasi asertif tidak menjadi materi inti dibatalkan. Objektif tugas dan rubrik mewajibkan integrasi komunikasi dan asertivitas, dan umpan balik Bu Dewi menanyakannya langsung.
+- Dokumen utama kini memuat bagian 1 sampai 5: Latar Belakang, Tujuan, Profil Peserta, Rincian Sesi, dan Evaluasi.
+- Rincian keputusan, pemetaan umpan balik, dan source ledger ada di `Revisi Pasca Presentasi.working.md`.
