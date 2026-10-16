@@ -1,5 +1,18 @@
 # Working: Makalah Social Mapping Desa Kejapanan (keputusan dokumen dan pengingat)
 
+## Revisi 16 Oktober 2026 (setelah diskusi dengan dosen)
+
+Dosen mempertanyakan alasan memilih Masalah 1, urgensinya, dan fishbone yang menyalin enam kategori templat. Keputusan Suji melalui grilling:
+
+1. File kanonis memuat seluruh makalah. Versi Suji menjadi acuan. Bagian anggota lain diperbaiki pada fakta dan konsistensi saja, dengan changelog (`Changelog revisi 16 Oktober 2026.md`).
+2. Semua 18 penyebab fishbone diperlakukan sebagai data lapangan kelompok (keputusan 7 Oktober), tanpa penanda dugaan.
+3. USG dinilai ulang dengan patokan skor. Setelah review ronde 2 (`review-triage-r2.md`): M1 4/5/4 = 13, M4 3/4/4 = 11, M2 3/4/3 = 10, M5 3/3/3 = 9, M3 3/3/2 = 8. Pemecah skor sama: U, lalu S, lalu L APKL. APKL tidak diubah.
+4. 6.4 memuat tiga dasar: urgensi (kerugian tak terulang karena batas usia), daya ungkit (M4 terkuat, M2 rasa memiliki, M3 parsial, M5 tidak langsung lewat alumni ke Karang Taruna serta ruang belajar dan *outbound*, anak bukan tenaga kerja), dan kelayakan (program dirancang bersama anak).
+5. Fishbone disusun induktif: lima kategori, dua akar (forum hanya di atas kertas, anak tidak memegang kendali). Hubungan dengan M2 dan M4 ditulis timbal balik.
+6. Penomoran gambar berurutan: Gambar 1 peta, 2 actor map, 3 grid, 4 fishbone.
+
+Pengingat lama tentang angka RT, sumber penduduk, ejaan kepala desa, dan sitasi Hidayatie sudah terselesaikan oleh proposal desa (Pemerintah Desa Kejapanan, 2026) dan Gempol Dalam Angka 2023. Pertanyaan yang tersisa ada di changelog.
+
 ## Pengingat terbuka
 
 ### Angka RT dan luas wilayah belum disepakati kelompok
@@ -66,3 +79,7 @@ Suji meminta semua bagian diselesaikan tanpa gerbang per bagian ("just do it til
 - Daftar Pustaka hanya memuat sumber bagian Suji. Gabungkan dengan sumber anggota lain bila kelompok membuat satu Daftar Pustaka.
 - Review eksternal gpt-6-astra (medium) sudah dijalankan dan ditriase (`review-triage.md`). Perbaikan sudah diterapkan.
 - Bagian 6.1 kelompok masih menulis "(Jatimsatunews, 2025)". Berita ini punya penulis, Anis Hidayatie. Minta kelompok mengganti ke "(Hidayatie, 2025)" agar seragam dengan bagian Suji.
+
+## Status akhir (16 Oktober 2026)
+
+Diterima Suji setelah review ronde 2. Tidak ada review lanjutan. File kanonis siap dipindahkan ke Google Docs kelompok.
