@@ -40,16 +40,16 @@
 <text x="1060" y="786" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="700" fill="#1f2937">Lingkungan desa belum menopang</text>
 <line x1="1060" y1="760" x2="1220" y2="430" stroke="#3b6fc4" stroke-width="2.4"/>
 <line x1="1071.6" y1="707.2" x2="1085.6" y2="707.2" stroke="#3b6fc4" stroke-width="1.6"/>
-<text x="1065.6" y="712.2" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Kegiatan desa terpusat di wilayah tertentu (M2)</text>
+<text x="1065.6" y="712.2" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Kegiatan desa terpusat di wilayah tertentu (M3)</text>
 <line x1="1110.0" y1="628.0" x2="1124.0" y2="628.0" stroke="#3b6fc4" stroke-width="1.6"/>
 <text x="1104.0" y="633.0" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Akses antardusun dinilai cukup jauh</text>
 <line x1="1148.4" y1="548.8" x2="1162.4" y2="548.8" stroke="#3b6fc4" stroke-width="1.6"/>
 <text x="1142.4" y="553.8" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Ruang kumpul anak minim</text>
 <line x1="1186.8" y1="469.6" x2="1200.8" y2="469.6" stroke="#3b6fc4" stroke-width="1.6"/>
-<text x="1180.8" y="474.6" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Karang Taruna stagnan, forum tanpa mitra (M4)</text>
+<text x="1180.8" y="474.6" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Karang Taruna stagnan, forum tanpa mitra (M2)</text>
 <rect x="40" y="820" width="22" height="16" rx="3" fill="#fdecdf" stroke="#c2410c" stroke-width="2"/>
 <text x="70" y="834" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Kategori akar masalah</text>
 <rect x="280" y="820" width="22" height="16" rx="3" fill="#e8f0fb" stroke="#3b6fc4" stroke-width="2"/>
 <text x="310" y="834" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">Kategori penyerta</text>
-<text x="480" y="834" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">(M2), (M4) : masalah lain hasil MAP yang berhubungan timbal balik dengan Forum Anak</text>
+<text x="480" y="834" font-family="Inter, Arial, sans-serif" font-size="15" fill="#1f2937">(M2), (M3) : masalah lain hasil MAP yang berhubungan timbal balik dengan Forum Anak</text>
 </svg>

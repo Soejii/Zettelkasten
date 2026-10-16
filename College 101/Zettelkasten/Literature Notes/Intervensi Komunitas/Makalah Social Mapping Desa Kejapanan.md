@@ -199,10 +199,10 @@ Struktur ini membawa implikasi langsung bagi intervensi. Legitimasi di tingkat d
 | Masalah | Kelompok/lokasi terdampak | Sumber bukti |
 |---|---|---|
 | 1. Rendahnya keaktifan dan keberfungsian Forum Anak sebagai wadah partisipasi anak, meskipun secara kelembagaan sudah terbentuk. | Anak di Desa Kejapanan, pengurus dan pendamping Forum Anak | Wawancara dan observasi, informasi mengenai Forum Anak dan status Desa Ramah Anak (Hidayatie, 2025) |
-| 2. Belum meratanya jangkauan partisipasi dan kegiatan lintas dusun, sehingga aktivitas desa terpusat pada wilayah tertentu. | Warga di 12 dusun, perangkat desa, serta pengurus RW/RT | Wawancara dengan Pak Eki mengenai ego wilayah dan sulitnya kegiatan gabungan |
-| 3. Dominasi partisipasi segelintir pihak dalam forum musyawarah desa sehingga partisipasi deliberatif belum merata. | Peserta musyawarah desa, meliputi warga, tokoh masyarakat, perangkat desa, dan kepala desa | Wawancara dengan Pak Eki mengenai pihak yang aktif menyampaikan pendapat dalam rapat besar |
-| 4. Stagnasi peran Karang Taruna sebagai organisasi kepemudaan desa. | Pengurus dan anggota Karang Taruna serta pemuda Desa Kejapanan | Wawancara dan observasi, pemberitaan mengenai kegiatan Karang Taruna (Hidayatie, 2025) |
-| 5. Terbatasnya kapasitas sumber daya pengelola dalam mengoptimalkan peluang baru desa, seperti kafe desa dan hidroponik. | Pengelola peluang usaha desa dan warga yang berpotensi memperoleh manfaat | Wawancara dan observasi mengenai pengelolaan peluang baru desa |
+| 2. Stagnasi peran Karang Taruna sebagai organisasi kepemudaan desa. | Pengurus dan anggota Karang Taruna serta pemuda Desa Kejapanan | Wawancara dan observasi, pemberitaan mengenai kegiatan Karang Taruna (Hidayatie, 2025) |
+| 3. Belum meratanya jangkauan partisipasi dan kegiatan lintas dusun, sehingga aktivitas desa terpusat pada wilayah tertentu. | Warga di 12 dusun, perangkat desa, serta pengurus RW/RT | Wawancara dengan Pak Eki mengenai ego wilayah dan sulitnya kegiatan gabungan |
+| 4. Terbatasnya kapasitas sumber daya pengelola dalam mengoptimalkan peluang baru desa, seperti kafe desa dan hidroponik. | Pengelola peluang usaha desa dan warga yang berpotensi memperoleh manfaat | Wawancara dan observasi mengenai pengelolaan peluang baru desa |
+| 5. Dominasi partisipasi segelintir pihak dalam forum musyawarah desa sehingga partisipasi deliberatif belum merata. | Peserta musyawarah desa, meliputi warga, tokoh masyarakat, perangkat desa, dan kepala desa | Wawancara dengan Pak Eki mengenai pihak yang aktif menyampaikan pendapat dalam rapat besar |
 
 # 6. Prioritas Masalah: APKL dan USG
 
@@ -220,27 +220,7 @@ Setiap indikator dinilai dengan skala 1 sampai 5 sehingga skor maksimal adalah 2
 | L | 5 | Kelembagaan sudah ada dan terdapat pendamping dari pemerintah desa dan sekolah (SDN Kejapanan V). Intervensi sesuai dengan peran mahasiswa psikologi dan tidak perlu membangun dari nol. |
 | **Total** | **17** | Dengan total skor 17 dari maksimal 20, isu ini termasuk prioritas tinggi. |
 
-**Analisis APKL Masalah 2: Jangkauan partisipasi lintas dusun belum merata**
-
-| Indikator | Skor | Keterangan |
-|---|---|---|
-| A | 4 | Pemerintah desa merasakan langsung kesulitan merangkul seluruh dusun, dan kegiatan berputar di wilayah yang sama. Keterangan ini sejalan dengan wawancara Pak Eki tentang ego wilayah dan sulitnya kegiatan gabungan tingkat desa. |
-| P | 4 | Desa terbagi atas 12 dusun dengan karakter berbeda. Ketimpangan akses kegiatan menyimpang dari prinsip pembangunan inklusif dan penyebabnya bersifat struktural. |
-| K | 5 | Menyangkut seluruh warga di 12 dusun (sekitar 21.545 jiwa). |
-| L | 2 | Penyelesaiannya menuntut koordinasi 12 dusun, 27 RW, dan 152 RT yang masing-masing memiliki agenda sendiri. Hal ini berada di luar kewenangan dan rentang waktu kelompok. |
-| **Total** | **15** | Dengan total skor 15 dari maksimal 20, isu ini termasuk prioritas sedang-tinggi. |
-
-**Analisis APKL Masalah 3: Dominasi partisipasi dalam musyawarah desa**
-
-| Indikator | Skor | Keterangan |
-|---|---|---|
-| A | 4 | Pada rapat besar bersama kepala desa, pendapat hanya disampaikan oleh beberapa orang. Menurut Pak Eki, yang aktif bersuara hanya tiga orang, yaitu Pak Eki sendiri, Pak Toni, dan Pak Putut. |
-| P | 3 | Musyawarah tetap berjalan dan menghasilkan keputusan, tetapi kualitas partisipasi belum ideal. Masalahnya laten dan belum menimbulkan konflik. |
-| K | 3 | Keputusan musyawarah menyangkut seluruh warga, tetapi pembatasan ruang bersuara terutama dialami peserta musyawarah. |
-| L | 3 | Dapat dibantu dengan teknik fasilitasi, seperti diskusi kelompok kecil atau pengumpulan aspirasi tertulis. Namun, penerapannya bergantung pada persetujuan pemimpin rapat karena kelompok tidak memimpin musyawarah. |
-| **Total** | **13** | Dengan total skor 13 dari maksimal 20, isu ini termasuk prioritas sedang. |
-
-**Analisis APKL Masalah 4: Stagnasi Karang Taruna**
+**Analisis APKL Masalah 2: Stagnasi Karang Taruna**
 
 | Indikator | Skor | Keterangan |
 |---|---|---|
@@ -250,7 +230,17 @@ Setiap indikator dinilai dengan skala 1 sampai 5 sehingga skor maksimal adalah 2
 | L | 3 | Pembenahan memerlukan perbaikan struktur dan regenerasi pengurus yang bergantung pada dinamika internal organisasi. Kelompok hanya dapat berperan sebagai fasilitator. |
 | **Total** | **15** | Dengan total skor 15 dari maksimal 20, isu ini termasuk prioritas sedang-tinggi. |
 
-**Analisis APKL Masalah 5: Keterbatasan sumber daya pengelola peluang baru**
+**Analisis APKL Masalah 3: Jangkauan partisipasi lintas dusun belum merata**
+
+| Indikator | Skor | Keterangan |
+|---|---|---|
+| A | 4 | Pemerintah desa merasakan langsung kesulitan merangkul seluruh dusun, dan kegiatan berputar di wilayah yang sama. Keterangan ini sejalan dengan wawancara Pak Eki tentang ego wilayah dan sulitnya kegiatan gabungan tingkat desa. |
+| P | 4 | Desa terbagi atas 12 dusun dengan karakter berbeda. Ketimpangan akses kegiatan menyimpang dari prinsip pembangunan inklusif dan penyebabnya bersifat struktural. |
+| K | 5 | Menyangkut seluruh warga di 12 dusun (sekitar 21.545 jiwa). |
+| L | 2 | Penyelesaiannya menuntut koordinasi 12 dusun, 27 RW, dan 152 RT yang masing-masing memiliki agenda sendiri. Hal ini berada di luar kewenangan dan rentang waktu kelompok. |
+| **Total** | **15** | Dengan total skor 15 dari maksimal 20, isu ini termasuk prioritas sedang-tinggi. |
+
+**Analisis APKL Masalah 4: Keterbatasan sumber daya pengelola peluang baru**
 
 | Indikator | Skor | Keterangan |
 |---|---|---|
@@ -260,15 +250,25 @@ Setiap indikator dinilai dengan skala 1 sampai 5 sehingga skor maksimal adalah 2
 | L | 2 | Membutuhkan modal, keahlian teknis, dan jangka waktu panjang di luar kapasitas intervensi kelompok. |
 | **Total** | **13** | Dengan total skor 13 dari maksimal 20, isu ini termasuk prioritas sedang. |
 
+**Analisis APKL Masalah 5: Dominasi partisipasi dalam musyawarah desa**
+
+| Indikator | Skor | Keterangan |
+|---|---|---|
+| A | 4 | Pada rapat besar bersama kepala desa, pendapat hanya disampaikan oleh beberapa orang. Menurut Pak Eki, yang aktif bersuara hanya tiga orang, yaitu Pak Eki sendiri, Pak Toni, dan Pak Putut. |
+| P | 3 | Musyawarah tetap berjalan dan menghasilkan keputusan, tetapi kualitas partisipasi belum ideal. Masalahnya laten dan belum menimbulkan konflik. |
+| K | 3 | Keputusan musyawarah menyangkut seluruh warga, tetapi pembatasan ruang bersuara terutama dialami peserta musyawarah. |
+| L | 3 | Dapat dibantu dengan teknik fasilitasi, seperti diskusi kelompok kecil atau pengumpulan aspirasi tertulis. Namun, penerapannya bergantung pada persetujuan pemimpin rapat karena kelompok tidak memimpin musyawarah. |
+| **Total** | **13** | Dengan total skor 13 dari maksimal 20, isu ini termasuk prioritas sedang. |
+
 ## 6.2 Matriks Skoring APKL
 
 | No. | Masalah | A | P | K | L | Total /20 | Bukti/alasan skor | Peringkat |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Rendahnya keaktifan Forum Anak | 5 | 4 | 3 | 5 | 17 | A5: Forum Anak belum pernah menjalankan program menurut wawancara dan observasi, berbeda dengan status Desa Ramah Anak sejak Juli 2025. P4: forum terbentuk secara kelembagaan, tetapi belum berfungsi sebagai wadah partisipasi anak. K3: kelompok usia 8-18 tahun berjumlah 4.142 jiwa atau sekitar 19% penduduk. L5: forum sudah memiliki struktur serta pendamping dari pemerintah desa dan SDN Kejapanan V. | 1 |
-| 2 | Jangkauan partisipasi lintas dusun belum merata | 4 | 4 | 5 | 2 | 15 | A4: pemerintah desa kesulitan menjangkau seluruh dusun, sesuai keterangan tentang ego wilayah. P4: kegiatan dan partisipasi belum merata di 12 dusun. K5: mencakup seluruh warga, sekitar 21.545 jiwa. L2: membutuhkan koordinasi 12 dusun, 27 RW, dan 152 RT di luar kewenangan kelompok. | 2 |
-| 4 | Stagnasi Karang Taruna | 4 | 4 | 4 | 3 | 15 | A4: kegiatan Karang Taruna belum berjalan menurut wawancara dan observasi. P4: ada kesenjangan antara kegiatan yang diberitakan, seperti bimbingan belajar gratis, dan kondisi lapangan. K4: memengaruhi keterlibatan pemuda dan regenerasi kepemimpinan desa. L3: perbaikan bergantung pada kondisi internal organisasi sehingga kelompok berperan sebagai fasilitator. | 2 |
-| 3 | Dominasi partisipasi dalam musyawarah desa | 4 | 3 | 3 | 3 | 13 | A4: dalam rapat besar hanya Pak Eki, Pak Toni, dan Pak Putut yang aktif berpendapat. P3: musyawarah tetap berjalan dan menghasilkan keputusan. K3: keputusan menyangkut seluruh warga, tetapi pembatasan ruang bersuara terutama dialami peserta musyawarah. L3: dapat dibantu teknik fasilitasi, tetapi membutuhkan persetujuan pemimpin rapat. | 4 |
-| 5 | Keterbatasan sumber daya pengelola peluang baru | 4 | 3 | 4 | 2 | 13 | A4: kafe desa dan hidroponik sudah tersedia, tetapi belum termanfaatkan optimal. P3: ada kesenjangan antara potensi dan kemampuan SDM, waktu, dan dana. K4: berpotensi memberi manfaat ekonomi dan kesempatan kerja. L2: membutuhkan modal, kemampuan teknis, dan waktu yang panjang. | 4 |
+| 2 | Stagnasi Karang Taruna | 4 | 4 | 4 | 3 | 15 | A4: kegiatan Karang Taruna belum berjalan menurut wawancara dan observasi. P4: ada kesenjangan antara kegiatan yang diberitakan, seperti bimbingan belajar gratis, dan kondisi lapangan. K4: memengaruhi keterlibatan pemuda dan regenerasi kepemimpinan desa. L3: perbaikan bergantung pada kondisi internal organisasi sehingga kelompok berperan sebagai fasilitator. | 2 |
+| 3 | Jangkauan partisipasi lintas dusun belum merata | 4 | 4 | 5 | 2 | 15 | A4: pemerintah desa kesulitan menjangkau seluruh dusun, sesuai keterangan tentang ego wilayah. P4: kegiatan dan partisipasi belum merata di 12 dusun. K5: mencakup seluruh warga, sekitar 21.545 jiwa. L2: membutuhkan koordinasi 12 dusun, 27 RW, dan 152 RT di luar kewenangan kelompok. | 2 |
+| 4 | Keterbatasan sumber daya pengelola peluang baru | 4 | 3 | 4 | 2 | 13 | A4: kafe desa dan hidroponik sudah tersedia, tetapi belum termanfaatkan optimal. P3: ada kesenjangan antara potensi dan kemampuan SDM, waktu, dan dana. K4: berpotensi memberi manfaat ekonomi dan kesempatan kerja. L2: membutuhkan modal, kemampuan teknis, dan waktu yang panjang. | 4 |
+| 5 | Dominasi partisipasi dalam musyawarah desa | 4 | 3 | 3 | 3 | 13 | A4: dalam rapat besar hanya Pak Eki, Pak Toni, dan Pak Putut yang aktif berpendapat. P3: musyawarah tetap berjalan dan menghasilkan keputusan. K3: keputusan menyangkut seluruh warga, tetapi pembatasan ruang bersuara terutama dialami peserta musyawarah. L3: dapat dibantu teknik fasilitasi, tetapi membutuhkan persetujuan pemimpin rapat. | 4 |
 
 Masalah dengan total skor yang sama diberi peringkat yang sama karena APKL berfungsi sebagai penyaring, bukan penentu prioritas akhir (Pambudi, 2026). Kelima masalah dilanjutkan ke analisis USG.
 
@@ -289,29 +289,11 @@ USG menilai seberapa mendesak suatu masalah, seberapa serius dampak yang dapat d
 | Indikator | Skor | Keterangan |
 |---|---|---|
 | *Urgency* | 4 | Keanggotaan Forum Anak berakhir ketika anak berusia 18 tahun, dan kepengurusannya hanya terbuka bagi anak berusia 12 sampai 17 tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Selama forum tidak berkegiatan, setiap tahun ada anak di desa yang melewati batas usia tersebut tanpa pernah berpartisipasi melalui forum, dan kesempatan itu tidak dapat diperoleh kembali. Kondisinya tidak bersifat darurat. |
-| *Seriousness* | 5 | Anak kehilangan saluran partisipasi melalui Forum Anak, padahal desa berstatus Desa Ramah Anak. Data lapangan menunjukkan bahwa masalah ini berkaitan dengan dua masalah lain. Kegiatan desa yang terpusat (Masalah 2) dan Karang Taruna yang stagnan (Masalah 4) sama-sama ikut melemahkan forum (Bab 7). |
+| *Seriousness* | 5 | Anak kehilangan saluran partisipasi melalui Forum Anak, padahal desa berstatus Desa Ramah Anak. Data lapangan menunjukkan bahwa masalah ini berkaitan dengan dua masalah lain. Kegiatan desa yang terpusat (Masalah 3) dan Karang Taruna yang stagnan (Masalah 2) sama-sama ikut melemahkan forum (Bab 7). |
 | *Growth* | 4 | Forum masih memiliki SK dan perwakilan di setiap dusun. Tanpa regenerasi, perwakilan yang ada akan melewati batas usia tanpa pengganti, sehingga unsur yang masih tersisa ikut hilang. |
 | **Total** | **13** | Prioritas pertama. |
 
-**Analisis USG Masalah 2: Jangkauan partisipasi lintas dusun belum merata**
-
-| Indikator | Skor | Keterangan |
-|---|---|---|
-| *Urgency* | 3 | Pola ini sudah lama berlangsung. Warga di dusun yang kurang terjangkau tetap dapat memperoleh manfaat pemerataan ketika kegiatan diperluas, sehingga penundaan menunda manfaat tanpa menghapus kesempatan. |
-| *Seriousness* | 4 | Ketimpangan akses kegiatan menurunkan rasa memiliki warga di dusun yang kurang terjangkau. Masalah ini berkaitan dengan Masalah 1 karena kegiatan yang terpusat ikut menghambat Forum Anak (Bab 7). |
-| *Growth* | 3 | Kesenjangan antardusun tidak menunjukkan tanda memburuk, tetapi tidak akan pulih dengan sendirinya karena penyebabnya struktural. |
-| **Total** | **10** | Prioritas ketiga. |
-
-**Analisis USG Masalah 3: Dominasi partisipasi dalam musyawarah desa**
-
-| Indikator | Skor | Keterangan |
-|---|---|---|
-| *Urgency* | 3 | Keputusan musyawarah menyangkut seluruh warga, sehingga selama pembicara terbatas pada segelintir orang, kepentingan warga yang tidak bersuara kurang terwakili. Musyawarah berlangsung berulang, sehingga warga masih dapat memperoleh ruang bersuara pada musyawarah berikutnya. |
-| *Seriousness* | 3 | Dampaknya nyata pada keterwakilan aspirasi, tetapi asesmen tidak menemukan keterkaitannya dengan masalah lain hasil MAP. Dampak keputusan terhadap warga yang tidak hadir belum diketahui. |
-| *Growth* | 2 | Pola ini stabil dan dapat berubah melalui penyesuaian cara fasilitasi musyawarah. |
-| **Total** | **8** | Prioritas kelima. |
-
-**Analisis USG Masalah 4: Stagnasi Karang Taruna**
+**Analisis USG Masalah 2: Stagnasi Karang Taruna**
 
 | Indikator | Skor | Keterangan |
 |---|---|---|
@@ -320,7 +302,16 @@ USG menilai seberapa mendesak suatu masalah, seberapa serius dampak yang dapat d
 | *Growth* | 4 | Tanpa regenerasi, pengurus yang ada terus bertambah usia tanpa pengganti, sehingga organisasi berisiko vakum secara permanen. |
 | **Total** | **11** | Prioritas kedua. |
 
-**Analisis USG Masalah 5: Keterbatasan sumber daya pengelola peluang baru**
+**Analisis USG Masalah 3: Jangkauan partisipasi lintas dusun belum merata**
+
+| Indikator | Skor | Keterangan |
+|---|---|---|
+| *Urgency* | 3 | Pola ini sudah lama berlangsung. Warga di dusun yang kurang terjangkau tetap dapat memperoleh manfaat pemerataan ketika kegiatan diperluas, sehingga penundaan menunda manfaat tanpa menghapus kesempatan. |
+| *Seriousness* | 4 | Ketimpangan akses kegiatan menurunkan rasa memiliki warga di dusun yang kurang terjangkau. Masalah ini berkaitan dengan Masalah 1 karena kegiatan yang terpusat ikut menghambat Forum Anak (Bab 7). |
+| *Growth* | 3 | Kesenjangan antardusun tidak menunjukkan tanda memburuk, tetapi tidak akan pulih dengan sendirinya karena penyebabnya struktural. |
+| **Total** | **10** | Prioritas ketiga. |
+
+**Analisis USG Masalah 4: Keterbatasan sumber daya pengelola peluang baru**
 
 | Indikator | Skor | Keterangan |
 |---|---|---|
@@ -329,23 +320,32 @@ USG menilai seberapa mendesak suatu masalah, seberapa serius dampak yang dapat d
 | *Growth* | 3 | Kondisinya tidak memburuk, tetapi tidak akan pulih tanpa penanganan karena penyebabnya adalah keterbatasan SDM, waktu, dan dana. |
 | **Total** | **9** | Prioritas keempat. |
 
+**Analisis USG Masalah 5: Dominasi partisipasi dalam musyawarah desa**
+
+| Indikator | Skor | Keterangan |
+|---|---|---|
+| *Urgency* | 3 | Keputusan musyawarah menyangkut seluruh warga, sehingga selama pembicara terbatas pada segelintir orang, kepentingan warga yang tidak bersuara kurang terwakili. Musyawarah berlangsung berulang, sehingga warga masih dapat memperoleh ruang bersuara pada musyawarah berikutnya. |
+| *Seriousness* | 3 | Dampaknya nyata pada keterwakilan aspirasi, tetapi asesmen tidak menemukan keterkaitannya dengan masalah lain hasil MAP. Dampak keputusan terhadap warga yang tidak hadir belum diketahui. |
+| *Growth* | 2 | Pola ini stabil dan dapat berubah melalui penyesuaian cara fasilitasi musyawarah. |
+| **Total** | **8** | Prioritas kelima. |
+
 **Rekapitulasi USG**
 
 | No. | Masalah | U | S | G | Total /15 | Justifikasi skor | Peringkat |
 |---|---|---|---|---|---|---|---|
-| 1 | Rendahnya keaktifan Forum Anak | 4 | 5 | 4 | 13 | Masa kesempatan anak pendek. Berkaitan dengan Masalah 2 dan Masalah 4. Perwakilan yang tersisa akan hilang tanpa regenerasi. | 1 |
-| 4 | Stagnasi Karang Taruna | 3 | 4 | 4 | 11 | Masa kesempatan pemuda panjang. Berkaitan dengan Masalah 1. Organisasi berisiko vakum permanen. | 2 |
-| 2 | Jangkauan partisipasi lintas dusun belum merata | 3 | 4 | 3 | 10 | Manfaat pemerataan masih dapat diperoleh kemudian. Berkaitan dengan Masalah 1. Kesenjangan menetap. | 3 |
-| 5 | Keterbatasan sumber daya pengelola peluang baru | 3 | 3 | 3 | 9 | Peluang tetap tersedia. Tidak berkaitan dengan masalah lain. Kondisi menetap karena keterbatasan SDM dan dana. | 4 |
-| 3 | Dominasi partisipasi dalam musyawarah desa | 3 | 3 | 2 | 8 | Musyawarah berlangsung berulang. Tidak berkaitan dengan masalah lain. Dapat berubah melalui cara fasilitasi. | 5 |
+| 1 | Rendahnya keaktifan Forum Anak | 4 | 5 | 4 | 13 | Masa kesempatan anak pendek. Berkaitan dengan Masalah 2 dan Masalah 3. Perwakilan yang tersisa akan hilang tanpa regenerasi. | 1 |
+| 2 | Stagnasi Karang Taruna | 3 | 4 | 4 | 11 | Masa kesempatan pemuda panjang. Berkaitan dengan Masalah 1. Organisasi berisiko vakum permanen. | 2 |
+| 3 | Jangkauan partisipasi lintas dusun belum merata | 3 | 4 | 3 | 10 | Manfaat pemerataan masih dapat diperoleh kemudian. Berkaitan dengan Masalah 1. Kesenjangan menetap. | 3 |
+| 4 | Keterbatasan sumber daya pengelola peluang baru | 3 | 3 | 3 | 9 | Peluang tetap tersedia. Tidak berkaitan dengan masalah lain. Kondisi menetap karena keterbatasan SDM dan dana. | 4 |
+| 5 | Dominasi partisipasi dalam musyawarah desa | 3 | 3 | 2 | 8 | Musyawarah berlangsung berulang. Tidak berkaitan dengan masalah lain. Dapat berubah melalui cara fasilitasi. | 5 |
 
-Selisih antara Masalah 1 dan Masalah 4 terutama berasal dari skor S. Apabila S pada Masalah 1 diturunkan menjadi 4, totalnya menjadi 12 dan tetap tertinggi. Apabila diturunkan menjadi 3, totalnya sama dengan Masalah 4, yaitu 11. Untuk total yang sama, peringkat ditentukan berturut-turut oleh skor U, skor S, dan skor L pada APKL, sehingga Masalah 1 tetap berada di peringkat pertama karena skor U-nya lebih tinggi.
+Selisih antara Masalah 1 dan Masalah 2 terutama berasal dari skor S. Apabila S pada Masalah 1 diturunkan menjadi 4, totalnya menjadi 12 dan tetap tertinggi. Apabila diturunkan menjadi 3, totalnya sama dengan Masalah 2, yaitu 11. Untuk total yang sama, peringkat ditentukan berturut-turut oleh skor U, skor S, dan skor L pada APKL, sehingga Masalah 1 tetap berada di peringkat pertama karena skor U-nya lebih tinggi.
 
 ## 6.4 Konsolidasi Keputusan Prioritas
 
 | Masalah | Skor APKL | Skor USG | Justifikasi | Keputusan |
 |---|---|---|---|---|
-| Rendahnya keaktifan Forum Anak | 17 | 13 | Skor tertinggi pada APKL dan USG. Masa kesempatan anak pendek, masalah ini berkaitan dengan Masalah 2 dan Masalah 4, dan kelembagaannya sudah tersedia sebagai titik awal. | Utama |
+| Rendahnya keaktifan Forum Anak | 17 | 13 | Skor tertinggi pada APKL dan USG. Masa kesempatan anak pendek, masalah ini berkaitan dengan Masalah 2 dan Masalah 3, dan kelembagaannya sudah tersedia sebagai titik awal. | Utama |
 | Stagnasi Karang Taruna | 15 | 11 | Berhubungan dua arah dengan Forum Anak. Perbaikannya bergantung pada dinamika internal Karang Taruna, sehingga lebih tepat menjadi mitra dan fokus lanjutan. | Cadangan |
 | Jangkauan partisipasi lintas dusun belum merata | 15 | 10 | Cakupannya paling luas, tetapi menuntut koordinasi 12 dusun, 27 RW, dan 152 RT di luar kewenangan kelompok. Sebagian dapat dijangkau melalui perwakilan Forum Anak di setiap dusun. | Cadangan |
 | Keterbatasan sumber daya pengelola peluang baru | 13 | 9 | Pengembangannya membutuhkan modal, kemampuan teknis, dan waktu yang panjang, sehingga kurang sesuai dengan kapasitas dan ruang lingkup intervensi kelompok saat ini. | Tidak dipilih |
@@ -355,13 +355,13 @@ Masalah 1 didahulukan terutama karena kesempatan yang hilang selama penundaan ti
 
 Data lapangan menunjukkan arah hubungan yang jelas: kegiatan desa yang terpusat dan Karang Taruna yang stagnan ikut melemahkan Forum Anak (Bab 7). Arah sebaliknya, yaitu pengaruh forum yang aktif terhadap masalah lain, belum teramati dan karena itu diuraikan sebagai kemungkinan. Kemungkinan yang paling dapat dipertanggungjawabkan menyangkut Karang Taruna. Setiap generasi muda berusia 16 sampai 30 tahun otomatis menjadi warga Karang Taruna (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025), sehingga anggota Forum Anak yang berusia 16 dan 17 tahun sudah tercatat sebagai warga organisasi tersebut. Status ini tidak berarti mereka aktif. Namun, anak yang pernah mengurus forum dapat diduga lebih siap terlibat ketika Karang Taruna dibenahi. Peraturan tentang Forum Anak juga mensyaratkan fasilitator forum berusia 18 sampai 24 tahun dan pernah menjadi pengurus Forum Anak, meskipun pengecualian diizinkan apabila syarat tersebut tidak dapat dipenuhi (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025).
 
-Pengaruh terhadap Masalah 2 lebih lambat. Forum Anak memiliki perwakilan di setiap dusun, sehingga kegiatannya mempertemukan anak dari dusun yang berbeda. McMillan dan Chavis (1986) menjelaskan bahwa keanggotaan dalam komunitas mencakup rasa memiliki dan identifikasi diri sebagai bagian dari kelompok, dan bahwa interaksi yang sering memperbesar kemungkinan anggota menjadi dekat. Atas dasar itu, kegiatan forum berpotensi menumbuhkan rasa memiliki anak terhadap desa secara keseluruhan, tidak hanya terhadap dusunnya. Potensi ini menyasar generasi berikutnya dan tidak mengubah ego wilayah orang dewasa saat ini.
+Pengaruh terhadap Masalah 3 lebih lambat. Forum Anak memiliki perwakilan di setiap dusun, sehingga kegiatannya mempertemukan anak dari dusun yang berbeda. McMillan dan Chavis (1986) menjelaskan bahwa keanggotaan dalam komunitas mencakup rasa memiliki dan identifikasi diri sebagai bagian dari kelompok, dan bahwa interaksi yang sering memperbesar kemungkinan anggota menjadi dekat. Atas dasar itu, kegiatan forum berpotensi menumbuhkan rasa memiliki anak terhadap desa secara keseluruhan, tidak hanya terhadap dusunnya. Potensi ini menyasar generasi berikutnya dan tidak mengubah ego wilayah orang dewasa saat ini.
 
-Hubungan dengan Masalah 3 dan Masalah 5 lebih tidak langsung lagi. Forum Anak berfungsi sebagai sarana bagi anak untuk menyampaikan suaranya kepada pengambil keputusan (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Anak yang terbiasa berpendapat di forum dapat menambah jumlah warga yang bersuara dalam musyawarah setelah dewasa, tetapi dampak ini baru terlihat setelah bertahun-tahun. Karang Taruna dapat membentuk unit teknis di bidang ekonomi (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025). Apabila alumni forum aktif di Karang Taruna, unit seperti ini dapat menjadi jalan bagi pemuda untuk ikut mengelola kafe desa dan hidroponik. Bagi anggota yang masih berusia anak, kedua aset itu hanya diposisikan sebagai ruang belajar dan berkegiatan, misalnya kebun hidroponik sebagai proyek belajar, kafe desa sebagai tempat pertemuan forum, atau kegiatan *outbound* di lingkungan desa. Anak tidak ditempatkan sebagai tenaga kerja.
+Hubungan dengan Masalah 4 dan Masalah 5 lebih tidak langsung lagi. Forum Anak berfungsi sebagai sarana bagi anak untuk menyampaikan suaranya kepada pengambil keputusan (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Anak yang terbiasa berpendapat di forum dapat menambah jumlah warga yang bersuara dalam musyawarah setelah dewasa, tetapi dampak ini baru terlihat setelah bertahun-tahun. Karang Taruna dapat membentuk unit teknis di bidang ekonomi (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025). Apabila alumni forum aktif di Karang Taruna, unit seperti ini dapat menjadi jalan bagi pemuda untuk ikut mengelola kafe desa dan hidroponik. Bagi anggota yang masih berusia anak, kedua aset itu hanya diposisikan sebagai ruang belajar dan berkegiatan, misalnya kebun hidroponik sebagai proyek belajar, kafe desa sebagai tempat pertemuan forum, atau kegiatan *outbound* di lingkungan desa. Anak tidak ditempatkan sebagai tenaga kerja.
 
 Dari sisi kemampuan kelompok, Masalah 1 memiliki titik awal yang paling jelas. Forum sudah memiliki SK, perwakilan di setiap dusun, serta pendamping dari pemerintah desa dan SDN Kejapanan V, tetapi belum memiliki program. Kelompok dapat memfasilitasi penyusunan program bersama anak. Peraturan tentang Forum Anak mengenal partisipasi konsultatif, kolaboratif, dan dipimpin oleh anak dengan proses yang difasilitasi orang dewasa (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Fasilitasi kelompok diarahkan pada bentuk kolaboratif yang bertahap beralih ke bentuk yang dipimpin anak, sehingga gagasan seperti pelatihan kepemimpinan, debat, klub buku, atau *outbound* menjadi pilihan yang diputuskan anggota forum. Pembenahan tata kelola, seperti kejelasan anggaran, pendataan anggota, dan evaluasi, berada di luar kewenangan kelompok. Bagian ini memerlukan komitmen kepala desa sebagai pembina dan pendamping forum, sehingga intervensi perlu dimulai dengan kesepakatan bersama mereka.
 
-Hubungan dua arah tersebut juga berarti bahwa menghidupkan Forum Anak tidak serta-merta menyelesaikan Masalah 2 dan Masalah 4. Keduanya ditetapkan sebagai cadangan karena kondisi wilayah dan Karang Taruna ikut menentukan berhasil tidaknya intervensi pada Masalah 1.
+Hubungan dua arah tersebut juga berarti bahwa menghidupkan Forum Anak tidak serta-merta menyelesaikan Masalah 2 dan Masalah 3. Keduanya ditetapkan sebagai cadangan karena kondisi wilayah dan Karang Taruna ikut menentukan berhasil tidaknya intervensi pada Masalah 1.
 
 # 7. Analisis Fishbone
 
@@ -378,7 +378,7 @@ Tiga kategori diperlakukan sebagai akar masalah karena ketiganya berada dalam ja
 
 Kategori ketiga, anak tidak memegang kendali, mencakup anak yang tidak dilibatkan dalam menentukan kegiatan, kegiatan yang bergantung pada inisiatif orang dewasa, aspirasi anak yang tidak ditanggapi, dan pandangan bahwa anak adalah objek kegiatan. Dalam forum yang belum berprogram, kondisi ini berarti tidak ada pihak yang memulai. Orang dewasa tidak membina, sedangkan anak tidak diberi ruang untuk berinisiatif. Keluhan tentang aspirasi yang tidak ditanggapi serupa dengan contoh yang digolongkan Hart (1992) sebagai manipulasi, yaitu konsultasi dengan anak tanpa umpan balik, yang ia tempatkan pada tingkat nonpartisipasi. Peraturan yang sama mengartikan partisipasi anak sebagai keikutsertaan anak dalam proses pengambilan keputusan sehingga anak dapat menikmati proses, hasil, dan manfaatnya. Apabila anak memang tidak dilibatkan, forum ini belum memenuhi pengertian tersebut.
 
-Kategori keempat, lingkungan desa yang belum menopang, berada di luar forum. Isinya adalah kegiatan desa yang terpusat di wilayah tertentu (Masalah 2), akses antardusun yang dinilai cukup jauh, ruang kumpul anak yang minim, dan Karang Taruna yang stagnan sehingga forum tidak memiliki mitra (Masalah 4). Kondisi ini memperberat ketiga akar, tetapi tidak menjelaskan mengapa forum tidak pernah memulai program. Kategori ini juga memperlihatkan hubungan dua arah yang dibahas pada bagian 6.4 dan sejalan dengan struktur kuasa yang terpecah per wilayah pada bagian 4.5. Akar masalahnya dirumuskan sebagai berikut: Forum Anak berdiri sebagai bagian dari capaian status desa tanpa sistem pembinaan dan pengelolaan yang berkelanjutan, dan tanpa ruang yang memberi anak peran nyata dalam menentukan kegiatan serta keputusan. Pembenahannya memerlukan kesepakatan pembinaan dengan kepala desa, yang menurut peraturan tentang Forum Anak berkedudukan sebagai pembina di tingkat desa, dan dengan pendamping forum. Program pertama forum kemudian disusun bersama anak melalui partisipasi kolaboratif yang bertahap menuju partisipasi yang dipimpin anak (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Modal lain yang tersedia adalah status Desa Ramah Anak dan perpustakaan desa (Hidayatie, 2025), serta pendampingan dari SDN Kejapanan V dan perwakilan forum di setiap dusun menurut temuan lapangan kelompok. Hubungan sebab-akibat dalam fishbone ini masih perlu dikonfirmasi langsung dengan anak, pengurus, dan pendamping forum.
+Kategori keempat, lingkungan desa yang belum menopang, berada di luar forum. Isinya adalah kegiatan desa yang terpusat di wilayah tertentu (Masalah 3), akses antardusun yang dinilai cukup jauh, ruang kumpul anak yang minim, dan Karang Taruna yang stagnan sehingga forum tidak memiliki mitra (Masalah 2). Kondisi ini memperberat ketiga akar, tetapi tidak menjelaskan mengapa forum tidak pernah memulai program. Kategori ini juga memperlihatkan hubungan dua arah yang dibahas pada bagian 6.4 dan sejalan dengan struktur kuasa yang terpecah per wilayah pada bagian 4.5. Akar masalahnya dirumuskan sebagai berikut: Forum Anak berdiri sebagai bagian dari capaian status desa tanpa sistem pembinaan dan pengelolaan yang berkelanjutan, dan tanpa ruang yang memberi anak peran nyata dalam menentukan kegiatan serta keputusan. Pembenahannya memerlukan kesepakatan pembinaan dengan kepala desa, yang menurut peraturan tentang Forum Anak berkedudukan sebagai pembina di tingkat desa, dan dengan pendamping forum. Program pertama forum kemudian disusun bersama anak melalui partisipasi kolaboratif yang bertahap menuju partisipasi yang dipimpin anak (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Modal lain yang tersedia adalah status Desa Ramah Anak dan perpustakaan desa (Hidayatie, 2025), serta pendampingan dari SDN Kejapanan V dan perwakilan forum di setiap dusun menurut temuan lapangan kelompok. Hubungan sebab-akibat dalam fishbone ini masih perlu dikonfirmasi langsung dengan anak, pengurus, dan pendamping forum.
 
 # Daftar Pustaka
 

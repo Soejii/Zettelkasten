@@ -38,3 +38,7 @@ Dasar: draf Google Docs kelompok (PDF 39 halaman, `Desa kejapanan_interkom.pdf`)
 2. Sumber rincian RT per pedukuhan dicari. Dokumen Desa Cantik tidak memuat rincian ini, tetapi mencatat 150 RT (Podes 2024), sehingga 3.1 kini menunjukkan pertambahan 132, 150, lalu 152 RT. Laman desa tidak dapat diakses. Keputusan Suji: rincian dibiarkan tanpa sitasi.
 3. Peta Gambar 1 dibiarkan apa adanya.
 4. Balun memang pedukuhan (terkecil). Actor map yang tidak memuat Balun adalah kelalaian. Gambar actor map tidak diubah. Ucup dapat menambahkan Balun bila sempat.
+
+## Penomoran ulang masalah
+
+Masalah dinomori ulang sesuai prioritas akhir agar nomor mengikuti skor: 1 Forum Anak (tetap), 2 Karang Taruna (sebelumnya 4), 3 lintas dusun (sebelumnya 2), 4 peluang baru (sebelumnya 5), 5 musyawarah (sebelumnya 3). Semua rujukan di 5.2, Bab 6, 7.4, dan Gambar 4 disesuaikan. Catatan working lain yang lebih lama masih memakai nomor lama.

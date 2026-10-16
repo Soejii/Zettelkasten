@@ -27,10 +27,10 @@ BONES = [
         "Anak dipandang sebagai objek kegiatan",
     ]),
     ("Lingkungan desa belum menopang", False, False, 1060, [
-        "Kegiatan desa terpusat di wilayah tertentu (M2)",
+        "Kegiatan desa terpusat di wilayah tertentu (M3)",
         "Akses antardusun dinilai cukup jauh",
         "Ruang kumpul anak minim",
-        "Karang Taruna stagnan, forum tanpa mitra (M4)",
+        "Karang Taruna stagnan, forum tanpa mitra (M2)",
     ]),
 ]
 
@@ -74,7 +74,7 @@ a(f'<rect x="40" y="{ly-14}" width="22" height="16" rx="3" fill="#fdecdf" stroke
 a(f'<text x="70" y="{ly}" font-family="{FONT}" font-size="15" fill="{INK}">Kategori akar masalah</text>')
 a(f'<rect x="280" y="{ly-14}" width="22" height="16" rx="3" fill="#e8f0fb" stroke="#3b6fc4" stroke-width="2"/>')
 a(f'<text x="310" y="{ly}" font-family="{FONT}" font-size="15" fill="{INK}">Kategori penyerta</text>')
-a(f'<text x="480" y="{ly}" font-family="{FONT}" font-size="15" fill="{INK}">(M2), (M4) : masalah lain hasil MAP yang berhubungan timbal balik dengan Forum Anak</text>')
+a(f'<text x="480" y="{ly}" font-family="{FONT}" font-size="15" fill="{INK}">(M2), (M3) : masalah lain hasil MAP yang berhubungan timbal balik dengan Forum Anak</text>')
 a('</svg>')
 
 with open(sys.argv[1], "w", encoding="utf-8") as f:
