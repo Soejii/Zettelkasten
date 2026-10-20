@@ -68,7 +68,7 @@ Use only the headings needed by the active assignment, while preserving the info
 Planned | Authorized | Drafted | Revised | Accepted
 ```
 
-The ledger's `Exact support` field contains a concise evidence note or a short quotation needed to verify the planned paraphrase. `Location` records a page, section, table, figure, timestamp, or stable locator. `Access` records the local path, DOI, or stable URL. `Status` distinguishes candidate, accessible, verified, rejected, and needs-user-copy.
+The ledger's `Exact support` field contains a concise evidence note or a short quotation needed to verify the planned paraphrase. `Location` records a page, section, table, figure, timestamp, or stable locator. This is the verification record. Do not copy page locators into the canonical prose unless the required style asks for them, which under APA 7 means direct quotations only. `Access` records the local path, DOI, or stable URL. `Status` distinguishes candidate, accessible, verified, rejected, and needs-user-copy.
 
 Do not use a candidate or `needs-user-copy` entry in final prose.
 

@@ -29,6 +29,7 @@ Read each selected reference completely. Do not load the external-review procedu
 - Use Hound MCP for independent web research. Inspect the exact source before using a substantive claim.
 - If the exact source is inaccessible, ask Suji to obtain it. Replace, narrow, or omit the claim until the source can be inspected.
 - Apply explicit assignment or institutional citation rules first. Use APA 7 only when none are specified.
+- Keep page locators in the working ledger. Under APA 7, the canonical prose cites a paraphrase by author and year only and adds a locator only to a direct quotation.
 - Never use semicolons or em dashes in generated prose or skill-created assignment files. Rewrite the sentence with a suitable conjunction or split it into complete sentences. Do not merely delete punctuation or replace it with a comma.
 - Review formulaic prose through concrete editorial findings. Never use an AI detector score or a generic humanizer.
 - Run external review only on the assembled assignment. Suji chooses the exact Claude or Codex model and effort. Never substitute a model silently.

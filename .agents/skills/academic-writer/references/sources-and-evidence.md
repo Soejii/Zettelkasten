@@ -109,7 +109,7 @@ Before accepting a section:
 - every in-text citation resolves to one reference-list entry.
 - every reference-list entry is cited in the text unless the required style explicitly allows a bibliography.
 - author names, year, title, container, volume, issue, pages, DOI, and URL match the inspected source.
-- page or paragraph locators are present where required.
+- page or paragraph locators appear in the prose only where the style requires them. Under APA 7 that means direct quotations. A paraphrase, definition, or synthesis cites author and year only, and its exact locator stays in the working ledger. In Indonesian prose, a direct quotation's page locator is written "hlm.", as in (Gladding, 2018, hlm. 112).
 - the cited source supports the exact sentence beside it.
 - citations copied from another source have been checked against the original before use.
 
