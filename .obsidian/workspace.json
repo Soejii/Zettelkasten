@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Naskah Presentasi Modul Psikoedukasi.md",
+                "file": "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naskah Presentasi Modul Psikoedukasi"
+              "title": "Proposal Penelitian Scrolling Video Pendek"
+            }
+          },
+          {
+            "id": "680dae8ec53546da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proposal Penelitian Scrolling Video Pendek"
+            }
+          },
+          {
+            "id": "b4612bdf674f464e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/Analisis Video Konseling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Analisis Video Konseling"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,51 +204,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76095ace98901af0",
+  "active": "b4612bdf674f464e",
   "lastOpenFiles": [
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/Pertanyaan dan tujuan.working.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/Analisis Video Konseling.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/working/Analisis Video Konseling/Analisis Video Konseling.working.md.tmp.1628069.704ca16561c3",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/working/Analisis Video Konseling/Analisis Video Konseling.working.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/review-triage.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/review-findings.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/working/Analisis Video Konseling/review-prompt.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/working/Analisis Video Konseling/review-findings.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/review-run.log",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/review-prompt.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Individu Perbandingan Penelitian Fenomenologi dan Studi Kasus.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Individu Perbandingan Penelitian Kuantitatif dan Kualitatif.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Tugas Kelompok Rancangan Penelitian Scrolling Video Pendek.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/Latar belakang.working.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/HANDOFF.md",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/HANDOFF.md.tmp.2513525.7e8ae9319580",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/Pertanyaan dan tujuan.working.md.tmp.2513525.8c73d9fdedd3",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md.tmp.2513525.ad069c042d31",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/sedKorW9z",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/sedAWYsXR",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/Latar belakang.working.md.tmp.2513525.aacf17065a4f",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/working/Proposal Penelitian Scrolling Video Pendek/Latar belakang.working.md.tmp.2513525.86fcd7e36495",
+    "College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md.tmp.2513525.5e4562df49cc",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Konseling/Panduan UTS Psikologi Konseling.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Final Project Modul Psikoedukasi.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Laporan Asesmen APKL, USG, dan Fishbone - Forum Anak Desa Kejapanan.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Gambar 4 - Fishbone Forum Anak Desa Kejapanan.png",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Gambar 3 - Power-Interest Grid Desa Kejapanan.png",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Gambar 2 - Actor Map Desa Kejapanan.png",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Gambar 1 - Peta Kecamatan Gempol.png",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 4.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 6.md",
+    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa.md",
+    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Naskah Presentasi Modul Psikoedukasi.md",
     "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/Tugas 1 Es Teh Jumbo - Catatan Presenter.md",
     "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/Tugas 1 Es Teh Jumbo.md",
     "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/working/Tugas 1 Es Teh Jumbo/Tugas 1 Es Teh Jumbo.working.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/working/Tugas 1 Es Teh Jumbo/Tugas 1 Es Teh Jumbo.working.md.tmp.2135933.61dea8ffaa87",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/working/Tugas 1 Es Teh Jumbo",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Kesehatan/working",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 4.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Naskah Presentasi Modul Psikoedukasi.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Naskah Presentasi Modul Psikoedukasi.md.tmp.3015657.2727d0ea6997",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/working/Final Project Modul Psikoedukasi/Revisi Pasca Presentasi.working.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/working/Final Project Modul Psikoedukasi/Revisi Pasca Presentasi.working.md.tmp.3015657.9cdbc4731e48",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Intervensi Komunitas - 6.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Laporan Asesmen APKL, USG, dan Fishbone - Forum Anak Desa Kejapanan.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa/Tahap 2.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/sedTCWEHK",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md.tmp.3015657.d968099feda2",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md.tmp.3015657.eb0f2f32dfb1",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md.tmp.3015657.07f0941aae45",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Makalah Social Mapping Desa Kejapanan.md.tmp.3015657.c59e2e9c99d1",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/review-triage.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/review-findings.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/review-prompt.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/7.4 Sintesis Fishbone.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/4.5 Interpretasi Struktur Kuasa.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/4.3 Power-Interest Grid.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/1.2 Tujuan Asesmen.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/1.1 Latar Belakang.working.md",
     "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Gambar 2 - Power-Interest Grid Desa Kejapanan.png",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa/Tahap 1.working.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Laporan Asesmen APKL, USG, dan Fishbone - Forum Anak Desa Kejapanan/source-ledger.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Keputusan dan pengingat.md",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Makalah Social Mapping Desa Kejapanan/Makalah Social Mapping Desa Kejapanan.working.md",
     "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Laporan Asesmen APKL, USG, dan Fishbone - Forum Anak Desa Kejapanan/fishbone-forum-anak.svg",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Intervensi Komunitas - 6/source-ledger.md",
     "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/forum-anak-slides/fishbone-forum-anak.svg",
     "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/power-interest-grid.svg",
-    "College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/Rancangan Pelatihan Berbasis TNA UMKM Keripik Desa.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Final Project Modul Psikoedukasi.md",
-    "College 101/Zettelkasten/Literature Notes/Psikologi Edukasi/Program Psikoedukasi Kasus Burnout Budi.md",
     "Pasted image 20260917160000.png",
-    "College 101/Refrences/Pictures/Pasted image 20260202132043.png",
-    "College 101/Assets/WhatsApp Image 2025-10-13 at 07.55.36.jpeg",
-    "College 101/Assets/Characteristics of self-actualizing people.png"
+    "College 101/Refrences/Pictures/Pasted image 20260202132043.png"
   ]
 }
