@@ -67,3 +67,19 @@ Fafnir is `/home/suji/document/college`. Git there is manual. Commit only when S
 - Changes to accepted sections: RQ4 and tujuan keempat in 2d now cover what students do after stopping, not only returning to study. Proposed title added (Indonesian and English). The group may replace it.
 - Metode: criterion 3 now requires having kept scrolling after noticing the overrun. Interviews are at least 60 minutes (Materi 7 PDF 8), with an optional second session.
 - No new sources were needed.
+
+## Update 2026-10-22 (observation and secondary data)
+- Group size confirmed as three, matching the three main participants (Materi 7 PDF 8 requires one participant per member).
+- Metode now follows the data-collection outline in Materi 6 PDF 51: interview with a Tran-style think-aloud demonstration, observation and field notes during interviews (another member as complete observer, with a descriptive and reflective observation sheet), and app screen-time records as secondary data. 3c, 3e, and 3f (method triangulation) adjusted to match.
+- New Fafnir sources (uncommitted): Parry et al. (2021), cited, and Moser & Korstjens (2018, Part 3), ingested as backup and not cited. Parry transcript flags pages 2 and 37 for review, neither cited.
+- References now 25. Primary share 76%, or 80% if Lyngs et al. counts as primary. Recency 24 of 25.
+- The informed consent appendix must mention the think-aloud demonstration and the screen-time request.
+
+## Update 2026-10-22 (appendices)
+- Lampiran 1 (pedoman wawancara) and Lampiran 2 (informed consent) accepted and merged. Working file: `Lampiran.working.md`.
+- The interview guide is top-down from Tran et al. (2019), like the lecturer's example and the Linjur guide. Tema 4 (continuing after noticing) combines the supporting theories because Tran's model does not cover that moment.
+- Interviews take place at a cafe or another agreed place. Researchers buy food and drinks, which is the compensation. Metode 3c and 3d updated to match.
+- The consent states that recordings and verbatim transcripts go to the lecturer for grading (Materi 7 PDF 8).
+- Fafnir: the two lecturer handouts (contoh panduan wawancara, contoh informed consent) were ingested. The consent transcript was manually corrected for non-breaking spaces extracted as "A".
+- Group still needs to fill in: the other two members' names, the contact number, and confirm about 30 minutes for significant-other interviews.
+- Remaining: the abstract (add its heading back above the introduction), then an optional final external review of the whole document.

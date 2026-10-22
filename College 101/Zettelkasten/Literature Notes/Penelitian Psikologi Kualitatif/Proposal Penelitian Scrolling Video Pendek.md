@@ -66,19 +66,23 @@ Setiap partisipan utama diminta mengajukan satu *significant other*, yaitu orang
 
 ### Lokasi penelitian
 
-Penelitian dilaksanakan di lingkungan Universitas Negeri Malang. Wawancara dilakukan secara tatap muka di ruang yang tenang dan disepakati bersama partisipan, misalnya ruang diskusi di kampus. Jika pertemuan tatap muka tidak memungkinkan, wawancara dilakukan melalui panggilan video dengan prosedur yang sama. Catatan pengalaman diisi partisipan di tempat mereka biasa belajar karena pengalaman yang diteliti terjadi dalam situasi belajar sehari-hari.
+Partisipan adalah mahasiswa Universitas Negeri Malang, dan pengambilan data berlangsung di sekitar Kota Malang. Wawancara dilakukan secara tatap muka di kafe atau tempat lain yang disepakati bersama partisipan. Suasana yang santai diharapkan membuat partisipan lebih nyaman bercerita, sedangkan sudut dan waktu yang relatif tenang dipilih agar percakapan tidak mudah didengar orang lain dan rekaman tetap jelas. Jika pertemuan tatap muka tidak memungkinkan, wawancara dilakukan melalui panggilan video dengan prosedur yang sama. Catatan pengalaman diisi partisipan di tempat mereka biasa belajar karena pengalaman yang diteliti terjadi dalam situasi belajar sehari-hari.
 
 ### Teknik pengumpulan data
 
-Data dikumpulkan melalui wawancara mendalam dengan partisipan utama, wawancara dengan *significant other*, serta catatan lapangan dan catatan reflektif peneliti. Catatan pengalaman tiga hari dipakai untuk membantu wawancara dan tidak dianalisis sebagai data.
+Data dikumpulkan melalui wawancara mendalam dengan partisipan utama yang memuat demonstrasi *think-aloud*, wawancara dengan *significant other*, observasi dan catatan lapangan, serta data sekunder berupa catatan waktu penggunaan aplikasi. Catatan pengalaman tiga hari dipakai untuk membantu wawancara dan tidak dianalisis sebagai data.
 
 **Catatan pengalaman.** Selama tiga hari sebelum wawancara, partisipan utama membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada niatnya. Catatan memuat niat awal, saat mereka menyadari waktu yang telah terpakai, apa yang dirasakan dan dipikirkan, serta apakah mereka melanjutkan atau berhenti. Catatan ini berfungsi sebagai pemicu ingatan agar wawancara dapat bertumpu pada kejadian yang konkret dan masih segar. Kegiatan mencatat dapat membuat partisipan lebih memperhatikan lamanya jeda selama tiga hari tersebut. Karena itu, catatan tidak dianalisis sebagai data tersendiri, dan wawancara juga menanyakan jeda yang terjadi sebelum periode pencatatan. Jika selama tiga hari tidak ada jeda yang melampaui niat, wawancara bertumpu pada kejadian terakhir yang masih diingat partisipan.
 
 **Wawancara mendalam.** Wawancara semiterstruktur dengan partisipan utama dilakukan setelah periode pencatatan, berlangsung minimal 60 menit dan dapat dilanjutkan pada sesi kedua jika cerita partisipan belum tergali seluruhnya, direkam dengan izin partisipan, dan ditranskripsi secara verbatim. Pedoman wawancara disusun mengikuti empat rumusan masalah, yaitu awal jeda dan niat yang menyertainya, munculnya kesadaran bahwa jeda melampaui niat, pertimbangan untuk tetap melanjutkan, serta cara berhenti dan apa yang dilakukan sesudahnya, termasuk ketika partisipan tidak kembali belajar. Aspek-aspek dari model Tran et al. (2019) dan ketiga teori pendukung diterjemahkan menjadi pertanyaan terbuka, misalnya tentang apa yang terjadi sebelum aplikasi dibuka atau apa yang membuat partisipan akhirnya menutupnya. Pertanyaan tersebut menjadi arah penggalian, sedangkan cerita partisipan menentukan urutan dan kedalaman wawancara. Pedoman wawancara lengkap terdapat pada lampiran.
 
+**Demonstrasi *think-aloud*.** Di tengah wawancara, partisipan diminta memperagakan cara mereka biasanya menggunakan TikTok atau Instagram Reels saat jeda belajar pada ponselnya sendiri sambil menuturkan apa yang mereka pikirkan dan rasakan. Prosedur ini mengadaptasi demonstrasi penggunaan ponsel dengan teknik *think-aloud* pada Tran et al. (2019), yaitu partisipan memperagakan penggunaan aplikasi yang dilakukan karena kebiasaan sambil menjelaskannya, lalu peneliti mengajukan pertanyaan lanjutan. Pewawancara menanyakan hal-hal yang muncul selama demonstrasi, misalnya saat partisipan ragu atau berkata ingin menonton satu video lagi. Layar ponsel tidak direkam, sehingga yang terekam hanya tuturan partisipan. Tuturan selama demonstrasi menjadi bagian dari transkrip wawancara, tetapi ditafsirkan dengan mempertimbangkan bahwa demonstrasi tersebut bukan jeda yang sebenarnya.
+
 **Wawancara dengan *significant other*.** Wawancara semiterstruktur yang lebih singkat dilakukan dengan setiap *significant other* tentang kebiasaan jeda belajar partisipan utama yang mereka amati, termasuk berapa lama jeda biasanya berlangsung dan bagaimana partisipan biasanya berhenti atau melanjutkan *scrolling*. Karena *significant other* hanya dapat mengamati perilaku yang tampak, wawancara ini tidak menanyakan apa yang dirasakan atau dipikirkan partisipan utama.
 
-**Catatan lapangan dan catatan reflektif.** Peneliti mencatat situasi wawancara, ekspresi partisipan, dan hal yang menonjol selama pengambilan data. Peneliti juga menulis catatan reflektif tentang praduga dan pengalaman pribadinya terkait *scrolling* video pendek, sebelum pengambilan data dimulai dan setelah setiap wawancara.
+**Observasi dan catatan lapangan.** Observasi dilakukan selama setiap sesi wawancara oleh anggota kelompok lain yang berperan sebagai pengamat lengkap, yaitu tidak ikut bertanya dan tidak terlibat dalam percakapan. Pengamat memakai lembar observasi yang memuat dua jenis catatan. Catatan deskriptif merekam latar tempat wawancara dan suasana sekitarnya, cara partisipan memperlakukan ponselnya selama wawancara, ekspresi dan bahasa tubuh, jeda atau keraguan saat partisipan bercerita, serta perilaku selama demonstrasi *think-aloud*. Catatan reflektif merekam reaksi, dugaan, dan pertanyaan pengamat sendiri. Catatan lapangan dilengkapi segera setelah sesi berakhir agar rinciannya tidak hilang. Selain itu, setiap anggota kelompok menulis catatan reflektif tentang praduga dan pengalaman pribadinya terkait *scrolling* video pendek, sebelum pengambilan data dimulai dan setelah setiap wawancara.
+
+**Data sekunder.** Data sekunder berupa catatan waktu penggunaan TikTok atau Instagram Reels selama tiga hari periode pencatatan, yang tersedia pada fitur pemantau waktu di aplikasi atau di ponsel partisipan. Partisipan sendiri yang membuka dan menunjukkan catatan tersebut saat wawancara, lalu peneliti mencatat durasi penggunaan harian dan, jika fitur ponsel menyediakannya, rincian per jam. Data ini dikumpulkan karena perkiraan orang tentang lamanya penggunaan media digital jarang sesuai dengan catatan penggunaan yang terekam (Parry et al., 2021). Perbandingan antara niat awal pada catatan pengalaman, perkiraan partisipan, dan catatan waktu penggunaan dipakai sebagai bahan pertanyaan dalam wawancara, terutama untuk rumusan masalah kedua. Data ini tidak dipakai untuk mengukur adiksi atau menilai wajar tidaknya lama penggunaan.
 
 ### Teknik analisis data
 
@@ -90,13 +94,13 @@ Transkrip wawancara partisipan utama dianalisis dengan langkah IPA yang mengikut
 4. Tema dari ketiga partisipan dihimpun dalam satu tabel dan dibandingkan untuk menemukan persamaan dan perbedaannya.
 5. Hasil perbandingan disusun menjadi narasi temuan yang disertai kutipan partisipan.
 
-Setiap transkrip dikode oleh dua anggota kelompok secara terpisah, lalu perbedaan penafsiran dirundingkan sampai disepakati. Cara ini dipilih karena perhitungan keandalan pengodean secara kuantitatif kurang sesuai untuk IPA (Karhulahti et al., 2022). Data *significant other* dianalisis terpisah, lalu dibandingkan dengan tema partisipan utama pada aspek perilaku yang dapat diamati. Perbandingan ini dipakai untuk keabsahan data dan tidak membentuk tema baru tentang pengalaman batin partisipan. Catatan pengalaman dan catatan lapangan dipakai untuk memahami konteks setiap cerita.
+Setiap transkrip dikode oleh dua anggota kelompok secara terpisah, lalu perbedaan penafsiran dirundingkan sampai disepakati. Cara ini dipilih karena perhitungan keandalan pengodean secara kuantitatif kurang sesuai untuk IPA (Karhulahti et al., 2022). Data *significant other* dianalisis terpisah, lalu dibandingkan dengan tema partisipan utama pada aspek perilaku yang dapat diamati. Perbandingan ini dipakai untuk keabsahan data dan tidak membentuk tema baru tentang pengalaman batin partisipan. Catatan pengalaman, catatan lapangan, dan catatan waktu penggunaan dipakai untuk memahami konteks setiap cerita.
 
 ### Keabsahan data
 
 Keabsahan data dijaga melalui empat kriteria mutu penelitian kualitatif, yaitu kredibilitas, transferabilitas, dependabilitas, dan konfirmabilitas, ditambah refleksivitas (Korstjens & Moser, 2018).
 
-Kredibilitas menyangkut apakah temuan merupakan informasi yang masuk akal dari data asli partisipan dan merupakan penafsiran yang tepat atas pandangan mereka (Korstjens & Moser, 2018). Kriteria ini dijaga melalui triangulasi sumber dan *member checking*. Triangulasi sumber dilakukan dengan membandingkan penuturan partisipan utama dengan pengamatan *significant other*, serupa dengan Karhulahti et al. (2022) yang mewawancarai kelompok lain untuk memperoleh pandangan dari luar terhadap data fenomenologis utama. Triangulasi ini terbatas pada perilaku yang tampak, seperti lamanya jeda dan cara partisipan berhenti. Perbedaan antara kedua penuturan tidak dianggap sebagai kesalahan partisipan utama, tetapi dicatat sebagai bahan penafsiran. *Member checking* dilakukan dengan menyampaikan tafsiran sementara secara tertulis kepada setiap partisipan utama dan memberi kesempatan untuk menanggapinya. Seperti pada Karhulahti et al. (2022), tanggapan partisipan diperlakukan sebagai data reflektif tambahan, bukan sebagai pengesahan akhir atas tafsiran peneliti.
+Kredibilitas menyangkut apakah temuan merupakan informasi yang masuk akal dari data asli partisipan dan merupakan penafsiran yang tepat atas pandangan mereka (Korstjens & Moser, 2018). Kriteria ini dijaga melalui triangulasi sumber, triangulasi metode, dan *member checking*. Triangulasi sumber dilakukan dengan membandingkan penuturan partisipan utama dengan pengamatan *significant other*, serupa dengan Karhulahti et al. (2022) yang mewawancarai kelompok lain untuk memperoleh pandangan dari luar terhadap data fenomenologis utama. Triangulasi ini terbatas pada perilaku yang tampak, seperti lamanya jeda dan cara partisipan berhenti. Perbedaan antara kedua penuturan tidak dianggap sebagai kesalahan partisipan utama, tetapi dicatat sebagai bahan penafsiran. Triangulasi metode dilakukan dengan membandingkan penuturan partisipan dengan catatan lapangan dan catatan waktu penggunaan, karena kredibilitas dapat diperkuat dengan memakai lebih dari satu sumber data dan metode pengumpulan data (Korstjens & Moser, 2018). Selisih antara perkiraan partisipan dan catatan waktu penggunaan tidak dianggap sebagai ketidakjujuran, tetapi ditelusuri sebagai bagian dari pengalaman yang diteliti. *Member checking* dilakukan dengan menyampaikan tafsiran sementara secara tertulis kepada setiap partisipan utama dan memberi kesempatan untuk menanggapinya. Seperti pada Karhulahti et al. (2022), tanggapan partisipan diperlakukan sebagai data reflektif tambahan, bukan sebagai pengesahan akhir atas tafsiran peneliti.
 
 Transferabilitas menyangkut sejauh mana hasil penelitian dapat dialihkan ke konteks lain, dan hal ini didukung oleh deskripsi tebal (*thick description*) (Korstjens & Moser, 2018). Laporan penelitian akan menggambarkan karakteristik partisipan, situasi belajar, platform yang digunakan, dan konteks setiap jeda secara rinci agar pembaca dapat menilai kesesuaian temuan dengan konteks mereka sendiri.
 
@@ -142,6 +146,8 @@ Nawaz, S., Linden, T., Mitchell, M., & Bhowmik, J. (2026). Examining effectual, 
 
 Neubauer, B. E., Witkop, C. T., & Varpio, L. (2019). How phenomenology can help us learn from the experiences of others. *Perspectives on Medical Education, 8*(2), 90–97. https://doi.org/10.1007/s40037-019-0509-2
 
+Parry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. *Nature Human Behaviour, 5*(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5
+
 Rixen, J. O., Meinhardt, L.-M., Glöckler, M., Ziegenbein, M.-L., Schlothauer, A., Colley, M., Rukzio, E., & Gugenheimer, J. (2023). The loop and reasons to break it: Investigating infinite scrolling behaviour in social media applications and reasons to stop. *Proceedings of the ACM on Human-Computer Interaction, 7*(MHCI), Article 228. https://doi.org/10.1145/3604275
 
 Tang, Y., & He, W. (2025). Impact of social media addiction on college students' academic procrastination: A chain mediated effect of lack of self-control and fear of missing out. *Frontiers in Psychology, 16*, Article 1668567. https://doi.org/10.3389/fpsyg.2025.1668567
@@ -155,3 +161,235 @@ Yan, T., Su, C., Xue, W., Hu, Y., & Zhou, H. (2024). Mobile phone short video us
 Zhai, K., Guo, Y., & Wang, L. (2026). The influence of short-video usage on prospective memory under different cue type conditions. *Behavioral Sciences, 16*(6), Article 904. https://doi.org/10.3390/bs16060904
 
 ## Lampiran
+
+### Lampiran 1. Pedoman wawancara
+
+Pedoman wawancara ini disusun dengan model siklus keterlibatan dan penghentian (*engagement-disengagement cycle*) dari Tran et al. (2019) sebagai teori utama. Tema 2, 3, 5, dan 6 mengikuti aspek-aspek model tersebut. Tema 4 memadukan aspek dari teori pendukung, yaitu teori kegagalan regulasi diri (Baumeister & Heatherton, 1996), model sistem ganda (Lyngs et al., 2019), dan teori kebiasaan (Anderson & Wood, 2021), karena model Tran tidak menguraikan pertimbangan pengguna yang tetap melanjutkan setelah menyadari lamanya waktu yang terpakai.
+
+Pedoman ini memandu secara umum jalannya wawancara. Urutan dan rumusan pertanyaan dapat disesuaikan dengan jawaban partisipan, dan pewawancara dapat mengajukan pertanyaan baru di luar daftar ini. Pertanyaan bercetak tebal di awal setiap tema adalah pertanyaan utama (*grand question*), sedangkan pertanyaan dalam tabel adalah pertanyaan pendalaman (*probing*). Sub tema tidak dibacakan kepada partisipan dan tidak harus ditemukan dalam jawaban.
+
+#### A. Wawancara partisipan utama
+
+**Pembukaan (sebelum perekaman)**
+
+1. Memperkenalkan diri dan pengamat, mempersilakan partisipan memesan makanan dan minuman, lalu berbincang ringan untuk membangun suasana yang nyaman.
+2. Menjelaskan kembali tujuan dan jalannya wawancara, termasuk demonstrasi *think-aloud* dan permintaan menunjukkan catatan waktu penggunaan aplikasi.
+3. Memastikan lembar persetujuan keikutsertaan telah ditandatangani dan meminta izin untuk mulai merekam suara.
+4. Menyampaikan bahwa tidak ada jawaban yang benar atau salah, dan partisipan boleh tidak menjawab pertanyaan apa pun.
+5. Meminta partisipan menyiapkan catatan pengalaman tiga hari dan ponselnya.
+
+**Tema 1. Profil partisipan**
+
+Pertanyaan utama: **Dapatkah Anda menceritakan tentang diri Anda dan bagaimana biasanya Anda belajar atau mengerjakan tugas?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Identitas | Berapa usia Anda, dan di program studi serta angkatan berapa Anda kuliah saat ini? |
+| Kebiasaan belajar | Kapan dan di mana Anda biasanya belajar atau mengerjakan tugas? |
+| Pengaturan waktu | Bagaimana Anda biasanya mengatur waktu belajar dan waktu istirahat? |
+| Penggunaan video pendek | Sejak kapan Anda menggunakan TikTok atau Instagram Reels, dan untuk apa biasanya Anda membukanya? |
+| Jenis konten | Konten seperti apa yang paling sering Anda tonton? |
+| Aktivitas jeda | Apa saja yang biasanya Anda lakukan ketika beristirahat dari belajar? |
+| Penilaian umum | Bagaimana Anda menggambarkan peran video pendek dalam keseharian Anda sebagai mahasiswa? |
+
+**Tema 2. Siklus penggunaan jangka pendek: pemicu memulai**
+
+Pertanyaan utama: **Dapatkah Anda menceritakan salah satu jeda belajar yang berlangsung lebih lama daripada yang Anda niatkan, mulai dari sebelum Anda membuka aplikasi?** (Partisipan dapat melihat catatan pengalaman yang telah dibuatnya.)
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Waktu senggang (*downtime*) | Apa yang sedang terjadi dengan waktu Anda saat itu, misalnya sedang menunggu sesuatu atau baru menyelesaikan satu bagian tugas? |
+| Tugas yang membosankan (*tedious task*) | Bagaimana keadaan tugas yang sedang Anda kerjakan ketika Anda memutuskan beristirahat? |
+| Kecanggungan sosial (*social awkwardness*) | Siapa saja yang ada di sekitar Anda saat itu, dan bagaimana keberadaan mereka memengaruhi keinginan Anda membuka ponsel? |
+| Antisipasi (*anticipation*) | Adakah sesuatu yang Anda tunggu atau ingin Anda lihat ketika membuka aplikasi? |
+| Dorongan tanpa alasan yang jelas | Bagaimana Anda sampai membuka aplikasi tersebut? Apakah hal itu terasa sebagai pilihan, atau Anda baru menyadarinya setelah aplikasi terbuka? |
+| Niat awal | Pada saat itu, berapa lama Anda berniat beristirahat, dan apa yang ingin Anda dapatkan dari jeda tersebut? |
+
+**Tema 3. Siklus penggunaan jangka pendek: menyadari lamanya waktu (*30-minute ick factor*)**
+
+Pertanyaan utama: **Bagaimana Anda menyadari bahwa jeda tersebut sudah berlangsung lebih lama daripada yang Anda niatkan?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Munculnya kesadaran | Apa yang membuat Anda menyadarinya, misalnya melihat jam, konten tertentu, atau hal lain di sekitar Anda? |
+| Rasa tidak puas | Apa yang Anda rasakan pada saat itu? |
+| Tugas yang menunggu | Apa yang terlintas di pikiran Anda tentang tugas yang sedang menunggu? |
+| Perkiraan waktu | Menurut perkiraan Anda saat itu, berapa lama Anda sudah menonton? Bagaimana tanggapan Anda setelah membandingkannya dengan catatan waktu penggunaan? |
+| Niat yang teringat kembali | Selama menonton, apakah niat untuk kembali belajar masih teringat? Bagaimana niat itu muncul kembali? |
+| Variasi | Apakah kesadaran itu selalu muncul dengan cara yang sama pada jeda-jeda yang lain? |
+
+**Tema 4. Pertimbangan untuk tetap melanjutkan (aspek teori pendukung)**
+
+Pertanyaan utama: **Setelah menyadari bahwa jeda sudah melampaui niat, apa yang terjadi sehingga Anda tetap melanjutkan *scrolling*?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Tujuan belajar dan dorongan saat itu | Apa saja yang Anda pertimbangkan pada saat itu? |
+| Nilai upaya mengendalikan diri | Bagaimana Anda menimbang antara berhenti saat itu dan melanjutkan sebentar lagi? |
+| Inersia | Apakah ada ungkapan yang Anda katakan kepada diri sendiri, misalnya "satu video lagi" atau "sekalian saja"? Bagaimana ungkapan itu memengaruhi Anda? |
+| Keterlibatan aktif (*acquiescence*) | Sejauh mana Anda merasa keputusan untuk melanjutkan itu merupakan pilihan Anda sendiri? |
+| Kebiasaan yang tetap berjalan | Apakah melanjutkan terasa seperti sesuatu yang terjadi begitu saja? Dapatkah Anda menggambarkannya? |
+| Pemaknaan keputusan | Ketika mengingatnya sekarang, bagaimana Anda memaknai keputusan untuk melanjutkan tersebut? |
+
+**Tema 5. Siklus penggunaan jangka pendek: pemicu mengakhiri**
+
+Pertanyaan utama: **Dapatkah Anda menceritakan bagaimana akhirnya Anda berhenti *scrolling* dan apa yang Anda lakukan setelahnya?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Tuntutan kegiatan lain (*competing demands*) | Adakah kegiatan atau kewajiban lain yang akhirnya membuat Anda berhenti? |
+| Konten berulang (*recycled content*) | Bagaimana konten yang muncul menjelang Anda berhenti, misalnya mulai terasa berulang atau tidak menarik lagi? |
+| Cara berhenti | Bagaimana Anda menutup aplikasi, misalnya langsung atau sedikit demi sedikit? |
+| Sesudah berhenti | Apa yang Anda lakukan setelah menutup aplikasi? |
+| Kembali atau tidak kembali belajar | Jika Anda kembali belajar, bagaimana rasanya memulai lagi? Jika tidak, apa yang terjadi kemudian? |
+| Perasaan setelahnya | Bagaimana perasaan Anda tentang jeda tersebut setelah semuanya selesai? |
+
+**Tema 6. Siklus refleksi jangka panjang**
+
+Pertanyaan utama: **Ketika melihat kembali jeda-jeda seperti ini, bagaimana Anda menilai penggunaan video pendek selama jeda belajar Anda?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Kebermaknaan | Menurut Anda, adakah bagian dari jeda tersebut yang terasa bermanfaat atau bermakna? |
+| Keterhubungan dengan kehidupan di luar aplikasi | Apakah yang Anda tonton terasa berhubungan dengan hal lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan? |
+| Penilaian yang berulang | Bagaimana penilaian Anda tentang jeda seperti ini berubah dari waktu ke waktu? |
+| Perubahan perilaku | Apakah pengalaman seperti ini pernah membuat Anda mengubah cara beristirahat? |
+| Membatasi atau menghapus aplikasi | Pernahkah Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu? Apa yang mendorong Anda melakukannya? |
+| Jeda yang diharapkan | Seperti apa jeda belajar yang menurut Anda ideal? |
+
+**Tema 7. Demonstrasi *think-aloud***
+
+Pertanyaan utama: **Sekarang saya ingin meminta Anda menunjukkan cara Anda biasanya menggunakan TikTok atau Instagram Reels saat beristirahat dari belajar. Silakan buka aplikasinya seperti biasa dan ceritakan apa yang Anda pikirkan atau rasakan sambil menggunakannya.** (Prosedur mengadaptasi Tran et al., 2019. Layar ponsel tidak direkam.)
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Membuka aplikasi | Apa yang biasanya Anda lakukan pertama kali setelah aplikasi terbuka? |
+| Memilih konten | Bagaimana Anda memutuskan untuk menonton sebuah video sampai habis atau menggeser ke video berikutnya? |
+| Momen ragu | Tadi Anda berhenti sejenak di video itu. Apa yang sedang Anda pikirkan? |
+| Kesadaran waktu | Pada saat seperti ini, kapan biasanya Anda mulai memikirkan waktu? |
+| Menutup aplikasi | Seandainya ini jeda belajar yang sebenarnya, kapan dan bagaimana biasanya Anda menutupnya? |
+| Perbandingan | Apa perbedaan antara demonstrasi tadi dan jeda belajar Anda yang sebenarnya? |
+
+**Penutup**
+
+1. Adakah hal lain tentang pengalaman jeda belajar Anda yang belum kita bicarakan dan ingin Anda sampaikan?
+2. Bagaimana perasaan Anda setelah menceritakan pengalaman ini?
+3. Mengonfirmasi kesediaan partisipan untuk dihubungi kembali jika diperlukan sesi lanjutan dan untuk membaca ringkasan tafsiran awal.
+4. Mengingatkan rencana wawancara dengan *significant other* yang telah diajukan.
+5. Mengucapkan terima kasih.
+
+#### B. Wawancara *significant other*
+
+**Pembukaan (sebelum perekaman)**
+
+1. Memperkenalkan diri, mempersilakan *significant other* memesan makanan dan minuman, menjelaskan tujuan wawancara, dan memastikan lembar persetujuan telah ditandatangani.
+2. Menyampaikan bahwa pertanyaan hanya menyangkut kebiasaan yang pernah dilihat secara langsung, bukan perasaan atau pikiran partisipan utama.
+3. Meminta izin untuk mulai merekam suara.
+
+**Tema 1. Hubungan dengan partisipan utama**
+
+Pertanyaan utama: **Dapatkah Anda menceritakan hubungan Anda dengan [nama partisipan]?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Lama mengenal | Sudah berapa lama Anda mengenal [nama partisipan]? |
+| Bentuk hubungan | Dalam hubungan seperti apa Anda mengenalnya, misalnya sebagai teman sekamar atau sahabat? |
+| Frekuensi interaksi | Seberapa sering Anda berinteraksi dengannya? |
+| Situasi bersama | Dalam situasi apa saja Anda biasanya bersamanya, terutama ketika ia sedang belajar? |
+| Gambaran umum | Bagaimana Anda menggambarkan kebiasaan belajarnya secara umum? |
+
+**Tema 2. Kebiasaan jeda belajar yang diamati**
+
+Pertanyaan utama: **Apa yang biasanya Anda lihat ketika [nama partisipan] beristirahat dari belajar?**
+
+| Sub tema | Pertanyaan pendalaman |
+|---|---|
+| Aktivitas jeda | Apa saja yang biasanya ia lakukan saat beristirahat? |
+| Penggunaan video pendek | Seberapa sering Anda melihatnya membuka TikTok atau Instagram Reels saat jeda? |
+| Lama jeda | Menurut pengamatan Anda, berapa lama biasanya jeda tersebut berlangsung? |
+| Tetap melanjutkan | Pernahkah Anda melihatnya tetap menonton meskipun ia sudah berkata akan kembali belajar? Dapatkah Anda menceritakan contohnya? |
+| Cara berhenti | Bagaimana biasanya ia berhenti, misalnya karena diingatkan, karena ada keperluan lain, atau dengan sendirinya? |
+| Sesudah jeda | Apa yang biasanya ia lakukan setelah berhenti menonton? |
+
+**Penutup**
+
+1. Adakah hal lain tentang kebiasaan jeda belajar [nama partisipan] yang ingin Anda sampaikan?
+2. Mengucapkan terima kasih.
+
+### Lampiran 2. Lembar penjelasan dan persetujuan keikutsertaan (*informed consent*)
+
+#### Lembar penjelasan kepada calon partisipan
+
+Kami tim peneliti yang terdiri dari (1) Rafi Mahadika Sujianto, (2) ……………………, dan (3) …………………… dari Fakultas Psikologi Universitas Negeri Malang akan melakukan penelitian yang berjudul "Melanjutkan atau Menghentikan *Scrolling*: Pengalaman Mahasiswa ketika Jeda Belajar dengan Video Pendek Melampaui Niat". Penelitian ini merupakan tugas mata kuliah Penelitian Psikologi Kualitatif.
+
+Penelitian ini bertujuan memahami pengalaman mahasiswa ketika jeda belajar dengan menonton video pendek di TikTok atau Instagram Reels berlangsung lebih lama daripada yang diniatkan, termasuk bagaimana mahasiswa memutuskan untuk melanjutkan atau menghentikan *scrolling*. Penelitian ini tidak menilai baik atau buruknya kebiasaan Anda dan tidak bertujuan mendiagnosis kecanduan.
+
+**A. Kesukarelaan untuk ikut penelitian**
+
+Anda bebas memilih untuk ikut atau tidak ikut dalam penelitian ini tanpa paksaan. Bila Anda sudah memutuskan untuk ikut, Anda tetap bebas mengundurkan diri atau berubah pikiran setiap saat tanpa dikenai sanksi apa pun. Anda juga boleh tidak menjawab pertanyaan tertentu dan boleh menolak demonstrasi penggunaan aplikasi atau permintaan menunjukkan catatan waktu penggunaan tanpa harus mengundurkan diri.
+
+**B. Prosedur penelitian**
+
+Apabila Anda bersedia berpartisipasi, Anda diminta menandatangani lembar persetujuan ini rangkap dua, satu untuk Anda simpan dan satu untuk peneliti.
+
+Bagi partisipan utama, prosedur selanjutnya adalah sebagai berikut.
+
+1. Selama tiga hari, membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada yang Anda niatkan. Catatan memuat niat awal, saat Anda menyadari waktu yang telah terpakai, apa yang Anda rasakan dan pikirkan, serta apakah Anda melanjutkan atau berhenti.
+2. Mengikuti wawancara mendalam selama minimal 60 menit, yang dapat dilanjutkan pada sesi kedua bila diperlukan. Wawancara dilakukan di kafe atau tempat lain yang disepakati bersama, atau melalui panggilan video. Suara selama wawancara direkam.
+3. Di tengah wawancara, memperagakan cara Anda biasanya menggunakan TikTok atau Instagram Reels pada ponsel Anda sendiri sambil menceritakan apa yang Anda pikirkan. Layar ponsel Anda tidak direkam.
+4. Menunjukkan catatan waktu penggunaan TikTok atau Instagram Reels selama tiga hari pencatatan dari fitur pemantau waktu di aplikasi atau ponsel Anda. Anda sendiri yang membuka catatan tersebut, dan peneliti hanya mencatat durasi penggunaannya.
+5. Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya.
+6. Mengajukan satu orang terdekat (*significant other*), misalnya teman sekamar atau sahabat. Orang tersebut hanya dihubungi setelah Anda menyetujuinya.
+7. Membaca dan menanggapi ringkasan tafsiran awal peneliti atas cerita Anda.
+
+Bagi *significant other*, prosedur selanjutnya adalah mengikuti wawancara singkat selama sekitar 30 menit di kafe atau tempat lain yang disepakati bersama tentang kebiasaan jeda belajar partisipan utama yang pernah Anda lihat secara langsung. Suara selama wawancara direkam. Anda tidak akan ditanya tentang perasaan atau pikiran partisipan utama.
+
+**C. Kewajiban partisipan penelitian**
+
+Sebagai partisipan penelitian, Anda diharapkan mengikuti prosedur penelitian seperti yang tertulis di atas. Bila ada yang belum jelas, Anda dapat bertanya lebih lanjut kepada peneliti.
+
+**D. Risiko, efek samping, dan penanganannya**
+
+Penelitian ini tidak menimbulkan risiko fisik. Menceritakan jeda belajar yang berlangsung lebih lama daripada rencana dapat memunculkan rasa tidak nyaman, misalnya rasa bersalah karena tugas yang tertunda. Peneliti tidak akan menilai atau menghakimi cerita Anda, dan Anda dapat meminta wawancara dihentikan sementara atau diakhiri kapan saja. Karena wawancara dapat berlangsung di tempat umum seperti kafe, peneliti memilih sudut yang relatif tenang, dan Anda dapat meminta pindah tempat bila merasa percakapan mudah didengar orang lain. Untuk menjaga privasi, ponsel tetap berada di tangan Anda selama demonstrasi dan saat menunjukkan catatan waktu penggunaan, layar tidak direkam, dan peneliti tidak mencatat isi pesan, akun, atau konten pribadi Anda. Bila Anda membutuhkan dukungan, peneliti akan memberikan informasi tentang layanan konseling yang dapat diakses mahasiswa.
+
+**E. Manfaat**
+
+Keikutsertaan dalam penelitian ini memberi kesempatan kepada Anda untuk merefleksikan kebiasaan jeda belajar Anda sendiri. Hasil penelitian diharapkan dapat menjadi masukan bagi layanan bimbingan dan konseling di perguruan tinggi dalam membantu mahasiswa mengelola waktu belajar.
+
+**F. Kerahasiaan**
+
+Semua informasi yang berkaitan dengan identitas Anda akan dirahasiakan. Nama Anda diganti dengan nama samaran dalam laporan penelitian. Rekaman suara, transkrip, catatan lapangan, catatan pengalaman, dan catatan waktu penggunaan disimpan oleh tim peneliti dan hanya digunakan untuk penelitian ini. Sebagai bagian dari penilaian mata kuliah, rekaman suara dan transkrip verbatim wawancara akan diserahkan kepada dosen pengampu mata kuliah Penelitian Psikologi Kualitatif dan tidak dibagikan kepada pihak lain. Keterangan yang Anda berikan tidak disampaikan kepada partisipan lain.
+
+**G. Kompensasi**
+
+Sebagai tanda terima kasih, peneliti akan menjamu Anda dengan makanan dan minuman selama wawancara.
+
+**H. Pembiayaan**
+
+Semua biaya yang terkait dengan penelitian ini, termasuk makanan dan minuman selama wawancara, ditanggung oleh peneliti.
+
+**I. Informasi tambahan**
+
+Anda diberi kesempatan untuk menanyakan semua hal yang belum jelas sehubungan dengan penelitian ini. Bila sewaktu-waktu Anda membutuhkan penjelasan lebih lanjut, Anda dapat menghubungi …………………… pada nomor ……………………
+
+#### Persetujuan keikutsertaan dalam penelitian
+
+Semua penjelasan tersebut telah disampaikan kepada saya dan semua pertanyaan saya telah dijawab oleh peneliti. Dengan menandatangani formulir ini, saya setuju untuk ikut serta dalam penelitian ini sebagai (beri tanda pada salah satu):
+
+- [ ] partisipan utama
+- [ ] *significant other*
+
+Saya juga menyatakan kesediaan saya terhadap hal-hal berikut (beri tanda pada yang disetujui):
+
+- [ ] Suara saya direkam selama wawancara.
+- [ ] Rekaman suara dan transkrip verbatim wawancara diserahkan kepada dosen pengampu mata kuliah sebagai bagian penilaian.
+- [ ] Memperagakan penggunaan TikTok atau Instagram Reels selama wawancara (khusus partisipan utama).
+- [ ] Menunjukkan catatan waktu penggunaan aplikasi selama tiga hari pencatatan (khusus partisipan utama).
+
+| Nama partisipan | Tanggal | Tanda tangan |
+|---|---|---|
+| | | |
+
+| Nama peneliti | Tanggal | Tanda tangan |
+|---|---|---|
+| | | |
