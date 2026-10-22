@@ -72,7 +72,7 @@ Isi slide
 
 - Komponen
 - Pada kasus (anekdot)
-- Temuan penelitian
+- Temuan [[Tugas 1 Es Teh Jumbo - Catatan Presenter]]penelitian
 - Sikap
 - “Segar, menghilangkan haus waktu panas”
 - Minuman manis dipilih karena dianggap menghilangkan haus dan terasa segar bila disajikan dingin (Akhriani dkk., 2016, dalam Buwana, 2023)
