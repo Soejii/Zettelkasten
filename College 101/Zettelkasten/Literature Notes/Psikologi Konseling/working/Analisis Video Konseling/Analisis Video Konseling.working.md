@@ -57,6 +57,7 @@ Merged into the canonical file `../../Analisis Video Konseling.md` because Suji 
 - Editorial pass done. Semicolons in two parenthetical double citations were rewritten as narrative citations. No em dashes.
 - External review: codex gpt-6-astra, effort low, 2026-10-20. Triage and outcome in `review-triage.md`. Timed captions in session scratchpad `caps/cap.en.json3`.
 - 2026-10-20, Suji's decision: page locators were removed from all 30 book citations in the canonical file because every book citation is a paraphrase. The page numbers remain in the source ledger above. Video timestamps stay because they mark direct quotations.
+- 2026-10-20, Suji's request: plain-language pass on the whole canonical file. Shorter sentences, everyday vocabulary ("pacar", "dugaan", "cara pandang"), no change to claims, citations, or quotes. Heading 3.2 renamed "Teknik Khusus Pendekatan Psikodinamika". All quotes rechecked against the transcript.
 
 ## Status
 Revised after external review (awaiting Suji's acceptance)
