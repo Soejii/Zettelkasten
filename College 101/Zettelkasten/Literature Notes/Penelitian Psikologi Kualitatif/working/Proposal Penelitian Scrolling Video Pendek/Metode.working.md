@@ -1,0 +1,132 @@
+# Working: Metode (3a sampai 3f)
+
+## Assignment context
+- Assignment: UTS, proposal penelitian psikologi kualitatif (tugas kelompok). Lihat `Latar belakang.working.md` untuk konteks lengkap.
+- Komponen: Materi 7 hlm. 4, Metode (a) jenis dan pendekatan, (b) karakteristik partisipan dan cara merekrut, (c) lokasi, (d) teknik pengumpulan data, (e) teknik analisis data, (f) keabsahan data.
+- Section owner: anggota kelompok menulis draf awal (jenis penelitian, partisipan, sumber data, teknik analisis). Suji memberi otorisasi pada 22 Oktober 2026 untuk menulis ulang seluruhnya. Kelompok perlu diberi catatan perubahan.
+
+## Confirmed document decisions (22 Oktober 2026)
+- Desain: fenomenologi hermeneutik dengan IPA, menggantikan fenomenologi deskriptif, Colaizzi, dan *bracketing* pada draf kelompok. Alasan: Tran et al. (2019) dipakai untuk menyusun pedoman wawancara, dan hal itu bertentangan dengan *bracketing*. Keputusan ini sejalan dengan keputusan Suji pada 20 Oktober 2026.
+- Catatan pengalaman tiga hari hanya pemicu ingatan dan tidak dianalisis sebagai data. Ada rencana cadangan jika tidak ada jeda yang melampaui niat selama tiga hari.
+- *Significant other* dipertahankan (sesuai format triangulasi pada Materi 6), tetapi triangulasi dibatasi pada perilaku yang tampak.
+- Subjudul 3a sampai 3f dipakai karena Materi 7 menyebut setiap komponen.
+- Slide dosen tidak dikutip. Kriteria keabsahan dikutip dari Korstjens dan Moser (2018), sumber yang juga dipakai Materi 6.
+
+## Decisions taken as defaults (perlu dikonfirmasi kelompok)
+- Lokasi wawancara: tatap muka di ruang yang disepakati di kampus UM, dengan panggilan video sebagai cadangan.
+- Formulir penyaringan singkat untuk kriteria 3.
+- Pengodean oleh dua anggota kelompok secara terpisah untuk setiap transkrip, lalu dirundingkan.
+- Identitas partisipan disamarkan dalam laporan.
+
+## Section contract
+- Rhetorical job: menunjukkan rancangan yang konsisten dari desain sampai keabsahan, sehingga setiap pilihan metode dapat dipertanggungjawabkan terhadap desain hermeneutik dan keempat rumusan masalah.
+- Required progression: 3a desain dan alasannya, 3b partisipan dan perekrutan, 3c lokasi, 3d teknik pengumpulan data, 3e analisis IPA yang mencakup keempat rumusan masalah, 3f keabsahan menurut kriteria Korstjens dan Moser.
+- Boundary: pendahuluan, rumusan masalah, dan lampiran tidak diubah. Pedoman wawancara dan *informed consent* ditulis terpisah sebagai lampiran.
+- Completion condition: keenam komponen Materi 7 ada, tidak ada pertentangan antara desain dan penggunaan teori, analisis mencakup keempat rumusan masalah, setiap klaim metodologis terpetakan ke ledger.
+
+## Source ledger
+Lokator "PDF" adalah urutan halaman PDF pada Fafnir. Nomor halaman cetak disertakan bila berbeda.
+
+| ID | Claim or use | Source | Exact support | Location | Access | Status |
+|---|---|---|---|---|---|---|
+| M1 | Fenomenologi transendental menuntut peneliti menyisihkan subjektivitas (*bracketing*). Fenomenologi hermeneutik memandang pengalaman sebagai proses penafsiran dalam dunia hidup, peneliti tidak bebas prasangka | Neubauer et al. (2019) | Tabel perbandingan: "Bracket researcher subjectivity" dan "Observer is part of the world and not bias free" | PDF 3 (hlm. 92) | Fafnir `sources/papers/how phenomenology can help us ...` | verified |
+| M2 | Dalam fenomenologi hermeneutik, teori membantu memfokuskan penelitian, menentukan partisipan, cara menjawab pertanyaan, dan memahami temuan | Neubauer et al. (2019) | "theories can help to focus inquiry, to make decisions about research participants, and the way research questions can be addressed ... can also be used to help understand the findings" | PDF 6 (hlm. 95) | idem | verified |
+| M3 | IPA idiografis: setiap partisipan dianalisis sebagai kasus tersendiri | Karhulahti et al. (2022) | "We conducted idiographic coding" dan "All participants were analyzed as individual cases" | PDF 7 | Fafnir `sources/papers/phenomenological strands for gaming disorder ...` | verified |
+| M4 | Hermeneutika ganda | Karhulahti et al. (2022) | "a double hermeneutic dialogue in which the researchers interpreted the interviewee who, in turn, interpreted their own experience(s)" | PDF 7 | idem | verified |
+| M5 | Sampel IPA kecil dan homogen, untuk memahami bagaimana suatu jenis pengalaman dialami secara pribadi, bukan sampel acak atau representatif. Rekomendasi N = 1 sampai 15 | Karhulahti et al. (2022) | "samples are recommended to be small and homogenous ... sample size recommendations differ between N=1 and N=15 per topic ... it is not helpful to think in terms of random or representative sampling" | PDF 4 | idem | verified |
+| M6 | Pengodean idiografis, kode dikelompokkan menjadi tema dan tema superordinat, hubungan lintas partisipan dihimpun dalam tabel | Karhulahti et al. (2022) | "clustered the codes into themes and superordinate themes. The initial structural connections across participants were collected into a table-based iterative document" | PDF 7 | idem | verified |
+| M7 | Struktur tema dibandingkan untuk menilai persamaan dan perbedaan | Karhulahti et al. (2022) | "meta-tables of both groups were compared to assess their similarities and differences" | PDF 7 | idem | verified |
+| M8 | Dua pengode merundingkan kesepakatan karena keandalan pengodean kuantitatif kurang sesuai untuk IPA | Karhulahti et al. (2022) | "Because quantitative coding reliability is suboptimal in IPA, the coders negotiated agreement" | PDF 7 | idem | verified |
+| M9 | Wawancara dengan kelompok luar memberi pandangan "dari luar" untuk triangulasi data fenomenologis utama | Karhulahti et al. (2022) | "provides us a view 'from the outside' and thus enabled triangulating the primary phenomenological data" | PDF 5 | idem | verified |
+| M10 | *Member checking* dengan menyampaikan tafsiran sementara secara tertulis, tanggapan diperlakukan sebagai data reflektif lanjutan | Karhulahti et al. (2022) | "providing ... our tentative interpretations in written format ... We took the commentary into consideration as reflective follow-up data" | PDF 26 | idem | verified |
+| M11 | Kriteria mutu: kredibilitas, transferabilitas, dependabilitas, konfirmabilitas, ditambah refleksivitas | Korstjens & Moser (2018) | "The quality criteria for all qualitative research are credibility, transferability, dependability, and confirmability. In addition, reflexivity is an integral part" | PDF 1 (hlm. 120) | Fafnir `sources/papers/series: practical guidance to qualitative research. part 4 ... (korstjens & moser, 2018)` | verified |
+| M12 | Definisi kredibilitas | Korstjens & Moser (2018) | "whether the research findings represent plausible information drawn from the participants' original data and is a correct interpretation of the participants' original views" | PDF 2 (hlm. 121), Box 1 | idem | verified |
+| M13 | Transferabilitas dan *thick description* | Korstjens & Moser (2018) | "The degree to which the results ... can be transferred to other contexts ... through thick description" | PDF 2 (hlm. 121), Box 1 | idem | verified |
+| M14 | Dependabilitas (konsistensi dengan standar desain), konfirmabilitas (netralitas, tafsiran berakar pada data), *audit trail* | Korstjens & Moser (2018) | "check whether the analysis process is in line with the accepted standards for a particular design ... The interpretation should not be based on your own particular preferences ... known as an audit trail" | PDF 3 (hlm. 122) | idem | verified |
+| M15 | Refleksivitas: sadar akan peran sendiri dalam pengumpulan, analisis, penafsiran, dan praduga yang dibawa. Data dilengkapi catatan reflektif | Korstjens & Moser (2018) | "being self-aware and reflexive about your own role in the process of collecting, analysing and interpreting the data, and in the pre-conceived assumptions ... supplemented with your reflexive notes" | PDF 4 (hlm. 123) | idem | verified |
+| M16 | Triangulasi dan *member check* sebagai strategi kredibilitas | Korstjens & Moser (2018) | Box 2: "Credibility: Prolonged engagement, Persistent observation, Triangulation, Member check" | PDF 2 (hlm. 121) | idem | verified |
+
+Nizza et al. (2021) juga sudah diingest ke Fafnir pada 22 Oktober 2026, tetapi tidak dikutip. Klaim yang dibutuhkan sudah tercakup oleh Karhulahti et al. (2022), sumber primer, sehingga rasio studi primer tidak turun.
+
+## Evidence gaps
+- Tidak ada. Smith et al. (2022) tidak dapat diakses, dan langkah analisis disandarkan pada penerapan IPA oleh Karhulahti et al. (2022).
+
+## Argument plan
+- 3a: desain hermeneutik (M1, M2) karena teori dipakai untuk pedoman wawancara. IPA (M3, M4). Batas: bukan uji kausal, bukan diagnosis adiksi.
+- 3b: kriteria dari draf kelompok dipertahankan. Purposif, kecil dan homogen (M5). Penyaringan kriteria 3. *Significant other* dihubungi atas persetujuan partisipan utama. *Informed consent*, nama samaran.
+- 3c: UM, tatap muka dengan cadangan daring.
+- 3d: catatan pengalaman sebagai pemicu ingatan dengan rencana cadangan. Wawancara mendalam mengikuti keempat rumusan masalah dengan teori sebagai arah penggalian. Wawancara *significant other* terbatas pada perilaku yang tampak. Catatan lapangan dan catatan reflektif.
+- 3e: langkah IPA (M6, M7, M8) yang mencakup keempat bagian rangkaian. Data *significant other* dipakai untuk keabsahan.
+- 3f: lima kriteria (M11 sampai M16) dengan strategi konkret untuk masing-masing.
+
+## Draft
+
+### Jenis dan pendekatan penelitian
+
+Penelitian ini menggunakan pendekatan kualitatif dengan desain fenomenologi hermeneutik. Desain ini dipilih karena penelitian hendak memahami bagaimana mahasiswa mengalami dan memaknai jeda belajar yang melampaui niat awal, mulai dari saat membuka aplikasi sampai menghentikan *scrolling* dan sesudahnya. Berbeda dari fenomenologi transendental yang menuntut peneliti menyisihkan subjektivitasnya selama pengumpulan dan analisis data, fenomenologi hermeneutik memandang pengalaman sebagai proses penafsiran yang melekat pada dunia hidup seseorang dan mengakui bahwa peneliti tidak dapat sepenuhnya bebas dari prasangka (Neubauer et al., 2019). Dalam pendekatan ini, teori dapat membantu memfokuskan penelitian, menentukan partisipan, merumuskan cara menjawab pertanyaan penelitian, dan memahami temuan (Neubauer et al., 2019). Karena itu, model Tran et al. (2019) dan ketiga teori pendukung dapat dipakai untuk menyusun pedoman wawancara tanpa bertentangan dengan desain penelitian.
+
+Data dianalisis dengan *interpretative phenomenological analysis* (IPA). IPA bersifat idiografis karena setiap partisipan dianalisis sebagai kasus tersendiri sebelum dibandingkan dengan partisipan lain. IPA juga melibatkan hermeneutika ganda, yaitu peneliti menafsirkan partisipan yang sedang menafsirkan pengalamannya sendiri (Karhulahti et al., 2022).
+
+### Karakteristik partisipan dan cara merekrut
+
+Penelitian ini melibatkan tiga partisipan utama dan tiga *significant other*. Partisipan utama adalah mahasiswa aktif program sarjana Universitas Negeri Malang yang memenuhi kriteria berikut.
+
+1. Berusia minimal 18 tahun.
+2. Menggunakan TikTok atau Instagram Reels saat jeda belajar atau jeda mengerjakan tugas. Penggunaan kedua platform sekaligus tidak disyaratkan.
+3. Pernah tetap melanjutkan *scrolling* setelah menyadari bahwa jeda belajar telah berlangsung lebih lama daripada yang diniatkan.
+4. Bersedia membuat catatan pengalaman selama tiga hari dan mengikuti wawancara.
+
+Partisipan dipilih secara purposif. Dalam IPA, sampel dianjurkan kecil dan homogen karena tujuannya adalah memahami bagaimana suatu jenis pengalaman dialami secara pribadi, bukan mewakili populasi (Karhulahti et al., 2022). Rekomendasi jumlah partisipan dalam IPA berkisar antara satu sampai lima belas orang untuk satu topik (Karhulahti et al., 2022). Tiga partisipan utama memungkinkan setiap pengalaman ditelaah secara mendalam sebelum dibandingkan.
+
+Perekrutan dilakukan melalui pengumuman di media sosial dan grup angkatan di lingkungan Universitas Negeri Malang. Calon partisipan mengisi formulir penyaringan singkat yang menanyakan platform yang mereka gunakan saat jeda belajar, apakah jeda mereka pernah melampaui niat, dan apakah mereka pernah tetap melanjutkan *scrolling* setelah menyadarinya. Kriteria ketiga memastikan bahwa setiap partisipan memiliki pengalaman yang ditanyakan rumusan masalah ketiga. Calon partisipan yang juga pernah langsung berhenti begitu menyadari waktu tetap dapat diikutsertakan, dan jeda semacam itu ditelusuri dalam wawancara sebagai pembanding. Kesesuaian dengan kriteria dipastikan kembali melalui percakapan pribadi sebelum wawancara dijadwalkan.
+
+Setiap partisipan utama diminta mengajukan satu *significant other*, yaitu orang terdekat seperti teman sekamar, sahabat, atau pasangan yang sering berinteraksi dengannya dan mengetahui kebiasaan belajar serta penggunaan video pendeknya. *Significant other* dihubungi hanya setelah partisipan utama menyetujuinya dan harus bersedia diwawancarai. Seluruh partisipan menerima lembar penjelasan penelitian dan menandatangani lembar persetujuan keikutsertaan (*informed consent*) sebelum pengambilan data. Identitas partisipan disamarkan dalam laporan penelitian.
+
+### Lokasi penelitian
+
+Penelitian dilaksanakan di lingkungan Universitas Negeri Malang. Wawancara dilakukan secara tatap muka di ruang yang tenang dan disepakati bersama partisipan, misalnya ruang diskusi di kampus. Jika pertemuan tatap muka tidak memungkinkan, wawancara dilakukan melalui panggilan video dengan prosedur yang sama. Catatan pengalaman diisi partisipan di tempat mereka biasa belajar karena pengalaman yang diteliti terjadi dalam situasi belajar sehari-hari.
+
+### Teknik pengumpulan data
+
+Data dikumpulkan melalui wawancara mendalam dengan partisipan utama, wawancara dengan *significant other*, serta catatan lapangan dan catatan reflektif peneliti. Catatan pengalaman tiga hari dipakai untuk membantu wawancara dan tidak dianalisis sebagai data.
+
+**Catatan pengalaman.** Selama tiga hari sebelum wawancara, partisipan utama membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada niatnya. Catatan memuat niat awal, saat mereka menyadari waktu yang telah terpakai, apa yang dirasakan dan dipikirkan, serta apakah mereka melanjutkan atau berhenti. Catatan ini berfungsi sebagai pemicu ingatan agar wawancara dapat bertumpu pada kejadian yang konkret dan masih segar. Kegiatan mencatat dapat membuat partisipan lebih memperhatikan lamanya jeda selama tiga hari tersebut. Karena itu, catatan tidak dianalisis sebagai data tersendiri, dan wawancara juga menanyakan jeda yang terjadi sebelum periode pencatatan. Jika selama tiga hari tidak ada jeda yang melampaui niat, wawancara bertumpu pada kejadian terakhir yang masih diingat partisipan.
+
+**Wawancara mendalam.** Wawancara semiterstruktur dengan partisipan utama dilakukan setelah periode pencatatan, berlangsung minimal 60 menit dan dapat dilanjutkan pada sesi kedua jika cerita partisipan belum tergali seluruhnya, direkam dengan izin partisipan, dan ditranskripsi secara verbatim. Pedoman wawancara disusun mengikuti empat rumusan masalah, yaitu awal jeda dan niat yang menyertainya, munculnya kesadaran bahwa jeda melampaui niat, pertimbangan untuk tetap melanjutkan, serta cara berhenti dan apa yang dilakukan sesudahnya, termasuk ketika partisipan tidak kembali belajar. Aspek-aspek dari model Tran et al. (2019) dan ketiga teori pendukung diterjemahkan menjadi pertanyaan terbuka, misalnya tentang apa yang terjadi sebelum aplikasi dibuka atau apa yang membuat partisipan akhirnya menutupnya. Pertanyaan tersebut menjadi arah penggalian, sedangkan cerita partisipan menentukan urutan dan kedalaman wawancara. Pedoman wawancara lengkap terdapat pada lampiran.
+
+**Wawancara dengan *significant other*.** Wawancara semiterstruktur yang lebih singkat dilakukan dengan setiap *significant other* tentang kebiasaan jeda belajar partisipan utama yang mereka amati, termasuk berapa lama jeda biasanya berlangsung dan bagaimana partisipan biasanya berhenti atau melanjutkan *scrolling*. Karena *significant other* hanya dapat mengamati perilaku yang tampak, wawancara ini tidak menanyakan apa yang dirasakan atau dipikirkan partisipan utama.
+
+**Catatan lapangan dan catatan reflektif.** Peneliti mencatat situasi wawancara, ekspresi partisipan, dan hal yang menonjol selama pengambilan data. Peneliti juga menulis catatan reflektif tentang praduga dan pengalaman pribadinya terkait *scrolling* video pendek, sebelum pengambilan data dimulai dan setelah setiap wawancara.
+
+### Teknik analisis data
+
+Transkrip wawancara partisipan utama dianalisis dengan langkah IPA yang mengikuti penerapan Karhulahti et al. (2022).
+
+1. Setiap transkrip dibaca berulang kali untuk memperoleh pemahaman menyeluruh tentang cerita partisipan.
+2. Peneliti melakukan pengodean idiografis dengan menandai bagian transkrip yang menggambarkan pengalaman dan pemaknaan partisipan pada keempat bagian rangkaian jeda, yaitu niat awal, munculnya kesadaran, pertimbangan untuk melanjutkan, serta cara berhenti dan apa yang terjadi sesudahnya.
+3. Kode dari setiap partisipan dikelompokkan menjadi tema dan tema superordinat sebelum analisis beralih ke partisipan berikutnya.
+4. Tema dari ketiga partisipan dihimpun dalam satu tabel dan dibandingkan untuk menemukan persamaan dan perbedaannya.
+5. Hasil perbandingan disusun menjadi narasi temuan yang disertai kutipan partisipan.
+
+Setiap transkrip dikode oleh dua anggota kelompok secara terpisah, lalu perbedaan penafsiran dirundingkan sampai disepakati. Cara ini dipilih karena perhitungan keandalan pengodean secara kuantitatif kurang sesuai untuk IPA (Karhulahti et al., 2022). Data *significant other* dianalisis terpisah, lalu dibandingkan dengan tema partisipan utama pada aspek perilaku yang dapat diamati. Perbandingan ini dipakai untuk keabsahan data dan tidak membentuk tema baru tentang pengalaman batin partisipan. Catatan pengalaman dan catatan lapangan dipakai untuk memahami konteks setiap cerita.
+
+### Keabsahan data
+
+Keabsahan data dijaga melalui empat kriteria mutu penelitian kualitatif, yaitu kredibilitas, transferabilitas, dependabilitas, dan konfirmabilitas, ditambah refleksivitas (Korstjens & Moser, 2018).
+
+Kredibilitas menyangkut apakah temuan merupakan informasi yang masuk akal dari data asli partisipan dan merupakan penafsiran yang tepat atas pandangan mereka (Korstjens & Moser, 2018). Kriteria ini dijaga melalui triangulasi sumber dan *member checking*. Triangulasi sumber dilakukan dengan membandingkan penuturan partisipan utama dengan pengamatan *significant other*, serupa dengan Karhulahti et al. (2022) yang mewawancarai kelompok lain untuk memperoleh pandangan dari luar terhadap data fenomenologis utama. Triangulasi ini terbatas pada perilaku yang tampak, seperti lamanya jeda dan cara partisipan berhenti. Perbedaan antara kedua penuturan tidak dianggap sebagai kesalahan partisipan utama, tetapi dicatat sebagai bahan penafsiran. *Member checking* dilakukan dengan menyampaikan tafsiran sementara secara tertulis kepada setiap partisipan utama dan memberi kesempatan untuk menanggapinya. Seperti pada Karhulahti et al. (2022), tanggapan partisipan diperlakukan sebagai data reflektif tambahan, bukan sebagai pengesahan akhir atas tafsiran peneliti.
+
+Transferabilitas menyangkut sejauh mana hasil penelitian dapat dialihkan ke konteks lain, dan hal ini didukung oleh deskripsi tebal (*thick description*) (Korstjens & Moser, 2018). Laporan penelitian akan menggambarkan karakteristik partisipan, situasi belajar, platform yang digunakan, dan konteks setiap jeda secara rinci agar pembaca dapat menilai kesesuaian temuan dengan konteks mereka sendiri.
+
+Dependabilitas menyangkut konsistensi proses analisis dengan standar desain yang dipakai, sedangkan konfirmabilitas menyangkut netralitas, yaitu bahwa tafsiran berakar pada data dan bukan pada preferensi peneliti (Korstjens & Moser, 2018). Kedua kriteria ini dijaga melalui jejak audit (*audit trail*) berupa rekaman, transkrip, dokumen pengodean, tabel tema, dan catatan keputusan selama penelitian.
+
+Refleksivitas menuntut peneliti menyadari perannya dalam pengumpulan, analisis, dan penafsiran data, serta praduga yang dibawanya ke dalam penelitian (Korstjens & Moser, 2018). Karena desain hermeneutik tidak menuntut peneliti menyisihkan prasangkanya, refleksivitas dijalankan melalui catatan reflektif yang ditulis sejak sebelum pengambilan data. Catatan itu dipakai untuk memeriksa apakah suatu tafsiran lebih banyak bersumber dari pengalaman peneliti sendiri daripada dari penuturan partisipan.
+
+## Revision and review notes
+- Revisi setelah review eksternal 2 (22 Oktober 2026), temuan 1, 2, 4, dan 8: kriteria 3 dan formulir penyaringan memastikan pengalaman tetap melanjutkan setelah sadar, wawancara minimal 60 menit dengan kemungkinan sesi kedua, rangkaian diperluas sampai apa yang terjadi sesudah berhenti, dan pengulangan tujuan di 3a dihapus. Lihat `review-2-triage.md`.
+- Draf kelompok diganti seluruhnya. Perubahan utama: fenomenologi deskriptif, Colaizzi (1978), dan *bracketing* diganti dengan fenomenologi hermeneutik, IPA, dan refleksivitas. Ditambahkan 3c Lokasi dan 3f Keabsahan data. Langkah analisis kini mencakup keempat rumusan masalah (draf kelompok hanya mencakup keputusan melanjutkan atau berhenti). Catatan pengalaman dikembalikan ke fungsi pemicu ingatan dan diberi rencana cadangan. Klaim triangulasi *significant other* dibatasi pada perilaku yang tampak. Paragraf "data sekunder" dihapus karena BPS, APJII, dan literatur bukan data penelitian. Formulir penyaringan ditambahkan untuk kriteria 3. Titik koma pada daftar kriteria dihilangkan.
+- Isi draf kelompok yang dipertahankan: kriteria partisipan, jumlah partisipan, peran dan cara memilih *significant other*, durasi dan perekaman wawancara, pedoman wawancara mengikuti empat rumusan masalah, catatan lapangan, *member checking*, pernyataan bahwa penelitian tidak menguji kausalitas atau adiksi.
+- Audit editorial internal: tidak ada titik koma atau tanda pisah panjang. Rentang durasi ditulis "45 sampai 60 menit".
+
+## Status
+Accepted (22 Oktober 2026) and merged into the canonical file.
