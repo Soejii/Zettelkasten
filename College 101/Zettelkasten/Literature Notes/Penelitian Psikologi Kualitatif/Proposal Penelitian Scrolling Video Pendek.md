@@ -2,6 +2,20 @@
 
 *Keep Scrolling or Stop: Students' Experiences When Short-Video Study Breaks Exceed Their Intentions*
 
+Rafi Mahadika Sujianto, ……………………, dan ……………………
+
+Fakultas Psikologi, Universitas Negeri Malang
+
+E-mail korespondensi: ……………………
+
+**Abstract.** Checking social media is a common study-break activity among students, and short videos on TikTok and Instagram Reels are the most accessed entertainment content in Indonesia. A break intended to be brief can last longer than planned. Several studies have linked short-video or social media use with academic procrastination, but few have described what students experience after realising a break has exceeded their intention. This study aims to understand that experience, from the initial intention and the moment of noticing, through the decision to keep scrolling, to stopping and what follows. The study uses a qualitative hermeneutic phenomenological design. Participants are three purposively selected undergraduates who have kept scrolling after such a realisation, plus three people close to them. Data will be collected through a three-day diary as a memory aid, in-depth semi-structured interviews with a think-aloud demonstration, observation, and screen-time records. The engagement-disengagement cycle model of phone use guides the interview questions. Data will be analysed with interpretative phenomenological analysis, and trustworthiness will rest on source and method triangulation and member checking. The study is expected to describe the decision to continue or stop from students' perspective and to inform counselling services that help students manage study time.
+
+*Keywords*: *hermeneutic phenomenology, scrolling, short-form video, study breaks, university students*
+
+**Abstrak.** Memeriksa media sosial termasuk kegiatan jeda belajar yang umum bagi mahasiswa, dan video pendek di TikTok dan Instagram Reels merupakan konten hiburan yang paling sering diakses di Indonesia. Jeda yang semula diniatkan singkat dapat berlangsung lebih lama daripada rencana. Sejumlah penelitian menghubungkan penggunaan video pendek atau media sosial dengan prokrastinasi akademik, tetapi belum banyak yang menggambarkan apa yang dialami mahasiswa setelah menyadari jedanya telah melampaui niat. Penelitian ini bertujuan memahami pengalaman tersebut, dari niat awal dan munculnya kesadaran akan waktu sampai pertimbangan untuk tetap melanjutkan *scrolling*, cara berhenti, dan apa yang dilakukan sesudahnya. Penelitian kualitatif ini menggunakan desain fenomenologi hermeneutik. Partisipan adalah tiga mahasiswa sarjana yang dipilih secara purposif karena pernah tetap melanjutkan *scrolling* setelah menyadarinya, serta tiga orang terdekat mereka. Data akan dikumpulkan melalui catatan pengalaman tiga hari sebagai pemicu ingatan, wawancara mendalam semiterstruktur dengan demonstrasi *think-aloud*, observasi, dan catatan waktu penggunaan aplikasi. Model siklus keterlibatan dan penghentian penggunaan ponsel menjadi lensa penyusunan pedoman wawancara. Data akan dianalisis dengan *interpretative phenomenological analysis*, dan keabsahannya dijaga melalui triangulasi sumber dan metode serta *member checking*. Penelitian ini diharapkan menggambarkan keputusan melanjutkan atau berhenti dari sudut pandang mahasiswa sendiri dan menjadi masukan bagi layanan konseling dalam mendampingi mahasiswa mengelola waktu belajar.
+
+*Kata kunci*: *fenomenologi hermeneutik, jeda belajar, mahasiswa, scrolling, video pendek*
+
 Video pendek kini menjadi salah satu bentuk hiburan digital yang paling dekat dengan keseharian pengguna internet di Indonesia. Data Survei Sosial Ekonomi Nasional 2024 mencatat bahwa 72,78% penduduk Indonesia berusia 5 tahun ke atas mengakses internet dalam tiga bulan terakhir, meningkat dari 62,10% pada 2021 (Badan Pusat Statistik, 2025). Generasi Z, yaitu kelompok kelahiran 1997 sampai 2012 yang mencakup rentang usia mahasiswa saat ini, menjadi penyumbang pengguna internet terbesar dengan proporsi 34,49% (Badan Pusat Statistik, 2025). Penggunaan internet juga didominasi tujuan hiburan (85,29%) dan media sosial (77,57%), sedangkan pembelajaran daring hanya mencapai 9,96% (Badan Pusat Statistik, 2025). Pada tingkat jenis konten, survei Asosiasi Penyelenggara Jasa Internet Indonesia (2026) terhadap 8.700 responden di 38 provinsi menempatkan video pendek daring, seperti TikTok, Instagram Reels, dan YouTube Shorts, sebagai konten hiburan yang paling sering diakses (29,5%), termasuk pada Generasi Z berusia 13 sampai 28 tahun (28,4%). Angka-angka tersebut menggambarkan luasnya paparan, tetapi tidak menjelaskan bagaimana penggunaan itu berlangsung dalam situasi sehari-hari, misalnya ketika mahasiswa membuka aplikasi di sela kegiatan belajar.
 
 Situasi jeda belajar perlu mendapat perhatian tersendiri karena media sosial termasuk pengisi jeda yang paling umum. Dalam survei terhadap 116 mahasiswa sarjana di Amerika Serikat, 95 mahasiswa menyatakan memeriksa media sosial saat beristirahat dari belajar, sehingga kegiatan ini menjadi aktivitas jeda terbanyak kedua setelah makan (Hamilton & Stachowski, 2025). Jeda semacam itu tidak otomatis merugikan. Wawancara Hossain et al. (2024) dengan 20 mahasiswa sarjana menunjukkan bahwa jeda media sosial dapat menjadi sarana pemulihan, tetapi dapat pula berubah menjadi prokrastinasi, bergantung pada faktor motivasional dan lingkungan yang menyertai awal dan jalannya jeda. Persoalannya muncul ketika jeda tidak berakhir sesuai rencana. Dalam jawaban terbuka pada penelitian Hamilton dan Stachowski (2025), 37 mahasiswa menyebut jeda yang berlangsung lebih lama atau lebih sering daripada yang diniatkan sebagai kekurangan jeda, sedangkan 22 mahasiswa menyebut jeda dapat membuat mereka tidak kembali menyelesaikan tugas.
@@ -14,7 +28,7 @@ Pertanyaan tentang bagaimana keputusan tersebut dialami dan dimaknai tidak dapat
 
 Untuk memetakan apa yang telah diketahui tentang penggunaan video pendek di sekitar kegiatan belajar, lima belas artikel empiris yang terbit antara 2019 dan 2026 ditelaah. Tujuh artikel merupakan survei, empat merupakan studi laboratorium, dan empat lainnya berbasis wawancara atau studi lapangan. Tujuh artikel berasal dari Tiongkok, tiga dari Amerika Serikat, masing-masing satu dari Jerman dan Arab Saudi, sedangkan tiga artikel tidak menyebutkan negara partisipannya. Tidak satu pun dari kelima belas artikel itu melaporkan partisipan dari Indonesia, sehingga studi fenomenologis Agustin et al. (2026) yang dibahas sebelumnya tetap menjadi satu-satunya penelitian empiris dari konteks Indonesia yang dirujuk dalam proposal ini.
 
-Sebagian besar survei menghubungkan penggunaan video pendek atau media sosial yang bermasalah dengan hasil akademik yang kurang baik. Selain temuan Xie et al. (2023) serta Liu dan Li (2024) yang telah diuraikan sebelumnya, Tang dan He (2025) menemukan hubungan antara penggunaan media sosial yang bermasalah dan prokrastinasi akademik pada 825 mahasiswa di Tiongkok, dengan kurangnya kontrol diri dan *fear of missing out* (FoMO) sebagai jalur perantara yang diuji. BoJulaia dan Pilotti (2026) menemukan bahwa penggunaan media sosial yang bermasalah berkaitan dengan indeks prestasi yang lebih rendah pada 456 mahasiswi tahun pertama di Arab Saudi. Survei lain menyoroti faktor yang menyertai penggunaan tersebut. Liu et al. (2025) menemukan bahwa fokus pada masa lalu dan masa kini berkaitan positif dengan kecenderungan adiksi video pendek, sedangkan fokus pada masa depan berkaitan negatif. Huang et al. (2022) menemukan bahwa kemudahan berinteraksi dengan aplikasi berkaitan secara tidak langsung dengan penggunaan yang bermasalah melalui pengalaman *flow*, sementara rekomendasi algoritmik tidak berkaitan positif dengan *flow*. Karena memakai desain survei, temuan tersebut menunjukkan keterkaitan, bukan urutan sebab-akibat. Variabel seperti FoMO, kontrol diri, dan orientasi waktu juga diukur sebagai skor kecenderungan, sehingga tidak menggambarkan bagaimana hal-hal itu hadir dalam satu jeda tertentu.
+Sebagian besar survei menghubungkan penggunaan video pendek atau media sosial yang bermasalah dengan hasil akademik yang kurang baik. Selain temuan Xie et al. (2023) serta Liu dan Li (2024) yang telah diuraikan sebelumnya, Tang dan He (2025) menemukan hubungan antara penggunaan media sosial yang bermasalah dan prokrastinasi akademik pada 825 mahasiswa di Tiongkok, dengan kurangnya kontrol diri dan *fear of missing out* (FoMO) sebagai jalur perantara yang diuji. BoJulaia dan Pilotti (2026) menemukan bahwa penggunaan media sosial yang bermasalah berkaitan dengan indeks prestasi yang lebih rendah pada 456 mahasiswi tahun pertama di Arab Saudi. Survei lain menyoroti faktor yang menyertai penggunaan tersebut. Liu et al. (2025) menemukan bahwa fokus pada masa lalu dan masa kini berkaitan positif dengan kecenderungan adiksi video pendek, sedangkan fokus pada masa depan berkaitan negatif. Huang et al. (2022) menemukan bahwa kemudahan berinteraksi dengan aplikasi berkaitan secara tidak langsung dengan penggunaan yang bermasalah melalui pengalaman *flow*, sementara rekomendasi algoritmik tidak berkaitan secara signifikan dengan *flow* setelah faktor lain dalam model diperhitungkan. Karena memakai desain survei, temuan tersebut menunjukkan keterkaitan, bukan urutan sebab-akibat. Variabel seperti FoMO, kontrol diri, dan orientasi waktu juga diukur sebagai skor kecenderungan, sehingga tidak menggambarkan bagaimana hal-hal itu hadir dalam satu jeda tertentu.
 
 Studi laboratorium menyoroti apa yang terjadi pada perhatian dan niat selama atau setelah menonton video pendek. Chiossi et al. (2023) menemukan bahwa selingan dengan TikTok menurunkan kemampuan peserta untuk mengingat dan menjalankan tindakan yang telah direncanakan, sedangkan selingan dengan Twitter, YouTube, atau tanpa aktivitas tidak menunjukkan efek serupa. Zhai et al. (2026) menemukan bahwa, dibandingkan menonton video panjang, menonton video pendek dalam waktu lama menurunkan ketepatan memori prospektif tanpa mengganggu tugas utama, meskipun efek itu melemah ketika petunjuk yang harus diingat hanya satu. Yan et al. (2024) menemukan bahwa kecenderungan penggunaan video pendek yang lebih tinggi berkaitan dengan indikator neural kontrol eksekutif yang lebih rendah. Kim et al. (2026) memperlihatkan sisi sebaliknya, yaitu bahwa petunjuk visual yang mengembalikan perhatian peserta pada dirinya sendiri dapat memutus sesi menonton tanpa tujuan. Kelompok studi ini mengisyaratkan bahwa niat untuk kembali belajar dapat melemah selama jeda dan bahwa kesadaran dapat dipicu dari luar. Namun, tugas laboratorium yang singkat tidak sama dengan jeda belajar sehari-hari, dan ukuran kinerja tidak menjelaskan bagaimana mahasiswa mengalami saat niatnya terlupa atau teringat kembali.
 
@@ -34,12 +48,12 @@ Berdasarkan uraian tersebut, rumusan masalah dalam penelitian ini adalah sebagai
 
 1. Bagaimana mahasiswa memulai jeda belajar dengan membuka aplikasi video pendek, dan apa niat awal yang menyertainya?
 2. Bagaimana mahasiswa mengalami munculnya kesadaran bahwa jeda telah melampaui niat awal?
-3. Bagaimana mahasiswa menimbang dan memaknai keputusan untuk tetap melanjutkan *scrolling* setelah kesadaran tersebut muncul?
+3. Bagaimana mahasiswa mengalami dan memaknai keputusan untuk tetap melanjutkan *scrolling* setelah kesadaran tersebut muncul?
 4. Bagaimana mahasiswa menghentikan *scrolling*, dan apa yang mereka lakukan sesudahnya?
 
-Penelitian ini bertujuan memahami pengalaman mahasiswa ketika jeda belajar dengan menonton video pendek di TikTok atau Instagram Reels, yang semula diniatkan "sebentar saja", ternyata berlangsung lebih lama daripada rencana. Pengalaman itu ditelusuri sebagai satu rangkaian. Pertama, penelitian ini menggambarkan alasan mahasiswa membuka aplikasi dan berapa lama mereka berniat menggunakannya. Kedua, penelitian ini memahami bagaimana mahasiswa menyadari bahwa jeda telah melampaui niat tersebut dan apa yang mereka rasakan pada saat itu. Ketiga, bagi mahasiswa yang tetap melanjutkan *scrolling*, penelitian ini menelusuri apa yang mereka timbang dan bagaimana mereka memaknai keputusan itu. Keempat, penelitian ini menggambarkan cara mahasiswa akhirnya menghentikan *scrolling* dan apa yang mereka lakukan sesudahnya, baik kembali belajar maupun tidak. Penelitian ini tidak menguji apakah video pendek menyebabkan prokrastinasi dan tidak mengandaikan bahwa partisipan mengalami adiksi. Yang hendak digambarkan adalah bagaimana keputusan untuk melanjutkan atau berhenti dialami dari sudut pandang mahasiswa sendiri.
+Penelitian ini bertujuan memahami pengalaman mahasiswa ketika jeda belajar dengan menonton video pendek di TikTok atau Instagram Reels, yang semula diniatkan "sebentar saja", ternyata berlangsung lebih lama daripada rencana. Pengalaman itu ditelusuri sebagai satu rangkaian, mulai dari niat ketika membuka aplikasi, munculnya kesadaran bahwa jeda telah melampaui niat tersebut, dan pertimbangan mahasiswa yang tetap melanjutkan *scrolling*, sampai cara mereka berhenti dan apa yang mereka lakukan sesudahnya, baik kembali belajar maupun tidak. Penelitian ini tidak menguji apakah video pendek menyebabkan prokrastinasi dan tidak mengandaikan bahwa partisipan mengalami adiksi.
 
-Secara teoretis, penelitian ini menjangkau bagian pengalaman yang belum banyak ditelusuri oleh penelitian terdahulu. Penelitian kuantitatif seperti Xie et al. (2023) serta Liu dan Li (2024) mengukur hubungan antara penggunaan video pendek dan variabel akademik, tetapi tidak menjangkau apa yang dialami mahasiswa selama jeda berlangsung. Tran et al. (2019) dan Hossain et al. (2024) menunjukkan bahwa kesadaran akan waktu yang telah terpakai dapat mendorong pengguna berhenti, sedangkan Rixen et al. (2023) mengkaji alasan berhenti pada penggunaan media sosial secara umum. Di Indonesia, kajian fenomenologis Agustin et al. (2026) berfokus pada pengguna TikTok dengan indikasi kecenderungan adiktif. Penelitian ini menelusuri apa yang terjadi setelah kesadaran itu muncul di dalam jeda belajar mahasiswa pada umumnya, termasuk ketika mahasiswa tetap melanjutkan *scrolling* meskipun menyadari bahwa jedanya telah melampaui rencana. Secara praktis, gambaran tersebut dapat membantu mahasiswa mengenali saat jeda mulai melampaui niatnya. Temuan penelitian ini juga dapat menjadi masukan bagi konselor dan layanan bimbingan di perguruan tinggi dalam merancang pendampingan pengelolaan waktu belajar yang berangkat dari pengalaman mahasiswa sendiri.
+Secara teoretis, penelitian ini dapat memperluas model siklus keterlibatan dan penghentian dari Tran et al. (2019) dengan menggambarkan bagian yang belum diuraikan model tersebut, yaitu pertimbangan mahasiswa yang tetap melanjutkan *scrolling* setelah menyadari bahwa jedanya telah melampaui niat. Gambaran itu akan bersumber dari jeda belajar sehari-hari mahasiswa di Indonesia, sedangkan model tersebut disusun dari penggunaan ponsel secara umum di Amerika Serikat. Secara praktis, gambaran tersebut dapat membantu mahasiswa mengenali saat jeda mulai melampaui niatnya. Temuan penelitian ini juga dapat menjadi masukan bagi konselor dan layanan bimbingan di perguruan tinggi dalam merancang pendampingan pengelolaan waktu belajar yang berangkat dari pengalaman mahasiswa sendiri.
 
 ## Metode
 
@@ -72,7 +86,7 @@ Partisipan adalah mahasiswa Universitas Negeri Malang, dan pengambilan data berl
 
 Data dikumpulkan melalui wawancara mendalam dengan partisipan utama yang memuat demonstrasi *think-aloud*, wawancara dengan *significant other*, observasi dan catatan lapangan, serta data sekunder berupa catatan waktu penggunaan aplikasi. Catatan pengalaman tiga hari dipakai untuk membantu wawancara dan tidak dianalisis sebagai data.
 
-**Catatan pengalaman.** Selama tiga hari sebelum wawancara, partisipan utama membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada niatnya. Catatan memuat niat awal, saat mereka menyadari waktu yang telah terpakai, apa yang dirasakan dan dipikirkan, serta apakah mereka melanjutkan atau berhenti. Catatan ini berfungsi sebagai pemicu ingatan agar wawancara dapat bertumpu pada kejadian yang konkret dan masih segar. Kegiatan mencatat dapat membuat partisipan lebih memperhatikan lamanya jeda selama tiga hari tersebut. Karena itu, catatan tidak dianalisis sebagai data tersendiri, dan wawancara juga menanyakan jeda yang terjadi sebelum periode pencatatan. Jika selama tiga hari tidak ada jeda yang melampaui niat, wawancara bertumpu pada kejadian terakhir yang masih diingat partisipan.
+**Catatan pengalaman.** Selama tiga hari sebelum wawancara, partisipan utama membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada niatnya. Catatan memuat jam ketika jeda dimulai, niat awal, jam ketika mereka menyadari waktu yang telah terpakai, apa yang dirasakan dan dipikirkan, serta apakah mereka melanjutkan atau berhenti. Catatan ini berfungsi sebagai pemicu ingatan agar wawancara dapat bertumpu pada kejadian yang konkret dan masih segar. Kegiatan mencatat dapat membuat partisipan lebih memperhatikan lamanya jeda selama tiga hari tersebut. Karena itu, catatan tidak dianalisis sebagai data tersendiri, dan wawancara juga menanyakan jeda yang terjadi sebelum periode pencatatan. Jika selama tiga hari tidak ada jeda yang melampaui niat, wawancara bertumpu pada kejadian terakhir yang masih diingat partisipan.
 
 **Wawancara mendalam.** Wawancara semiterstruktur dengan partisipan utama dilakukan setelah periode pencatatan, berlangsung minimal 60 menit dan dapat dilanjutkan pada sesi kedua jika cerita partisipan belum tergali seluruhnya, direkam dengan izin partisipan, dan ditranskripsi secara verbatim. Pedoman wawancara disusun mengikuti empat rumusan masalah, yaitu awal jeda dan niat yang menyertainya, munculnya kesadaran bahwa jeda melampaui niat, pertimbangan untuk tetap melanjutkan, serta cara berhenti dan apa yang dilakukan sesudahnya, termasuk ketika partisipan tidak kembali belajar. Aspek-aspek dari model Tran et al. (2019) dan ketiga teori pendukung diterjemahkan menjadi pertanyaan terbuka, misalnya tentang apa yang terjadi sebelum aplikasi dibuka atau apa yang membuat partisipan akhirnya menutupnya. Pertanyaan tersebut menjadi arah penggalian, sedangkan cerita partisipan menentukan urutan dan kedalaman wawancara. Pedoman wawancara lengkap terdapat pada lampiran.
 
@@ -82,7 +96,7 @@ Data dikumpulkan melalui wawancara mendalam dengan partisipan utama yang memuat 
 
 **Observasi dan catatan lapangan.** Observasi dilakukan selama setiap sesi wawancara oleh anggota kelompok lain yang berperan sebagai pengamat lengkap, yaitu tidak ikut bertanya dan tidak terlibat dalam percakapan. Pengamat memakai lembar observasi yang memuat dua jenis catatan. Catatan deskriptif merekam latar tempat wawancara dan suasana sekitarnya, cara partisipan memperlakukan ponselnya selama wawancara, ekspresi dan bahasa tubuh, jeda atau keraguan saat partisipan bercerita, serta perilaku selama demonstrasi *think-aloud*. Catatan reflektif merekam reaksi, dugaan, dan pertanyaan pengamat sendiri. Catatan lapangan dilengkapi segera setelah sesi berakhir agar rinciannya tidak hilang. Selain itu, setiap anggota kelompok menulis catatan reflektif tentang praduga dan pengalaman pribadinya terkait *scrolling* video pendek, sebelum pengambilan data dimulai dan setelah setiap wawancara.
 
-**Data sekunder.** Data sekunder berupa catatan waktu penggunaan TikTok atau Instagram Reels selama tiga hari periode pencatatan, yang tersedia pada fitur pemantau waktu di aplikasi atau di ponsel partisipan. Partisipan sendiri yang membuka dan menunjukkan catatan tersebut saat wawancara, lalu peneliti mencatat durasi penggunaan harian dan, jika fitur ponsel menyediakannya, rincian per jam. Data ini dikumpulkan karena perkiraan orang tentang lamanya penggunaan media digital jarang sesuai dengan catatan penggunaan yang terekam (Parry et al., 2021). Perbandingan antara niat awal pada catatan pengalaman, perkiraan partisipan, dan catatan waktu penggunaan dipakai sebagai bahan pertanyaan dalam wawancara, terutama untuk rumusan masalah kedua. Data ini tidak dipakai untuk mengukur adiksi atau menilai wajar tidaknya lama penggunaan.
+**Data sekunder.** Data sekunder berupa catatan waktu penggunaan TikTok atau Instagram selama tiga hari periode pencatatan, yang tersedia pada fitur pemantau waktu di aplikasi atau di ponsel partisipan. Partisipan sendiri yang membuka dan menunjukkan catatan tersebut saat wawancara, lalu peneliti mencatat durasi penggunaan harian dan, jika fitur ponsel menyediakannya, rincian per jam. Data ini dikumpulkan agar gambaran tentang penggunaan sehari-hari partisipan tidak hanya bertumpu pada perkiraan mereka sendiri, karena perkiraan orang tentang lamanya penggunaan media digital jarang sesuai dengan catatan penggunaan yang terekam (Parry et al., 2021). Catatan ini hanya menunjukkan total penggunaan per hari atau per jam, sehingga tidak dapat memisahkan waktu sebelum dan sesudah kesadaran muncul dalam satu jeda. Catatan Instagram juga mencakup seluruh aplikasi dan tidak memisahkan Reels dari fitur lain. Karena itu, catatan waktu penggunaan tidak dibandingkan dengan perkiraan partisipan tentang lamanya satu jeda, tetapi dipakai sebagai gambaran konteks penggunaan harian, misalnya pada jam berapa dan seberapa lama partisipan biasanya menggunakan aplikasi. Gambaran tersebut dapat menjadi bahan pertanyaan dalam wawancara. Data ini tidak dipakai untuk mengukur adiksi atau menilai wajar tidaknya lama penggunaan.
 
 ### Teknik analisis data
 
@@ -100,7 +114,7 @@ Setiap transkrip dikode oleh dua anggota kelompok secara terpisah, lalu perbedaa
 
 Keabsahan data dijaga melalui empat kriteria mutu penelitian kualitatif, yaitu kredibilitas, transferabilitas, dependabilitas, dan konfirmabilitas, ditambah refleksivitas (Korstjens & Moser, 2018).
 
-Kredibilitas menyangkut apakah temuan merupakan informasi yang masuk akal dari data asli partisipan dan merupakan penafsiran yang tepat atas pandangan mereka (Korstjens & Moser, 2018). Kriteria ini dijaga melalui triangulasi sumber, triangulasi metode, dan *member checking*. Triangulasi sumber dilakukan dengan membandingkan penuturan partisipan utama dengan pengamatan *significant other*, serupa dengan Karhulahti et al. (2022) yang mewawancarai kelompok lain untuk memperoleh pandangan dari luar terhadap data fenomenologis utama. Triangulasi ini terbatas pada perilaku yang tampak, seperti lamanya jeda dan cara partisipan berhenti. Perbedaan antara kedua penuturan tidak dianggap sebagai kesalahan partisipan utama, tetapi dicatat sebagai bahan penafsiran. Triangulasi metode dilakukan dengan membandingkan penuturan partisipan dengan catatan lapangan dan catatan waktu penggunaan, karena kredibilitas dapat diperkuat dengan memakai lebih dari satu sumber data dan metode pengumpulan data (Korstjens & Moser, 2018). Selisih antara perkiraan partisipan dan catatan waktu penggunaan tidak dianggap sebagai ketidakjujuran, tetapi ditelusuri sebagai bagian dari pengalaman yang diteliti. *Member checking* dilakukan dengan menyampaikan tafsiran sementara secara tertulis kepada setiap partisipan utama dan memberi kesempatan untuk menanggapinya. Seperti pada Karhulahti et al. (2022), tanggapan partisipan diperlakukan sebagai data reflektif tambahan, bukan sebagai pengesahan akhir atas tafsiran peneliti.
+Kredibilitas menyangkut apakah temuan merupakan informasi yang masuk akal dari data asli partisipan dan merupakan penafsiran yang tepat atas pandangan mereka (Korstjens & Moser, 2018). Kriteria ini dijaga melalui triangulasi sumber, triangulasi metode, dan *member checking*. Triangulasi sumber dilakukan dengan membandingkan penuturan partisipan utama dengan pengamatan *significant other*, serupa dengan Karhulahti et al. (2022) yang mewawancarai kelompok lain untuk memperoleh pandangan dari luar terhadap data fenomenologis utama. Triangulasi ini terbatas pada perilaku yang tampak, seperti lamanya jeda dan cara partisipan berhenti. Perbedaan antara kedua penuturan tidak dianggap sebagai kesalahan partisipan utama, tetapi dicatat sebagai bahan penafsiran. Triangulasi metode dilakukan dengan membandingkan penuturan partisipan dengan catatan lapangan, serta membandingkan gambaran partisipan tentang kebiasaan penggunaannya sehari-hari dengan catatan waktu penggunaan, karena kredibilitas dapat diperkuat dengan memakai lebih dari satu sumber data dan metode pengumpulan data (Korstjens & Moser, 2018). Perbedaan antara gambaran partisipan dan catatan waktu penggunaan tidak dianggap sebagai ketidakjujuran, tetapi ditelusuri sebagai bagian dari pengalaman yang diteliti. *Member checking* dilakukan dengan menyampaikan tafsiran sementara secara tertulis kepada setiap partisipan utama dan memberi kesempatan untuk menanggapinya. Seperti pada Karhulahti et al. (2022), tanggapan partisipan diperlakukan sebagai data reflektif tambahan, bukan sebagai pengesahan akhir atas tafsiran peneliti.
 
 Transferabilitas menyangkut sejauh mana hasil penelitian dapat dialihkan ke konteks lain, dan hal ini didukung oleh deskripsi tebal (*thick description*) (Korstjens & Moser, 2018). Laporan penelitian akan menggambarkan karakteristik partisipan, situasi belajar, platform yang digunakan, dan konteks setiap jeda secara rinci agar pembaca dapat menilai kesesuaian temuan dengan konteks mereka sendiri.
 
@@ -201,8 +215,8 @@ Pertanyaan utama: **Dapatkah Anda menceritakan salah satu jeda belajar yang berl
 | Waktu senggang (*downtime*) | Apa yang sedang terjadi dengan waktu Anda saat itu, misalnya sedang menunggu sesuatu atau baru menyelesaikan satu bagian tugas? |
 | Tugas yang membosankan (*tedious task*) | Bagaimana keadaan tugas yang sedang Anda kerjakan ketika Anda memutuskan beristirahat? |
 | Kecanggungan sosial (*social awkwardness*) | Siapa saja yang ada di sekitar Anda saat itu, dan bagaimana keberadaan mereka memengaruhi keinginan Anda membuka ponsel? |
-| Antisipasi (*anticipation*) | Adakah sesuatu yang Anda tunggu atau ingin Anda lihat ketika membuka aplikasi? |
-| Dorongan tanpa alasan yang jelas | Bagaimana Anda sampai membuka aplikasi tersebut? Apakah hal itu terasa sebagai pilihan, atau Anda baru menyadarinya setelah aplikasi terbuka? |
+| Antisipasi (*anticipation*) | Apa yang Anda harapkan akan Anda temukan ketika membuka aplikasi saat itu? |
+| Dorongan tanpa alasan yang jelas | Dapatkah Anda menceritakan bagaimana Anda sampai membuka aplikasi tersebut, mulai dari saat Anda meraih ponsel? |
 | Niat awal | Pada saat itu, berapa lama Anda berniat beristirahat, dan apa yang ingin Anda dapatkan dari jeda tersebut? |
 
 **Tema 3. Siklus penggunaan jangka pendek: menyadari lamanya waktu (*30-minute ick factor*)**
@@ -214,9 +228,12 @@ Pertanyaan utama: **Bagaimana Anda menyadari bahwa jeda tersebut sudah berlangsu
 | Munculnya kesadaran | Apa yang membuat Anda menyadarinya, misalnya melihat jam, konten tertentu, atau hal lain di sekitar Anda? |
 | Rasa tidak puas | Apa yang Anda rasakan pada saat itu? |
 | Tugas yang menunggu | Apa yang terlintas di pikiran Anda tentang tugas yang sedang menunggu? |
-| Perkiraan waktu | Menurut perkiraan Anda saat itu, berapa lama Anda sudah menonton? Bagaimana tanggapan Anda setelah membandingkannya dengan catatan waktu penggunaan? |
-| Niat yang teringat kembali | Selama menonton, apakah niat untuk kembali belajar masih teringat? Bagaimana niat itu muncul kembali? |
-| Variasi | Apakah kesadaran itu selalu muncul dengan cara yang sama pada jeda-jeda yang lain? |
+| Perkiraan waktu | Dapatkah Anda menceritakan berapa lama menurut Anda jeda itu sudah berlangsung ketika Anda menyadarinya? Bagaimana Anda sampai pada perkiraan itu? |
+| Niat yang teringat kembali | Bagaimana niat untuk kembali belajar hadir dalam pikiran Anda selama menonton? |
+| Variasi | Bagaimana kesadaran itu muncul pada jeda-jeda lain yang Anda alami? Dapatkah Anda menceritakan contohnya? |
+| Tindakan setelah sadar | Setelah menyadarinya, apa yang Anda lakukan kemudian? |
+
+*Catatan untuk pewawancara*: Jika partisipan tetap melanjutkan *scrolling* pada jeda yang sedang diceritakan, lanjutkan ke Tema 4. Jika partisipan langsung berhenti begitu menyadarinya, lanjutkan ke Tema 5 untuk jeda tersebut. Setelah itu, sampaikan dengan jelas bahwa percakapan beralih ke jeda lain, lalu minta partisipan menceritakan jeda ketika ia tetap melanjutkan *scrolling*. Telusuri kembali niat awal dan munculnya kesadaran pada jeda kedua ini dengan pertanyaan utama dan probe pokok Tema 2 dan Tema 3, kemudian dalami jeda itu dengan Tema 4 dan Tema 5. Kedua jeda ditandai sebagai kejadian terpisah dalam catatan lapangan, dan jeda yang langsung dihentikan ditelusuri sebagai pembanding.
 
 **Tema 4. Pertimbangan untuk tetap melanjutkan (aspek teori pendukung)**
 
@@ -224,11 +241,11 @@ Pertanyaan utama: **Setelah menyadari bahwa jeda sudah melampaui niat, apa yang 
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Tujuan belajar dan dorongan saat itu | Apa saja yang Anda pertimbangkan pada saat itu? |
-| Nilai upaya mengendalikan diri | Bagaimana Anda menimbang antara berhenti saat itu dan melanjutkan sebentar lagi? |
-| Inersia | Apakah ada ungkapan yang Anda katakan kepada diri sendiri, misalnya "satu video lagi" atau "sekalian saja"? Bagaimana ungkapan itu memengaruhi Anda? |
+| Tujuan belajar dan dorongan saat itu | Apa yang terlintas di pikiran Anda pada saat itu, jika ada? |
+| Nilai upaya mengendalikan diri | (Jika partisipan menceritakan adanya pertimbangan) Bagaimana Anda menimbang antara berhenti saat itu dan melanjutkan sebentar lagi? |
+| Inersia | (Jika partisipan menyebut kata-kata yang terlintas atau yang ia ucapkan kepada diri sendiri) Bagaimana kata-kata itu memengaruhi Anda? (Jika partisipan belum menyinggungnya, pewawancara dapat menanyakan apakah ada ungkapan seperti "satu video lagi" atau "sekalian saja", lalu meminta partisipan menceritakannya bila ada.) |
 | Keterlibatan aktif (*acquiescence*) | Sejauh mana Anda merasa keputusan untuk melanjutkan itu merupakan pilihan Anda sendiri? |
-| Kebiasaan yang tetap berjalan | Apakah melanjutkan terasa seperti sesuatu yang terjadi begitu saja? Dapatkah Anda menggambarkannya? |
+| Kebiasaan yang tetap berjalan | Dapatkah Anda menggambarkan bagaimana rasanya ketika Anda terus menggeser layar setelah menyadari waktu? |
 | Pemaknaan keputusan | Ketika mengingatnya sekarang, bagaimana Anda memaknai keputusan untuk melanjutkan tersebut? |
 
 **Tema 5. Siklus penggunaan jangka pendek: pemicu mengakhiri**
@@ -237,7 +254,7 @@ Pertanyaan utama: **Dapatkah Anda menceritakan bagaimana akhirnya Anda berhenti 
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Tuntutan kegiatan lain (*competing demands*) | Adakah kegiatan atau kewajiban lain yang akhirnya membuat Anda berhenti? |
+| Tuntutan kegiatan lain (*competing demands*) | Apa yang sedang terjadi di sekitar Anda atau dalam jadwal Anda ketika akhirnya Anda berhenti? |
 | Konten berulang (*recycled content*) | Bagaimana konten yang muncul menjelang Anda berhenti, misalnya mulai terasa berulang atau tidak menarik lagi? |
 | Cara berhenti | Bagaimana Anda menutup aplikasi, misalnya langsung atau sedikit demi sedikit? |
 | Sesudah berhenti | Apa yang Anda lakukan setelah menutup aplikasi? |
@@ -250,11 +267,11 @@ Pertanyaan utama: **Ketika melihat kembali jeda-jeda seperti ini, bagaimana Anda
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Kebermaknaan | Menurut Anda, adakah bagian dari jeda tersebut yang terasa bermanfaat atau bermakna? |
-| Keterhubungan dengan kehidupan di luar aplikasi | Apakah yang Anda tonton terasa berhubungan dengan hal lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan? |
+| Kebermaknaan | Bagian mana dari jeda tersebut yang terasa bermanfaat atau bermakna bagi Anda, dan bagian mana yang tidak? |
+| Keterhubungan dengan kehidupan di luar aplikasi | Bagaimana hal-hal yang Anda tonton berhubungan dengan bagian lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan? |
 | Penilaian yang berulang | Bagaimana penilaian Anda tentang jeda seperti ini berubah dari waktu ke waktu? |
-| Perubahan perilaku | Apakah pengalaman seperti ini pernah membuat Anda mengubah cara beristirahat? |
-| Membatasi atau menghapus aplikasi | Pernahkah Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu? Apa yang mendorong Anda melakukannya? |
+| Perubahan perilaku | Dapatkah Anda menceritakan perubahan yang pernah Anda coba dalam cara beristirahat setelah mengalami jeda seperti ini? |
+| Membatasi atau menghapus aplikasi | Bagaimana pengalaman Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu, jika pernah? Apa yang mendorong Anda melakukannya? |
 | Jeda yang diharapkan | Seperti apa jeda belajar yang menurut Anda ideal? |
 
 **Tema 7. Demonstrasi *think-aloud***
@@ -282,7 +299,7 @@ Pertanyaan utama: **Sekarang saya ingin meminta Anda menunjukkan cara Anda biasa
 
 **Pembukaan (sebelum perekaman)**
 
-1. Memperkenalkan diri, mempersilakan *significant other* memesan makanan dan minuman, menjelaskan tujuan wawancara, dan memastikan lembar persetujuan telah ditandatangani.
+1. Memperkenalkan diri dan pengamat, mempersilakan *significant other* memesan makanan dan minuman, menjelaskan tujuan wawancara, dan memastikan lembar persetujuan telah ditandatangani.
 2. Menyampaikan bahwa pertanyaan hanya menyangkut kebiasaan yang pernah dilihat secara langsung, bukan perasaan atau pikiran partisipan utama.
 3. Meminta izin untuk mulai merekam suara.
 
@@ -326,7 +343,7 @@ Penelitian ini bertujuan memahami pengalaman mahasiswa ketika jeda belajar denga
 
 **A. Kesukarelaan untuk ikut penelitian**
 
-Anda bebas memilih untuk ikut atau tidak ikut dalam penelitian ini tanpa paksaan. Bila Anda sudah memutuskan untuk ikut, Anda tetap bebas mengundurkan diri atau berubah pikiran setiap saat tanpa dikenai sanksi apa pun. Anda juga boleh tidak menjawab pertanyaan tertentu dan boleh menolak demonstrasi penggunaan aplikasi atau permintaan menunjukkan catatan waktu penggunaan tanpa harus mengundurkan diri.
+Anda bebas memilih untuk ikut atau tidak ikut dalam penelitian ini tanpa paksaan. Perekaman suara selama wawancara serta penyerahan rekaman dan transkrip verbatim kepada dosen pengampu merupakan syarat keikutsertaan karena keduanya diperlukan untuk penilaian mata kuliah. Bila Anda tidak bersedia, Anda dapat memilih untuk tidak ikut, dan keputusan itu tidak membawa akibat apa pun bagi Anda. Bila Anda sudah memutuskan untuk ikut, Anda tetap bebas mengundurkan diri atau berubah pikiran setiap saat tanpa dikenai sanksi apa pun. Anda juga boleh tidak menjawab pertanyaan tertentu dan boleh menolak demonstrasi penggunaan aplikasi atau permintaan menunjukkan catatan waktu penggunaan tanpa harus mengundurkan diri.
 
 **B. Prosedur penelitian**
 
@@ -334,15 +351,15 @@ Apabila Anda bersedia berpartisipasi, Anda diminta menandatangani lembar persetu
 
 Bagi partisipan utama, prosedur selanjutnya adalah sebagai berikut.
 
-1. Selama tiga hari, membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada yang Anda niatkan. Catatan memuat niat awal, saat Anda menyadari waktu yang telah terpakai, apa yang Anda rasakan dan pikirkan, serta apakah Anda melanjutkan atau berhenti.
+1. Selama tiga hari, membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada yang Anda niatkan. Catatan memuat jam mulai jeda, niat awal, jam ketika Anda menyadari waktu yang telah terpakai, apa yang Anda rasakan dan pikirkan, serta apakah Anda melanjutkan atau berhenti.
 2. Mengikuti wawancara mendalam selama minimal 60 menit, yang dapat dilanjutkan pada sesi kedua bila diperlukan. Wawancara dilakukan di kafe atau tempat lain yang disepakati bersama, atau melalui panggilan video. Suara selama wawancara direkam.
 3. Di tengah wawancara, memperagakan cara Anda biasanya menggunakan TikTok atau Instagram Reels pada ponsel Anda sendiri sambil menceritakan apa yang Anda pikirkan. Layar ponsel Anda tidak direkam.
-4. Menunjukkan catatan waktu penggunaan TikTok atau Instagram Reels selama tiga hari pencatatan dari fitur pemantau waktu di aplikasi atau ponsel Anda. Anda sendiri yang membuka catatan tersebut, dan peneliti hanya mencatat durasi penggunaannya.
+4. Menunjukkan catatan waktu penggunaan TikTok atau Instagram selama tiga hari pencatatan dari fitur pemantau waktu di aplikasi atau ponsel Anda. Anda sendiri yang membuka catatan tersebut, dan peneliti hanya mencatat durasi penggunaan harian serta rincian per jam bila tersedia.
 5. Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya.
 6. Mengajukan satu orang terdekat (*significant other*), misalnya teman sekamar atau sahabat. Orang tersebut hanya dihubungi setelah Anda menyetujuinya.
 7. Membaca dan menanggapi ringkasan tafsiran awal peneliti atas cerita Anda.
 
-Bagi *significant other*, prosedur selanjutnya adalah mengikuti wawancara singkat selama sekitar 30 menit di kafe atau tempat lain yang disepakati bersama tentang kebiasaan jeda belajar partisipan utama yang pernah Anda lihat secara langsung. Suara selama wawancara direkam. Anda tidak akan ditanya tentang perasaan atau pikiran partisipan utama.
+Bagi *significant other*, prosedur selanjutnya adalah mengikuti wawancara singkat selama sekitar 30 menit di kafe atau tempat lain yang disepakati bersama tentang kebiasaan jeda belajar partisipan utama yang pernah Anda lihat secara langsung. Suara selama wawancara direkam. Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya. Anda tidak akan ditanya tentang perasaan atau pikiran partisipan utama.
 
 **C. Kewajiban partisipan penelitian**
 
@@ -379,12 +396,12 @@ Semua penjelasan tersebut telah disampaikan kepada saya dan semua pertanyaan say
 - [ ] partisipan utama
 - [ ] *significant other*
 
-Saya juga menyatakan kesediaan saya terhadap hal-hal berikut (beri tanda pada yang disetujui):
+Saya memahami bahwa suara saya akan direkam selama wawancara dan bahwa rekaman suara serta transkrip verbatim wawancara akan diserahkan kepada dosen pengampu mata kuliah sebagai bagian penilaian. Keduanya merupakan syarat keikutsertaan.
 
-- [ ] Suara saya direkam selama wawancara.
-- [ ] Rekaman suara dan transkrip verbatim wawancara diserahkan kepada dosen pengampu mata kuliah sebagai bagian penilaian.
-- [ ] Memperagakan penggunaan TikTok atau Instagram Reels selama wawancara (khusus partisipan utama).
-- [ ] Menunjukkan catatan waktu penggunaan aplikasi selama tiga hari pencatatan (khusus partisipan utama).
+Khusus partisipan utama, saya juga menyatakan kesediaan terhadap hal-hal berikut (beri tanda pada yang disetujui):
+
+- [ ] Memperagakan penggunaan TikTok atau Instagram Reels selama wawancara.
+- [ ] Menunjukkan catatan waktu penggunaan aplikasi selama tiga hari pencatatan.
 
 | Nama partisipan | Tanggal | Tanda tangan |
 |---|---|---|

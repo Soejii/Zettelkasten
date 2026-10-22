@@ -84,8 +84,8 @@ Pertanyaan utama: **Dapatkah Anda menceritakan salah satu jeda belajar yang berl
 | Waktu senggang (*downtime*) | Apa yang sedang terjadi dengan waktu Anda saat itu, misalnya sedang menunggu sesuatu atau baru menyelesaikan satu bagian tugas? |
 | Tugas yang membosankan (*tedious task*) | Bagaimana keadaan tugas yang sedang Anda kerjakan ketika Anda memutuskan beristirahat? |
 | Kecanggungan sosial (*social awkwardness*) | Siapa saja yang ada di sekitar Anda saat itu, dan bagaimana keberadaan mereka memengaruhi keinginan Anda membuka ponsel? |
-| Antisipasi (*anticipation*) | Adakah sesuatu yang Anda tunggu atau ingin Anda lihat ketika membuka aplikasi? |
-| Dorongan tanpa alasan yang jelas | Bagaimana Anda sampai membuka aplikasi tersebut? Apakah hal itu terasa sebagai pilihan, atau Anda baru menyadarinya setelah aplikasi terbuka? |
+| Antisipasi (*anticipation*) | Apa yang Anda harapkan akan Anda temukan ketika membuka aplikasi saat itu? |
+| Dorongan tanpa alasan yang jelas | Dapatkah Anda menceritakan bagaimana Anda sampai membuka aplikasi tersebut, mulai dari saat Anda meraih ponsel? |
 | Niat awal | Pada saat itu, berapa lama Anda berniat beristirahat, dan apa yang ingin Anda dapatkan dari jeda tersebut? |
 
 **Tema 3. Siklus penggunaan jangka pendek: menyadari lamanya waktu (*30-minute ick factor*)**
@@ -97,9 +97,12 @@ Pertanyaan utama: **Bagaimana Anda menyadari bahwa jeda tersebut sudah berlangsu
 | Munculnya kesadaran | Apa yang membuat Anda menyadarinya, misalnya melihat jam, konten tertentu, atau hal lain di sekitar Anda? |
 | Rasa tidak puas | Apa yang Anda rasakan pada saat itu? |
 | Tugas yang menunggu | Apa yang terlintas di pikiran Anda tentang tugas yang sedang menunggu? |
-| Perkiraan waktu | Menurut perkiraan Anda saat itu, berapa lama Anda sudah menonton? Bagaimana tanggapan Anda setelah membandingkannya dengan catatan waktu penggunaan? |
-| Niat yang teringat kembali | Selama menonton, apakah niat untuk kembali belajar masih teringat? Bagaimana niat itu muncul kembali? |
-| Variasi | Apakah kesadaran itu selalu muncul dengan cara yang sama pada jeda-jeda yang lain? |
+| Perkiraan waktu | Dapatkah Anda menceritakan berapa lama menurut Anda jeda itu sudah berlangsung ketika Anda menyadarinya? Bagaimana Anda sampai pada perkiraan itu? |
+| Niat yang teringat kembali | Bagaimana niat untuk kembali belajar hadir dalam pikiran Anda selama menonton? |
+| Variasi | Bagaimana kesadaran itu muncul pada jeda-jeda lain yang Anda alami? Dapatkah Anda menceritakan contohnya? |
+| Tindakan setelah sadar | Setelah menyadarinya, apa yang Anda lakukan kemudian? |
+
+*Catatan untuk pewawancara*: Jika partisipan tetap melanjutkan *scrolling* pada jeda yang sedang diceritakan, lanjutkan ke Tema 4. Jika partisipan langsung berhenti begitu menyadarinya, lanjutkan ke Tema 5 untuk jeda tersebut. Setelah itu, sampaikan dengan jelas bahwa percakapan beralih ke jeda lain, lalu minta partisipan menceritakan jeda ketika ia tetap melanjutkan *scrolling*. Telusuri kembali niat awal dan munculnya kesadaran pada jeda kedua ini dengan pertanyaan utama dan probe pokok Tema 2 dan Tema 3, kemudian dalami jeda itu dengan Tema 4 dan Tema 5. Kedua jeda ditandai sebagai kejadian terpisah dalam catatan lapangan, dan jeda yang langsung dihentikan ditelusuri sebagai pembanding.
 
 **Tema 4. Pertimbangan untuk tetap melanjutkan (aspek teori pendukung)**
 
@@ -107,11 +110,11 @@ Pertanyaan utama: **Setelah menyadari bahwa jeda sudah melampaui niat, apa yang 
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Tujuan belajar dan dorongan saat itu | Apa saja yang Anda pertimbangkan pada saat itu? |
-| Nilai upaya mengendalikan diri | Bagaimana Anda menimbang antara berhenti saat itu dan melanjutkan sebentar lagi? |
-| Inersia | Apakah ada ungkapan yang Anda katakan kepada diri sendiri, misalnya "satu video lagi" atau "sekalian saja"? Bagaimana ungkapan itu memengaruhi Anda? |
+| Tujuan belajar dan dorongan saat itu | Apa yang terlintas di pikiran Anda pada saat itu, jika ada? |
+| Nilai upaya mengendalikan diri | (Jika partisipan menceritakan adanya pertimbangan) Bagaimana Anda menimbang antara berhenti saat itu dan melanjutkan sebentar lagi? |
+| Inersia | (Jika partisipan menyebut kata-kata yang terlintas atau yang ia ucapkan kepada diri sendiri) Bagaimana kata-kata itu memengaruhi Anda? (Jika partisipan belum menyinggungnya, pewawancara dapat menanyakan apakah ada ungkapan seperti "satu video lagi" atau "sekalian saja", lalu meminta partisipan menceritakannya bila ada.) |
 | Keterlibatan aktif (*acquiescence*) | Sejauh mana Anda merasa keputusan untuk melanjutkan itu merupakan pilihan Anda sendiri? |
-| Kebiasaan yang tetap berjalan | Apakah melanjutkan terasa seperti sesuatu yang terjadi begitu saja? Dapatkah Anda menggambarkannya? |
+| Kebiasaan yang tetap berjalan | Dapatkah Anda menggambarkan bagaimana rasanya ketika Anda terus menggeser layar setelah menyadari waktu? |
 | Pemaknaan keputusan | Ketika mengingatnya sekarang, bagaimana Anda memaknai keputusan untuk melanjutkan tersebut? |
 
 **Tema 5. Siklus penggunaan jangka pendek: pemicu mengakhiri**
@@ -120,7 +123,7 @@ Pertanyaan utama: **Dapatkah Anda menceritakan bagaimana akhirnya Anda berhenti 
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Tuntutan kegiatan lain (*competing demands*) | Adakah kegiatan atau kewajiban lain yang akhirnya membuat Anda berhenti? |
+| Tuntutan kegiatan lain (*competing demands*) | Apa yang sedang terjadi di sekitar Anda atau dalam jadwal Anda ketika akhirnya Anda berhenti? |
 | Konten berulang (*recycled content*) | Bagaimana konten yang muncul menjelang Anda berhenti, misalnya mulai terasa berulang atau tidak menarik lagi? |
 | Cara berhenti | Bagaimana Anda menutup aplikasi, misalnya langsung atau sedikit demi sedikit? |
 | Sesudah berhenti | Apa yang Anda lakukan setelah menutup aplikasi? |
@@ -133,11 +136,11 @@ Pertanyaan utama: **Ketika melihat kembali jeda-jeda seperti ini, bagaimana Anda
 
 | Sub tema | Pertanyaan pendalaman |
 |---|---|
-| Kebermaknaan | Menurut Anda, adakah bagian dari jeda tersebut yang terasa bermanfaat atau bermakna? |
-| Keterhubungan dengan kehidupan di luar aplikasi | Apakah yang Anda tonton terasa berhubungan dengan hal lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan? |
+| Kebermaknaan | Bagian mana dari jeda tersebut yang terasa bermanfaat atau bermakna bagi Anda, dan bagian mana yang tidak? |
+| Keterhubungan dengan kehidupan di luar aplikasi | Bagaimana hal-hal yang Anda tonton berhubungan dengan bagian lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan? |
 | Penilaian yang berulang | Bagaimana penilaian Anda tentang jeda seperti ini berubah dari waktu ke waktu? |
-| Perubahan perilaku | Apakah pengalaman seperti ini pernah membuat Anda mengubah cara beristirahat? |
-| Membatasi atau menghapus aplikasi | Pernahkah Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu? Apa yang mendorong Anda melakukannya? |
+| Perubahan perilaku | Dapatkah Anda menceritakan perubahan yang pernah Anda coba dalam cara beristirahat setelah mengalami jeda seperti ini? |
+| Membatasi atau menghapus aplikasi | Bagaimana pengalaman Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu, jika pernah? Apa yang mendorong Anda melakukannya? |
 | Jeda yang diharapkan | Seperti apa jeda belajar yang menurut Anda ideal? |
 
 **Tema 7. Demonstrasi *think-aloud***
@@ -165,7 +168,7 @@ Pertanyaan utama: **Sekarang saya ingin meminta Anda menunjukkan cara Anda biasa
 
 **Pembukaan (sebelum perekaman)**
 
-1. Memperkenalkan diri, mempersilakan *significant other* memesan makanan dan minuman, menjelaskan tujuan wawancara, dan memastikan lembar persetujuan telah ditandatangani.
+1. Memperkenalkan diri dan pengamat, mempersilakan *significant other* memesan makanan dan minuman, menjelaskan tujuan wawancara, dan memastikan lembar persetujuan telah ditandatangani.
 2. Menyampaikan bahwa pertanyaan hanya menyangkut kebiasaan yang pernah dilihat secara langsung, bukan perasaan atau pikiran partisipan utama.
 3. Meminta izin untuk mulai merekam suara.
 
@@ -209,7 +212,7 @@ Penelitian ini bertujuan memahami pengalaman mahasiswa ketika jeda belajar denga
 
 **A. Kesukarelaan untuk ikut penelitian**
 
-Anda bebas memilih untuk ikut atau tidak ikut dalam penelitian ini tanpa paksaan. Bila Anda sudah memutuskan untuk ikut, Anda tetap bebas mengundurkan diri atau berubah pikiran setiap saat tanpa dikenai sanksi apa pun. Anda juga boleh tidak menjawab pertanyaan tertentu dan boleh menolak demonstrasi penggunaan aplikasi atau permintaan menunjukkan catatan waktu penggunaan tanpa harus mengundurkan diri.
+Anda bebas memilih untuk ikut atau tidak ikut dalam penelitian ini tanpa paksaan. Perekaman suara selama wawancara serta penyerahan rekaman dan transkrip verbatim kepada dosen pengampu merupakan syarat keikutsertaan karena keduanya diperlukan untuk penilaian mata kuliah. Bila Anda tidak bersedia, Anda dapat memilih untuk tidak ikut, dan keputusan itu tidak membawa akibat apa pun bagi Anda. Bila Anda sudah memutuskan untuk ikut, Anda tetap bebas mengundurkan diri atau berubah pikiran setiap saat tanpa dikenai sanksi apa pun. Anda juga boleh tidak menjawab pertanyaan tertentu dan boleh menolak demonstrasi penggunaan aplikasi atau permintaan menunjukkan catatan waktu penggunaan tanpa harus mengundurkan diri.
 
 **B. Prosedur penelitian**
 
@@ -217,15 +220,15 @@ Apabila Anda bersedia berpartisipasi, Anda diminta menandatangani lembar persetu
 
 Bagi partisipan utama, prosedur selanjutnya adalah sebagai berikut.
 
-1. Selama tiga hari, membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada yang Anda niatkan. Catatan memuat niat awal, saat Anda menyadari waktu yang telah terpakai, apa yang Anda rasakan dan pikirkan, serta apakah Anda melanjutkan atau berhenti.
+1. Selama tiga hari, membuat catatan singkat setiap kali jeda belajar dengan video pendek berlangsung lebih lama daripada yang Anda niatkan. Catatan memuat jam mulai jeda, niat awal, jam ketika Anda menyadari waktu yang telah terpakai, apa yang Anda rasakan dan pikirkan, serta apakah Anda melanjutkan atau berhenti.
 2. Mengikuti wawancara mendalam selama minimal 60 menit, yang dapat dilanjutkan pada sesi kedua bila diperlukan. Wawancara dilakukan di kafe atau tempat lain yang disepakati bersama, atau melalui panggilan video. Suara selama wawancara direkam.
 3. Di tengah wawancara, memperagakan cara Anda biasanya menggunakan TikTok atau Instagram Reels pada ponsel Anda sendiri sambil menceritakan apa yang Anda pikirkan. Layar ponsel Anda tidak direkam.
-4. Menunjukkan catatan waktu penggunaan TikTok atau Instagram Reels selama tiga hari pencatatan dari fitur pemantau waktu di aplikasi atau ponsel Anda. Anda sendiri yang membuka catatan tersebut, dan peneliti hanya mencatat durasi penggunaannya.
+4. Menunjukkan catatan waktu penggunaan TikTok atau Instagram selama tiga hari pencatatan dari fitur pemantau waktu di aplikasi atau ponsel Anda. Anda sendiri yang membuka catatan tersebut, dan peneliti hanya mencatat durasi penggunaan harian serta rincian per jam bila tersedia.
 5. Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya.
 6. Mengajukan satu orang terdekat (*significant other*), misalnya teman sekamar atau sahabat. Orang tersebut hanya dihubungi setelah Anda menyetujuinya.
 7. Membaca dan menanggapi ringkasan tafsiran awal peneliti atas cerita Anda.
 
-Bagi *significant other*, prosedur selanjutnya adalah mengikuti wawancara singkat selama sekitar 30 menit di kafe atau tempat lain yang disepakati bersama tentang kebiasaan jeda belajar partisipan utama yang pernah Anda lihat secara langsung. Suara selama wawancara direkam. Anda tidak akan ditanya tentang perasaan atau pikiran partisipan utama.
+Bagi *significant other*, prosedur selanjutnya adalah mengikuti wawancara singkat selama sekitar 30 menit di kafe atau tempat lain yang disepakati bersama tentang kebiasaan jeda belajar partisipan utama yang pernah Anda lihat secara langsung. Suara selama wawancara direkam. Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya. Anda tidak akan ditanya tentang perasaan atau pikiran partisipan utama.
 
 **C. Kewajiban partisipan penelitian**
 
@@ -262,12 +265,12 @@ Semua penjelasan tersebut telah disampaikan kepada saya dan semua pertanyaan say
 - [ ] partisipan utama
 - [ ] *significant other*
 
-Saya juga menyatakan kesediaan saya terhadap hal-hal berikut (beri tanda pada yang disetujui):
+Saya memahami bahwa suara saya akan direkam selama wawancara dan bahwa rekaman suara serta transkrip verbatim wawancara akan diserahkan kepada dosen pengampu mata kuliah sebagai bagian penilaian. Keduanya merupakan syarat keikutsertaan.
 
-- [ ] Suara saya direkam selama wawancara.
-- [ ] Rekaman suara dan transkrip verbatim wawancara diserahkan kepada dosen pengampu mata kuliah sebagai bagian penilaian.
-- [ ] Memperagakan penggunaan TikTok atau Instagram Reels selama wawancara (khusus partisipan utama).
-- [ ] Menunjukkan catatan waktu penggunaan aplikasi selama tiga hari pencatatan (khusus partisipan utama).
+Khusus partisipan utama, saya juga menyatakan kesediaan terhadap hal-hal berikut (beri tanda pada yang disetujui):
+
+- [ ] Memperagakan penggunaan TikTok atau Instagram Reels selama wawancara.
+- [ ] Menunjukkan catatan waktu penggunaan aplikasi selama tiga hari pencatatan.
 
 | Nama partisipan | Tanggal | Tanda tangan |
 |---|---|---|
@@ -278,6 +281,8 @@ Saya juga menyatakan kesediaan saya terhadap hal-hal berikut (beri tanda pada ya
 | | | |
 
 ## Revision and review notes
+- Revisi setelah review eksternal 4 (22 Oktober 2026), temuan 1, 2, dan 4. Temuan 1: probe perkiraan waktu tidak lagi menunjukkan catatan waktu per jam, tetapi menanyakan bagaimana partisipan sampai pada perkiraannya. Temuan 2: probe Tema 4 tidak lagi mengandaikan pertimbangan sadar atau tuturan kepada diri sendiri. Probe pembuka menjadi "Apa yang terlintas di pikiran Anda pada saat itu, jika ada?", sedangkan probe penimbangan dan ungkapan diajukan hanya bila partisipan menyinggungnya. Temuan 4: catatan percabangan meminta pewawancara menandai peralihan ke jeda kedua dan menelusuri kembali Tema 2 dan Tema 3 untuk jeda itu sebelum Tema 4 dan Tema 5. Lihat `review-4-triage.md`.
+- Revisi setelah review eksternal 3 (22 Oktober 2026), temuan 1, 2, 3, 4, dan 6. Temuan 1: probe perkiraan waktu menanyakan perkiraan partisipan lebih dulu, dengan catatan bahwa catatan waktu per jam hanya ditunjukkan bila jeda tercatat dan rincian per jam tersedia. Lampiran 2 B butir 1 menambah jam mulai jeda dan jam menyadari waktu, butir 4 menyebut "TikTok atau Instagram" dan durasi harian serta per jam. Temuan 2: perekaman serta penyerahan rekaman dan transkrip kepada dosen dinyatakan sebagai syarat keikutsertaan di bagian A dan di halaman persetujuan, sedangkan kotak centang hanya tersisa untuk demonstrasi dan catatan waktu (khusus partisipan utama). Temuan 3: Tema 3 menambah probe "Tindakan setelah sadar" dan catatan percabangan ke Tema 4 atau Tema 5. Temuan 4: pengamat diperkenalkan dalam pembukaan wawancara *significant other* dan disebut dalam prosedur *significant other* di Lampiran 2 B. Temuan 6: sebelas probe konfirmatif di Tema 2 sampai 6 diubah menjadi pertanyaan terbuka, dan contoh "satu video lagi" atau "sekalian saja" dipindah ke catatan pewawancara. Audit: setiap *grand question* tetap memiliki 5 sampai 7 probe. Lihat `review-3-triage.md`.
 - Audit internal: setiap *grand question* memiliki 5 sampai 7 pertanyaan pendalaman. Pertanyaan memakai kata tanya terbuka dan tidak memakai istilah yang menghakimi seperti "kecanduan", "malas", atau "menunda-nunda". Rujukan pada kolom sub tema semuanya ada di daftar pustaka. Tidak ada titik koma atau tanda pisah panjang.
 
 ## Status

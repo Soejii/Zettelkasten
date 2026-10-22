@@ -83,3 +83,84 @@ Fafnir is `/home/suji/document/college`. Git there is manual. Commit only when S
 - Fafnir: the two lecturer handouts (contoh panduan wawancara, contoh informed consent) were ingested. The consent transcript was manually corrected for non-breaking spaces extracted as "A".
 - Group still needs to fill in: the other two members' names, the contact number, and confirm about 30 minutes for significant-other interviews.
 - Remaining: the abstract (add its heading back above the introduction), then an optional final external review of the whole document.
+
+## Update 2026-10-22 (abstract)
+- English abstract (196 words) and Indonesian abstrak (195 words) accepted and merged under the titles, before the introduction. Working file: `Abstrak.working.md`.
+- No results or conclusion, following Materi 7, which overrides the template. No citations or abbreviations. Keywords in italics, alphabetical, comma-separated.
+- Every required component of the proposal now exists. Remaining: group fills in member names, contact number, and confirms 30 minutes for significant-other interviews. Optional: a final external review of the whole document, then the Word export.
+
+## Next session: apply review 3 fixes
+Written 2026-10-22. Resume with the `academic-writer` skill in revise mode. Suji already decided to fix all eight findings in `review-3-triage.md`, so do not re-ask. Apply each fix to the canonical file and to the matching working draft so they stay identical, then record a dated revision note in each working file, fill in the Outcome table in `review-3-triage.md` (as was done in `review-2-triage.md`), and append a dated HANDOFF update. Nothing below has been applied yet.
+
+### Ground rules that still hold
+- Canonical file: `College 101/Zettelkasten/Literature Notes/Penelitian Psikologi Kualitatif/Proposal Penelitian Scrolling Video Pendek.md`.
+- No semicolons or em dashes anywhere, including working files. Write multiple citations narratively ("Tran et al. (2019) dan Rixen et al. (2023)"), never as one parenthetical list of several citations.
+- No page numbers in in-text citations. Every claim must already be in a ledger. No new sources are needed for these fixes.
+- Abstracts: at most 200 words each (count with markdown asterisks stripped), no abbreviations or citations.
+- Every grand question in Lampiran 1 keeps at least 5 probes.
+- Suji wants batched questions with recommendations, not one at a time. These fixes need no new decisions except the correspondence email in fix 7 (use a dotted placeholder unless Suji gives one).
+
+### Fix 1: like-for-like screen-time comparison (Metode 3d, 3f, Lampiran 1 Tema 3, Lampiran 2 B)
+- 3d, Catatan pengalaman: change "Catatan memuat niat awal, saat mereka menyadari waktu yang telah terpakai," to "Catatan memuat jam ketika jeda dimulai, niat awal, jam ketika mereka menyadari waktu yang telah terpakai,".
+- 3d, Data sekunder: say "TikTok atau Instagram" (Instagram logs are app-wide). After the Parry sentence, replace the comparison sentence with: comparison only for breaks recorded in the diary and only when the phone gives an hourly breakdown, by matching the diary's start and noticing times with app use in the same hours. Instagram cannot separate Reels, so its comparison is only a rough estimate. Otherwise, or for breaks before the diary period, the logs are context about daily use only. Keep "terutama untuk rumusan masalah kedua" and the closing sentence about not measuring addiction.
+- 3f: "Selisih antara perkiraan partisipan dan catatan waktu penggunaan" becomes "Selisih ... pada jeda yang dapat dicocokkan".
+- Tema 3 probe "Perkiraan waktu": ask the participant's own estimate first ("Dapatkah Anda menceritakan berapa lama menurut Anda jeda itu sudah berlangsung ketika Anda menyadarinya?"). Add an interviewer note: show the hourly log only if the break is in the diary and an hourly breakdown exists, then ask for their response to it.
+- Lampiran 2 B: diary item adds "jam mulai jeda" and "jam ketika Anda menyadari waktu". Screen-time item: researcher notes daily and hourly durations only.
+
+### Fix 2: recording and submission are conditions, not options (Lampiran 2)
+- Section A: add that audio recording and submitting recordings and verbatim transcripts to the lecturer are conditions of taking part (Materi 7 PDF 8). Someone unwilling may decline to take part without any penalty. Keep the sentence that the think-aloud and screen-time request can be refused without withdrawing.
+- Consent page: replace the two recording checkboxes with a plain statement ("Saya memahami bahwa suara saya akan direkam ... dan rekaman serta transkrip verbatim akan diserahkan kepada dosen pengampu ... Keduanya merupakan syarat keikutsertaan."). Keep checkboxes only for the think-aloud demonstration and the screen-time records, labelled "khusus partisipan utama".
+
+### Fix 3: branch in the interview guide (Lampiran 1 A)
+- Add a probe row to Tema 3: "Tindakan setelah sadar | Setelah menyadarinya, apa yang Anda lakukan kemudian?"
+- Add an interviewer note between Tema 3 and Tema 4: if the participant kept scrolling in this break, continue to Tema 4. If they stopped straight away, skip to Tema 5, then ask them to tell about another break where they kept going and explore it with Tema 4. The stopped-straight-away break is kept as a comparison (this is what Metode 3b promises).
+
+### Fix 4: disclose the observer to significant others
+- Lampiran 1 B, Pembukaan item 1: introduce the observer too.
+- Lampiran 2 B, significant-other procedure: add "Seorang anggota tim hadir sebagai pengamat dan mencatat jalannya wawancara tanpa ikut bertanya."
+
+### Fix 5: narrow the abstract's first two sentences (both languages, also `Abstrak.working.md`)
+- Indonesian draft: "Memeriksa media sosial termasuk kegiatan jeda belajar yang umum di kalangan mahasiswa, dan video pendek di platform seperti TikTok dan Instagram Reels merupakan konten hiburan yang paling sering diakses di Indonesia. Jeda yang semula diniatkan singkat dapat berlangsung lebih lama daripada rencana. Sejumlah penelitian telah menghubungkan penggunaan video pendek atau media sosial dengan prokrastinasi akademik, tetapi belum banyak yang menggambarkan apa yang dialami mahasiswa setelah menyadari jedanya telah melampaui niat."
+- English equivalent: checking social media is a common study-break activity, short videos are the most accessed entertainment content in Indonesia, a brief break can last longer than planned, several studies have linked short-video or social media use with academic procrastination, yet little is known about the experience after realising the overrun.
+- Evidence: Hamilton & Stachowski (2025) ledger S5 (social media on breaks), APJII (2026) S4 (short video most accessed), and the three procrastination studies (Xie, Liu & Li, Tang & He). Recount words and trim elsewhere if over 200, for example by shortening the data-collection sentence.
+
+### Fix 6: open up the yes/no probes (Lampiran 1 A)
+Materi 6 PDF 29 requires a follow-up when a question is confirmatory. Planned rewrites:
+- Tema 2 Antisipasi: "Apa yang Anda harapkan akan Anda temukan ketika membuka aplikasi saat itu?"
+- Tema 2 Dorongan tanpa alasan: "Dapatkah Anda menceritakan bagaimana Anda sampai membuka aplikasi tersebut, mulai dari saat Anda meraih ponsel?"
+- Tema 3 Niat yang teringat kembali: "Bagaimana niat untuk kembali belajar hadir dalam pikiran Anda selama menonton?"
+- Tema 3 Variasi: "Bagaimana kesadaran itu muncul pada jeda-jeda lain yang Anda alami? Dapatkah Anda menceritakan contohnya?"
+- Tema 4 Inersia: open with "Apa yang Anda katakan kepada diri sendiri pada saat itu?" and move "satu video lagi" or "sekalian saja" into an interviewer note, used only if the participant has not raised it.
+- Tema 4 Kebiasaan: "Dapatkah Anda menggambarkan bagaimana rasanya ketika Anda terus menggeser layar setelah menyadari waktu?" (no theoretical options offered).
+- Tema 5 Tuntutan kegiatan lain: "Apa yang sedang terjadi di sekitar Anda atau dalam jadwal Anda ketika akhirnya Anda berhenti?"
+- Tema 6 Kebermaknaan: "Bagian mana dari jeda tersebut yang terasa bermanfaat atau bermakna bagi Anda, dan bagian mana yang tidak?"
+- Tema 6 Keterhubungan: "Bagaimana hal-hal yang Anda tonton berhubungan dengan bagian lain dalam hidup Anda, misalnya perkuliahan, hobi, atau pertemanan?"
+- Tema 6 Perubahan perilaku: "Dapatkah Anda menceritakan perubahan yang pernah Anda coba dalam cara beristirahat setelah mengalami jeda seperti ini?"
+- Tema 6 Membatasi atau menghapus: "Bagaimana pengalaman Anda membatasi, menyembunyikan, atau menghapus aplikasi tertentu, jika pernah?"
+
+### Fix 7: author block (top of the canonical file)
+Insert between the English title and the Abstract:
+"Rafi Mahadika Sujianto, ……………………, dan ……………………" then "Fakultas Psikologi, Universitas Negeri Malang" then "E-mail korespondensi: ……………………". Template PDF 1 asks for full names without titles, institution, and correspondence email.
+
+### Fix 8: condense tujuan and manfaat in 2d (also `Pertanyaan dan tujuan.working.md`)
+- Tujuan: keep the first sentence ("Penelitian ini bertujuan memahami pengalaman mahasiswa ... ternyata berlangsung lebih lama daripada rencana."). Replace "Pengalaman itu ditelusuri sebagai satu rangkaian. Pertama ... Keempat ..." with one sentence tracing the sequence (niat dan munculnya kesadaran, pertimbangan tetap melanjutkan, cara berhenti dan apa yang dilakukan sesudahnya). Keep the sentence that the study does not test causation or assume addiction. Drop the "Yang hendak digambarkan adalah ..." sentence.
+- Manfaat: replace the literature recap (Xie, Liu & Li, Tran, Hossain, Rixen, Agustin) with the contribution: extending Tran et al. (2019) by describing the part the model leaves out, the deliberation of students who keep scrolling after noticing the overrun, in ordinary Indonesian students' study breaks. Keep the two practical sentences (helping students notice the overrun, input for counsellors and guidance services). All removed citations remain cited elsewhere, so the reference list does not change. Rerun the citation reconciliation to confirm.
+
+### After the fixes
+1. Audit: no semicolons or em dashes, abstract word counts, probes per grand question, citation reconciliation in both directions (25 references).
+2. Show Suji a short summary and ask for acceptance.
+3. Commit and push the vault when Suji asks. Uncommitted right now: the abstract merge, `Abstrak.working.md`, the `review-3-*` files, and this HANDOFF update. Fafnir is clean.
+4. Remaining after that: the group fills in names, the contact number, and confirms 30 minutes for significant-other interviews. Then the Word export for Sipejar, derived from the Markdown file.
+
+## Update 2026-10-22 (review 3 fixes applied)
+- All eight review-3 fixes applied to the canonical file and the matching working drafts (`Abstrak`, `Pertanyaan dan tujuan`, `Metode`, `Lampiran`). Outcome table filled in `review-3-triage.md`. Dated revision notes added to each working file.
+- Suji skipped the correspondence email, so the author block keeps dotted placeholders for two names and the email.
+- Audit passed: no semicolons or em dashes in the canonical file or any working draft (the only hit is a reviewer quote in `review-2-findings.md`, left as recorded). Abstract 199 words, Abstrak 199 words (label excluded, asterisks stripped). Every grand question has 5 to 7 probes. Citations reconcile both ways, 25 references. Every working draft paragraph appears verbatim in the canonical file.
+- Awaiting Suji's acceptance of the fixes. After that: commit and push the vault when asked. Remaining for the group: two member names, the correspondence email, the contact number, and confirming about 30 minutes for significant-other interviews. Then the Word export for Sipejar, derived from the Markdown file.
+
+## Update 2026-10-22 (external review 4)
+- Suji's "send everything to astra high" was read as acceptance of the review-3 fixes. Review 4 (codex gpt-6-astra, high) on the whole document returned four findings, all valid, all fixed at Suji's request. See `review-4-triage.md`.
+- Screen-time records are now context only. No per-break comparison with participant estimates, because hourly totals include time after noticing. Tema 4 probes no longer presuppose deliberation or self-talk. The branch note re-establishes Tema 2 and 3 for the second break. Huang et al. (2022) in 2b and ledger E14 corrected.
+- Rumusan masalah 3 changed from "menimbang dan memaknai" to "mengalami dan memaknai" at Suji's request. "Pertimbangan" elsewhere (tujuan, abstract, analysis step 2, Tema 4 title) left as is, because Suji asked for no big changes.
+- Suji accepted all review-3 and review-4 fixes (22 Oktober 2026).
+- Audit passed as before (199 and 199 words, 5 to 7 probes, 25 references, drafts in sync). Next: Suji's acceptance, then commit and push when asked, then the group placeholders and the Word export.
