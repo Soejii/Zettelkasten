@@ -61,7 +61,7 @@ Secara teoretis, penelitian ini dapat memperluas model siklus keterlibatan dan p
 
 Penelitian ini menggunakan pendekatan kualitatif dengan desain fenomenologi hermeneutik. Desain ini dipilih karena penelitian hendak memahami bagaimana mahasiswa mengalami dan memaknai jeda belajar yang melampaui niat awal, mulai dari saat membuka aplikasi sampai menghentikan *scrolling* dan sesudahnya. Berbeda dari fenomenologi transendental yang menuntut peneliti menyisihkan subjektivitasnya selama pengumpulan dan analisis data, fenomenologi hermeneutik memandang pengalaman sebagai proses penafsiran yang melekat pada dunia hidup seseorang dan mengakui bahwa peneliti tidak dapat sepenuhnya bebas dari prasangka (Neubauer et al., 2019). Dalam pendekatan ini, teori dapat membantu memfokuskan penelitian, menentukan partisipan, merumuskan cara menjawab pertanyaan penelitian, dan memahami temuan (Neubauer et al., 2019). Karena itu, model Tran et al. (2019) dan ketiga teori pendukung dapat dipakai untuk menyusun pedoman wawancara tanpa bertentangan dengan desain penelitian.
 
-Data dianalisis dengan *interpretative phenomenological analysis* (IPA). IPA bersifat idiografis karena setiap partisipan dianalisis sebagai kasus tersendiri sebelum dibandingkan dengan partisipan lain. IPA juga melibatkan hermeneutika ganda, yaitu peneliti menafsirkan partisipan yang sedang menafsirkan pengalamannya sendiri (Karhulahti et al., 2022).
+Data dianalisis dengan *interpretative phenomenological analysis* (IPA). IPA bersifat idiografis karena setiap partisipan dianalisis sebagai kasus tersendiri sebelum dibandingkan dengan partisipan lain. IPA juga melibatkan hermeneutika ganda, yaitu peneliti menafsirkan partisipan yang sedang menafsirkan pengalamannya sendiri (Eatough & Smith, 2017).
 
 ### Karakteristik partisipan dan cara merekrut
 
@@ -72,7 +72,7 @@ Penelitian ini melibatkan tiga partisipan utama dan tiga *significant other*. Pa
 3. Pernah tetap melanjutkan *scrolling* setelah menyadari bahwa jeda belajar telah berlangsung lebih lama daripada yang diniatkan.
 4. Bersedia membuat catatan pengalaman selama tiga hari dan mengikuti wawancara.
 
-Partisipan dipilih secara purposif. Dalam IPA, sampel dianjurkan kecil dan homogen karena tujuannya adalah memahami bagaimana suatu jenis pengalaman dialami secara pribadi, bukan mewakili populasi (Karhulahti et al., 2022). Rekomendasi jumlah partisipan dalam IPA berkisar antara satu sampai lima belas orang untuk satu topik (Karhulahti et al., 2022). Tiga partisipan utama memungkinkan setiap pengalaman ditelaah secara mendalam sebelum dibandingkan.
+Partisipan dipilih secara purposif. Dalam IPA, sampel dianjurkan kecil dan homogen agar setiap partisipan dapat ditelaah secara idiografis sebelum pengalaman mereka dibandingkan (Eatough & Smith, 2017). Jumlah partisipan dalam penelitian IPA dapat berkisar antara satu sampai tiga puluh orang, tetapi umumnya berada pada jumlah yang kecil (Eatough & Smith, 2017). Tiga partisipan utama memungkinkan setiap pengalaman ditelaah secara mendalam sebelum dibandingkan.
 
 Perekrutan dilakukan melalui pengumuman di media sosial dan grup angkatan di lingkungan Universitas Negeri Malang. Calon partisipan mengisi formulir penyaringan singkat yang menanyakan platform yang mereka gunakan saat jeda belajar, apakah jeda mereka pernah melampaui niat, dan apakah mereka pernah tetap melanjutkan *scrolling* setelah menyadarinya. Kriteria ketiga memastikan bahwa setiap partisipan memiliki pengalaman yang ditanyakan rumusan masalah ketiga. Calon partisipan yang juga pernah langsung berhenti begitu menyadari waktu tetap dapat diikutsertakan, dan jeda semacam itu ditelusuri dalam wawancara sebagai pembanding. Kesesuaian dengan kriteria dipastikan kembali melalui percakapan pribadi sebelum wawancara dijadwalkan.
 
@@ -137,6 +137,8 @@ Baumeister, R. F., & Heatherton, T. F. (1996). Self-regulation failure: An overv
 BoJulaia, M., & Pilotti, M. (2026). Social media problematic use, memory concerns, and confidence in young female students from an underrepresented student population. *Frontiers in Psychology, 17*, Article 1816605. https://doi.org/10.3389/fpsyg.2026.1816605
 
 Chiossi, F., Haliburton, L., Ou, C., Butz, A., & Schmidt, A. (2023). Short-form videos degrade our capacity to retain intentions: Effect of context switching on prospective memory. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems* (pp. 1–15). Association for Computing Machinery. https://doi.org/10.1145/3544548.3580778
+
+Eatough, V., & Smith, J. A. (2017). Interpretative phenomenological analysis. In C. Willig & W. Stainton Rogers (Eds.), *The SAGE handbook of qualitative research in psychology* (2nd ed., pp. 193–209). SAGE Publications. https://doi.org/10.4135/9781526405555.n12
 
 Hamilton, K. L., & Stachowski, A. A. (2025). Should I study or take a break? Students' use and perceptions of study breaks. *Journal of the Scholarship of Teaching and Learning, 25*(2), 133–154. https://doi.org/10.14434/josotl.v25i2.36596
 
