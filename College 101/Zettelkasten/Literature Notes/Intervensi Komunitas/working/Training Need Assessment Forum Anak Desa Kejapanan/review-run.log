@@ -1,0 +1,1176 @@
+Reading prompt from stdin...
+OpenAI Codex v0.165.0
+--------
+workdir: /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+model: gpt-6-astra
+provider: openai
+approval: never
+sandbox: read-only
+reasoning effort: high
+reasoning summaries: none
+session id: 01a1839a-2010-7671-9fca-3c64f0409a6b
+--------
+user
+Review the complete Indonesian academic assignment as an independent reader.
+Return findings only. Do not rewrite the paper and do not edit files.
+
+## Assignment
+
+Course: Intervensi Komunitas (psychology, Universitas Negeri Malang). Task: fill the lecturer's "Format Training Need Assessment (TNA) Komunitas" template as a continuation of the group's earlier village assessment of Desa Kejapanan. The template is the only instruction. There is no separate rubric.
+
+- Lecturer template (DOCX): `/home/suji/document/college/intervensi komunitas/assignments/intervensi komunitas_format tna.docx`
+- Canonical assignment to review: `Training Need Assessment Forum Anak Desa Kejapanan.md` (in the parent folder of this working folder, i.e. `/home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/`)
+- Prior assessment the TNA must continue: `Makalah Social Mapping Desa Kejapanan.md` in the same folder (sections 5.2, 6.4, and 7.4 hold the priority decision and the fishbone).
+
+## Evidence
+
+- Interview findings (anonymized record of a 94-minute group interview with three core Forum Anak officers, 28 October 2026): `working/Training Need Assessment Forum Anak Desa Kejapanan/Wawancara pengurus Forum Anak.working.md`. The raw transcript is deliberately withheld because informants are minors who were promised anonymity. Treat the working note, including the "Klarifikasi Suji" section, as the field evidence.
+- Confirmed document decisions: `working/Training Need Assessment Forum Anak Desa Kejapanan/Keputusan dokumen.working.md`
+- Source ledger with article locators: `working/Training Need Assessment Forum Anak Desa Kejapanan/source-ledger.md`
+- Regulation transcript: `/home/suji/document/college/intervensi komunitas/sources/other/penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025)/penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025).md` (page markers `<!-- page N -->`).
+- Village vision page: https://sites.google.com/view/kantor-desa-kejapanan/profil-desa/visi-dan-misi
+
+## Deliberate choices (do not report these as errors unless they cause a real defect)
+
+- Table numbering (Tabel 3.1A to 3.1C, then 2.2, 2.3, 2.4) and the header "Gap dari Tabel 2.1A" are the lecturer's template text and are kept verbatim.
+- Only the interview and document study were done. No baseline questionnaire, FGD, or practice observation, and the document says so.
+- Training scope is limited to organizational management, recruitment and regeneration, and actor literacy/advocacy. Program planning is deliberately deferred. Leadership training for the chair is deliberately excluded.
+- Children are never named. Adults Pak Eki and the village head role are named, consistent with the earlier makalah.
+- Citation style APA 7 in Indonesian. Regulations are cited by italic title and year. Page locators only for direct quotations.
+- The writer never uses semicolons or em dashes.
+
+## Evaluate
+
+1. Whether the document fulfills the template and each section performs its intended job.
+2. Whether the TNA follows logically from the prior assessment (priority issue, fishbone roots) and from the interview evidence.
+3. Whether claims follow from the cited evidence without overstating population, method, certainty, or causality. Check every regulation claim against the regulation transcript.
+4. Whether citations and references are accurate, complete, and mutually reconciled.
+5. Whether terminology and scope remain consistent across the identity table, 1.1, 1.2, 3.1A to 3.1C, 3.2, 3.3, and 3.4, in particular whether every KSA gap in 3.3 traces to 3.2 and lands in the training row of 3.4.
+6. Whether Indonesian sentences are logical, direct, clear, economical, formal, and precise.
+7. Whether exact passages exhibit formulaic model patterns such as repeated paragraph machinery, empty signposting, rephrased repetition, automatic closure, forced grouping, generic filler, or excessive structural polish.
+8. Whether anything could identify an individual child.
+
+For each finding, provide the exact location, the problem, evidence from the assignment or sources, why it matters, and the direction of a correction. Distinguish demonstrable defects from subjective preferences. Order findings by impact. If no material findings exist, say so in one line.
+
+hook: SessionStart
+hook: SessionStart Failed
+codex
+I’ll read the full assignment against the template, prior assessment, and supplied evidence, then return only findings without editing files.
+
+hook: PreToolUse
+hook: PreToolUse Failed
+exec
+/usr/bin/bash -lc "rg -n 'Kejapanan|TNA|peer-review' /home/suji/.codex/memories/MEMORY.md" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+55:# Task Group: Canva-enabled Desa Kejapanan power-interest analysis, handoff, and scoped vault publication
+69:## Task 2: organize Desa Kejapanan actor-power/resources analysis and Astra handoff, completed
+77:- Desa Kejapanan, power-interest, Pak Eki, Randi Saputra, actor map, DPD, Jawara, Balun, Tabeyan, Astra handoff
+100:- Keep unresolved terms/names unresolved: do not silently convert `DPD`, invent `Bu Pati`, treat `Jawara` as verified, or choose Balun versus Tabeyan without evidence. The working note and detailed handoff live under `College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/`. [Task 2]
+
+hook: PreToolUse
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+p=Path.cwd()
+for d in list(p.parents)[::-1]+[p]:
+ for n in ('AGENTS.md','RTK.md'):
+  f=d/n
+  if f.is_file():
+   print('\\nFILE',f)
+   print(f.read_text())
+f=Path('Training Need Assessment Forum Anak Desa Kejapanan.md')
+print('\\nCANONICAL',f)
+for i,l in enumerate(f.read_text().splitlines(),1): print(f'{i}: {l}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+
+FILE /home/suji/document/Zettelkasten/AGENTS.md
+# Repository Guidelines
+
+## Project Structure & Note Organization
+
+This repository is an Obsidian vault for psychology coursework, written primarily in Indonesian. Work under `College 101/`:
+
+- `Zettelkasten/Literature Notes/` contains course-specific lecture notes, assignments, reviews, and drafts.
+- `Zettelkasten/Permanent Notes/` contains atomic concept notes.
+- `Zettelkasten/MOC/` contains maps of content that organize related notes.
+- `Templates/` provides note scaffolding. Use `Core Templates.md` only for Permanent Notes.
+- `Assets/` and `Refrences/` store images, diagrams, books, and other source material. Preserve the existing `Refrences` spelling.
+
+Keep attachments near the established asset location and use relative Obsidian links so the vault remains portable.
+
+Keep canonical assignments and ordinary lecture notes directly in their established course or topic folder. Put every non-canonical artifact for an assignment or other note-producing task under `working/<Canonical Name>/`, including section drafts, evidence ledgers, review prompts, findings, and run logs. Do not leave task artifacts loose in a shared `working/` directory.
+
+## Fafnir (course source library)
+
+"Fafnir" is Suji's separate git repository of college assignments and retained sources at `/home/suji/document/college` (remote `github.com/Soejii/fafnir`). When Suji says "Fafnir", "the one in Fafnir", or "document/college", this is the location.
+
+- Courses are lowercase folders, for example `psikologi konseling/`, each with `assignments/` and `sources/{books,papers,slides,handouts,other}/`.
+- Each source has its own folder whose PDF and faithful Markdown transcript share a citation basename, such as `counseling a comprehensive profession - (gladding, 2018).md`. Read the `.md` transcript (grep headings, then read the relevant range) instead of re-extracting the PDF; `<!-- page N -->` markers give the PDF page, and printed book page numbers appear in running headers.
+- Treat Fafnir as read-only from this vault. Its own `AGENTS.md` governs it: git there is manual, and nothing is committed, moved, or converted without Suji's request.
+
+## Development and Validation Commands
+
+There is no build system or automated test suite. Open the repository as an Obsidian vault for normal editing and visual verification. Before submitting changes, run:
+
+```bash
+git status --short            # review changed and untracked files
+git diff --check              # detect whitespace errors
+git diff --stat               # confirm the scope of the change
+rg '\[\[[^]]+\]\]' 'College 101'  # inspect wikilink usage
+```
+
+In Obsidian, verify that new links resolve, images render, and headings appear correctly in the outline.
+
+## Writing Style & Naming Conventions
+
+Use Markdown with one top-level title per note and descriptive sentence-case headings below it. Permanent Notes should cover one concept and retain the template metadata fields: `Date`, `Time`, `Status`, `Subject`, and `Tags`. Name notes by their concept, for example `Working Memory.md`; follow the existing course folder and filename patterns for Literature Notes. Connect concepts with `[[Note Name]]` wikilinks, especially in the `# References` section.
+
+Write academic material in concise Indonesian unless the surrounding document uses another language. Use APA style for academic citations. Do not use em dashes.
+
+In canonical assignment files, use author-year citations without page numbers. Keep exact page locators in working notes and source ledgers for traceability. Include page numbers in the canonical file only when Suji explicitly requests them.
+
+## Testing and Content Review
+
+For academic work, first inspect and use relevant sources in Fafnir (`/home/suji/document/college/<course>/sources/`), matching the assignment's course or matkul name. Check retained books and course materials before web research. Account for course-name variants already confirmed by Suji without renaming folders unless requested. Read the actual source and record its relevant pages in working notes or source ledgers; use web research only for evidence gaps the retained sources cannot answer.
+
+Review factual claims, citations, tables, and attachment paths manually. For PDFs, inspect the text layer with `pdf-inspector detect <file> --json` before extraction or OCR. Visually verify tables because automated extraction can reorder columns.
+
+## Commit & Push Guidelines
+
+Recent commits use short, imperative summaries such as `Add footnotes...`, `Update...`, and `Rename...`. Keep each commit focused on one coherent content change. Before pushing, review the staged diff and confirm that wikilinks, citations, and attachments are complete. Push the commit directly to the intended branch. Never commit personal Obsidian workspace state or temporary files covered by `.gitignore`.
+
+
+CANONICAL Training Need Assessment Forum Anak Desa Kejapanan.md
+1: # FORMAT TRAINING NEED ASSESSMENT (TNA) KOMUNITAS
+2: 
+3: | | |
+4: |---|---|
+5: | **Nama Kelompok / Mahasiswa** | Kelompok 1: Nizar Ardiyanto Dihan Priyatama (240811600550), Rafi Mahadika Sujianto (240811606606), Rafi Yusuf Novianto (240811610441) |
+6: | **Desa / Komunitas Sasaran** | Forum Anak Desa Kejapanan, Kecamatan Gempol, Kabupaten Pasuruan |
+7: | **Isu Prioritas Need Assessment (USG)** | Rendahnya keaktifan Forum Anak (skor APKL 17, skor USG 13), dalam wujud paling konkretnya Forum Anak belum pernah menjalankan program sendiri sejak dibentuk |
+8: | **Mitra / Kelompok Sasaran Pelatihan** | Pengurus inti Forum Anak dan anggota yang masih bersekolah (SMP dan SMA) |
+9: 
+10: # 1. KESINAMBUNGAN DARI NEED ASSESSMENT DESA SEBELUMNYA
+11: 
+12: ## 1.1 Sintesis Hasil Need Assessment Sebagai Dasar TNA
+13: 
+14: Asesmen sebelumnya memetakan Desa Kejapanan melalui *social mapping*, MAP, APKL, USG, dan fishbone. Dari lima masalah yang ditemukan, rendahnya keaktifan Forum Anak memperoleh skor tertinggi pada APKL dan USG sehingga ditetapkan sebagai isu kunci. Fishbone menelusuri masalah ini sampai ke tiga akar, yaitu forum yang dibentuk untuk status desa, forum yang tidak dibina dan dikelola setelah SK terbit, serta anak yang tidak memegang kendali atas kegiatan forum. Lingkungan desa yang belum menopang, seperti Karang Taruna yang stagnan, memperberat ketiga akar tersebut.
+15: 
+16: Wawancara dengan pengurus inti Forum Anak pada tahap TNA memperjelas bagaimana akar-akar itu bekerja di dalam forum. Anggota direkrut melalui kegiatan *camping fun* tanpa mengetahui bahwa mereka akan dijadikan pengurus dan anggota Forum Anak. Sebagian RW bahkan mengenakan denda kepada RT yang tidak mengirim anak, sedangkan RW lain langsung menunjuk anak. Struktur dalam SK memuat jabatan dan divisi, tetapi pengurus tidak mengetahui tugas masing-masing, belum pernah mengadakan rapat pengurus tahun ini, dan tidak memiliki cara untuk menarik anggota baru. Sekitar separuh anggota sudah bekerja atau kuliah, sehingga forum menyusut tanpa regenerasi. Ketika ingin mengajukan kegiatan, pengurus menitipkan usulan melalui perantara dan tidak mengenali aktor desa yang sebenarnya pernah membuka ruang bagi mereka.
+17: 
+18: Bagian dari masalah ini merupakan kekurangan pengetahuan, keterampilan, dan sikap (KSA) pengurus, sehingga dapat ditangani melalui pelatihan. Pengurus belum memahami cara menjalankan struktur organisasi, belum mampu merancang rekrutmen yang sukarela dan berseleksi, dan belum mampu memetakan aktor desa yang dapat mendukung forum. Ketiga kekurangan ini membuat forum tidak dapat bergerak bahkan ketika orang dewasa memberi ruang. Bagian lain dari masalah, yaitu ketiadaan anggaran, surat kegiatan yang tidak keluar, dan pembinaan yang tidak berjalan, berada pada kewenangan pemerintah desa. Bagian ini tidak dapat diselesaikan dengan pelatihan dan ditempatkan sebagai kebutuhan non-pelatihan pada bagian 3.4.
+19: 
+20: ## 1.2 Matriks Transisi: Hasil Need Assessment ke Fokus Pelatihan
+21: 
+22: | Isu Prioritas (USG) | Akar Masalah Utama (Fishbone) | Alasan Memilih Pelatihan | Aset/Resources Desa (MAP) | Kelompok Sasaran Pelatihan |
+23: |---|---|---|---|---|
+24: | Rendahnya keaktifan Forum Anak Desa Kejapanan, yang belum pernah menjalankan program sendiri sejak dibentuk | Tanpa pembinaan dan pengelolaan: struktur tidak berjalan dan regenerasi tidak ada. Anak tidak memegang kendali: kegiatan bergantung pada undangan orang dewasa, dan pengurus tidak tahu kepada siapa usulan harus disampaikan | Pengurus kekurangan pengetahuan tentang fungsi struktur dan ketentuan keanggotaan Forum Anak, keterampilan memimpin rapat, merekrut, dan menyampaikan usulan, serta sikap berinisiatif. Ketiganya dapat ditingkatkan melalui pelatihan partisipatif. Pengurus juga menyatakan sendiri bahwa kebutuhan terpentingnya adalah penataan organisasi dan regenerasi | SK Forum Anak dengan perwakilan dari tiap RW, pendamping dari unsur mantan pengurus Karang Taruna, Pak Eki (Ketua Pokdarwis) yang pernah mengumpulkan dan meminta masukan anggota, status Desa Ramah Anak, perpustakaan desa, kafe desa, dan pendopo balai desa | Pengurus inti dan anggota Forum Anak yang masih bersekolah. Dalam *actor map*, Forum Anak berada pada kelompok berpengaruh rendah dan berkepentingan tinggi |
+25: 
+26: # 2. METODOLOGI TRAINING NEED ASSESSMENT (TNA) KOMUNITAS
+27: 
+28: ## 2.1 Metode dan Instrumen Pengumpulan Data TNA
+29: 
+30: | Metode Pengumpulan Data | Tujuan Spesifik TNA | Informan / Subjek | Instrumen yang Digunakan | Waktu & Lokasi |
+31: |---|---|---|---|---|
+32: | Wawancara semi-terstruktur kelompok | Menggali kondisi forum, mengukur pengetahuan, keterampilan, dan sikap awal pengurus, serta menggali harapan tentang materi, metode, waktu, dan tempat pelatihan | Pengurus inti Forum Anak (n = 3: wakil ketua, sekretaris, dan bendahara) | Pedoman wawancara | 28 Oktober 2026, Chance Cafe |
+33: | Studi dokumen | Membandingkan kondisi forum dengan ketentuan penyelenggaraan Forum Anak dan arah pembangunan desa | SK Forum Anak Desa Kejapanan, *Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, visi dan misi Desa Kejapanan, laporan asesmen kelompok | Telaah dokumen | Oktober 2026 |
+34: | Data asesmen sebelumnya (MAP) | Menyediakan latar tentang aktor, sumber daya, dan akar masalah desa | Kepala desa, Pak Eki, dan warga | Hasil wawancara dan observasi tahap MAP | Tahap asesmen sebelumnya, Desa Kejapanan |
+35: 
+36: Kuesioner *baseline*, FGD, dan observasi praktik tidak dilakukan karena keterbatasan waktu dan jarak ke lokasi. Data KSA awal diambil dari wawancara. Informan merupakan pengurus yang paling aktif, sehingga data ini menggambarkan kondisi inti forum, bukan seluruh anggota. Anggota yang tidak aktif diperkirakan memiliki kesenjangan yang lebih besar.
+37: 
+38: # 3. ANALISIS TNA MODEL OTP (ORGANIZATIONAL, TASK, PERSON) VERSI KOMUNITAS
+39: 
+40: ## 3.1 LEVEL ORGANISASI (Level Desa / Lembaga Komunitas)
+41: 
+42: **Tabel 3.1A: Dukungan dan Kesiapan Desa / Kelompok Sasaran dalam Melakukan Pelatihan**
+43: 
+44: | Dimensi Organisasi Komunitas | Kondisi Saat Ini di Desa | Tantangan / Hambatan Lingkungan | Implikasi Bagi Pelatihan |
+45: |---|---|---|---|
+46: | Kesesuaian dengan Tujuan Desa / Program RW | Misi desa memuat pembinaan lembaga kemasyarakatan dan peningkatan peran aktif kelembagaan pemuda dalam pembangunan (Pemerintah Desa Kejapanan, t.t.). Forum Anak sudah memiliki SK dan menjadi bagian dari status Desa Ramah Anak (Hidayatie, 2025) | Forum tidak memiliki anggaran khusus setelah pembentukan, dan surat kegiatan yang diajukan pengurus tidak keluar | Pelatihan dirancang berbiaya rendah dan menghasilkan rancangan struktur serta rekrutmen yang dapat diajukan kepada kepala desa sebagai pembina |
+47: | Dukungan Tokoh & Relasi Kuasa (Actor Map) | Kepala desa berkedudukan sebagai pembina Forum Anak di tingkat desa (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Dukungannya tampak pada masa pembentukan, tetapi tidak tampak tahun ini. Pendamping berasal dari mantan pengurus Karang Taruna, dan sebagian sudah tidak aktif. Pak Eki pernah mengumpulkan anggota dan meminta masukan | Usulan pengurus berhenti di perantara. Pengurus menilai kepala desa sebagai pendukung utama dan tidak melihat Pak Eki sebagai aktor yang dapat membantu. Ketua forum tidak aktif dan sulit dihubungi | Pak Eki dilibatkan sebagai jembatan menuju kepala desa, bukan sebagai pengganti pembina. Pelatihan memuat sesi pemetaan aktor desa agar pengurus mengetahui kepada siapa usulan disampaikan |
+48: | Ketersediaan Fasilitas & Sarana Desa | Pendopo balai desa, perpustakaan desa (Hidayatie, 2025), kafe desa, dan Lumbung sebagai tempat berkumpul yang disukai anak | Pendopo balai desa dinilai sempit dan panas. Ruang rapat desa tidak dapat dipakai untuk kegiatan forum | Pelatihan diadakan di tempat yang disukai anak atau di pendopo, dengan peralatan dibawa sendiri oleh tim |
+49: | Norma Sosial, Budaya & Musim Kerja | Anak lebih sering dilibatkan sebagai pembantu acara desa atau tenaga dokumentasi. Rekrutmen dilakukan melalui penunjukan dan denda. Peserta bersekolah sampai hari Sabtu | Hari biasa hanya tersedia sore hari sepulang sekolah. Sebagian anggota sudah bekerja atau kuliah di luar desa | Pelatihan dijadwalkan pada hari Minggu dalam beberapa sesi pendek, atau sore hari sepulang sekolah |
+50: 
+51: **Tabel 3.1B: Pencapaian Visi, Misi, dan Target Pembangunan Desa / Kelompok Sasaran**
+52: 
+53: | Visi, Misi, & Target Pembangunan Desa / Lembaga | Strategi / Program Kerja Desa yang Relevan (Hasil Need Assessment) | Target Ideal / Indikator Capaian Komunitas (Kondisi Ideal) | Kondisi Realita Saat Ini (Yang Sudah Tercapai) | Kesenjangan Organisasi / Komunitas (Gap Belum Tercapai) | Alat Pengumpul Data TNA |
+54: |---|---|---|---|---|---|
+55: | Visi desa "Maju Desanya Sejahtera Warganya", dengan misi menumbuhkan peran serta masyarakat melalui pembinaan lembaga kemasyarakatan dan meningkatkan peran aktif kelembagaan pemuda (Pemerintah Desa Kejapanan, t.t.). Forum Anak berfungsi sebagai sarana strategis bagi anak untuk berpartisipasi dalam pembangunan (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025) | Pembentukan Forum Anak dan status Desa Ramah Anak | Anggota ikut atas kesadaran sendiri tanpa paksaan. Pengurus berusia 12 sampai 17 tahun dan dipilih melalui seleksi administratif, substantif, dan wawancara. Struktur kepengurusan disusun melalui musyawarah anggota. Masa bakti pengurus paling lama dua tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Forum menjalankan program yang diputuskan anak | Forum memiliki SK dengan sekitar 30-an nama, tetapi yang aktif hanya dua sampai empat pengurus inti. Anggota direkrut tanpa seleksi, sebagian melalui penunjukan atau denda. Pengurus mengira masa jabatannya lima tahun. Tahun ini belum ada rapat pengurus, dan program yang dirancang forum sendiri baru satu | Tidak ada mekanisme rekrutmen dan regenerasi. Struktur dalam SK tidak dijalankan. Forum belum menjalankan program sendiri dan bergantung pada undangan orang dewasa | Wawancara pengurus inti, studi dokumen (SK, peraturan, visi dan misi desa), data MAP |
+56: 
+57: **Tabel 3.1C: Analisis Penyebab Permasalahan Komunitas (Adaptasi Fishbone ke OTP)**
+58: 
+59: | Permasalahan Utama Komunitas (Gap dari Tabel 2.1A) | Analisis Penyebab Masalah (Kategori Adaptasi Fishbone Komunitas) | Penjelasan Simpulan Penyebab Masalah | Alat Pengumpulan Data |
+60: |---|---|---|---|
+61: | Forum Anak Desa Kejapanan belum pernah menjalankan program sendiri sejak dibentuk | • **Dibentuk untuk status:** pembentukan dilakukan agar SK terbit, bersamaan dengan status Desa Ramah Anak. Anak direkrut melalui *camping fun* tanpa mengetahui tujuan sebenarnya.<br>• **Tanpa pembinaan dan pengelolaan:** tidak ada anggaran, kas, data anggota, maupun rapat rutin. Pendamping sebagian tidak aktif. Ketua tidak aktif, dan anggota enggan menyampaikan kritik demi menjaga pertemanan.<br>• **Anak tidak memegang kendali:** kegiatan berupa undangan membantu acara desa. Satu-satunya program forum dipangkas orang dewasa. Usulan berhenti di perantara.<br>• **Lingkungan desa belum menopang:** Karang Taruna belum terbentuk kembali, dan sebagian anggota sudah bekerja atau kuliah di luar desa. | Masalah bersumber pada kombinasi dua hal. Pertama, pengurus kekurangan kemampuan untuk menjalankan struktur, merekrut anggota baru, dan menyampaikan usulan kepada aktor yang tepat. Kedua, pembinaan dari pemerintah desa tidak berjalan setelah SK terbit. Bagian pertama menjadi sasaran pelatihan, sedangkan bagian kedua memerlukan intervensi non-pelatihan | Diagram fishbone laporan asesmen, wawancara pengurus inti, studi dokumen |
+62: 
+63: ## 3.2 LEVEL TUGAS (Level Peran / Fungsi Komunitas)
+64: 
+65: **Tabel 2.2: Analisis Kebutuhan Level Tugas (Role & Competency Analysis)**
+66: 
+67: | Peran / Kelompok Sasaran Komunitas yang Bertanggung Jawab | Deskripsi Peran / Tugas Komunitas | Standar Kompetensi Ideal Komunitas (KSA Dibutuhkan) |
+68: |---|---|---|
+69: | Pengurus inti Forum Anak Desa Kejapanan | Memimpin rapat rutin, membagi tugas antardivisi, menyiapkan rekrutmen dan seleksi anggota serta pengurus berikutnya, dan menyampaikan usulan kegiatan kepada pendamping atau pembina | • **Pengetahuan (Knowledge):**<br>- Fungsi tiap jabatan dan divisi dalam struktur forum.<br>- Ketentuan keanggotaan sukarela, seleksi pengurus, dan masa bakti Forum Anak.<br>- Peran pembina, pendamping, dan tokoh desa yang dapat mendukung forum.<br><br>• **Keterampilan (Skill):**<br>- Memimpin rapat dan menyusun pembagian tugas.<br>- Merancang dan menjalankan rekrutmen terbuka dengan seleksi sederhana.<br>- Menyusun dan menyampaikan usulan kegiatan kepada aktor yang tepat.<br><br>• **Sikap Kerja (Attitude):**<br>- Berinisiatif tanpa menunggu undangan orang dewasa.<br>- Mampu menyampaikan kritik secara terbuka dan tetap menjaga hubungan. |
+70: | Anggota Forum Anak yang masih bersekolah | Menghadiri rapat, menjalankan tugas divisi, dan mengajak teman sebaya untuk bergabung | • **Pengetahuan (Knowledge):**<br>- Tujuan Forum Anak dan hak anak untuk berpartisipasi.<br>- Tugas divisi masing-masing.<br><br>• **Keterampilan (Skill):**<br>- Bekerja dalam tim dan mengajak teman sebaya.<br><br>• **Sikap Kerja (Attitude):**<br>- Rasa memiliki terhadap forum dan komitmen hadir. |
+71: 
+72: ## 3.3 LEVEL INDIVIDU (Level Peserta / KSA Gap Analysis)
+73: 
+74: **Tabel 2.3: Analisis Kebutuhan Level Individu / Peserta Pelatihan**
+75: 
+76: | Permasalahan Root Cause (Need Assessment) | Target Sasaran Peserta Pelatihan | KSA yang Dibutuhkan (Standar Ideal) | KSA yang Dimiliki Saat Ini (Kondisi Baseline) | Gap KSA / Kebutuhan Materi Pelatihan | Alat Pengumpul Data TNA |
+77: |---|---|---|---|---|---|
+78: | Struktur dalam SK tidak dijalankan. Pengurus tidak mengetahui tugas masing-masing dan tidak pernah rapat | Pengurus inti dan anggota yang masih bersekolah (sekitar sepertiga anggota dalam SK menurut perkiraan informan) | • K: Paham fungsi tiap jabatan dan divisi.<br>• S: Mampu memimpin rapat dan membagi tugas.<br>• A: Bertanggung jawab atas perannya. | • K: Tahu ada jabatan dan divisi dalam SK, tetapi tidak tahu tugasnya.<br>• S: Belum pernah mengadakan rapat pengurus tahun ini.<br>• A: Enggan menyampaikan kritik kepada ketua demi menjaga pertemanan. | • K: Struktur organisasi dan uraian tugas tiap divisi.<br>• S: Simulasi rapat dan penyusunan pembagian tugas.<br>• A: Diskusi tentang membedakan pertemanan dan tanggung jawab organisasi, serta latihan memberi umpan balik. | Wawancara pengurus inti, studi dokumen SK |
+79: | Tidak ada regenerasi. Anggota direkrut melalui penunjukan atau denda, dan sebagian sudah melewati usia sekolah | Sama dengan di atas | • K: Paham ketentuan keanggotaan sukarela, seleksi, dan masa bakti.<br>• S: Mampu merancang rekrutmen terbuka dan seleksi sederhana.<br>• A: Terbuka terhadap anggota baru dari semua dusun. | • K: Mengira masa jabatan lima tahun dan tidak mengetahui mekanisme seleksi.<br>• S: Belum pernah merekrut anggota.<br>• A: Sudah menginginkan regenerasi. | • K: Ketentuan penyelenggaraan Forum Anak tentang keanggotaan dan kepengurusan.<br>• S: Menyusun rancangan rekrutmen dan bermain peran wawancara seleksi.<br>• A: Memperkuat keinginan yang sudah ada melalui rencana tindak lanjut. | Wawancara pengurus inti, studi dokumen peraturan |
+80: | Usulan kegiatan berhenti di perantara, dan pengurus tidak mengenali aktor yang dapat mendukung forum | Sama dengan di atas | • K: Paham peta aktor desa dan peran masing-masing.<br>• S: Mampu menyusun dan menyampaikan usulan kegiatan secara langsung.<br>• A: Percaya diri berbicara dengan orang dewasa. | • K: Menganggap kepala desa sebagai satu-satunya pendukung dan tidak melihat peran Pak Eki.<br>• S: Menitipkan usulan melalui perantara.<br>• A: Menunggu undangan dari orang dewasa. | • K: Pemetaan aktor desa sederhana.<br>• S: Latihan menyusun usulan singkat dan mempresentasikannya.<br>• A: Debat dan latihan berargumen untuk membangun kepercayaan diri. | Wawancara pengurus inti, data MAP |
+81: 
+82: Peserta menyatakan lebih menyukai permainan, diskusi kelompok berbasis masalah, dan debat dibandingkan ceramah. Ketiga bentuk ini dipakai sebagai metode utama dalam materi di atas.
+83: 
+84: ## 3.4 Simpulan Analisis Kebutuhan TNA & Rekomendasi Intervensi
+85: 
+86: **Tabel 2.4: Matriks Pemisahan Kebutuhan Pelatihan vs Non-Pelatihan**
+87: 
+88: | Kategori Kebutuhan | Faktor Penyebab / Gap | Bentuk Intervensi Rekomendasi | Penanggung Jawab / Mitra Komunitas |
+89: |---|---|---|---|
+90: | 1. Kebutuhan Pelatihan (Training Needs) | Pengurus belum mampu menjalankan struktur organisasi, belum mampu merancang rekrutmen dan regenerasi, dan belum mampu memetakan serta mendekati aktor desa yang mendukung | Pelatihan partisipatif dalam beberapa sesi pendek pada hari Minggu: simulasi rapat, penyusunan uraian tugas, bermain peran seleksi, pemetaan aktor, latihan menyampaikan usulan, dan debat | Tim mahasiswa sebagai fasilitator, Pak Eki sebagai narasumber sesi pemetaan aktor |
+91: | 2. Kebutuhan Non-Pelatihan (Non-Training Needs) | Pembinaan dari pemerintah desa tidak berjalan setelah SK terbit. Forum tidak memiliki anggaran, dan surat kegiatan tidak keluar. Ketua tidak aktif. Rekrutmen awal tidak melalui seleksi dan tidak sepenuhnya sukarela | Kesepakatan pembinaan dengan kepala desa melalui Pak Eki. Penataan ulang kepengurusan, termasuk penggantian pengurus yang tidak aktif dengan persetujuan paling sedikit separuh pengurus. Pembentukan tim seleksi untuk rekrutmen berikutnya. Kejelasan anggaran dan alur surat kegiatan | Kepala desa sebagai pembina, pendamping Forum Anak, dan Pak Eki |
+92: 
+93: Ketentuan Forum Anak memberi dasar bagi kedua jenis kebutuhan ini. Pengurus dan anggota berhak memperoleh peningkatan kapasitas terkait hak anak, sedangkan pendamping bertugas menyiapkan kepengurusan dan meningkatkan kapasitas anak dalam menjalankan perannya. Peraturan yang sama mengizinkan perubahan kepengurusan dalam masa jabatan apabila pengurus tidak aktif atau kegiatan forum tidak berjalan baik, dengan persetujuan paling sedikit 50% pengurus (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Pelatihan menyiapkan pengurus untuk menggunakan ruang tersebut, sedangkan kesepakatan pembinaan memastikan ruang itu benar-benar dibuka.
+94: 
+95: Perencanaan program belum dijadikan materi pelatihan. Forum yang belum memiliki struktur yang berjalan dan anggota baru belum dapat menjalankan program secara berkelanjutan, sehingga pelatihan perencanaan program lebih tepat diberikan setelah kepengurusan tertata.
+96: 
+97: # Daftar Pustaka
+98: 
+99: Hidayatie, A. (2025, 15 September). *Kejapanan-Gempol, desa ke-20 dinilai Lomba Kampung Pancasila: Harmoni warga dan 4 gereja*. JatimSatuNews. https://jatimsatunews.com/2025/09/kejapanan-gempol-desa-ke-20-dinilai.html
+100: 
+101: *Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025 tentang Penyelenggaraan Partisipasi Anak melalui Forum Anak*. (2025). https://peraturan.bpk.go.id/Details/318209/permen-pppa-no-3-tahun-2025
+102: 
+103: Pemerintah Desa Kejapanan. (t.t.). *Visi dan misi*. Diakses 29 Oktober 2026, dari https://sites.google.com/view/kantor-desa-kejapanan/profil-desa/visi-dan-misi
+
+hook: PreToolUse
+hook: PreToolUse
+mcp: hound/mcp_smart_fetch started
+hook: PreToolUse Completed
+mcp: hound/mcp_smart_fetch (completed)
+hook: PreToolUse Failed
+exec
+/usr/bin/bash -lc "rg -n '"'^#|5'"\\.2|6\\.4|7\\.4|Forum Anak|fishbone|APKL|USG' 'Makalah Social Mapping Desa Kejapanan.md'" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+1:# Asesmen Social Mapping dan Need Analysis Desa
+3:## Desa Kejapanan
+13:# 1. Pendahuluan
+15:## 1.1 Latar Belakang
+27:## 1.2 Tujuan Asesmen
+36:| 4 | Menetapkan prioritas dengan APKL dan USG. | Masalah mana yang paling aktual, problematik, berdampak luas, layak, mendesak, serius, dan berpotensi memburuk? |
+37:| 5 | Menjelaskan akar penyebab melalui fishbone. | Mekanisme apa yang memproduksi dan mempertahankan masalah prioritas? |
+39:Kelima tujuan khusus disusun berurutan karena hasil setiap tujuan menjadi bahan bagi tujuan berikutnya. Profil demografi dan struktur sosial (tujuan 1) diuraikan pada Bab 3, sedangkan aktor dan relasi kuasa (tujuan 2) dianalisis pada Bab 4. Bab 5 menyajikan inventarisasi sumber daya dan masalah melalui MAP (tujuan 3). Masalah yang terkumpul kemudian disaring dengan APKL dan diprioritaskan dengan USG pada Bab 6 (tujuan 4). Akar penyebab masalah prioritas ditelusuri melalui analisis fishbone pada Bab 7 (tujuan 5). Urutan ini mengikuti rangkaian asesmen MAP, APKL, USG, dan fishbone yang mendahului kesimpulan asesmen dan rencana intervensi (Pambudi, 2026).
+41:## 1.3 Identitas Umum Desa
+53:# 2. Metodologi Asesmen
+55:## 2.1 Desain dan Strategi Pengumpulan Data
+57:Asesmen memakai pendekatan kualitatif-partisipatif yang memadukan data sekunder dan data primer. Data sekunder (statistik BPS, dokumen Desa Cantik 2024, proposal pemerintah desa, dan pemberitaan) dipakai lebih dulu untuk menyusun gambaran awal dan bahan pertanyaan. Data primer kemudian dikumpulkan melalui wawancara mendalam dengan aktor kunci desa dan observasi lapangan di dusun-dusun yang dikunjungi. Hasilnya dipadukan dalam MAP, analisis aktor, APKL, USG, dan fishbone.
+67:## 2.2 Komposisi Partisipan
+77:## 2.3 Keterbatasan Metodologis
+83:# 3. Gambaran Desa dan Analisis Demografi
+85:## 3.1 Profil Wilayah
+96:## 3.2 Struktur Penduduk
+104:| Usia 8-18 | 4.142 (19,2%) | 2.063 | 2.079 | Kelompok usia terdekat dengan sasaran Forum Anak yang datanya tersedia. Mencakup penduduk berusia 18 tahun dan bukan jumlah anggota forum | Tabel demografi desa |
+110:# 4. Analisis Aktor dan Relasi Kuasa
+112:## 4.1 Identifikasi Aktor
+128:| Forum Anak dan Lingkungan | Wadah partisipasi anak | Legitimasi kelembagaan, belum aktif | Anak di tiap dusun |
+130:## 4.2 Actor Map
+138:Aktor eksternal terhubung ke desa terutama lewat kepala desa, bukan langsung ke warga. Lembaga seperti Karang Taruna dan Forum Anak dan Lingkungan ada di peta secara kelembagaan, tetapi relasinya dengan aktor lain tipis karena belum aktif. Implikasinya, akses ke warga paling efektif melalui kanal formal (kepala desa, kasun, sekolah), lalu ditindaklanjuti melalui tokoh di tiap dusun. Peta disusun dari keterangan wawancara, sehingga beberapa label, seperti "DPD" dan "Jawara", belum terverifikasi. Peta juga mencantumkan Tabeyan sebagai dusun dan belum memuat Balun (lihat 3.1).
+140:## 4.3 Power-Interest Grid
+165:| 11 | Forum Anak dan Lingkungan | Rendah | Rendah | Terbentuk dengan perwakilan di setiap dusun, tetapi belum aktif berkegiatan menurut temuan lapangan kelompok. Penilaian *interest* memakai keaktifan kelembagaan sebagai proksi. |
+167:Dua catatan diperlukan untuk membaca grid ini. Pertama, penilaian aktor selain kepala desa dan Pak Eki bersifat sementara. Untuk Karang Taruna dan Forum Anak, keaktifan kelembagaan dipakai sebagai proksi *interest* karena kepentingan pengurus dan anggotanya belum digali secara langsung. Proksi ini tidak sempurna, sebab lembaga yang tidak aktif tetap dapat memiliki kepentingan yang besar apabila hambatannya terletak pada pengelolaan dan peluang, sebagaimana dibahas pada bagian 7.4. Untuk pelaku UMKM dan perwakilan perempuan, penilaian *power* rendah berarti tidak ditemukan bukti pengaruh di tingkat desa, bukan bukti bahwa pengaruh informal mereka tidak ada. Kedua, tiga sel grid kosong. Tidak ditemukan aktor yang berkekuatan tinggi atau menengah tetapi tidak berkepentingan terhadap pembangunan desa, dan tidak ditemukan pula aktor berkekuatan rendah dengan kepentingan menengah. Sebaliknya, kolom *interest* tinggi terisi oleh aktor dari ketiga tingkat kekuatan. Persebaran ini ditafsirkan lebih lanjut pada bagian 4.5.
+169:## 4.5 Interpretasi Struktur Kuasa
+179:Bagian bawah grid menunjukkan pihak yang paling jauh dari pengambilan keputusan. Pelaku UMKM dan perwakilan perempuan berkepentingan tinggi, tetapi pengaruh mereka di tingkat desa tidak ditemukan dalam asesmen ini, sedangkan Karang Taruna dan Forum Anak berkuasa rendah dan belum aktif. Suara kelompok ini tidak otomatis sampai ke rapat desa yang hanya diisi segelintir pembicara. Dalam struktur yang terpecah per wilayah, suara mereka cenderung bergantung pada perantaraan kepala dusun, RW, dan RT sebelum mencapai tingkat desa.
+183:# 5. MAP: Pemetaan Resources dan Problem
+185:## 5.1 Inventarisasi Sumber Daya
+189:| Manusia | Pak Eki (Ketua Pokdarwis), kepala desa, pelaku UMKM pia, bebek dan telur asin, batik, ecobrick, dan keset, anggota Forum Anak, serta tenaga kerja industri rumahan | Individu, kelompok usaha, pemerintah desa | Terbuka bagi warga setempat. Forum Anak menjadi wadah bagi anak dan remaja | Keterampilan produksi dan usaha sudah berkembang. Forum Anak memiliki perwakilan di setiap dusun, tetapi belum aktif berkegiatan | Wawancara dan observasi |
+191:| Kelembagaan | Pemerintah desa, BPD, LPMD, Karang Taruna, Pokdarwis, Forum Anak, POKMAS, Kampung KB, sekolah, pesantren, dan Kopdes | Pemerintah desa dan masing-masing lembaga | Terbuka. Forum Anak menyasar anak dan remaja, sedangkan Karang Taruna menyasar pemuda | Struktur kelembagaan tersedia, tetapi Karang Taruna stagnan dan Forum Anak belum aktif berkegiatan | Wawancara dan observasi |
+197:## 5.2 Inventarisasi Masalah
+201:| 1. Rendahnya keaktifan dan keberfungsian Forum Anak sebagai wadah partisipasi anak, meskipun secara kelembagaan sudah terbentuk. | Anak di Desa Kejapanan, pengurus dan pendamping Forum Anak | Wawancara dan observasi, informasi mengenai Forum Anak dan status Desa Ramah Anak (Hidayatie, 2025) |
+207:# 6. Prioritas Masalah: APKL dan USG
+209:## 6.1 Analisis APKL
+211:Setiap indikator dinilai dengan skala 1 sampai 5 sehingga skor maksimal adalah 20. Dalam rangkaian asesmen, APKL berfungsi untuk menyaring masalah, sedangkan USG menentukan skala prioritas (Pambudi, 2026). Skor APKL dan USG diberikan oleh kelompok berdasarkan data wawancara, observasi, dan dokumen, dan belum divalidasi bersama warga.
+213:**Analisis APKL Masalah 1: Rendahnya keaktifan Forum Anak**
+217:| A         | 5      | Forum Anak sudah terbentuk, tetapi belum pernah menjalankan program. Kondisi ini sedang terjadi dan ditemukan melalui wawancara dan observasi. Kesenjangan ini menonjol karena, menurut pernyataan kepala desa dalam pemberitaan, Kejapanan berstatus Desa Ramah Anak sejak Juli 2025 (Hidayatie, 2025).                                                              |
+223:**Analisis APKL Masalah 2: Stagnasi Karang Taruna**
+233:**Analisis APKL Masalah 3: Jangkauan partisipasi lintas dusun belum merata**
+243:**Analisis APKL Masalah 4: Keterbatasan sumber daya pengelola peluang baru**
+253:**Analisis APKL Masalah 5: Dominasi partisipasi dalam musyawarah desa**
+263:## 6.2 Matriks Skoring APKL
+267:| 1   | Rendahnya keaktifan Forum Anak                  | 5   | 4   | 3   | 5   | 17        | A5: Forum Anak belum pernah menjalankan program menurut wawancara dan observasi, berbeda dengan status Desa Ramah Anak sejak Juli 2025. P4: forum terbentuk secara kelembagaan, tetapi belum berfungsi sebagai wadah partisipasi anak. K3: kelompok usia 8-18 tahun berjumlah 4.142 jiwa atau sekitar 19% penduduk. L5: forum sudah memiliki struktur serta pendamping dari pemerintah desa dan SDN Kejapanan V. | 1         |
+273:Masalah dengan total skor yang sama diberi peringkat yang sama karena APKL berfungsi sebagai penyaring, bukan penentu prioritas akhir (Pambudi, 2026). Kelima masalah dilanjutkan ke analisis USG.
+275:## 6.3 Matriks Skoring USG
+277:USG menilai seberapa mendesak suatu masalah, seberapa serius dampak yang dapat ditimbulkannya, dan seberapa besar kemungkinan masalah memburuk apabila tidak segera ditangani, dengan skala 1 sampai 5. Masalah dengan skor tertinggi menjadi isu yang dibahas lebih lanjut dan dicarikan penanganannya (Pambudi, 2026). Slide perkuliahan tidak merinci arti setiap angka, sehingga kelompok menetapkan patokan berikut agar kelima masalah diukur dengan cara yang sama. *Urgency* diukur dari akibat penundaan terhadap kesempatan pihak terdampak. *Seriousness* diukur dari dampak masalah dan keterkaitannya dengan masalah lain hasil MAP. Keterkaitan hanya dihitung apabila hubungan sebabnya teramati dalam data lapangan, bukan dari manfaat yang diharapkan dari intervensi. *Growth* diukur dari arah perubahan kondisi apabila masalah dibiarkan.
+287:**Analisis USG Masalah 1: Rendahnya keaktifan Forum Anak**
+291:| *Urgency*     | 4      | Keanggotaan Forum Anak berakhir ketika anak berusia 18 tahun, dan kepengurusannya hanya terbuka bagi anak berusia 12 sampai 17 tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Selama forum tidak berkegiatan, setiap tahun ada anak di desa yang melewati batas usia tersebut tanpa pernah berpartisipasi melalui forum, dan kesempatan itu tidak dapat diperoleh kembali. Kondisinya tidak bersifat darurat. |
+292:| *Seriousness* | 5      | Anak kehilangan saluran partisipasi melalui Forum Anak, padahal desa berstatus Desa Ramah Anak. Data lapangan menunjukkan bahwa masalah ini berkaitan dengan dua masalah lain. Kegiatan desa yang terpusat (Masalah 3) dan Karang Taruna yang stagnan (Masalah 2) sama-sama ikut melemahkan forum (Bab 7).                                                                                                                                                        |
+296:**Analisis USG Masalah 2: Stagnasi Karang Taruna**
+301:| *Seriousness* | 4      | Kegiatan kepemudaan menurun. Masalah ini berkaitan dengan Masalah 1 karena Forum Anak kehilangan mitra yang dapat mendampingi kegiatan anak dan remaja (Bab 7).                                                                                                         |
+305:**Analisis USG Masalah 3: Jangkauan partisipasi lintas dusun belum merata**
+310:| *Seriousness* | 4      | Ketimpangan akses kegiatan menurunkan rasa memiliki warga di dusun yang kurang terjangkau. Masalah ini berkaitan dengan Masalah 1 karena kegiatan yang terpusat ikut menghambat Forum Anak (Bab 7).        |
+314:**Analisis USG Masalah 4: Keterbatasan sumber daya pengelola peluang baru**
+323:**Analisis USG Masalah 5: Dominasi partisipasi dalam musyawarah desa**
+332:**Rekapitulasi USG**
+336:| 1   | Rendahnya keaktifan Forum Anak                  | 4   | 5   | 4   | 13        | Masa kesempatan anak pendek. Berkaitan dengan Masalah 2 dan Masalah 3. Perwakilan yang tersisa akan hilang tanpa regenerasi. | 1         |
+342:Selisih antara Masalah 1 dan Masalah 2 terutama berasal dari skor S. Apabila S pada Masalah 1 diturunkan menjadi 4, totalnya menjadi 12 dan tetap tertinggi. Apabila diturunkan menjadi 3, totalnya sama dengan Masalah 2, yaitu 11. Untuk total yang sama, peringkat ditentukan berturut-turut oleh skor U, skor S, dan skor L pada APKL, sehingga Masalah 1 tetap berada di peringkat pertama karena skor U-nya lebih tinggi.
+344:## 6.4 Konsolidasi Keputusan Prioritas
+346:| Masalah                                         | Skor APKL | Skor USG | Justifikasi                                                                                                                                                                         | Keputusan     |
+348:| Rendahnya keaktifan Forum Anak                  | 17        | 13       | Skor tertinggi pada APKL dan USG. Masa kesempatan anak pendek, masalah ini berkaitan dengan Masalah 2 dan Masalah 3, dan kelembagaannya sudah tersedia sebagai titik awal.          | Utama         |
+349:| Stagnasi Karang Taruna                          | 15        | 11       | Berhubungan dua arah dengan Forum Anak. Perbaikannya bergantung pada dinamika internal Karang Taruna, sehingga lebih tepat menjadi mitra dan fokus lanjutan.                        | Cadangan      |
+350:| Jangkauan partisipasi lintas dusun belum merata | 15        | 10       | Cakupannya paling luas, tetapi menuntut koordinasi 12 dusun, 27 RW, dan 152 RT di luar kewenangan kelompok. Sebagian dapat dijangkau melalui perwakilan Forum Anak di setiap dusun. | Cadangan      |
+354:Masalah 1 didahulukan terutama karena kesempatan yang hilang selama penundaan tidak dapat diperoleh kembali. Anak hanya dapat menjadi anggota Forum Anak sampai berusia 18 tahun, dan kepengurusannya terbatas pada usia 12 sampai 17 tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Setiap tahun forum tidak berkegiatan, sebagian anak di desa melewati masa itu. Karang Taruna juga memiliki batas usia, tetapi rentangnya 16 sampai 30 tahun (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025), sehingga pemuda yang terlewat masih memiliki waktu untuk terlibat ketika organisasi dibenahi. Panjang masa kesempatan itulah yang membedakan skor U kedua masalah.
+356:Data lapangan menunjukkan arah hubungan yang jelas: kegiatan desa yang terpusat dan Karang Taruna yang stagnan ikut melemahkan Forum Anak (Bab 7). Arah sebaliknya, yaitu pengaruh forum yang aktif terhadap masalah lain, belum teramati dan karena itu diuraikan sebagai kemungkinan. Kemungkinan yang paling dapat dipertanggungjawabkan menyangkut Karang Taruna. Setiap generasi muda berusia 16 sampai 30 tahun otomatis menjadi warga Karang Taruna (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025), sehingga anggota Forum Anak yang berusia 16 dan 17 tahun sudah tercatat sebagai warga organisasi tersebut. Status ini tidak berarti mereka aktif. Namun, anak yang pernah mengurus forum dapat diduga lebih siap terlibat ketika Karang Taruna dibenahi. Peraturan tentang Forum Anak juga mensyaratkan fasilitator forum berusia 18 sampai 24 tahun dan pernah menjadi pengurus Forum Anak, meskipun pengecualian diizinkan apabila syarat tersebut tidak dapat dipenuhi (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025).
+358:Pengaruh terhadap Masalah 3 lebih lambat. Forum Anak memiliki perwakilan di setiap dusun, sehingga kegiatannya mempertemukan anak dari dusun yang berbeda. McMillan dan Chavis (1986) menjelaskan bahwa keanggotaan dalam komunitas mencakup rasa memiliki dan identifikasi diri sebagai bagian dari kelompok, dan bahwa interaksi yang sering memperbesar kemungkinan anggota menjadi dekat. Atas dasar itu, kegiatan forum berpotensi menumbuhkan rasa memiliki anak terhadap desa secara keseluruhan, tidak hanya terhadap dusunnya. Potensi ini menyasar generasi berikutnya dan tidak mengubah ego wilayah orang dewasa saat ini.
+360:Hubungan dengan Masalah 4 dan Masalah 5 lebih tidak langsung lagi. Forum Anak berfungsi sebagai sarana bagi anak untuk menyampaikan suaranya kepada pengambil keputusan (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Anak yang terbiasa berpendapat di forum dapat menambah jumlah warga yang bersuara dalam musyawarah setelah dewasa, tetapi dampak ini baru terlihat setelah bertahun-tahun. Karang Taruna dapat membentuk unit teknis di bidang ekonomi (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025). Apabila alumni forum aktif di Karang Taruna, unit seperti ini dapat menjadi jalan bagi pemuda untuk ikut mengelola kafe desa dan hidroponik. Bagi anggota yang masih berusia anak, kedua aset itu hanya diposisikan sebagai ruang belajar dan berkegiatan, misalnya kebun hidroponik sebagai proyek belajar, kafe desa sebagai tempat pertemuan forum, atau kegiatan *outbound* di lingkungan desa. Anak tidak ditempatkan sebagai tenaga kerja.
+362:Dari sisi kemampuan kelompok, Masalah 1 memiliki titik awal yang paling jelas. Forum sudah memiliki SK, perwakilan di setiap dusun, serta pendamping dari pemerintah desa dan SDN Kejapanan V, tetapi belum memiliki program. Kelompok dapat memfasilitasi penyusunan program bersama anak. Peraturan tentang Forum Anak mengenal partisipasi konsultatif, kolaboratif, dan dipimpin oleh anak dengan proses yang difasilitasi orang dewasa (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Fasilitasi kelompok diarahkan pada bentuk kolaboratif yang bertahap beralih ke bentuk yang dipimpin anak, sehingga gagasan seperti pelatihan kepemimpinan, debat, klub buku, atau *outbound* menjadi pilihan yang diputuskan anggota forum. Pembenahan tata kelola, seperti kejelasan anggaran, pendataan anggota, dan evaluasi, berada di luar kewenangan kelompok. Bagian ini memerlukan komitmen kepala desa sebagai pembina dan pendamping forum, sehingga intervensi perlu dimulai dengan kesepakatan bersama mereka.
+364:Hubungan dua arah tersebut juga berarti bahwa menghidupkan Forum Anak tidak serta-merta menyelesaikan Masalah 2 dan Masalah 3. Keduanya ditetapkan sebagai cadangan karena kondisi wilayah dan Karang Taruna ikut menentukan berhasil tidaknya intervensi pada Masalah 1.
+366:# 7. Analisis Fishbone
+368:![[Gambar 4 - Fishbone Forum Anak Desa Kejapanan.png]]
+370:**Gambar 4.** Diagram fishbone penyebab Forum Anak Desa Kejapanan belum pernah menjalankan program
+373:## 7.4 Sintesis Fishbone
+375:Gambar 4 menguraikan Masalah 1 dalam wujudnya yang paling konkret, yaitu Forum Anak yang belum pernah menjalankan program sejak dibentuk. Penyebab yang ditemukan melalui wawancara dan observasi kelompok dikelompokkan berdasarkan kondisi yang digambarkannya, lalu setiap kelompok dinamai sesuai keadaan di Desa Kejapanan. Slide perkuliahan menyebut individu, organisasi, relasi kuasa, norma sosial, struktur peluang, dan tata kelola sebagai kategori yang digunakan sesuai konteks (Pambudi, 2026), sehingga kategori dalam analisis ini disusun dari data. Beberapa temuan awal tidak dimasukkan ke dalam diagram. Waktu yang tersita kegiatan sekolah dan prestasi akademik yang diutamakan dialami hampir semua anak usia sekolah, sehingga keduanya tidak menjelaskan mengapa forum di Kejapanan khususnya tidak berjalan. Program yang kurang menarik, tidak adanya kegiatan unggulan, manfaat yang tidak dirasakan, dan motivasi anak yang rendah juga dikeluarkan karena penilaian semacam itu mengandaikan adanya program, sedangkan forum ini belum pernah menjalankannya.
+377:Tiga kategori diperlakukan sebagai akar masalah karena ketiganya berada dalam jangkauan forum dan pembinanya. Kategori pertama memperlihatkan forum yang dibentuk untuk status. Forum Anak Desa dipaparkan sebagai capaian desa, berdampingan dengan status Desa Ramah Anak (Hidayatie, 2025), tetapi pembentukannya berhenti pada penerbitan SK. Kategori kedua, tanpa pembinaan dan pengelolaan, menjelaskan mengapa forum tidak bergerak setelah SK terbit. Menurut temuan lapangan kelompok, pendamping dari pemerintah desa dan SDN Kejapanan V memang ada, tetapi pendampingan itu belum terencana. Kelompok juga tidak menemukan kejelasan anggaran, data anggota, maupun evaluasi, dan regenerasi pengurus tidak berjalan. Padahal, peraturan tentang Forum Anak menempatkan forum sebagai wadah partisipasi anak yang dibina oleh pemerintah dan menugaskan pendamping untuk memantau, mengevaluasi, serta memastikan pendanaan kegiatannya (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Kelompok menduga kedua kategori ini saling menguatkan: forum yang dibentuk terutama untuk dicatat tidak mendorong pembinaan, dan forum yang tidak dibina tidak pernah menghasilkan program.
+381:Kategori keempat, lingkungan desa yang belum menopang, berada di luar forum. Isinya adalah kegiatan desa yang terpusat di wilayah tertentu (Masalah 3), akses antardusun yang dinilai cukup jauh, ruang kumpul anak yang minim, dan Karang Taruna yang stagnan sehingga forum tidak memiliki mitra (Masalah 2). Kondisi ini memperberat ketiga akar, tetapi tidak menjelaskan mengapa forum tidak pernah memulai program. Kategori ini juga memperlihatkan hubungan dua arah yang dibahas pada bagian 6.4 dan sejalan dengan struktur kuasa yang terpecah per wilayah pada bagian 4.5. Akar masalahnya dirumuskan sebagai berikut: Forum Anak berdiri sebagai bagian dari capaian status desa tanpa sistem pembinaan dan pengelolaan yang berkelanjutan, dan tanpa ruang yang memberi anak peran nyata dalam menentukan kegiatan serta keputusan. Pembenahannya memerlukan kesepakatan pembinaan dengan kepala desa, yang menurut peraturan tentang Forum Anak berkedudukan sebagai pembina di tingkat desa, dan dengan pendamping forum. Program pertama forum kemudian disusun bersama anak melalui partisipasi kolaboratif yang bertahap menuju partisipasi yang dipimpin anak (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Modal lain yang tersedia adalah status Desa Ramah Anak dan perpustakaan desa (Hidayatie, 2025), serta pendampingan dari SDN Kejapanan V dan perwakilan forum di setiap dusun menurut temuan lapangan kelompok. Hubungan sebab-akibat dalam fishbone ini masih perlu dikonfirmasi langsung dengan anak, pengurus, dan pendamping forum.
+383:# Daftar Pustaka
+401:*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025 tentang Penyelenggaraan Partisipasi Anak melalui Forum Anak*. (2025). https://peraturan.bpk.go.id/Download/379645/permen-pppa-no-3-tahun-2025.pdf
+
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+import zipfile,xml.etree.ElementTree as E
+base=Path('working/Training Need Assessment Forum Anak Desa Kejapanan')
+for name in ['Wawancara pengurus Forum Anak.working.md','Keputusan dokumen.working.md','source-ledger.md']:
+ p=base/name
+ print('\\nFILE',p)
+ for i,l in enumerate(p.read_text().splitlines(),1): print(f'{i}: {l}')
+p=Path('/home/suji/document/college/intervensi komunitas/assignments/intervensi komunitas_format tna.docx')
+print('\\nTEMPLATE',p)
+ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+with zipfile.ZipFile(p) as z:
+ root=E.fromstring(z.read('word/document.xml'))
+ for el in root.find('w:body',ns):
+  if el.tag.endswith('}p'): print(''.join(el.itertext()) if False else ''.join(t.text or '' for t in el.findall('.//w:t',ns)))
+  elif el.tag.endswith('}tbl'):
+   for row in el.findall('w:tr',ns): print(' | '.join(' / '.join(''.join(t.text or '' for t in par.findall('.//w:t',ns)) for par in cell.findall('w:p',ns)) for cell in row.findall('w:tc',ns)))
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+
+FILE working/Training Need Assessment Forum Anak Desa Kejapanan/Wawancara pengurus Forum Anak.working.md
+1: # Working: Wawancara pengurus Forum Anak (28 Oktober 2026)
+2: 
+3: ## Status sumber
+4: 
+5: - Rekaman: wawancara kelompok dengan pengurus inti Forum Anak Desa Kejapanan, 28 Oktober 2026 malam, di Chance Cafe **[cek ejaan]**, sekitar 94 menit.
+6: - Transkrip mentah (faster-whisper large-v3-turbo, belum dikoreksi) disimpan di luar vault: `~/Downloads/WhatsApp Audio 2026-10-28 at 21.25.35.txt`. Rentang 04:40 sampai 08:17 ditranskripsi ulang karena putaran berulang. Sekitar 04:44 sampai 05:10 tetap hilang.
+7: - Informan dijanjikan anonimitas, dan sebagian masih berusia anak. Vault ini publik. Catatan ini hanya memakai peran, bukan nama. Rincian yang diminta informan untuk tidak disebarkan tidak dicatat di sini.
+8: - Semua butir di bawah adalah bacaan awal atas transkrip yang banyak salah dengar. Butir bertanda **[cek]** menunggu konfirmasi Suji.
+9: 
+10: ## Informan
+11: 
+12: - Tiga pengurus inti: wakil ketua, bendahara, dan sekretaris (dikonfirmasi Suji).
+13: - Masih bersekolah (SMA kelas 12 dan SMK). Salah satu informan berasal dari Penanggungan. Seorang informan pernah ikut Forum Anak tingkat kecamatan dan kabupaten melalui rekrutmen bertes di kecamatan.
+14: 
+15: ## Temuan per tema
+16: 
+17: ### Pembentukan
+18: 
+19: - Anak diminta mewakili tiap RW atau dusun (minimal dua anak) untuk ikut kegiatan *camping fun* sekitar Hari Anak (22 Juli 2025). Mereka tidak tahu akan dijadikan anggota Forum Anak. Pembentukan difasilitasi mahasiswa KKN UM.
+20: - Kepala desa awalnya menyebut kelompok ini "posyandu remaja", lalu namanya diganti menjadi Forum Anak (dikonfirmasi Suji).
+21: - Sekitar seminggu setelah pembentukan ada acara yang dianggap peresmian dengan bupati atau ibu bupati. Informan menyebut "10 Agustus", tetapi maknanya (tanggal SK atau pembentukan) tidak diketahui, sehingga tanggal ini tidak dipakai.
+22: - Alasan pembentukan yang dipahami informan: desa memperoleh status Desa Ramah Anak pada 2025, dan pembentukan dilakukan "biar ada SK-nya turun". Informan sendiri tidak yakin tentang status Desa Ramah Anak.
+23: - Pemilihan ketua dan wakil disampaikan oleh pembina tanpa proses yang jelas. Ketua (perempuan) tidak punya pengalaman memimpin organisasi. Suji menilai kompetensi kepemimpinannya rendah, dan ketua yang tidak aktif diperlakukan sebagai hambatan nyata dalam TNA, ditulis secara anonim.
+24: 
+25: ### Keanggotaan dan regenerasi
+26: 
+27: - SK memuat sekitar 30 sampai 36 nama **[cek angka]**. Yang aktif hanya dua sampai empat pengurus inti.
+28: - Batas usia yang disebut informan 10 sampai 18 tahun.
+29: - Sekitar separuh anggota sudah bekerja atau kuliah (sebagian di luar kota). Yang masih SMA hanya empat sampai lima orang, sisanya SMP. Diperkirakan hanya sepertiga yang masih dapat diajak.
+30: - Tidak ada rekrutmen maupun kriteria. RW menunjuk anak tanpa seleksi. Informan menilai regenerasi sebagai kebutuhan paling penting.
+31: 
+32: ### Struktur dan tata kelola internal
+33: 
+34: - SK memuat ketua, wakil, dan divisi, tetapi pembagian tugas tidak jelas dan hierarki dirasakan kabur.
+35: - Tahun ini belum pernah ada rapat pengurus inti. Grup WhatsApp ada tetapi tidak aktif.
+36: - Masa jabatan dipahami lima tahun, mengikuti periode kepala desa **[cek]**.
+37: - Ketua sulit dihubungi karena bekerja. Anggota enggan menyampaikan kritik secara langsung demi menjaga pertemanan.
+38: - Tidak ada kas. Tidak ada anggaran khusus setelah pembentukan.
+39: - Untuk mengajukan kegiatan, forum memerlukan surat dari desa. Pengajuan disampaikan melalui perantara, bukan langsung kepada kepala desa, dan suratnya tidak keluar.
+40: 
+41: ### Pembina, pendamping, dan aktor sekitar
+42: 
+43: - Pembina dan pendamping dipahami sebagai pihak yang sama, yaitu beberapa mantan pengurus Karang Taruna. Sebagian sudah tidak aktif. Satu pendamping kini lebih aktif merangkul forum.
+44: - Karang Taruna sendiri belum terbentuk resmi karena masa jabatan ketuanya habis. Musyawarah pemuda untuk membentuknya kembali dijadwalkan sekitar Sumpah Pemuda **[cek tanggal]**.
+45: - Kepala desa dinilai mendukung anak muda, sering mengirim ajakan melalui grup, dan pernah mendorong forum membuat program sendiri. Gagasan kepala desa: sosialisasi ke SD tentang keselamatan anak, bahaya gim, dan kenakalan remaja. Gagasan ini belum terlaksana.
+46: - Pak Eki (Pokdarwis) pernah mengajak anggota berkumpul dan meminta masukan.
+47: - Perangkat desa dan kasun di luar itu tidak dikenal dekat oleh informan.
+48: 
+49: ### Kegiatan selama ini
+50: 
+51: - Sebagian besar kegiatan berupa diundang membantu acara desa: lomba 17-an, karnaval, festival Harmoni, *camping fun* kedua (mendampingi anak bimbel), sosialisasi di posyandu, dan *fashion show* bersama KKN. Peran forum sering hanya pendukung atau dokumentasi.
+52: - Program yang dirancang forum sendiri hanya satu, yaitu lomba anak pada festival Harmoni. Jumlah lomba dipangkas oleh orang dewasa dari rencana awal. Undangan disebar per dusun, tetapi hanya beberapa dusun yang datang **[rincian dana sengaja tidak dicatat]**.
+53: - Pernah ada konflik dengan mahasiswa KKN pada awal pembentukan yang membuat satu anggota pulang.
+54: 
+55: ### Kebutuhan pelatihan yang diungkapkan informan
+56: 
+57: - **Materi:** keorganisasian, yaitu struktur dan pembagian divisi yang jelas, serta rekrutmen dan regenerasi dengan seleksi (tes, wawancara).
+58: - **Metode:** permainan, diskusi kelompok berbasis masalah, dan debat sebagai latihan berargumen. Ceramah murni kurang diminati.
+59: - **Waktu:** Minggu paling aman karena Sabtu masih sekolah. Hari biasa hanya mungkin sepulang sekolah **[cek jam]**.
+60: - **Tempat:** Lumbung, tempat favorit anak, pendopo balai desa (sempit dan panas), posyandu, atau kafe desa.
+61: - **Motivasi:** informan senang berkumpul dan menyatakan sanggup, tetapi keberlanjutan bergantung pada "atasnya", yaitu ketua dan pihak di atas forum.
+62: 
+63: ## Klarifikasi Suji (29 Oktober 2026)
+64: 
+65: - Dukungan kepala desa yang disebut informan berlaku pada tahun lalu, saat desa memutuskan membentuk Forum Anak. Tahun ini dukungan itu tidak tampak. Penilaian informan bahwa kepala desa "mendukung" dibaca sebagai kegagalan anak mengenali aktor yang benar-benar bermanfaat bagi forum, bukan sebagai bukti bahwa anak memegang kendali.
+66: - Aktor yang sebenarnya bermanfaat tetapi tidak dikenali anak adalah Pak Eki (Ketua Pokdarwis). Ia pernah mengumpulkan anggota dan meminta masukan, dan pengaruhnya setara kepala desa. Dalam TNA, Pak Eki diposisikan sebagai jembatan menuju kepala desa sebagai pembina formal, bukan pengganti.
+67: - Rekrutmen: kepala desa meminta setiap RW mengirim satu sampai dua anak untuk kegiatan *outbound* bernama *camping fun*. Setelah kegiatan, anak-anak itu dijadikan anggota Forum Anak. Sebagian RW mengenakan denda kepada seluruh RT apabila tidak ada anak yang dikirim, sedangkan RW lain langsung menunjuk anak.
+68: 
+69: ## Ketegangan dengan fishbone yang sudah ada
+70: 
+71: - Akar "dibentuk untuk status" diperkuat langsung oleh pernyataan informan bahwa pembentukan dilakukan agar SK turun.
+72: - Akar "anak tidak memegang kendali" tetap berlaku (keputusan Suji). Dukungan kepala desa bersifat sesaat pada masa pembentukan. Anak juga belum mampu memetakan aktor desa yang dapat mendukung forum, sehingga pengajuan kegiatan berhenti di perantara.
+73: - Temuan baru yang belum ada di fishbone: anggota direkrut melalui kegiatan lain tanpa tahu akan dijadikan Forum Anak, sebagian dengan tekanan denda atau penunjukan, tanpa seleksi, dan sebagian besar anggota sudah melewati masa sekolah. Hambatan internal (ketua tidak aktif, struktur kabur) memperberat akar yang sudah ada.
+
+FILE working/Training Need Assessment Forum Anak Desa Kejapanan/Keputusan dokumen.working.md
+1: # Working: Keputusan tingkat dokumen
+2: 
+3: ## Assignment context
+4: 
+5: - Assignment: Format Training Need Assessment (TNA) Komunitas, lanjutan asesmen Desa Kejapanan.
+6: - Course: Intervensi Komunitas.
+7: - Instructions: templat dosen `/home/suji/document/college/intervensi komunitas/assignments/intervensi komunitas_format tna.docx`. Tidak ada rubrik terpisah.
+8: - Section owner: seluruh dokumen dikerjakan sekarang, tanpa pembagian per anggota.
+9: - Pendahulu: `Makalah Social Mapping Desa Kejapanan.md` (fishbone revisi, Bab 7) dan `Laporan Asesmen APKL, USG, dan Fishbone - Forum Anak Desa Kejapanan.md`.
+10: 
+11: ## Keputusan yang sudah dikonfirmasi
+12: 
+13: 1. Tidak ada kunjungan lapangan tambahan (Malang ke Pasuruan 2 sampai 3 jam).
+14: 2. Metode TNA yang dilaporkan hanya yang benar-benar dilakukan: wawancara pengurus inti Forum Anak (28 Oktober 2026, Chance Cafe) dan studi dokumen (SK Forum Anak, laporan asesmen sebelumnya, Permen PPPA 3/2025, pemberitaan). Data MAP sebelumnya (wawancara kepala desa dan Pak Eki, observasi) dipakai sebagai latar. Tidak ada kuesioner baseline, FGD, atau observasi praktik.
+15: 3. Baseline KSA diambil dari wawancara. Keterbatasan dicatat: informan adalah pengurus paling aktif, sehingga baseline menggambarkan inti forum, bukan anggota pasif.
+16: 4. Akar "anak tidak memegang kendali" tetap berlaku. Dukungan kepala desa hanya pada masa pembentukan. Pak Eki adalah aktor bermanfaat yang tidak dikenali anak, diposisikan sebagai jembatan menuju kepala desa.
+17: 5. Ketua forum yang tidak aktif diperlakukan sebagai hambatan nyata, ditulis anonim.
+18: 6. Sasaran pelatihan: pengurus inti Forum Anak dan anggota yang masih bersekolah (SMP dan SMA). Anggota yang sudah bekerja atau kuliah tidak menjadi sasaran.
+19: 7. Kebutuhan pelatihan yang dianalisis: (1) manajemen organisasi, yaitu struktur, tugas divisi, dan rapat internal; (2) rekrutmen dan regenerasi dengan seleksi; (3) literasi aktor dan advokasi, yaitu mengenali aktor desa yang dapat mendukung forum (Pak Eki sebagai jembatan menuju kepala desa) dan menyampaikan usulan kepada mereka. Kepemimpinan ketua tidak dijadikan sasaran pelatihan.
+20: 8. Penempatan temuan di luar pelatihan: Pak Eki juga masuk Tabel 3.1A (baris dukungan tokoh) sebagai strategi pelibatan. Hambatan prosedural (surat desa tidak keluar, perantara, tidak ada anggaran, ketua tidak aktif, belum ada kesepakatan pembinaan) masuk Tabel 2.4 sebagai kebutuhan non-pelatihan. Perencanaan program disebut di 3.4 sebagai kebutuhan yang ditunda sampai struktur dan anggota baru tersedia.
+21: 
+22: ## Batas privasi
+23: 
+24: Vault publik. Nama anak dan rincian yang diminta tidak disebarkan (aliran dana lomba Harmoni, cerita tentang ketua) tidak masuk ke file kanonis maupun working.
+25: 
+26: ## Pertanyaan terbuka
+27: 
+28: - Jumlah nama dalam SK (30 sampai 36). Suji mungkin memegang dokumen SK.
+
+FILE working/Training Need Assessment Forum Anak Desa Kejapanan/source-ledger.md
+1: # Source ledger: TNA Forum Anak Desa Kejapanan
+2: 
+3: Permen = *Peraturan Menteri PPPA Nomor 3 Tahun 2025*, `/home/suji/document/college/intervensi komunitas/sources/other/penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025)/` (PDF asli dari peraturan.bpk.go.id, transkrip `.md` dengan penanda halaman).
+4: 
+5: | ID | Klaim atau penggunaan | Sumber | Dukungan | Lokasi | Status |
+6: |---|---|---|---|---|---|
+7: | P1 | Kepala desa adalah pembina Forum Anak tingkat desa | Permen | Pasal 7 ayat (1) huruf a | hlm. 5 sampai 6 | verified |
+8: | P2 | Pengurus berusia 12 sampai 17 tahun, aktif atas kesadaran sendiri tanpa paksaan, bersedia ikut seleksi | Permen | Pasal 15 ayat (1) huruf a, d, e | hlm. 11 | verified |
+9: | P3 | Pengurus dan anggota berhak atas peningkatan kapasitas terkait hak anak | Permen | Pasal 15 ayat (2), Pasal 17 ayat (3) | hlm. 11 sampai 12 | verified |
+10: | P4 | Anggota terlibat atas kesadaran diri, tanpa paksaan, dengan persetujuan orang tua | Permen | Pasal 17 ayat (2) | hlm. 12 | verified |
+11: | P5 | Masa bakti pengurus paling lama dua tahun, dapat dipilih kembali satu kali | Permen | Pasal 14 ayat (7) | hlm. 11 | verified |
+12: | P6 | Seleksi pengurus: administratif, substantif, wawancara. Struktur disusun melalui musyawarah anggota | Permen | Pasal 22 ayat (1) huruf c, ayat (5) | hlm. 13 sampai 14 | verified |
+13: | P7 | Perubahan kepengurusan bila pengurus tidak aktif atau kegiatan tidak berjalan, disetujui paling sedikit 50% pengurus | Permen | Pasal 23 ayat (2) sampai (4) | hlm. 14 | verified |
+14: | P8 | Forum Anak sebagai sarana strategis partisipasi anak dalam pembangunan | Permen | Pasal 25 | hlm. 15 | verified |
+15: | P9 | Pendamping menyiapkan kepengurusan dan meningkatkan kapasitas anak | Permen | Pasal 11 ayat (3) huruf b dan butir lanjutan di hlm. 9 | hlm. 8 sampai 9 | verified |
+16: | V1 | Visi "Maju Desanya Sejahtera Warganya", misi pembinaan lembaga kemasyarakatan dan peran aktif kelembagaan pemuda | Pemerintah Desa Kejapanan (t.t.), Google Sites desa | Bidang Sosial Ekonomi misi 5, Bidang Kebudayaan dan Kepemudaan misi 2. Situs tidak bertanggal dan periode misi tidak disebut | laman visi dan misi | verified, status resmi situs belum dipastikan |
+17: | H1 | Status Desa Ramah Anak dan perpustakaan desa | Hidayatie (2025) | Dipakai dan diverifikasi pada makalah social mapping | artikel | verified (makalah) |
+18: | W1 | Semua temuan lapangan tentang forum | Wawancara pengurus inti, 28 Oktober 2026 | Lihat `Wawancara pengurus Forum Anak.working.md` | rekaman 00:00 sampai 94:16 | Suji confirmed key points |
+
+TEMPLATE /home/suji/document/college/intervensi komunitas/assignments/intervensi komunitas_format tna.docx
+FORMAT TRAINING NEED ASSESSMENT (TNA) KOMUNITAS
+
+Nama Kelompok / Mahasiswa: | [Isi Nama Anggota Kelompok & NIM]
+Desa / Komunitas Sasaran: | [Isi Nama Desa, Kecamatan, Kabupaten]
+Isu Prioritas Need Assessment (USG): | [Isi Isu Utama yang Terpilih dari Hasil USG & Fishbone]
+Mitra / Kelompok Sasaran Pelatihan: | [Misal: Kader Posyandu / Pengurus Karang Taruna / Anggota PKK / Dll.]
+1. KESINAMBUNGAN DARI NEED ASSESSMENT DESA SEBELUMNYA
+1.1 Sintesis Hasil Need Assessment Sebagai Dasar TNA
+[Petunjuk Pengisian: Jelaskan secara ringkas bagaimana TNA ini bersambung secara logis dari hasil Social Mapping dan Need Analysis yang telah dilakukan sebelumnya. Jelaskan mengapa bentuk intervensi yang dipilih adalah PELATIHAN (training) untuk mengatasi akar masalah tersebut, bukan intervensi non-pelatihan (seperti pembangunan fisik/infrastruktur atau advokasi kebijakan).]
+Berdasarkan hasil Need Assessment awal yang mencakup analisis pemetaan sosial (Social Mapping), identifikasi masalah dan sumber daya (MAP), penapisan isu (APKL & USG), serta analisis akar masalah (Fishbone Diagram), ditetapkan bahwa masalah prioritas utama membutuhkan penanganan pada tingkat kapasitas SDM dan perilaku masyarakat. Oleh karena itu, intervensi difokuskan pada program pelatihan (training). TNA ini disusun untuk mengidentifikasi kebutuhan belajar spesifik dari kelompok sasaran.
+1.2 Matriks Transisi: Hasil Need Assessment ke Fokus Pelatihan
+[Petunjuk Pengisian: Isi tabel berikut dengan mengambil data langsung dari laporan Need Assessment sebelumnya. Tabel ini membuktikan kesinambungan antara analisis masalah desa dan rancangan pelatihan.]
+Isu Prioritas (USG) | Akar Masalah Utama (Fishbone) | Alasan Memilih Pelatihan | Aset/Resources Desa (MAP) | Kelompok Sasaran Pelatihan
+[Tuliskan Isu Prioritas nomor 1 dari analisis USG sebelumnya] | [Tuliskan akar masalah tingkat mikro/meso dari diagram Fishbone yang terkait kurangnya pengetahuan/keterampilan] | [Uraikan mengapa masalah ini dapat diselesaikan melalui peningkatan Pengetahuan, Keterampilan, atau Sikap (KSA)] | [Sebutkan aset manusia/sosial/fasilitas dari tabel MAP yang dapat mendukung pelatihan] | [Sebutkan aktor/kelompok masyarakat dari Actor Map yang akan menjadi peserta]
+
+2. METODOLOGI TRAINING NEED ASSESSMENT (TNA) KOMUNITAS
+2.1 Metode dan Instrumen Pengumpulan Data TNA
+[Petunjuk Pengisian: Jelaskan metode yang digunakan mahasiswa untuk menggali kebutuhan pelatihan di lapangan. Karena ini konteks komunitas, gunakan pendekatan partisipatif.]
+Metode Pengumpulan Data | Tujuan Spesifik TNA | Informan / Subjek | Instrumen yang Digunakan | Waktu & Lokasi
+Wawancara Terstruktur / Kuisioner Baseline | Mengukur tingkat pengetahuan & sikap awal peserta | Calon Peserta Pelatihan (n=...) | Panduan Wawancara / Lembar Angket Baseline | [Tanggal/Lokasi]
+FGD Kebutuhan Belajar | Gali harapan, kendala, dan gaya belajar warga | Tokoh & Perwakilan Peserta | Panduan Diskusi FGD TNA | [Tanggal/Lokasi]
+Observasi Unjuk Kerja / Praktik | Amati keterampilan riil warga saat ini dalam tugas terkait | Kelompok Sasaran | Lembar Ceklis Observasi Praktik | [Tanggal/Lokasi]
+Studi Dokumen / Laporan Desa | Melihat standar/prosedur atau data sekunder relevan | Dokumen Desa / Posyandu / PKK | Format Form Analisis Dokumen | [Tanggal/Lokasi]
+
+3. ANALISIS TNA MODEL OTP (ORGANIZATIONAL, TASK, PERSON) VERSI KOMUNITAS
+Model OTP yang biasa digunakan dalam organisasi industri disesuaikan ke dalam konteks komunitas desa. Analisis dilakukan pada 3 tingkatan: (1) Tingkat Komunitas/Organisasi Desa, (2) Tingkat Peran/Tugas Komunitas, dan (3) Tingkat Individu/Peserta.
+3.1 LEVEL ORGANISASI (Level Desa / Lembaga Komunitas)
+Analisis level organisasi bertujuan memastikan bahwa pelatihan yang dirancang sejalan dengan arah pembangunan desa, didukung oleh struktur tata kelola desa, serta memanfaatkan aset/modal sosial yang ada.
+Tabel 3.1A: Dukungan dan Kesiapan Desa / Kelompok Sasaran dalam Melakukan Pelatihan
+Dimensi Organisasi Komunitas | Kondisi Saat Ini di Desa | Tantangan / Hambatan Lingkungan | Implikasi Bagi Pelatihan
+Kesesuaian dengan Tujuan Desa / Program RW | [Jelaskan apakah pelatihan mendukung program kerja Pemdes/PKK/Karang Taruna] | [Ketersediaan anggaran desa atau program kerja yang berbenturan] | [Bagaimana pelatihan disesuaikan dengan agenda desa]
+Dukungan Tokoh & Relasi Kuasa (Actor Map) | [Dukungan dari Kades, RT/RW, Tokoh Agama, Tokoh Perempuan] | [Potensi hambatan dari pihak tertentu / resistensi perubahan] | [Strategi pelibatan tokoh untuk legitimasi pelatihan]
+Ketersediaan Fasilitas & Sarana Desa | [Kondisi Balai Desa, POSYANDU, peralatan, jaringan listrik/internet] | [Keterbatasan alat bantu visual atau tempat pertemuan] | [Kebutuhan membawa peralatan sendiri / moda outdoor]
+Norma Sosial, Budaya & Musim Kerja | [Kebiasaan warga, waktu luang (pagi/malam), musim panen/hajatan] | [Kesibukan mata pencaharian warga pada jam tertentu] | [Penentuan jadwal & durasi pelatihan yang fleksibel]
+
+Tabel 3.1B: Pencapaian Visi, Misi, dan Target Pembangunan Desa / Kelompok Sasaran
+Visi, Misi, & Target Pembangunan Desa / Lembaga | Strategi / Program Kerja Desa yang Relevan (Hasil Need Assessment) | Target Ideal / Indikator Capaian Komunitas (Kondisi Ideal) | Kondisi Realita Saat Ini (Yang Sudah Tercapai) | Kesenjangan Organisasi / Komunitas (Gap Belum Tercapai) | Alat Pengumpul Data TNA
+[Diisi visi desa/lembaga sasaran, misal: 'Mewujudkan Desa Sehat Bebas Stunting melalui Posyandu Aktif'] | [Diisi program desa hasil Need Assessment, misal: 'Program Pendampingan Gizi Ibu Hamil & Balita oleh Kader'] | [Diisi indikator ideal, misal: '100% Balita tertimbang rutin, cakupan pemantauan gizi terdata digital, 0 kasus baru'] | [Diisi realita lapangan, misal: '60% Balita tertimbang, pencatatan masih manual di buku, kader belum mampu konseling'] | [Diisi Gap, misal: '40% Balita belum terpantau rutin, sistem data gizi manual terlambat, kader kurang percaya diri'] | [Dokumen Laporan MAP, Dokumen RKPDes, Wawancara Kepala Desa/Ketua Posyandu, Observasi Posyandu]
+
+Tabel 3.1C: Analisis Penyebab Permasalahan Komunitas (Adaptasi Fishbone ke OTP)
+Permasalahan Utama Komunitas (Gap dari Tabel 2.1A) | Analisis Penyebab Masalah (Kategori Adaptasi Fishbone Komunitas) | Penjelasan Simpulan Penyebab Masalah | Alat Pengumpulan Data
+[Diisi masalah utama dari USG/Fishbone, misal: 'Rendahnya Efektivitas Pemantauan Gizi Balita oleh Kader Posyandu'] | • Man (Individu/Kader): Pengetahuan kader tentang modul gizi baru masih minim.• Method (Metode/Program): Belum ada SOP penyuluhan yang terstruktur.• Material (Infrastruktur Desa): Alat ukur antropometri terbatas & belum ada media edukasi menarik.• Environment (Norma & Relasi): Norma warga menganggap stunting takdir; dukungan pemdes belum optimal. | [Simpulan: Masalah utama bersumber pada kombinasi lemahnya keterampilan teknik kader (Man/Method) serta minimnya media edukasi dan kesadaran warga (Material/Environment).] | [Diagram Fishbone Laporan Need Assessment, FGD Kader & Tokoh Desa, Observasi Kegiatan Posyandu]
+
+3.2 LEVEL TUGAS (Level Peran / Fungsi Komunitas)
+Analisis level tugas mengidentifikasi standar standar kompetensi ideal yang dibutuhkan oleh pemangku peran komunitas (misal: Kader, Pengurus Karang Taruna, Aparat Desa) agar dapat menjalankan fungsi pemecahan masalah di desa.
+Tabel 2.2: Analisis Kebutuhan Level Tugas (Role & Competency Analysis)
+(Disesuaikan dari Format Tabel OTP Corporate: Deskripsi Tugas & Pengetahuan, Keterampilan, Sikap Kerja Dibutuhkan)
+Peran / Kelompok Sasaran Komunitas yang Bertanggung Jawab | Deskripsi Peran / Tugas Komunitas | Standar Kompetensi Ideal Komunitas (KSA Dibutuhkan)
+[Isi peran sasaran, misal: 'Kader Posyandu Desa X / Pengurus Karang Taruna'] | [Isi deskripsi tugas ideal, misal: 'Melakukan penimbangan balita presisi, melakukan pencatatan gizi, dan memberikan konseling psikoedukasi gizi kepada ibu balita saat Posyandu'] | • Pengetahuan (Knowledge):  - Pemahaman standar tumbuh kembang balita & tanda stunting.  - Prinsip komunikasi persuasif & empati.• Keterampilan (Skill):  - Keterampilan teknik pengukuran antropometri presisi.  - Keterampilan memfasilitasi konseling & penyuluhan kelompok.• Sikap Kerja (Attitude):  - Ramah, sabar, proaktif, dan tidak menghakimi warga.
+
+3.3 LEVEL INDIVIDU (Level Peserta / KSA Gap Analysis)
+Analisis level individu membandingkan kondisi riil pengetahuan, keterampilan, dan sikap (KSA) peserta saat ini (*baseline*) dengan standar ideal, sehingga ditemukan kesenjangan (*Gap KSA*) yang akan menjadi materi pelatihan.
+Tabel 2.3: Analisis Kebutuhan Level Individu / Peserta Pelatihan
+(Disesuaikan dari Format Tabel OTP Corporate: Permasalahan, Target Peserta, KSA Dibutuhkan vs KSA Dimiliki vs Gap KSA)
+Permasalahan Root Cause (Need Assessment) | Target Sasaran Peserta Pelatihan | KSA yang Dibutuhkan (Standar Ideal) | KSA yang Dimiliki Saat Ini (Kondisi Baseline) | Gap KSA / Kebutuhan Materi Pelatihan | Alat Pengumpul Data TNA
+[Masalah spesifik, misal: 'Kader canggung dan kesulitan menyampaikan edukasi gizi secara persuasif kepada ibu balita'] | [Kelompok peserta, misal: 'Kader Posyandu RW 01 - RW 04 (Jumlah: 15 Orang)'] | • K: Paham konsep MPASI Sehat.• S: Mampu teknik micro-counseling.• A: Percaya diri & komunikatif. | • K: Tahu konsep umum MPASI tapi membingungkan.• S: Belum pernah latihan micro-counseling.• A: Canggung & ragu saat ditanya warga. | • K: Edukasi MPASI gizi seimbang.• S: Simulasi & Roleplay micro-counseling empati.• A: Latihan membangun percaya diri kader. | [Kuesioner Baseline KSA, FGD Kader, Observasi Praktik Posyandu]
+
+3.4 Simpulan Analisis Kebutuhan TNA & Rekomendasi Intervensi
+Tidak seluruh gap dapat diselesaikan dengan pelatihan. Mahasiswa wajib menggolongkan mana masalah yang menjadi domain **Kebutuhan Pelatihan (Training Needs)** dan mana yang merupakan **Kebutuhan Non-Pelatihan (Non-Training Needs)**.
+Tabel 2.4: Matriks Pemisahan Kebutuhan Pelatihan vs Non-Pelatihan
+Kategori Kebutuhan | Faktor Penyebab / Gap | Bentuk Intervensi Rekomendasi | Penanggung Jawab / Mitra Komunitas
+1. Kebutuhan Pelatihan (Training Needs) | Defisit Pengetahuan, Keterampilan, atau Sikap (KSA) pada kader/warga. | Pelatihan Partisipatif, Workshop Praktis, Roleplay, & Simulasi Komunitas. | Tim Mahasiswa Psikologi & Fasilitator Desa
+2. Kebutuhan Non-Pelatihan (Non-Training Needs) | Keterbatasan alat fisik, insentif, regulasi desa, atau sarana infrastruktur. | Advokasi Kebijakan Desa, Pengadaan Media Edukasi, Pemasangan Banner, atau Rintangan Usulan RKPDes. | Pemerintah Desa, Tokoh Masyarakat, & Pengurus Lembaga Desa
+
+
+hook: PreToolUse
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+import zipfile,xml.etree.ElementTree as E
+p=Path('/home/suji/document/college/intervensi komunitas/assignments/intervensi komunitas_format tna.docx')
+ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
+with zipfile.ZipFile(p) as z:
+ root=E.fromstring(z.read('word/document.xml'))
+ show=False
+ for el in root.find('w:body',ns):
+  s=''.join(t.text or '' for t in el.findall('.//w:t',ns))
+  if s.startswith('3.2 LEVEL'): show=True
+  if not show: continue
+  if el.tag.endswith('}p'): print(s)
+  elif el.tag.endswith('}tbl'):
+   for row in el.findall('w:tr',ns): print(' | '.join(' / '.join(''.join(t.text or '' for t in par.findall('.//w:t',ns)) for par in cell.findall('w:p',ns)) for cell in row.findall('w:tc',ns)))
+f=Path('Makalah Social Mapping Desa Kejapanan.md')
+print('\\nPRIOR 7.4')
+for i,l in enumerate(f.read_text().splitlines(),1):
+ if 373<=i<=381: print(f'{i}: {l}')
+f=next(Path('/home/suji/document/college/intervensi komunitas/sources/other').glob('penyelenggaraan partisipasi anak*/penyelenggaraan*.md'))
+print('\\nREGULATION',f)
+for i,l in enumerate(f.read_text().splitlines(),1):
+ if l.startswith('#') or '<"'!-- page'"' in l or 'Pasal ' in l: print(f'{i}: {l}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+3.2 LEVEL TUGAS (Level Peran / Fungsi Komunitas)
+Analisis level tugas mengidentifikasi standar standar kompetensi ideal yang dibutuhkan oleh pemangku peran komunitas (misal: Kader, Pengurus Karang Taruna, Aparat Desa) agar dapat menjalankan fungsi pemecahan masalah di desa.
+Tabel 2.2: Analisis Kebutuhan Level Tugas (Role & Competency Analysis)
+(Disesuaikan dari Format Tabel OTP Corporate: Deskripsi Tugas & Pengetahuan, Keterampilan, Sikap Kerja Dibutuhkan)
+Peran / Kelompok Sasaran Komunitas yang Bertanggung Jawab | Deskripsi Peran / Tugas Komunitas | Standar Kompetensi Ideal Komunitas (KSA Dibutuhkan)
+[Isi peran sasaran, misal: 'Kader Posyandu Desa X / Pengurus Karang Taruna'] | [Isi deskripsi tugas ideal, misal: 'Melakukan penimbangan balita presisi, melakukan pencatatan gizi, dan memberikan konseling psikoedukasi gizi kepada ibu balita saat Posyandu'] | • Pengetahuan (Knowledge):  - Pemahaman standar tumbuh kembang balita & tanda stunting.  - Prinsip komunikasi persuasif & empati.• Keterampilan (Skill):  - Keterampilan teknik pengukuran antropometri presisi.  - Keterampilan memfasilitasi konseling & penyuluhan kelompok.• Sikap Kerja (Attitude):  - Ramah, sabar, proaktif, dan tidak menghakimi warga.
+
+3.3 LEVEL INDIVIDU (Level Peserta / KSA Gap Analysis)
+Analisis level individu membandingkan kondisi riil pengetahuan, keterampilan, dan sikap (KSA) peserta saat ini (*baseline*) dengan standar ideal, sehingga ditemukan kesenjangan (*Gap KSA*) yang akan menjadi materi pelatihan.
+Tabel 2.3: Analisis Kebutuhan Level Individu / Peserta Pelatihan
+(Disesuaikan dari Format Tabel OTP Corporate: Permasalahan, Target Peserta, KSA Dibutuhkan vs KSA Dimiliki vs Gap KSA)
+Permasalahan Root Cause (Need Assessment) | Target Sasaran Peserta Pelatihan | KSA yang Dibutuhkan (Standar Ideal) | KSA yang Dimiliki Saat Ini (Kondisi Baseline) | Gap KSA / Kebutuhan Materi Pelatihan | Alat Pengumpul Data TNA
+[Masalah spesifik, misal: 'Kader canggung dan kesulitan menyampaikan edukasi gizi secara persuasif kepada ibu balita'] | [Kelompok peserta, misal: 'Kader Posyandu RW 01 - RW 04 (Jumlah: 15 Orang)'] | • K: Paham konsep MPASI Sehat.• S: Mampu teknik micro-counseling.• A: Percaya diri & komunikatif. | • K: Tahu konsep umum MPASI tapi membingungkan.• S: Belum pernah latihan micro-counseling.• A: Canggung & ragu saat ditanya warga. | • K: Edukasi MPASI gizi seimbang.• S: Simulasi & Roleplay micro-counseling empati.• A: Latihan membangun percaya diri kader. | [Kuesioner Baseline KSA, FGD Kader, Observasi Praktik Posyandu]
+
+3.4 Simpulan Analisis Kebutuhan TNA & Rekomendasi Intervensi
+Tidak seluruh gap dapat diselesaikan dengan pelatihan. Mahasiswa wajib menggolongkan mana masalah yang menjadi domain **Kebutuhan Pelatihan (Training Needs)** dan mana yang merupakan **Kebutuhan Non-Pelatihan (Non-Training Needs)**.
+Tabel 2.4: Matriks Pemisahan Kebutuhan Pelatihan vs Non-Pelatihan
+Kategori Kebutuhan | Faktor Penyebab / Gap | Bentuk Intervensi Rekomendasi | Penanggung Jawab / Mitra Komunitas
+1. Kebutuhan Pelatihan (Training Needs) | Defisit Pengetahuan, Keterampilan, atau Sikap (KSA) pada kader/warga. | Pelatihan Partisipatif, Workshop Praktis, Roleplay, & Simulasi Komunitas. | Tim Mahasiswa Psikologi & Fasilitator Desa
+2. Kebutuhan Non-Pelatihan (Non-Training Needs) | Keterbatasan alat fisik, insentif, regulasi desa, atau sarana infrastruktur. | Advokasi Kebijakan Desa, Pengadaan Media Edukasi, Pemasangan Banner, atau Rintangan Usulan RKPDes. | Pemerintah Desa, Tokoh Masyarakat, & Pengurus Lembaga Desa
+
+
+PRIOR 7.4
+373: ## 7.4 Sintesis Fishbone
+374: 
+375: Gambar 4 menguraikan Masalah 1 dalam wujudnya yang paling konkret, yaitu Forum Anak yang belum pernah menjalankan program sejak dibentuk. Penyebab yang ditemukan melalui wawancara dan observasi kelompok dikelompokkan berdasarkan kondisi yang digambarkannya, lalu setiap kelompok dinamai sesuai keadaan di Desa Kejapanan. Slide perkuliahan menyebut individu, organisasi, relasi kuasa, norma sosial, struktur peluang, dan tata kelola sebagai kategori yang digunakan sesuai konteks (Pambudi, 2026), sehingga kategori dalam analisis ini disusun dari data. Beberapa temuan awal tidak dimasukkan ke dalam diagram. Waktu yang tersita kegiatan sekolah dan prestasi akademik yang diutamakan dialami hampir semua anak usia sekolah, sehingga keduanya tidak menjelaskan mengapa forum di Kejapanan khususnya tidak berjalan. Program yang kurang menarik, tidak adanya kegiatan unggulan, manfaat yang tidak dirasakan, dan motivasi anak yang rendah juga dikeluarkan karena penilaian semacam itu mengandaikan adanya program, sedangkan forum ini belum pernah menjalankannya.
+376: 
+377: Tiga kategori diperlakukan sebagai akar masalah karena ketiganya berada dalam jangkauan forum dan pembinanya. Kategori pertama memperlihatkan forum yang dibentuk untuk status. Forum Anak Desa dipaparkan sebagai capaian desa, berdampingan dengan status Desa Ramah Anak (Hidayatie, 2025), tetapi pembentukannya berhenti pada penerbitan SK. Kategori kedua, tanpa pembinaan dan pengelolaan, menjelaskan mengapa forum tidak bergerak setelah SK terbit. Menurut temuan lapangan kelompok, pendamping dari pemerintah desa dan SDN Kejapanan V memang ada, tetapi pendampingan itu belum terencana. Kelompok juga tidak menemukan kejelasan anggaran, data anggota, maupun evaluasi, dan regenerasi pengurus tidak berjalan. Padahal, peraturan tentang Forum Anak menempatkan forum sebagai wadah partisipasi anak yang dibina oleh pemerintah dan menugaskan pendamping untuk memantau, mengevaluasi, serta memastikan pendanaan kegiatannya (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Kelompok menduga kedua kategori ini saling menguatkan: forum yang dibentuk terutama untuk dicatat tidak mendorong pembinaan, dan forum yang tidak dibina tidak pernah menghasilkan program.
+378: 
+379: Kategori ketiga, anak tidak memegang kendali, mencakup anak yang tidak dilibatkan dalam menentukan kegiatan, kegiatan yang bergantung pada inisiatif orang dewasa, aspirasi anak yang tidak ditanggapi, dan pandangan bahwa anak adalah objek kegiatan. Dalam forum yang belum berprogram, kondisi ini berarti tidak ada pihak yang memulai. Orang dewasa tidak membina, sedangkan anak tidak diberi ruang untuk berinisiatif. Keluhan tentang aspirasi yang tidak ditanggapi serupa dengan contoh yang digolongkan Hart (1992) sebagai manipulasi, yaitu konsultasi dengan anak tanpa umpan balik, yang ia tempatkan pada tingkat nonpartisipasi. Peraturan yang sama mengartikan partisipasi anak sebagai keikutsertaan anak dalam proses pengambilan keputusan sehingga anak dapat menikmati proses, hasil, dan manfaatnya. Apabila anak memang tidak dilibatkan, forum ini belum memenuhi pengertian tersebut.
+380: 
+381: Kategori keempat, lingkungan desa yang belum menopang, berada di luar forum. Isinya adalah kegiatan desa yang terpusat di wilayah tertentu (Masalah 3), akses antardusun yang dinilai cukup jauh, ruang kumpul anak yang minim, dan Karang Taruna yang stagnan sehingga forum tidak memiliki mitra (Masalah 2). Kondisi ini memperberat ketiga akar, tetapi tidak menjelaskan mengapa forum tidak pernah memulai program. Kategori ini juga memperlihatkan hubungan dua arah yang dibahas pada bagian 6.4 dan sejalan dengan struktur kuasa yang terpecah per wilayah pada bagian 4.5. Akar masalahnya dirumuskan sebagai berikut: Forum Anak berdiri sebagai bagian dari capaian status desa tanpa sistem pembinaan dan pengelolaan yang berkelanjutan, dan tanpa ruang yang memberi anak peran nyata dalam menentukan kegiatan serta keputusan. Pembenahannya memerlukan kesepakatan pembinaan dengan kepala desa, yang menurut peraturan tentang Forum Anak berkedudukan sebagai pembina di tingkat desa, dan dengan pendamping forum. Program pertama forum kemudian disusun bersama anak melalui partisipasi kolaboratif yang bertahap menuju partisipasi yang dipimpin anak (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Modal lain yang tersedia adalah status Desa Ramah Anak dan perpustakaan desa (Hidayatie, 2025), serta pendampingan dari SDN Kejapanan V dan perwakilan forum di setiap dusun menurut temuan lapangan kelompok. Hubungan sebab-akibat dalam fishbone ini masih perlu dikonfirmasi langsung dengan anak, pengurus, dan pendamping forum.
+
+REGULATION /home/suji/document/college/intervensi komunitas/sources/other/penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025)/penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025).md
+12: <!-- page 1 -->
+16: ## DENGAN RAHMAT TUHAN YANG MAHA ESA
+25: Mengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+29: <!-- page 2 -->
+43: <!-- page 3 -->
+47: Pasal 1 Dalam Peraturan Menteri ini yang dimaksud dengan:
+58: <!-- page 4 -->
+68: Pasal 2 Menteri ini dimaksudkan sebagai acuan
+72: ## Pasal 3
+74: Pasal 4 Penyelenggaraan Partisipasi Anak melalui Forum Anak berdasarkan pada 9 (sembilan) kriteria Partisipasi Anak, yang meliputi:
+89: <!-- page 5 -->
+91: Pasal 5
+93: (1) Penyelenggaraan Partisipasi Anak melalui Forum Anak sebagaimana dimaksud dalam Pasal 4 ayat (1) dilaksanakan melalui 3 (tiga) bentuk Partisipasi Anak, yang terdiri atas:
+104: Pasal 6 Alat kelengkapan pembentukan Forum Anak terdiri atas:
+115: (1) Pembina sebagaimana dimaksud dalam Pasal 6 huruf a
+117: ## Pasal 7
+119: ## pembina sesuai dengan jenjang
+121: <!-- page 6 -->
+127: Pasal 8
+129: (1) Tim pengawas sebagaimana dimaksud dalam Pasal 6 huruf b, dibentuk sesuai dengan jenjang kewilayahannya, terdiri atas:
+157: <!-- page 7 -->
+166: Pasal 9 Tim pengawas sebagaimana dimaksud dalam Pasal 6 huruf b harus memenuhi syarat sebagai berikut:
+183: <!-- page 8 -->
+185: Pasal 10 Pendamping sebagaimana dimaksud dalam Pasal 6 huruf c dibentuk sesuai dengan jenjang kewilayahannya, terdiri atas:
+192: Pasal 11
+194: (1) Pendamping sebagaimana dimaksud dalam Pasal 6 huruf c harus memenuhi syarat sebagai berikut:
+209: <!-- page 9 -->
+234: ## Pasal 12
+238: Fasilitator sebagaimana dimaksud dalam Pasal 6 huruf d, diangkat oleh pembina berdasarkan rekomendasi dari pendamping dengan masa bakti 2 (dua) tahun dan dapat dipilih kembali dalam jabatan yang sama untuk 1 (satu) kali masa jabatan. Fasilitator sebagaimana dimaksud dalam Pasal 6 huruf d harus memenuhi syarat sebagai berikut:
+240: <!-- page 10 -->
+250: Pasal 13 Fasilitator sebagaimana dimaksud dalam Pasal 12 ayat
+266: <!-- page 11 -->
+268: Pasal 14
+270: (1) Pengurus sebagaimana dimaksud dalam Pasal 6 huruf e dibentuk sesuai dengan jenjang kewilayahannya, yang terdiri atas:
+282: Pasal 15
+296: <!-- page 12 -->
+298: Pasal 16 Nilai luhur Forum Anak sebagaimana dimaksud dalam Pasal 15 ayat (2) terdiri dari:
+317: Pasal 17 Anggota sebagaimana dimaksud dalam Pasal 6 huruf f berasal dari semua Anak termasuk AMPK. Keterlibatan anggota sebagaimana dimaksud pada ayat
+322: Pasal 18 Forum Anak dibentuk secara berjenjang mulai dari tingkat desa/kelurahan, kecamatan, kabupaten/kota, provinsi, dan nasional. Pembentukan Forum Anak dilaksanakan oleh pemerintah pusat dan daerah sesuai dengan kewenangan.
+324: <!-- page 13 -->
+328: Pasal 19 Pembentukan Forum Anak merupakan tanggung jawab pembina yang dibantu secara teknis oleh pendamping sesuai dengan jenjang wilayah di mana Forum Anak itu dibentuk.
+330: Pasal 20 Pembentukan Forum Anak sebagaimana dimaksud dalam Pasal 19 melalui tahapan:
+342: Pasal 21 dimaksud dalam Pasal 20
+346: Pasal 22
+348: (1) Seleksi fasilitator dan pengurus Forum Anak sebagaimana dimaksud dalam Pasal 20 huruf b, dilakukan dengan:
+353: <!-- page 14 -->
+368: Pasal 23
+370: (1) Legalisasi sebagaimana dimaksud dalam Pasal 20 huruf c, merupakan penetapan kepengurusan Forum Anak melalui keputusan pembina sesuai dengan jenjang kewilayahan dimana Forum Anak itu berada.
+377: Pasal 24
+379: (1) Publikasi sebagaimana dimaksud dalam Pasal 20 huruf d dilakukan kepada masyarakat dalam bentuk pengenalan keberadaan Forum Anak sebagai model wadah Partisipasi Anak.
+382: <!-- page 15 -->
+387: Pasal 25 Forum Anak mempunyai fungsi sebagai sarana strategis bagi anak untuk berpartisipasi dalam proses pembangunan sesuai dengan jenjang wilayah di mana Forum Anak itu berada.
+389: Pasal 26
+396: Pasal 27
+398: (1) Tahapan persiapan sebagaimana dimaksud dalam Pasal 26 ayat (3) dilakukan melalui kegiatan sosialisasi, peningkatan kapasitas dan asesmen risiko.
+399: (2) Tahapan pelaksanaan sebagaimana dimaksud dalam Pasal 26 ayat (3) dilakukan melalui proses:
+404: (3) Tahapan pengakhiran sebagaimana dimaksud dalam Pasal 26 ayat (3) dilakukan melalui kegiatan penerimaan umpan balik, monitoring, evaluasi, dan dokumentasi.
+405: (4) Uraian tahapan Forum Anak sebagai pelopor dan pelapor sebagaimana dimaksud dalam Pasal 26 ayat (3) tercantum dalam Lampiran III yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+406: Pasal 28 Peran sebagai pelopor sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf a dilakukan dengan:
+410: <!-- page 16 -->
+425: Pasal 29 Peran sebagai pelapor sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf a dilakukan dengan:
+429: Pasal 30 Peran Forum Anak sebagaimana dimaksud dalam Pasal 26 dilaksanakan melalui Partisipasi Anak dalam proses pembangunan. Partisipasi Anak dalam proses pembangunan sebagaimana dimaksud pada ayat (1) dilaksanakan melalui fase membangun konsensus, mengembangkan strategi, dan mencapai tujuan advokasi. Fase membangun konsensus sebagaimana dimaksud pada ayat (2) meliputi langkah memahami isu atau permasalahan, menentukan pihak yang dilibatkan, dan merumuskan tujuan advokasi. Fase mengembangkan strategi sebagaimana dimaksud pada ayat (2) meliputi langkah mengenal pengambil keputusan, mengembangkan pesan advokasi, dan mengembangkan rencana kerja.
+431: <!-- page 17 -->
+437: Pasal 31
+441: Pasal 32
+443: (1) Peningkatan kualitas Forum Anak sebagaimana dimaksud dalam Pasal 31 dilakukan dengan cara:
+465: <!-- page 18 -->
+470: Pasal 33
+482: Pasal 34
+484: (1) Pelibatan peran mitra forum anak sebagaimana dimaksud dalam Pasal 33 ayat (2) dilaksanakan sesuai 9 (sembilan) kriteria Partisipasi Anak.
+493: <!-- page 19 -->
+507: Pasal 35 Sekretariat forum anak dibentuk untuk membantu kelancaran tugas dan fungsi Forum Anak. Sekretariat forum anak sebagaimana dimaksud pada ayat (1) terdiri dari sekretariat forum anak nasional dan sekretariat forum anak provinsi. Pelaksanaan kesekretariatan forum anak di tingkat kabupaten/kota dilaksanakan oleh fasilitator forum anak kabupaten/kota. Sekretariat forum anak sebagaimana dimaksud pada ayat (2), terdiri dari alumni fasilitator atau alumni pengurus yang berusia minimal 18 tahun dan maksimal 24 tahun. Sekretariat forum anak nasional berkedudukan di ibu kota negara Republik Indonesia dan sekretariat forum anak provinsi berkedudukan di ibu kota provinsi. Masa bakti sekretariat forum anak nasional paling lama 2 (dua) tahun sejak ditetapkan dan dapat dipilih kembali dalam jabatan yang sama untuk (1) satu kali masa jabatan. Sekretariat forum anak nasional sebagaimana dimaksud pada ayat (2) ditetapkan dengan Keputusan Menteri. Sekretariat forum anak provinsi sebagaimana dimaksud pada ayat (2) ditetapkan dengan ketetapan gubernur.
+511: Pasal 36 pengawas, pendamping, fasilitator, sekretariat
+514: Pasal 37 Kode etik sebagaimana dimaksud dalam Pasal 36 meliputi:
+524: <!-- page 20 -->
+552: ## Pasal 38
+560: Pelanggaran kode etik sebagaimana dimaksud dalam Pasal 37 ayat (2) terdiri atas:
+566: <!-- page 21 -->
+581: b. melakukan pelanggaran atas ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf a sampai dengan huruf c. Pelanggaran sedang sebagaimana dimaksud pada ayat
+585: c. melakukan pelanggaran atas ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf d sampai dengan huruf i. Pelanggaran berat sebagaimana dimaksud pada ayat (1) huruf c yaitu pelanggaran kode etik dengan kriteria:
+588: c. melakukan pelanggaran atas ketentuan sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf j sampai dengan huruf u.
+589: Pasal 39 Penjatuhan sanksi sebagaimana dimaksud dalam Pasal 38 ayat (2), diberikan oleh pembina Forum Anak atas rujukan dan rekomendasi tim pengawas sesuai dengan ketentuan peraturan perundang-undangan. Pemberian sanksi sebagaimana dimaksud dalam Pasal 38 ayat (2) diberlakukan hanya bagi orang dewasa yang termasuk dalam alat kelengkapan Forum Anak. Tim pengawas yang melakukan pelanggaran kode etik dengan kriteria sebagaimana dimaksud dalam Pasal 38 ayat (4) diberikan sanksi pelanggaran berat sebagaimana dimaksud dalam Pasal 38 ayat (2) huruf c. Pelanggaran kode etik yang dilakukan oleh mitra forum anak, tim pengawas melibatkan institusi di mana mitra forum anak tersebut berasal dalam proses penanganan pelanggaran kode etik. Dalam hal pihak sebagaimana disebutkan pada ayat (4) terbukti melakukan pelanggaran kode etik, tim pengawas dapat memberikan rekomendasi kepada pembina untuk melarang mitra forum anak berkegiatan dengan Forum Anak selama beberapa waktu tertentu atau secara tetap.
+591: <!-- page 22 -->
+594: Pasal 40
+601: Pasal 41 Pihak yang tidak terbukti melanggar Kode Etik sebagaimana dimaksud dalam Pasal 39 berdasarkan rekomendasi tim Pengawas diberikan pemulihan nama baik dengan mengumumkannya pada pihak terkait sejak diterimanya putusan dari Pembina.
+605: Pasal 42
+615: <!-- page 23 -->
+628: Pasal 43 Pemantauan, Evaluasi dan Pelaporan personalia sebagaimana dimaksud dalam Pasal 42 ayat (2) huruf a dilakukan oleh:
+636: Pasal 44 Pemantauan, evaluasi dan pelaporan kegiatan sebagaimana dimaksud dalam Pasal 42 ayat (2) huruf b dilakukan melalui:
+641: Pasal 45 Pemantauan, evaluasi dan pelaporan program sebagaimana dimaksud dalam Pasal 42 ayat (2) huruf c
+643: <!-- page 24 -->
+648: Pasal 46
+650: (1) Pemantauan, evaluasi dan pelaporan penyelenggaraan forum anak sebagaimana dimaksud dalam Pasal 42 ayat
+658: Pasal 47 Pendanaan penyelenggaraan Partisipasi Anak melalui Forum Anak bersumber dari:
+663: Pasal 48 Pendanaan penyelenggaraan Partisipasi Anak melalui Forum Anak sebagaimana dimaksud dalam Pasal 47 dapat dikelola oleh pengurus melalui pengawasan dan menjadi tanggung jawab pembina, pendamping, serta fasilitator.
+665: Pasal 49 Pengelolaan pendanaan untuk penyelenggaraan Partisipasi Anak melalui Forum Anak sebagaimana dimaksud pada ayat
+670: Pasal 50 Forum Anak yang telah terbentuk sebelum Peraturan Menteri ini diundangkan, tetap menjalankan fungsi dan peran serta penyelenggaraannya dan wajib menyesuaikan dengan Peraturan Menteri ini paling lama 1 (satu) tahun sejak diundangkan.
+672: <!-- page 25 -->
+676: Pasal 51 Pada saat Peraturan Menteri ini mulai berlaku, Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 18 Tahun 2019 tentang Penyelenggaraan Forum Anak (Berita Negara Republik Indonesia Tahun 2019 Nomor 1736) sebagaimana telah diubah dengan Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2022 tentang Perubahan atas Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 18 Tahun 2019 tentang Penyelenggaraan Forum Anak (Berita Negara Republik Indonesia Tahun 2022 Nomor 1), dicabut dan dinyatakan tidak berlaku.
+678: Pasal 52 Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+680: <!-- page 26 -->
+688: <!-- page 27 -->
+710: <!-- page 28 -->
+734: <!-- page 29 -->
+755: <!-- page 30 -->
+771: <!-- page 31 -->
+789: ## ARIFATUL CHOIRI FAUZI
+791: <!-- page 32 -->
+804: <!-- page 33 -->
+813: <!-- page 34 -->
+820: <!-- page 35 -->
+828: <!-- page 36 -->
+834: <!-- page 37 -->
+847: <!-- page 38 -->
+867: <!-- page 39 -->
+876: <!-- page 40 -->
+894: <!-- page 41 -->
+900: <!-- page 42 -->
+908: <!-- page 43 -->
+916: <!-- page 44 -->
+920: <!-- page 45 -->
+929: <!-- page 46 -->
+938: <!-- page 47 -->
+961: <!-- page 48 -->
+965: ## Contoh Piagam Penghargaan Forum Anak:
+975: <!-- page 49 -->
+994: <!-- page 50 -->
+1005: <!-- page 51 -->
+1016: <!-- page 52 -->
+1043: <!-- page 53 -->
+1055: <!-- page 54 -->
+1064: <!-- page 55 -->
+1072: <!-- page 56 -->
+1091: <!-- page 57 -->
+1109: <!-- page 58 -->
+1128: <!-- page 59 -->
+1155: <!-- page 60 -->
+1177: <!-- page 61 -->
+1190: <!-- page 62 -->
+1192: ## Contoh Formulir Umpan Balik Kegiatan:
+1198: ## <u>*pilih salah satu</u>
+1214: <!-- page 63 -->
+1230: <!-- page 64 -->
+1236: <!-- page 65 -->
+1269: <!-- page 66 -->
+1291: <!-- page 67 -->
+1297: <!-- page 68 -->
+1308: <!-- page 69 -->
+1318: <!-- page 70 -->
+
+mcp: hound/mcp_smart_fetch started
+mcp: hound/mcp_smart_fetch (completed)
+codex
+The assignment includes all the template sections. I found conflicts with the earlier actor map and interview record, plus gaps in how the KSA findings carry through to the recommendations. I’m checking the regulation claims and anonymity risks next.
+
+hook: PreToolUse
+mcp: hound/mcp_smart_fetch started
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+p=next(Path('/home/suji/document/college/intervensi komunitas/sources/other').glob('penyelenggaraan partisipasi anak*/penyelenggaraan*.md'))
+a=p.read_text().splitlines()
+for lo,hi in [(1,28),(89,127),(185,233),(266,389)]:
+ print('\\nREGULATION',lo,hi)
+ for i in range(lo-1,hi): print(f'{i+1}: {a[i]}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+
+REGULATION 1 28
+1: ---
+2: source_pdf: "penyelenggaraan partisipasi anak melalui forum anak - (permen pppa nomor 3 tahun 2025, 2025).pdf"
+3: source_sha256: "b05eaa70dc5ea46296c91f4843e82f050469272555ec134c036bb0b746ad5feb"
+4: extracted_at: "2026-10-29T00:37:09+07:00"
+5: pdf_inspector_version: "1.17.0"
+6: extraction_method: "selective-ocr"
+7: status: "review-required"
+8: ocr_pages: [37, 40, 41, 48, 52, 62]
+9: review_pages: [37, 41, 48, 62]
+10: ---
+11: 
+12: <!-- page 1 -->
+13: 
+14: PERATURAN MENTERI PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK REPUBLIK INDONESIA NOMOR 3 TAHUN 2025 TENTANG PENYELENGGARAAN PARTISIPASI ANAK MELALUI FORUM ANAK
+15: 
+16: ## DENGAN RAHMAT TUHAN YANG MAHA ESA
+17: 
+18: MENTERI PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK REPUBLIK INDONESIA,
+19: 
+20: Menimbang : a. bahwa negara menjamin pemenuhan hak anak untuk berpartisipasi dalam menyampaikan pandangan sesuai dengan usia, tingkat kematangan, dan tingkat kecerdasan serta pelindungan dari segala bentuk kekerasan, diskriminasi, dan perlakuan salah lainnya;
+21: 
+22: b. bahwa partisipasi anak diwujudkan melalui keikutsertaan anak pada setiap tahapan pembangunan meliputi perencanaan, pelaksanaan, pemantauan, dan evaluasi pembangunan nasional dan pembangunan daerah di seluruh sektor pembangunan yang terkait dengan perlindungan anak melalui forum anak;
+23: c. bahwa Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 18 Tahun 2019 tentang Penyelenggaraan Forum Anak sebagaimana telah diubah dengan Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2022 tentang Perubahan atas Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 18 Tahun 2019 tentang Penyelenggaraan Forum Anak sudah tidak sesuai dengan perkembangan hukum dan kebutuhan pemenuhan hak partisipasi anak dalam penyelenggaraan forum anak, sehingga perlu diganti;
+24: d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak tentang Penyelenggaraan Partisipasi Anak melalui Forum Anak;
+25: Mengingat : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
+26: 
+27: 2. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan
+28: 
+
+REGULATION 89 127
+89: <!-- page 5 -->
+90: 
+91: Pasal 5
+92: 
+93: (1) Penyelenggaraan Partisipasi Anak melalui Forum Anak sebagaimana dimaksud dalam Pasal 4 ayat (1) dilaksanakan melalui 3 (tiga) bentuk Partisipasi Anak, yang terdiri atas:
+94: a. konsultatif;
+95: b. kolaboratif; dan/atau
+96: c. dipimpin oleh Anak.
+97: (2) Bentuk partisipasi konsultatif sebagaimana dimaksud pada ayat 1 huruf (a) digunakan untuk menyusun kebijakan, kegiatan maupun program atas dasar prakarsa orang dewasa dan hasilnya dikonsultasikan kepada Anak demi kepentingan terbaik bagi Anak.
+98: (3) Bentuk partisipasi kolaboratif sebagaimana dimaksud pada ayat 1 huruf (b) digunakan untuk menyusun kebijakan, kegiatan maupun program atas dasar prakarsa orang dewasa bersama Anak dan hasilnya dikolaborasikan untuk mewujudkan kepentingan terbaik bagi Anak.
+99: (4) Bentuk partisipasi dipimpin oleh Anak sebagaimana dimaksud pada ayat 1 huruf (c) digunakan untuk menyusun kebijakan, kegiatan maupun program atas dasar prakarsa yang dipimpin Anak dan proses pelaksanaannya difasilitasi orang dewasa, untuk mewujudkan kepentingan terbaik bagi Anak.
+100: BAB II PENYELENGGARAAN FORUM ANAK
+101: 
+102: Bagian Kesatu Kelengkapan
+103: 
+104: Pasal 6 Alat kelengkapan pembentukan Forum Anak terdiri atas:
+105: 
+106: |a.|pembina;||
+107: |---|---|---|
+108: |b.|tim pengawas;||
+109: |c.|pendamping;||
+110: |d.|fasilitator;||
+111: |e.|pengurus;dan||
+112: |f.|anggota. merupakan kewilayahannya, terdiri atas: a. b. c. d.|kepala desa/lurah merupakan pembina di tingkat desa/kelurahan; camat merupakan pembina di tingkat kecamatan; bupati/walikota merupakan pembina di tingkat kabupaten/kota; gubernur merupakan pembina di tingkat provinsi;|
+113: ||e.|dan Menteri merupakan pembina di tingkat nasional.|
+114: 
+115: (1) Pembina sebagaimana dimaksud dalam Pasal 6 huruf a
+116: 
+117: ## Pasal 7
+118: 
+119: ## pembina sesuai dengan jenjang
+120: 
+121: <!-- page 6 -->
+122: 
+123: (2) Pembina sebagaimana dimaksud pada ayat (1) mempunyai tugas meliputi:
+124: a. menetapkan Forum Anak di wilayahnya;
+125: b. membentuk tim pengawas; dan
+126: c. membina dan menjamin pelaksanaan Pemenuhan Hak Anak dan Perlindungan Khusus Anak dalam penyelenggaraan Forum Anak.
+127: Pasal 8
+
+REGULATION 185 233
+185: Pasal 10 Pendamping sebagaimana dimaksud dalam Pasal 6 huruf c dibentuk sesuai dengan jenjang kewilayahannya, terdiri atas:
+186: 
+187: a. perangkat pemerintah desa/kelurahan atau seseorang yang telah memenuhi syarat merupakan pendamping di tingkat desa/kelurahan;
+188: b. pejabat kecamatan atau seseorang yang telah memenuhi syarat merupakan pendamping di tingkat kecamatan;
+189: c. kepala perangkat daerah yang menyelenggarakan urusan pemberdayaan perempuan dan perlindungan anak merupakan pendamping di tingkat kabupaten/kota;
+190: d. kepala perangkat daerah yang menyelenggarakan urusan pemberdayaan perempuan dan perlindungan anak;dan
+191: e. pimpinan tinggi madya yang membidangi Pemenuhan Hak Anak pada Kementerian merupakan pendamping di tingkat nasional.
+192: Pasal 11
+193: 
+194: (1) Pendamping sebagaimana dimaksud dalam Pasal 6 huruf c harus memenuhi syarat sebagai berikut:
+195: a. memahami dan mematuhi 9 (sembilan) kriteria Partisipasi Anak;
+196: b. mampu dan berkomitmen untuk membangun kerja sama dengan Anak;
+197: c. berkelakuan baik dan tidak pernah melakukan tindak pidana; dan
+198: d. memahami dan mematuhi kode etik.
+199: (2) Syarat sebagaimana dimaksud pada ayat (1) dibuktikan dengan penandatanganan dokumen pakta integritas dan pernyataan terkait kode etik.
+200: (3) Pendamping sebagaimana dimaksud pada ayat (1) mempunyai tugas meliputi:
+201: a. bertanggung jawab kepada pembina dalam penyelenggaraan pemenuhan hak Partisipasi Anak melalui Forum Anak;
+202: b. menyiapkan kepengurusan Forum Anak di wilayah tempat pendamping bertugas;
+203: c. melakukan sosialisasi penyelenggaraan Forum Anak;
+204: d. mengimplementasikan kode etik;
+205: e. menyusun Komunikasi, Informasi, dan Edukasi (KIE) untuk memastikan bahwa setiap fasilitator, mitra Forum Anak, dan orang dewasa lain yang berkegiatan dengan Forum Anak mengetahui dan menerapkan kode etik;
+206: f. memastikan dan menjamin Anak dapat terlibat dalam proses pembangunan tanpa adanya diskriminasi dan atau intimidasi;
+207: g. memastikan tidak adanya mobilisasi atau intervensi orang dewasa yang disuarakan oleh Anak;
+208: 
+209: <!-- page 9 -->
+210: 
+211: h.
+212: i.
+213: j.
+214: k.
+215: l.
+216: m.
+217: n.
+218: o.
+219: p.
+220: q.
+221: (1)
+222: (2)
+223: a.
+224: b.
+225: c.
+226: d.
+227: e.
+228: f.
+229: g.
+230: -9-
+231: 
+232: memberikan akses kepada Forum Anak dalam menyuarakan aspirasi Anak di legislatif, eksekutif, dan yudikatif; mendampingi dan mengedukasi Anak terkait Hak Anak berdasarkan KHA dan konvensi/instrumen internasional terkait lainnya, termasuk untuk tidak melakukan kekerasan kepada sesama Anak; meningkatkan kapasitas fasilitator terkait penyelenggaraan Partisipasi Anak melalui Forum Anak; meningkatkan kapasitas Anak dalam menjalankan peran Partisipasi Anak dalam proses pembangunan dengan berdasarkan pada nilai- nilai luhur Forum Anak; mengedukasi dan mendampingi Anak dalam menjalankan peran sebagai agen pelopor dan pelapor; melindungi Anak dari segala bentuk kekerasan dengan melakukan dan menindaklanjuti asesmen risiko di setiap kegiatan Forum Anak, termasuk menentukan pihak yang akan dilibatkan dan berinteraksi dengan Anak; menerima masukan anggota Forum Anak terkait implementasi Pemenuhan Hak Anak di daerah dan meneruskannya kepada perangkat daerah terkait; menyelesaikan konflik yang terjadi dalam kepengurusan Forum Anak yang disampaikan oleh fasilitator; melakukan pemantauan, evaluasi, dan pelaporan penyelenggaraan Forum Anak; dan memastikan terpenuhinya pendanaan penyelenggaraan kegiatan Forum Anak.
+233: 
+
+REGULATION 266 389
+266: <!-- page 11 -->
+267: 
+268: Pasal 14
+269: 
+270: (1) Pengurus sebagaimana dimaksud dalam Pasal 6 huruf e dibentuk sesuai dengan jenjang kewilayahannya, yang terdiri atas:
+271: a. pengurus Forum Anak desa/kelurahan;
+272: b. pengurus Forum Anak kecamatan;
+273: c. pengurus Forum Anak kabupaten/kota;
+274: d. pengurus Forum Anak provinsi; dan
+275: e. pengurus Forum Anak nasional.
+276: (2) Pengurus Forum Anak desa/kelurahan sebagaimana dimaksud pada ayat (1) huruf a merupakan perwakilan dari Kelompok Anak yang berada di lingkungan setempat;
+277: (3) Pengurus Forum Anak kecamatan sebagaimana dimaksud pada ayat (1) huruf b merupakan perwakilan dari Forum Anak desa/kelurahan;
+278: (4) Pengurus Forum Anak kabupaten/kota sebagaimana dimaksud pada ayat (1) huruf c merupakan perwakilan dari Forum Anak kecamatan;
+279: (5) Pengurus Forum Anak provinsi sebagaimana dimaksud pada ayat (1) huruf d merupakan perwakilan dari Forum Anak kabupaten/kota;
+280: (6) Pengurus Forum Anak nasional sebagaimana dimaksud pada ayat (1) huruf e merupakan perwakilan dari Forum Anak provinsi.
+281: (7) Pengurus sebagaimana dimaksud pada ayat (1) memiliki masa bakti paling lama 2 (dua) tahun sejak ditetapkan dan dapat dipilih kembali dalam jabatan yang sama untuk 1 (satu) kali masa jabatan.
+282: Pasal 15
+283: 
+284: (1) Untuk dapat diangkat menjadi Pengurus harus memenuhi syarat sebagai berikut:
+285: a. warga negara Indonesia yang berusia paling rendah 12 (dua belas) tahun dan paling tinggi berusia 17 (tujuh belas) tahun;
+286: b. memahami dan melaksanakan prinsip Perlindungan Anak sesuai KHA;
+287: c. berasal dari Kelompok Anak, dan/atau perseorangan;
+288: d. aktif dalam Forum Anak atas dasar kesadaran diri sendiri dan tanpa paksaan;
+289: e. bersedia mengikuti rangkaian seleksi Pengurus Forum Anak;
+290: f. bersedia menjaga nama baik diri sendiri dan Forum Anak; dan
+291: g. mengisi surat pernyataan kesediaan dan melampirkan surat persetujuan dari orang tua atau wali.
+292: (2) Pengurus sebagaimana dimaksud pada ayat (1) berhak mendapatkan peningkatan kapasitas terkait Hak Anak dan mematuhi nilai luhur Forum Anak.
+293: (3) Kepengurusan Forum Anak dapat melibatkan AMPK.
+294: (4) Pendamping wajib memfasilitasi kebutuhan dan memperhatikan kondisi khusus anak dalam melibatkan AMPK pada kepengurusan Forum Anak.
+295: 
+296: <!-- page 12 -->
+297: 
+298: Pasal 16 Nilai luhur Forum Anak sebagaimana dimaksud dalam Pasal 15 ayat (2) terdiri dari:
+299: 
+300: a.
+301: b.
+302: c.
+303: d.
+304: e.
+305: f.
+306: g.
+307: h.
+308: i.
+309: j.
+310: k.
+311: (1)
+312: (2)
+313: (3)
+314: (4)
+315: (1)
+316: (2) bertaqwa kepada Tuhan Yang Maha Esa, sesuai dengan agama dan kepercayaan yang dianut; menjunjung tinggi etika dan sopan santun dalam interaksi yang dilakukan pada setiap tahapan pelaksanaan peran Forum Anak termasuk interaksinya di media sosial; bersikap saling menghargai tanpa membedakan agama, suku, etnis, pendapat, sikap, dan tindakan orang lain yang berbeda dari dirinya; berpikir, bersikap, dan berperilaku yang mencerminkan kecintaan terhadap tanah air; mematuhi ketentuan dan aturan yang berlaku sesuai dengan norma hukum, agama, sosial, dan budaya serta menjunjung tinggi adat istiadat daerah setempat; membangun persahabatan dan persaudaraan yang saling mendukung; menjaga nama baik diri sendiri, keluarga, dan organisasi Forum Anak; menumbuhkan semangat solidaritas dan kepedulian untuk saling menjaga satu sama lain; menumbuhkan semangat untuk berpartisipasi secara bermakna; menumbuhkan sikap kepemimpinan dalam kehidupan sehari-hari; dan menumbuhkan rasa tanggung jawab dan komitmen terhadap setiap keputusan yang telah diambil bersama.
+317: Pasal 17 Anggota sebagaimana dimaksud dalam Pasal 6 huruf f berasal dari semua Anak termasuk AMPK. Keterlibatan anggota sebagaimana dimaksud pada ayat
+318: 
+319: (1) dilakukan berdasarkan kesadaran diri, tanpa paksaan, dan surat persetujuan dari orangtua atau wali. Anggota sebagaimana dimaksud pada ayat (1) berhak mendapatkan peningkatan kapasitas terkait Pemenuhan Hak Anak dan Perlindungan Khusus Anak. Peningkatan kapasitas sebagaimana dimaksud pada ayat (3) dilakukan oleh pemerintah pusat, pemerintah daerah, dan/atau organisasi kemasyarakatan.
+320: Bagian Kedua Pembentukan Kepengurusan Forum Anak
+321: 
+322: Pasal 18 Forum Anak dibentuk secara berjenjang mulai dari tingkat desa/kelurahan, kecamatan, kabupaten/kota, provinsi, dan nasional. Pembentukan Forum Anak dilaksanakan oleh pemerintah pusat dan daerah sesuai dengan kewenangan.
+323: 
+324: <!-- page 13 -->
+325: 
+326: (3) Forum Anak yang sudah dibentuk ditetapkan melalui keputusan pembina sesuai dengan jenjang tingkat pemerintahan sebagaimana dimaksud pada ayat (1).
+327: (4) Forum Anak sebagaimana dimaksud pada ayat (1) berkedudukan sesuai dengan jenjang pembentukannya.
+328: Pasal 19 Pembentukan Forum Anak merupakan tanggung jawab pembina yang dibantu secara teknis oleh pendamping sesuai dengan jenjang wilayah di mana Forum Anak itu dibentuk.
+329: 
+330: Pasal 20 Pembentukan Forum Anak sebagaimana dimaksud dalam Pasal 19 melalui tahapan:
+331: 
+332: |a.|persiapan;||
+333: |---|---|---|
+334: |b.|seleksi fasilitator dan pengurus Forum Anak;||
+335: |c.|legalisasi; dan||
+336: |d.|publikasi. huruf a dilaksanakan oleh pemerintah daerah melalui pendamping yang ditunjuk. pada ayat (1) bertugas melakukan: a. b. c. d. e.|pendataan calon fasilitator; pendataan Kelompok Anak; pemilihan perwakilan dari tiap Kelompok Anak dan sebagai calon pengurus Forum Anak; advokasi; dan sosialisasi.|
+337: 
+338: (1) Persiapan sebagaimana
+339: (2) Pendamping yang ditunjuk sebagaimana dimaksud
+340: (3) Pendamping sebagaimana dimaksud pada ayat (2)
+341: 
+342: Pasal 21 dimaksud dalam Pasal 20
+343: 
+344: harus melakukan tugasnya dengan memperhatikan 9 (sembilan) kriteria Partisipasi Anak.
+345: 
+346: Pasal 22
+347: 
+348: (1) Seleksi fasilitator dan pengurus Forum Anak sebagaimana dimaksud dalam Pasal 20 huruf b, dilakukan dengan:
+349: a. membentuk tim seleksi di tingkat nasional, provinsi, kabupaten/kota, kecamatan, dan desa/kelurahan sebagai tim *ad hoc* yang akan bertanggung jawab secara administratif dalam proses pemilihan fasilitator dan pengurus Forum Anak;
+350: b. melakukan seleksi fasilitator melalui tahapan seleksi administratif, seleksi substantif, wawancara dan penetapan fasilitator;
+351: c. melakukan seleksi perwakilan dari masing-masing Kelompok Anak melalui tahapan seleksi administratif, seleksi substantif, wawancara, dan penetapan pengurus yang memperhatikan 9 (sembilan) kriteria Partisipasi Anak.
+352: 
+353: <!-- page 14 -->
+354: 
+355: (2) Tim seleksi fasilitator sebagaimana dimaksud pada ayat
+356: (1) huruf a terdiri atas unsur:
+357: a. pendamping Forum Anak;
+358: b. fasilitator Forum Anak periode sebelumnya; dan
+359: c. pakar dan/atau pemerhati di bidang Perlindungan Anak.
+360: (3) Tim seleksi pengurus sebagaimana dimaksud pada ayat
+361: (1) huruf terdiri atas unsur:
+362: a. pendamping Forum Anak;
+363: b. fasilitator Forum Anak periode sebelumnya; dan
+364: c. pengurus Forum Anak periode sebelumnya.
+365: (4) Penyusunan struktur kepengurusan dilakukan dengan mempertimbangkan kebutuhan dan kemampuan Anak.
+366: (5) Penyusunan struktur kepengurusan sebagaimana dimaksud pada ayat (4) dilakukan dengan mekanisme musyawarah anggota Forum Anak.
+367: (6) Mekanisme seleksi fasilitator dan pembentukan pengurus Forum Anak sebagaimana dimaksud pada ayat (1) tercantum dalam Lampiran II yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+368: Pasal 23
+369: 
+370: (1) Legalisasi sebagaimana dimaksud dalam Pasal 20 huruf c, merupakan penetapan kepengurusan Forum Anak melalui keputusan pembina sesuai dengan jenjang kewilayahan dimana Forum Anak itu berada.
+371: (2) Penetapan kepengurusan Forum Anak sebagaimana dimaksud pada ayat (1) dapat dilakukan perubahan dalam masa jabatan, apabila adanya kondisi sebagai berikut:
+372: a. pengurus Forum Anak tidak aktif dalam kegiatan dan kepengurusan Forum Anak;
+373: b. pelaksanaan kegiatan Forum Anak tidak berjalan dengan baik; dan/atau
+374: c. pengurus Forum Anak mengundurkan diri atau tidak memenuhi syarat untuk masuk dalam kepengurusan Forum Anak.
+375: (3) Dalam hal terjadi kondisi sebagaimana dimaksud pada ayat (2), pengurus digantikan oleh perwakilan dari Kelompok Anak yang sama.
+376: (4) Perubahan kepengurusan Forum Anak sebagaimana dimaksud pada ayat (2) harus disetujui paling sedikit 50% (lima puluh persen) dari jumlah keseluruhan kepengurusan Forum Anak.
+377: Pasal 24
+378: 
+379: (1) Publikasi sebagaimana dimaksud dalam Pasal 20 huruf d dilakukan kepada masyarakat dalam bentuk pengenalan keberadaan Forum Anak sebagai model wadah Partisipasi Anak.
+380: (2) Publikasi sebagaimana dimaksud pada ayat (1) dapat dilakukan melalui media elektronik, media cetak, media sosial, dan/atau laman situs resmi forum anak nasional.
+381: 
+382: <!-- page 15 -->
+383: 
+384: (3) Pengelolaan publikasi melalui laman situs resmi forum anak nasional sebagaimana dimaksud pada ayat (2), dilakukan melalui Pendamping dibantu oleh admin situs resmi Forum Anak.
+385: Bagian Ketiga Fungsi dan Peran
+386: 
+387: Pasal 25 Forum Anak mempunyai fungsi sebagai sarana strategis bagi anak untuk berpartisipasi dalam proses pembangunan sesuai dengan jenjang wilayah di mana Forum Anak itu berada.
+388: 
+389: Pasal 26
+
+mcp: hound/mcp_smart_fetch (completed)
+hook: PreToolUse
+hook: PreToolUse Failed
+exec
+/usr/bin/bash -lc "rg -n 'ruang rapat|tidak dapat|sepertiga|Hidayatie|berpengaruh rendah|berkepentingan tinggi|data anggota' 'Makalah Social Mapping Desa Kejapanan.md' 'working/Training Need Assessment Forum Anak Desa Kejapanan/Wawancara pengurus Forum Anak.working.md' 'working/Training Need Assessment Forum Anak Desa Kejapanan/Keputusan dokumen.working.md'
+" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+Makalah Social Mapping Desa Kejapanan.md:17:Desa tidak lagi diposisikan semata sebagai sasaran pembangunan. Pasal 4 *Undang-Undang Nomor 6 Tahun 2014 tentang Desa* (2014) menyatakan bahwa pengaturan desa bertujuan, antara lain, mendorong prakarsa, gerakan, dan partisipasi masyarakat desa untuk mengembangkan potensi dan aset desa serta memperkuat masyarakat desa sebagai subjek pembangunan. Kedua tujuan ini dipertahankan ketika undang-undang tersebut diubah untuk kedua kalinya melalui *Undang-Undang Nomor 3 Tahun 2024* (2024). Prinsip yang sama mengikat tahap perencanaan. Pasal 80 mewajibkan pemerintah desa mengikutsertakan masyarakat melalui musyawarah perencanaan pembangunan desa, sedangkan Pasal 1 angka 12 menghendaki pemberdayaan masyarakat desa yang sesuai dengan esensi masalah dan prioritas kebutuhan masyarakat. Bagi pihak luar yang hendak melakukan intervensi, termasuk mahasiswa, ketentuan ini berarti masalah dan bentuk program tidak dapat ditetapkan dari luar. Intervensi perlu berangkat dari pemahaman tentang cara masyarakat desa itu tersusun dan bergerak.
+Makalah Social Mapping Desa Kejapanan.md:19:Tuntutan tersebut menjadi nyata di Desa Kejapanan, Kecamatan Gempol, Kabupaten Pasuruan. Desa ini dihuni 21.545 jiwa dalam 7.897 kepala keluarga (Pemerintah Desa Kejapanan, 2026), dan dalam pemberitaan Camat Gempol menyebut Kejapanan sebagai desa dengan penduduk terbanyak di Kabupaten Pasuruan (Hidayatie, 2025). Penduduk sebanyak itu tidak dikelola dalam satu lapisan. Wilayah desa terbagi atas 12 dusun, 27 RW, dan 152 RT (Pemerintah Desa Kejapanan, 2026). Sebagian besar penduduk menggantungkan penghasilan pada lapangan usaha industri pengolahan. Desa ini juga memiliki produk unggulan berupa Kampung Pia, peternakan bebek atau itik, industri keset, dan batik Sumolewo (Badan Pusat Statistik [BPS] Kabupaten Pasuruan, 2024). Dengan skala dan susunan seperti ini, tidak ada satu sudut pandang yang cukup untuk memahami desa secara utuh.
+Makalah Social Mapping Desa Kejapanan.md:21:Desa Kejapanan juga aktif dalam berbagai program pemerintah. Pada 2024, desa ini dibina BPS Kabupaten Pasuruan melalui Program Pembinaan Statistik Sektoral Desa Cinta Statistik atau Desa Cantik (BPS Kabupaten Pasuruan, 2024). Pada 2025, Kejapanan dinilai dalam Lomba Kampung Pancasila Kabupaten Pasuruan. Dalam penilaian itu, kepala desa memaparkan sejumlah capaian, antara lain status Desa Ramah Anak sejak Juli 2025, Festival Kebangsaan Kampung Pancasila yang digelar setiap Agustus, status *zero stunting*, dan jumlah Nomor Induk Berusaha (NIB) pelaku UMKM yang terbanyak di Kabupaten Pasuruan (Hidayatie, 2025). Capaian dan status tersebut memberi gambaran awal yang berguna. Namun, dokumen perencanaan Desa Cantik sendiri mencatat bahwa pengelolaan dan penyimpanan data desa belum optimal dan sebagian data hanya dimiliki serta diketahui oleh beberapa personel (BPS Kabupaten Pasuruan, 2024). Data sekunder tentang desa ini karena itu perlu dilengkapi dengan data yang dikumpulkan langsung di lapangan.
+Makalah Social Mapping Desa Kejapanan.md:63:| Telaah dokumen | Validasi profil dan tren | Kecamatan Gempol Dalam Angka 2023 (BPS Kabupaten Pasuruan, 2023), statistik Desa Cantik 2024 (BPS Kabupaten Pasuruan, 2024), proposal pemerintah desa (Pemerintah Desa Kejapanan, 2026), serta pemberitaan JatimSatuNews (Hidayatie, 2025) dan Pawarta Jawa Timur (Sutrisno, 2026) | 5 sumber | Data BPS tahun 2022 dan 2024, berita 15 September 2025 dan 20 Januari 2026, proposal pemerintah desa 21 Agustus 2026 |
+Makalah Social Mapping Desa Kejapanan.md:179:Bagian bawah grid menunjukkan pihak yang paling jauh dari pengambilan keputusan. Pelaku UMKM dan perwakilan perempuan berkepentingan tinggi, tetapi pengaruh mereka di tingkat desa tidak ditemukan dalam asesmen ini, sedangkan Karang Taruna dan Forum Anak berkuasa rendah dan belum aktif. Suara kelompok ini tidak otomatis sampai ke rapat desa yang hanya diisi segelintir pembicara. Dalam struktur yang terpecah per wilayah, suara mereka cenderung bergantung pada perantaraan kepala dusun, RW, dan RT sebelum mencapai tingkat desa.
+Makalah Social Mapping Desa Kejapanan.md:190:| Sosial | Kerukunan lintas agama, hubungan antarwarga, gotong royong, jaringan 27 RW dan 152 RT, serta jaringan sosial berbasis keluarga | Warga, tokoh agama, RT/RW | Terbuka bagi masyarakat. Jaringan sosial dapat mendukung mobilisasi warga | Hubungan sosial relatif kuat dan didukung kegiatan bersama seperti Festival Kebangsaan Kampung Pancasila | Wawancara, observasi, dan Hidayatie (2025) |
+Makalah Social Mapping Desa Kejapanan.md:192:| Fisik/infrastruktur | Kantor desa, Pasar Kejapanan, SDN Kejapanan I, II, dan V, perpustakaan desa, jalan desa, akses jalur provinsi, serta akses jaringan tol di kawasan Gempol | Pemerintah desa/pemerintah kabupaten dan pengelola masing-masing fasilitas | Terbuka bagi warga | Aksesibilitas relatif baik karena dekat dengan pusat Kecamatan Gempol (±1 km) dan didukung jaringan jalan utama. Sarana kebencanaan masih dalam proses pengajuan | Observasi, wawancara, Hidayatie (2025), dan Pemerintah Desa Kejapanan (2026) |
+Makalah Social Mapping Desa Kejapanan.md:194:| Ekonomi/finansial | Industri rumahan pia di Kampung Pia Warurejo, sentra bebek dan telur asin, keset, batik, ecobrick, pasar, tanah kas desa, kafe desa, hidroponik, dan APBDes | Pelaku usaha rumah tangga dan pemerintah desa | Terbuka bagi warga, dengan akses modal dan jejaring pemasaran yang bervariasi | Produk telah dipasarkan hingga luar daerah. Kapasitas modal berbeda antarpelaku usaha. Kafe desa dan hidroponik belum terkelola optimal | Observasi, BPS Kabupaten Pasuruan (2024), Hidayatie (2025), dan Pemerintah Desa Kejapanan (2026) |
+Makalah Social Mapping Desa Kejapanan.md:201:| 1. Rendahnya keaktifan dan keberfungsian Forum Anak sebagai wadah partisipasi anak, meskipun secara kelembagaan sudah terbentuk. | Anak di Desa Kejapanan, pengurus dan pendamping Forum Anak | Wawancara dan observasi, informasi mengenai Forum Anak dan status Desa Ramah Anak (Hidayatie, 2025) |
+Makalah Social Mapping Desa Kejapanan.md:202:| 2. Stagnasi peran Karang Taruna sebagai organisasi kepemudaan desa. | Pengurus dan anggota Karang Taruna serta pemuda Desa Kejapanan | Wawancara dan observasi, pemberitaan mengenai kegiatan Karang Taruna (Hidayatie, 2025) |
+Makalah Social Mapping Desa Kejapanan.md:217:| A         | 5      | Forum Anak sudah terbentuk, tetapi belum pernah menjalankan program. Kondisi ini sedang terjadi dan ditemukan melalui wawancara dan observasi. Kesenjangan ini menonjol karena, menurut pernyataan kepala desa dalam pemberitaan, Kejapanan berstatus Desa Ramah Anak sejak Juli 2025 (Hidayatie, 2025).                                                              |
+Makalah Social Mapping Desa Kejapanan.md:228:| P         | 4      | Karang Taruna seharusnya menjadi penggerak kegiatan kepemudaan desa. Pemberitaan menyebut kegiatan seperti bimbingan belajar gratis oleh Karang Taruna (Hidayatie, 2025), tetapi temuan lapangan menunjukkan program kerjanya tidak berjalan. Kesenjangan antara citra resmi dan kondisi lapangan ini memperjelas masalahnya. |
+Makalah Social Mapping Desa Kejapanan.md:291:| *Urgency*     | 4      | Keanggotaan Forum Anak berakhir ketika anak berusia 18 tahun, dan kepengurusannya hanya terbuka bagi anak berusia 12 sampai 17 tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Selama forum tidak berkegiatan, setiap tahun ada anak di desa yang melewati batas usia tersebut tanpa pernah berpartisipasi melalui forum, dan kesempatan itu tidak dapat diperoleh kembali. Kondisinya tidak bersifat darurat. |
+Makalah Social Mapping Desa Kejapanan.md:354:Masalah 1 didahulukan terutama karena kesempatan yang hilang selama penundaan tidak dapat diperoleh kembali. Anak hanya dapat menjadi anggota Forum Anak sampai berusia 18 tahun, dan kepengurusannya terbatas pada usia 12 sampai 17 tahun (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Setiap tahun forum tidak berkegiatan, sebagian anak di desa melewati masa itu. Karang Taruna juga memiliki batas usia, tetapi rentangnya 16 sampai 30 tahun (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025), sehingga pemuda yang terlewat masih memiliki waktu untuk terlibat ketika organisasi dibenahi. Panjang masa kesempatan itulah yang membedakan skor U kedua masalah.
+Makalah Social Mapping Desa Kejapanan.md:356:Data lapangan menunjukkan arah hubungan yang jelas: kegiatan desa yang terpusat dan Karang Taruna yang stagnan ikut melemahkan Forum Anak (Bab 7). Arah sebaliknya, yaitu pengaruh forum yang aktif terhadap masalah lain, belum teramati dan karena itu diuraikan sebagai kemungkinan. Kemungkinan yang paling dapat dipertanggungjawabkan menyangkut Karang Taruna. Setiap generasi muda berusia 16 sampai 30 tahun otomatis menjadi warga Karang Taruna (*Peraturan Menteri Sosial Nomor 9 Tahun 2025*, 2025), sehingga anggota Forum Anak yang berusia 16 dan 17 tahun sudah tercatat sebagai warga organisasi tersebut. Status ini tidak berarti mereka aktif. Namun, anak yang pernah mengurus forum dapat diduga lebih siap terlibat ketika Karang Taruna dibenahi. Peraturan tentang Forum Anak juga mensyaratkan fasilitator forum berusia 18 sampai 24 tahun dan pernah menjadi pengurus Forum Anak, meskipun pengecualian diizinkan apabila syarat tersebut tidak dapat dipenuhi (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025).
+Makalah Social Mapping Desa Kejapanan.md:377:Tiga kategori diperlakukan sebagai akar masalah karena ketiganya berada dalam jangkauan forum dan pembinanya. Kategori pertama memperlihatkan forum yang dibentuk untuk status. Forum Anak Desa dipaparkan sebagai capaian desa, berdampingan dengan status Desa Ramah Anak (Hidayatie, 2025), tetapi pembentukannya berhenti pada penerbitan SK. Kategori kedua, tanpa pembinaan dan pengelolaan, menjelaskan mengapa forum tidak bergerak setelah SK terbit. Menurut temuan lapangan kelompok, pendamping dari pemerintah desa dan SDN Kejapanan V memang ada, tetapi pendampingan itu belum terencana. Kelompok juga tidak menemukan kejelasan anggaran, data anggota, maupun evaluasi, dan regenerasi pengurus tidak berjalan. Padahal, peraturan tentang Forum Anak menempatkan forum sebagai wadah partisipasi anak yang dibina oleh pemerintah dan menugaskan pendamping untuk memantau, mengevaluasi, serta memastikan pendanaan kegiatannya (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Kelompok menduga kedua kategori ini saling menguatkan: forum yang dibentuk terutama untuk dicatat tidak mendorong pembinaan, dan forum yang tidak dibina tidak pernah menghasilkan program.
+Makalah Social Mapping Desa Kejapanan.md:381:Kategori keempat, lingkungan desa yang belum menopang, berada di luar forum. Isinya adalah kegiatan desa yang terpusat di wilayah tertentu (Masalah 3), akses antardusun yang dinilai cukup jauh, ruang kumpul anak yang minim, dan Karang Taruna yang stagnan sehingga forum tidak memiliki mitra (Masalah 2). Kondisi ini memperberat ketiga akar, tetapi tidak menjelaskan mengapa forum tidak pernah memulai program. Kategori ini juga memperlihatkan hubungan dua arah yang dibahas pada bagian 6.4 dan sejalan dengan struktur kuasa yang terpecah per wilayah pada bagian 4.5. Akar masalahnya dirumuskan sebagai berikut: Forum Anak berdiri sebagai bagian dari capaian status desa tanpa sistem pembinaan dan pengelolaan yang berkelanjutan, dan tanpa ruang yang memberi anak peran nyata dalam menentukan kegiatan serta keputusan. Pembenahannya memerlukan kesepakatan pembinaan dengan kepala desa, yang menurut peraturan tentang Forum Anak berkedudukan sebagai pembina di tingkat desa, dan dengan pendamping forum. Program pertama forum kemudian disusun bersama anak melalui partisipasi kolaboratif yang bertahap menuju partisipasi yang dipimpin anak (*Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2025*, 2025). Modal lain yang tersedia adalah status Desa Ramah Anak dan perpustakaan desa (Hidayatie, 2025), serta pendampingan dari SDN Kejapanan V dan perwakilan forum di setiap dusun menurut temuan lapangan kelompok. Hubungan sebab-akibat dalam fishbone ini masih perlu dikonfirmasi langsung dengan anak, pengurus, dan pendamping forum.
+Makalah Social Mapping Desa Kejapanan.md:393:Hidayatie, A. (2025, 15 September). *Kejapanan-Gempol, desa ke-20 dinilai Lomba Kampung Pancasila: Harmoni warga dan 4 gereja*. JatimSatuNews. https://jatimsatunews.com/2025/09/kejapanan-gempol-desa-ke-20-dinilai.html
+working/Training Need Assessment Forum Anak Desa Kejapanan/Wawancara pengurus Forum Anak.working.md:29:- Sekitar separuh anggota sudah bekerja atau kuliah (sebagian di luar kota). Yang masih SMA hanya empat sampai lima orang, sisanya SMP. Diperkirakan hanya sepertiga yang masih dapat diajak.
+
+mcp: hound/mcp_smart_fetch started
+mcp: hound/mcp_smart_fetch (completed)
+mcp: hound/mcp_smart_fetch started
+mcp: hound/mcp_smart_fetch (completed)
+hook: PreToolUse
+hook: PreToolUse Completed
+exec
+/usr/bin/bash -lc "/usr/bin/python3 - <<'PY'
+from pathlib import Path
+p=Path('/home/suji/.codex/memories/MEMORY.md')
+for i,l in enumerate(p.read_text().splitlines(),1):
+ if 69<=i<=84 or 99<=i<=100: print(f'{i}: {l}')
+PY" in /home/suji/document/Zettelkasten/College 101/Zettelkasten/Literature Notes/Intervensi Komunitas
+ succeeded in 0ms:
+69: ## Task 2: organize Desa Kejapanan actor-power/resources analysis and Astra handoff, completed
+70: 
+71: ### rollout_summary_files
+72: 
+73: - rollout_summaries/2026-09-23T10-44-19-tixO-canva_kejapanan_power_interest_handoff_git_push.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/09/23/rollout-2026-09-23T17-44-19-01a0cddd-c936-7993-9a53-b5ccb4f7b160.jsonl, updated_at=2026-10-07T11:13:22+00:00, thread_id=01a0cddd-c936-7993-9a53-b5ccb4f7b160, success)
+74: 
+75: ### keywords
+76: 
+77: - Desa Kejapanan, power-interest, Pak Eki, Randi Saputra, actor map, DPD, Jawara, Balun, Tabeyan, Astra handoff
+78: 
+79: ## Task 3: commit and push approved vault materials without unrelated state, completed
+80: 
+81: ### rollout_summary_files
+82: 
+83: - rollout_summaries/2026-09-23T10-44-19-tixO-canva_kejapanan_power_interest_handoff_git_push.md (cwd=/home/suji/document/Zettelkasten, rollout_path=/home/suji/.codex/sessions/2026/09/23/rollout-2026-09-23T17-44-19-01a0cddd-c936-7993-9a53-b5ccb4f7b160.jsonl, updated_at=2026-10-07T11:13:22+00:00, thread_id=01a0cddd-c936-7993-9a53-b5ccb4f7b160, success)
+84: 
+99: - Source hierarchy for the Desa analysis: user clarifications > Pak Eki interview > comprehensive note > group deck for demographics > actor-map PDF. The PDF’s scrambled spatial extraction and interpretation conflicts make it a secondary visualization, not independent evidence. [Task 2]
+100: - Keep unresolved terms/names unresolved: do not silently convert `DPD`, invent `Bu Pati`, treat `Jawara` as verified, or choose Balun versus Tabeyan without evidence. The working note and detailed handoff live under `College 101/Zettelkasten/Literature Notes/Intervensi Komunitas/working/Asesmen Desa Kejapanan/`. [Task 2]
+
+codex
+The regulation supports most of the cited provisions, but the recruitment wording blurs membership with officeholder selection, and the replacement recommendation omits a required condition. The exact officer roles also make the three interviewees potentially identifiable despite the removal of names.
+
+codex
+1. **High impact, anonymity risk. Location: §2.1, interview row, line 32.**  
+   Listing “wakil ketua, sekretaris, dan bendahara” identifies three specific officeholders in a named village organization. The interview date and venue further narrow identification. The interview note explicitly records an anonymity promise and a public vault. Removing names therefore does not adequately anonymize the respondents, particularly when their comments concern identifiable colleagues. **Correction direction:** describe respondents collectively without enumerating unique offices, and reduce unnecessary identifying interview details.
+
+2. **High impact, unresolved conflict with field evidence. Location: identity table, §1.2, and Tabel 3.1C, lines 7, 24, and 61.**  
+   The repeated claim “belum pernah menjalankan program sendiri sejak dibentuk” is stronger than the interview evidence permits. The interview note, “Kegiatan selama ini,” records a child-designed competition at Festival Harmoni, adult reductions to its scope, distributed invitations, and attendance from several dusun. The assignment itself acknowledges this program in Tabel 3.1B. This affects the central problem being assessed. **Correction direction:** distinguish absence of an independently organized program from an existing child-initiated activity whose decisions were constrained by adults. Explain how the newer evidence qualifies the earlier fishbone.
+
+3. **High impact, competency and causality claims exceed the method. Location: §1.1, §2.1, §3.3, and §3.4, lines 18, 36, 78–80, and 90.**  
+   “Belum pernah mengadakan rapat” and “belum pernah merekrut anggota” establish lack of reported practice, not inability. Using an intermediary does not establish deficient speaking confidence. Nevertheless, the synthesis concludes “belum mampu” and asserts that these deficiencies “membuat forum tidak dapat bergerak bahkan ketika orang dewasa memberi ruang.” The unsupported prediction that inactive members have larger gaps extends this inference to people not interviewed. **Correction direction:** distinguish reported knowledge gaps, untested skills, organizational barriers, and proposed learning needs. Remove the causal certainty and prediction about inactive members unless supported by additional evidence.
+
+4. **Material regulatory distinction is blurred. Location: §1.1 and §3.2, lines 18 and 69, continuing into §3.3’s recruitment row.**  
+   “Rekrutmen yang sukarela dan berseleksi” and “seleksi anggota serta pengurus berikutnya” conflate ordinary membership with selection for office. The regulation distinguishes voluntary membership under Pasal 17, transcript page 12, from selection of *pengurus* under Pasal 22, pages 13–14. This wording could turn officeholder selection procedures into an unnecessary membership barrier. **Correction direction:** separate voluntary member recruitment from selection of officeholders, including the relevant responsibilities and procedures.
+
+5. **Material omission in the replacement recommendation. Location: §3.4, non-training row and explanatory paragraph, lines 91 and 93.**  
+   The recommendation mentions inactivity and approval by at least half the officeholders, but omits Pasal 23(3): replacements must come from the same *Kelompok Anak*. Pasal 23(4) also specifies 50% of the **entire** *kepengurusan*, not merely active officers or meeting attendees. These provisions appear on transcript page 14. **Correction direction:** include the replacement-origin requirement and make the denominator explicit. The stated reasons for replacement and percentage are otherwise supported.
+
+6. **Material continuity error. Location: §1.2, target-group column, line 24.**  
+   “Dalam *actor map*, Forum Anak berada pada kelompok berpengaruh rendah dan berkepentingan tinggi” conflicts with the prior assessment’s §4.3, row 11, which assigns low power and low interest. Its following paragraph explicitly labels inactivity an imperfect proxy for interest. The new interview could justify revising that assessment, but the assignment presents the revision as an existing result. **Correction direction:** identify high interest as an updated interpretation based on the interview, and explain the change from the earlier provisional classification.
+
+7. **Material breaks in the KSA chain. Location: §3.2–§3.4, lines 69–80 and 90.**  
+   Several components do not trace consistently across the tables:
+   - The recruitment attitude “terbuka terhadap anggota baru dari semua dusun” is absent from §3.2. Its baseline, “sudah menginginkan regenerasi,” assesses a different attitude, while its proposed intervention strengthens an existing asset.
+   - Advocacy confidence appears as an ideal in §3.3, whereas §3.2 specifies initiative. Waiting for invitations does not establish low confidence.
+   - Feedback practice and the regeneration follow-up plan in §3.3 have no explicit counterpart in §3.4’s training recommendation.
+   - Ordinary members receive distinct standards in §3.2, but §3.3 applies officer-derived baselines to the combined participant group despite §2.1’s limitation.
+
+   **Correction direction:** preserve the same competencies through standard, evidence, gap, and recommendation. Separate established strengths from deficits, and mark unassessed member competencies as unknown.
+
+8. **Evidence boundary is crossed in specific factual claims. Location: Tabel 3.1A, facilities row, line 48, and §3.3, advocacy baseline, line 80.**  
+   “Ruang rapat desa tidak dapat dipakai” has no supporting statement in the supplied interview record, decisions, or prior assessment. Likewise, “kepala desa sebagai satu-satunya pendukung” strengthens evidence that respondents viewed the village head as supportive and failed to recognize Pak Eki’s usefulness. Neither establishes exclusivity. **Correction direction:** remove these stronger formulations or connect them to explicit evidence already authorized for use.
+
+9. **Participant estimate changes meaning. Location: §3.3, first target-participant cell, line 78.**  
+   The assignment describes school-attending members as “sekitar sepertiga anggota dalam SK.” The interview note instead estimates that one-third “masih dapat diajak.” Availability and school attendance are different criteria. This changes the estimated training population. **Correction direction:** retain the estimate’s original meaning and keep the number of eligible school-attending participants unspecified unless established separately.
+
+10. **Minor APA defects. Location: Tabel 3.1B, line 55, and Daftar Pustaka, lines 99–103.**  
+    The quotation “Maju Desanya Sejahtera Warganya” matches the [village vision page](https://sites.google.com/view/kantor-desa-kejapanan/profil-desa/visi-dan-misi), but its citation lacks a locator for a direct quotation from an unpaginated source. The reference list also places *Peraturan…* before *Pemerintah…*, reversing their alphabetical order. **Correction direction:** supply an appropriate section or paragraph locator and reorder the entries.
+
+11. **Low impact, editorial judgment with a certainty problem. Location: §3.4, closing sentence of the regulatory paragraph, line 93.**  
+    “Pelatihan menyiapkan pengurus untuk menggunakan ruang tersebut, sedangkan kesepakatan pembinaan memastikan ruang itu benar-benar dibuka” uses a polished parallel closure without specifying what “ruang” means operationally. “Memastikan” also makes an agreement sound sufficient to guarantee implementation. The stylistic objection is subjective, but the guarantee exceeds the evidence. **Correction direction:** name the concrete access or support intended and describe the agreement as a proposed enabling condition.
+
+
+tokens used
+66,339
+1. **High impact, anonymity risk. Location: §2.1, interview row, line 32.**  
+   Listing “wakil ketua, sekretaris, dan bendahara” identifies three specific officeholders in a named village organization. The interview date and venue further narrow identification. The interview note explicitly records an anonymity promise and a public vault. Removing names therefore does not adequately anonymize the respondents, particularly when their comments concern identifiable colleagues. **Correction direction:** describe respondents collectively without enumerating unique offices, and reduce unnecessary identifying interview details.
+
+2. **High impact, unresolved conflict with field evidence. Location: identity table, §1.2, and Tabel 3.1C, lines 7, 24, and 61.**  
+   The repeated claim “belum pernah menjalankan program sendiri sejak dibentuk” is stronger than the interview evidence permits. The interview note, “Kegiatan selama ini,” records a child-designed competition at Festival Harmoni, adult reductions to its scope, distributed invitations, and attendance from several dusun. The assignment itself acknowledges this program in Tabel 3.1B. This affects the central problem being assessed. **Correction direction:** distinguish absence of an independently organized program from an existing child-initiated activity whose decisions were constrained by adults. Explain how the newer evidence qualifies the earlier fishbone.
+
+3. **High impact, competency and causality claims exceed the method. Location: §1.1, §2.1, §3.3, and §3.4, lines 18, 36, 78–80, and 90.**  
+   “Belum pernah mengadakan rapat” and “belum pernah merekrut anggota” establish lack of reported practice, not inability. Using an intermediary does not establish deficient speaking confidence. Nevertheless, the synthesis concludes “belum mampu” and asserts that these deficiencies “membuat forum tidak dapat bergerak bahkan ketika orang dewasa memberi ruang.” The unsupported prediction that inactive members have larger gaps extends this inference to people not interviewed. **Correction direction:** distinguish reported knowledge gaps, untested skills, organizational barriers, and proposed learning needs. Remove the causal certainty and prediction about inactive members unless supported by additional evidence.
+
+4. **Material regulatory distinction is blurred. Location: §1.1 and §3.2, lines 18 and 69, continuing into §3.3’s recruitment row.**  
+   “Rekrutmen yang sukarela dan berseleksi” and “seleksi anggota serta pengurus berikutnya” conflate ordinary membership with selection for office. The regulation distinguishes voluntary membership under Pasal 17, transcript page 12, from selection of *pengurus* under Pasal 22, pages 13–14. This wording could turn officeholder selection procedures into an unnecessary membership barrier. **Correction direction:** separate voluntary member recruitment from selection of officeholders, including the relevant responsibilities and procedures.
+
+5. **Material omission in the replacement recommendation. Location: §3.4, non-training row and explanatory paragraph, lines 91 and 93.**  
+   The recommendation mentions inactivity and approval by at least half the officeholders, but omits Pasal 23(3): replacements must come from the same *Kelompok Anak*. Pasal 23(4) also specifies 50% of the **entire** *kepengurusan*, not merely active officers or meeting attendees. These provisions appear on transcript page 14. **Correction direction:** include the replacement-origin requirement and make the denominator explicit. The stated reasons for replacement and percentage are otherwise supported.
+
+6. **Material continuity error. Location: §1.2, target-group column, line 24.**  
+   “Dalam *actor map*, Forum Anak berada pada kelompok berpengaruh rendah dan berkepentingan tinggi” conflicts with the prior assessment’s §4.3, row 11, which assigns low power and low interest. Its following paragraph explicitly labels inactivity an imperfect proxy for interest. The new interview could justify revising that assessment, but the assignment presents the revision as an existing result. **Correction direction:** identify high interest as an updated interpretation based on the interview, and explain the change from the earlier provisional classification.
+
+7. **Material breaks in the KSA chain. Location: §3.2–§3.4, lines 69–80 and 90.**  
+   Several components do not trace consistently across the tables:
+   - The recruitment attitude “terbuka terhadap anggota baru dari semua dusun” is absent from §3.2. Its baseline, “sudah menginginkan regenerasi,” assesses a different attitude, while its proposed intervention strengthens an existing asset.
+   - Advocacy confidence appears as an ideal in §3.3, whereas §3.2 specifies initiative. Waiting for invitations does not establish low confidence.
+   - Feedback practice and the regeneration follow-up plan in §3.3 have no explicit counterpart in §3.4’s training recommendation.
+   - Ordinary members receive distinct standards in §3.2, but §3.3 applies officer-derived baselines to the combined participant group despite §2.1’s limitation.
+
+   **Correction direction:** preserve the same competencies through standard, evidence, gap, and recommendation. Separate established strengths from deficits, and mark unassessed member competencies as unknown.
+
+8. **Evidence boundary is crossed in specific factual claims. Location: Tabel 3.1A, facilities row, line 48, and §3.3, advocacy baseline, line 80.**  
+   “Ruang rapat desa tidak dapat dipakai” has no supporting statement in the supplied interview record, decisions, or prior assessment. Likewise, “kepala desa sebagai satu-satunya pendukung” strengthens evidence that respondents viewed the village head as supportive and failed to recognize Pak Eki’s usefulness. Neither establishes exclusivity. **Correction direction:** remove these stronger formulations or connect them to explicit evidence already authorized for use.
+
+9. **Participant estimate changes meaning. Location: §3.3, first target-participant cell, line 78.**  
+   The assignment describes school-attending members as “sekitar sepertiga anggota dalam SK.” The interview note instead estimates that one-third “masih dapat diajak.” Availability and school attendance are different criteria. This changes the estimated training population. **Correction direction:** retain the estimate’s original meaning and keep the number of eligible school-attending participants unspecified unless established separately.
+
+10. **Minor APA defects. Location: Tabel 3.1B, line 55, and Daftar Pustaka, lines 99–103.**  
+    The quotation “Maju Desanya Sejahtera Warganya” matches the [village vision page](https://sites.google.com/view/kantor-desa-kejapanan/profil-desa/visi-dan-misi), but its citation lacks a locator for a direct quotation from an unpaginated source. The reference list also places *Peraturan…* before *Pemerintah…*, reversing their alphabetical order. **Correction direction:** supply an appropriate section or paragraph locator and reorder the entries.
+
+11. **Low impact, editorial judgment with a certainty problem. Location: §3.4, closing sentence of the regulatory paragraph, line 93.**  
+    “Pelatihan menyiapkan pengurus untuk menggunakan ruang tersebut, sedangkan kesepakatan pembinaan memastikan ruang itu benar-benar dibuka” uses a polished parallel closure without specifying what “ruang” means operationally. “Memastikan” also makes an agreement sound sufficient to guarantee implementation. The stylistic objection is subjective, but the guarantee exceeds the evidence. **Correction direction:** name the concrete access or support intended and describe the agreement as a proposed enabling condition.
+
+
