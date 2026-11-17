@@ -20,8 +20,8 @@ Decided 2026-11-17: Bagian I section D (Tujuan Pembelajaran) follows Nindya's pr
 - Rewrite the afektif goals around staying on task, asking for help when stuck, and explaining the reason for an answer.
 - Nindya's lembar pengamatan sikap already has matching items (2, 4, 6, 9). Only the afektif rows of her E.1 kisi-kisi would need to change. Her instrument and rubric could stay.
 
-## Also flagged: decimals are missing from D and E
+## Decimals: resolved 2026-11-17
 
-- Decided 2026-11-17: the module covers fractions and decimals. Bu Yoana's CP includes comparing and ordering decimals (one decimal place), and Bagian II and III teach decimals and fraction-decimal conversion.
-- Nindya's D and E cover fractions only. When D is reviewed, add decimal goals (comparing and ordering decimals, relating fractions to decimals) and matching E items.
-- Check whether everything fits in 2 JP at 35 minutes, or whether the module needs more than one meeting.
+- The group agreed to teach fractions with different denominators only, matching Bu Yoana's TP. No decimals.
+- Bagian I A to D is already fractions only. D and E needed no decimal changes.
+- Still to do by the group: remove decimals from Bagian II and III (concept map, dimensi pengetahuan, task analysis, materi, the TP list in Identitas dan Acuan, asesmen awal, materi and media rows such as kartu bilangan desimal, and the prosedur narrative).
