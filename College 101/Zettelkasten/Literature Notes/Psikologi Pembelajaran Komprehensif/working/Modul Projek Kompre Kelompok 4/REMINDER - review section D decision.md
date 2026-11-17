@@ -20,6 +20,11 @@ Decided 2026-11-17: Bagian I section D (Tujuan Pembelajaran) follows Nindya's pr
 - Rewrite the afektif goals around staying on task, asking for help when stuck, and explaining the reason for an answer.
 - Nindya's lembar pengamatan sikap already has matching items (2, 4, 6, 9). Only the afektif rows of her E.1 kisi-kisi would need to change. Her instrument and rubric could stay.
 
+## D psikomotor 3 (from review 2, 2026-11-17)
+
+- "Mendemonstrasikan langkah penyelesaian operasi ..." has no tool, so it duplicates kognitif 3. Suggested: append "menggunakan alat peraga pecahan", which E already uses.
+- Resolved the same day: C was trimmed so it no longer promises story problems or explaining reasoning, which D and E do not cover. If D later gains such a goal, C can say so again.
+
 ## Decimals: resolved 2026-11-17
 
 - The group agreed to teach fractions with different denominators only, matching Bu Yoana's TP. No decimals.
