@@ -1,7 +1,7 @@
 Mata kuliah: Analisis Jabatan
 Offering: J, Kelompok 1
 Bagian: Orang 1, Pendahuluan dan *Planning* (pendahuluan, sumber data, metode penyusunan matriks, Tabel 1 tugas 1 sampai 2)
-Sumber: Laporan Analisis Jabatan Kelompok 1 Offering J-4 (Matriks Analisis Jabatan Kepala Bidang Pembinaan IMAKRIS)
+Sumber: Laporan Analisis Jabatan Kelompok 1 Offering J-5 (Matriks Analisis Jabatan Kepala Bidang Pembinaan IMAKRIS)
 
 ---
 
