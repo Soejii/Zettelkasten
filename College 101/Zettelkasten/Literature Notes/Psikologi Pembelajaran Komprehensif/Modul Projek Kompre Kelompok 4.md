@@ -4,15 +4,15 @@
 
 ### A. Identitas Modul
 
-| | |
-|---|---|
-| A.1. Nama Sekolah | SD Katolik Santa Maria I Malang |
-| A.2. Program Studi/Kelas | Kelas V-A |
-| A.3. Jenjang Pendidikan | Sekolah Berbasis Agama |
-| A.4. Mata Pelajaran | Matematika |
-| A.5. Topik/Subtopik | Bilangan / Pecahan Berbeda Penyebut |
-| A.6. Kelas/Semester | V / Semester 1 (Ganjil), Tahun Ajaran 2026/2027 |
-| A.7. Penulis Modul | Nilam Alyuba Kumala Dewi (240811610011)<br>Nindya Khansa Lestari (240811603222)<br>Nurul Nita Rahmawati (240811602136)<br>Putri Saskia Salsabila (240811603540)<br>Rafi Mahadika Sujianto (240811606606) |
+|                          |                                                                                                                                                                                                          |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A.1. Nama Sekolah        | SD Katolik Santa Maria I Malang                                                                                                                                                                          |
+| A.2. Program Studi/Kelas | Kelas V-A                                                                                                                                                                                                |
+| A.3. Jenjang Pendidikan  | Sekolah Berbasis Agama                                                                                                                                                                                   |
+| A.4. Mata Pelajaran      | Matematika                                                                                                                                                                                               |
+| A.5. Topik/Subtopik      | Bilangan / Pecahan Berbeda Penyebut                                                                                                                                                                      |
+| A.6. Kelas/Semester      | V / Semester 1 (Ganjil), Tahun Ajaran 2026/2027                                                                                                                                                          |
+| A.7. Penulis Modul       | Nilam Alyuba Kumala Dewi (240811610011)<br>Nindya Khansa Lestari (240811603222)<br>Nurul Nita Rahmawati (240811602136)<br>Putri Saskia Salsabila (240811603540)<br>Rafi Mahadika Sujianto (240811606606) |
 
 ### B. Deskripsi Singkat Modul
 
@@ -26,9 +26,9 @@ Setelah mempelajari modul ini, peserta didik diharapkan memahami makna pecahan d
 
 ### D. Tujuan Pembelajaran
 
-| Aspek | Tujuan Pembelajaran |
-|---|---|
-| Kognitif | Peserta didik mampu menjelaskan konsep pecahan dan pecahan senilai.<br>Peserta didik mampu membandingkan dan mengurutkan pecahan dengan penyebut berbeda secara tepat.<br>Peserta didik mampu menyelesaikan operasi penjumlahan dan pengurangan pecahan dengan penyebut berbeda. |
-| Afektif | Peserta didik mampu menunjukkan sikap teliti dan cermat dalam menyelesaikan permasalahan pecahan.<br>Peserta didik mampu menunjukkan sikap percaya diri dalam menyampaikan hasil pengerjaan soal.<br>Peserta didik mampu menunjukkan sikap kerja sama dan menghargai pendapat teman selama kegiatan pembelajaran. |
+| Aspek      | Tujuan Pembelajaran                                                                                                                                                                                                                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Kognitif   | Peserta didik mampu menjelaskan konsep pecahan dan pecahan senilai.<br>Peserta didik mampu membandingkan dan mengurutkan pecahan dengan penyebut berbeda secara tepat.<br>Peserta didik mampu menyelesaikan operasi penjumlahan dan pengurangan pecahan dengan penyebut berbeda.                                                                             |
+| Afektif    | Peserta didik mampu menunjukkan sikap teliti dan cermat dalam menyelesaikan permasalahan pecahan.<br>Peserta didik mampu menunjukkan sikap percaya diri dalam menyampaikan hasil pengerjaan soal.<br>Peserta didik mampu menunjukkan sikap kerja sama dan menghargai pendapat teman selama kegiatan pembelajaran.                                            |
 | Psikomotor | Peserta didik mampu menggunakan media visual atau alat peraga pecahan untuk menunjukkan perbandingan dua pecahan.<br>Peserta didik mampu menyusun representasi visual pecahan untuk mengurutkan pecahan dengan penyebut berbeda.<br>Peserta didik mampu mendemonstrasikan langkah penyelesaian operasi penjumlahan dan pengurangan pecahan berbeda penyebut. |
 
